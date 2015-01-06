@@ -1,0 +1,1980 @@
+options:
+  type: INNODB
+  collate: utf8_unicode_ci
+  charset: utf8
+
+#Session:
+#  columns:
+#    id: { type: char(32), primary: true, notnull: true, fixed: true }
+#    session_data: { type: string(8000), notnull: true }
+#    time: { type: integer(4), notnull: true }
+
+#session:
+#  columns:
+#    sess_id: { type: string(64), primary: true, notnull: true }
+#    sess_data: { type: string(8000), notnull: true }
+#    sess_time: { type: integer(4, notnull: true}
+#  indexes:
+#    sessiontime: { fields: [sess_time] }
+
+GeoipCountries:
+  columns:
+    ip_from:        { type: string(255), notnull: true  }
+    ip_to:          { type: string(255), notnull: true  }
+    integer_from:   { type: integer, notnull: true  }
+    integer_to:     { type: integer, notnull: true  }
+    country_slugs:  { type: string(255), notnull: true  }
+    country_names:  { type: string(255), notnull: true  }
+  options:
+      symfony:      { form: false, filter: false }
+
+Country:
+  columns:
+    name:           { type: string(255), notnull: true  }
+    name_en:        { type: string(255), notnull: true  }
+    slug:           { type: string(255), notnull: true  }
+    currency:       { type: string(3), notnull: true }
+
+County:
+  actAs:
+    I18n:
+      fields: [name]
+  columns:
+    name:           { type: string(255), notnull: true  }
+    municipality:   { type: string(60) }
+    region:         { type: string(60) }
+    country_id:     { type: integer, notnull: true }
+    slug:           { type: string(255), notnull: true }
+  relations:
+    Country:        { onDelete: CASCADE, local: country_id, foreign: id }
+
+City:
+  actAs:
+    I18n:
+      fields: [name]
+  columns:
+    name:           { type: string(255), notnull: true  }
+    #name_en:        { type: string(255), notnull: true  }
+    slug:           { type: string(255), notnull: true }
+    county_id:      { type: integer, notnull: true  }
+    is_default:     { type: boolean, default: false }
+    lat:            { type: string(50) }
+    lng:            { type: string(50) }
+  relations:
+    County:         { onDelete: CASCADE, local: county_id, foreign: id }
+
+SerbianCities:
+    options:
+      symfony:      { form: false, filter: false }
+    actAs:
+      Timestampable: ~
+    columns:
+      city_id: {type: integer}
+      city_change: {type: string(255)}
+    relations:
+      City:         { onDelete: CASCADE, local: city_id, foreign: id }
+
+UserProfile:
+  actAs:
+    Timestampable: ~
+  columns:
+    birthdate:      { type: date }
+    gender:         { type: string(1) }
+    phone_number:   { type: string(255), default:'' }
+    karma:          { type: integer, default: 0 }
+    hash:           { type: string(255) }
+    facebook_uid:   { type: string(20) }
+    access_token:   { type: string(20) }
+    summary:        { type: string }
+    city_id:        { type: integer }
+    image_id:       { type: integer }
+    blog_url:       { type: string(255) }
+    facebook_url:   { type: string(255) }
+    twitter_url:    { type: string(255) }
+    website:        { type: string(255) }
+    google_url:     { type: string(255) }
+    country_id:     { type: integer }
+    partner:        { type: integer(4), default: 0}
+    referer:        { type: string(255) }
+    points:         { type: integer(4), default: 0 }
+  relations:
+    City:           { onDelete: CASCADE, local: city_id, foreign: id }
+    sfGuardUser:    { onDelete: CASCADE, local: id, foreign: id, foreignType: one }
+    Image:          { onDelete: CASCADE, local: image_id, foreign: id, foreignAlias: Profile, foreignType: one }
+    Country:        { onDelete: CASCADE, local: country_id, foreign: id }
+  indexes:
+    karma:          { fields: [karma] }
+
+SerbianNames:
+    options:
+      symfony:      { form: false, filter: false }
+    actAs:
+      Timestampable: ~
+    columns:
+      name:   {type: string(255)}
+      suffix: {type: string(255)}
+      gender: {type: string(1)}
+
+ApiLogin:
+  options:
+    symfony:      { form: false, filter: false }
+  actAs:
+    Timestampable: ~
+  columns:
+    user_id:        { type: integer }
+    token:          { type: string(255) }
+    expires_at:     { type: timestamp }
+    is_active:      { type: boolean, default: true }
+    latitude:       { type: string(255) }
+    longitude:      { type: string(255) }
+  relations:
+    sfGuardUser:    { onDelete: CASCADE, local: user_id, foreign: id }
+  indexes:
+    user_token:     { fields: [token] }
+
+UserSetting:
+  columns:
+    show_profile:        { type: boolean, default: true }
+    search_name:         { type: boolean, default: true }
+    search_nickname:     { type: boolean, default: true }
+    search_email:        { type: boolean, default: true }
+    show_age:            { type: boolean, default: true }
+    show_gender:         { type: boolean, default: true }
+    show_online:         { type: boolean, default: true }
+    public_comments:     { type: boolean, default: true }
+    auto_comments:       { type: boolean, default: true }
+    allow_contact:       { type: boolean, default: true }
+    allow_localization:  { type: boolean, default: true }
+    allow_newsletter:    { type: boolean, default: true }
+    allow_b_cmc:         { type: boolean, default: false }
+    allow_promo:         { type: boolean, default: false }
+    underage:            { type: boolean, default: false }
+  relations:
+    UserProfile:         { onDelete: CASCADE, local: id, foreign: id, foreignType: one }
+
+Classification:
+  actAs:
+    Timestampable: ~
+    I18n:
+      fields:
+        - title
+        - slug
+        - short_title
+        - is_active
+        - number_of_places
+        - keywords
+        - description
+        - old_slug
+        - page_title
+        - meta_description
+  columns:
+    external_id:      { type: string(36), notnull: true }
+    category_id:      { type: integer }
+    sector_id:        { type: integer }
+    status:           { type: enum, values: [ pending, approved, rejected], default: approved }
+    crm_id:           { type: integer(4) }
+    title:            { type: string(255), notnull: true }
+    slug:             { type: string(255), notnull: true }
+    short_title:      { type: string(255), notnull: true }
+    is_active:        { type: boolean, default: true }
+    number_of_places: { type: integer(4), default: 0 }
+    keywords:         { type: string }
+    description:      { type: string }
+    old_slug:         { type: string(255), notnull: true }
+    page_title:       { type: varchar(255) }
+    meta_description: clob
+  relations:
+    Category:         { onDelete: CASCADE, local: category_id, foreign: id }
+    PrimarySector:    { onDelete: CASCADE, local: sector_id, foreign: id, class: Sector }
+
+ClassificationSlugLog:
+  options:
+    symfony:            { form: false, filter: false }
+  columns:
+    classification_id:  { type: integer }
+    lang:               { type: char(2)}
+    old_slug:           { type: varchar(255) }
+  relations:
+    Classification:     { onDelete: CASCADE, local: classification_id, foreign: id }
+
+CompanyClassification:
+  options:
+    symfony:   { filter: false }
+  columns:
+    classification_id:    { type: integer }
+    company_id:           { type: integer }
+  relations:
+    Classification:       { onDelete: CASCADE, local: classification_id, foreign: id }
+    Company:              { onDelete: CASCADE, local: company_id, foreign: id }
+
+Category:
+  actAs:
+    Timestampable: ~
+    I18n:
+      fields: [ title, slug, is_active ]
+    NestedSet:
+      hasManyRoots: true
+      rootColumnName: root_id
+  columns:
+    title:           { type: string(255), notnull: true }
+    is_active:       { type: boolean, default: true}
+    slug:            { type: varchar(255)}
+    status:          { type: enum, values: [approved, pending, rejected], default: approved }
+    model_name:      { type: string(60), notnull: true }
+  relations:
+    Classification:
+      onDelete: CASCADE,
+      class: Classification
+      local: category_id
+      foreign: classification_id
+      refClass: CategoryClassification
+
+
+CategoryClassification:
+#  options:
+#    symfony:          { form: false, filter: false }
+  columns:
+    category_id:          { type: integer, primary: true }
+    classification_id:      { type: integer, primary: true }
+  relations:
+    Category:
+      foreignAlias: CategoryClassification
+      onDelete: CASCADE
+    Classification:
+      foreignAlias: CategoryClassification
+      onDelete: CASCADE
+
+
+Sector:
+  actAs:
+    Timestampable: ~
+    I18n:
+      fields: [title, slug, description, page_title, meta_description, rank]
+  columns:
+    is_active:       { type: boolean, default: true}
+    rank:            { type: integer(4) }
+    title:           { type: string(255), notnull: true }
+    slug:            { type: string(255) }
+    description:     clob
+    page_title:      { type: string(255) }
+    meta_description: clob
+
+SectorSlugLog:
+  options:
+    symfony:          { form: false, filter: false }
+  columns:
+    sector_id:       { type: integer }
+    lang:             { type: char(2)}
+    old_slug:       { type: varchar(255) }
+  relations:
+    Sector:          { onDelete: CASCADE, local: sector_id, foreign: id }
+
+ClassificationSector:
+  columns:
+    classification_id:    { type: integer }
+    sector_id:            { type: integer }
+  relations:
+    Classification:       { onDelete: CASCADE, local: classification_id, foreign: id }
+    Sector:               { onDelete: CASCADE, local: sector_id, foreign: id }
+
+CategorySector:
+  options:
+    symfony:        { form: false, filter: false }
+  columns:
+    category_id:    { type: integer }
+    sector_id:      { type: integer }
+  relations:
+    Category:       { onDelete: CASCADE, local: category_id, foreign: id }
+    Sector:         { onDelete: CASCADE, local: sector_id, foreign: id }
+
+Page:
+  actAs:
+    Timestampable: ~
+  columns:
+    is_public:        { type: boolean, default: true }
+    url_alias:        { type: string(255) }
+    foreign_id:       { type: integer }
+    country_id:       { type: integer }
+  relations:
+    Country:          { onDelete: CASCADE, local: country_id, foreign: id }
+  indexes:
+    alias:            { fields: [url_alias] }
+
+
+UserPage:
+  options:
+    symfony:   { form: false, filter: false }
+  inheritance:
+    extends: Page
+    type: column_aggregation
+    keyField: type
+    keyValue: 1
+  relations:
+    UserProfile:   { local: foreign_id, foreign: id, foreignType: one }
+
+CompanyPage:
+  options:
+    symfony:   { form: false, filter: false }
+  inheritance:
+    extends: Page
+    type: column_aggregation
+    keyField: type
+    keyValue: 2
+  relations:
+    Company:       { local: foreign_id, foreign: id, foreignType: one }
+
+PageAdmin:
+  actAs:
+    Timestampable: ~
+  columns:
+    user_id:      { type: integer }
+    page_id:      { type: integer }
+    status:       { type: enum, values: [approved, pending, rejected], default: pending }
+    position:     { type: integer(1) }
+    is_primary:   { type: boolean, default: true }
+    username:     { type: string(128), notnull: true, unique: true}
+    algorithm:    { type: string(128),  default: sha1,  notnull: true}
+    salt:         { type: string(128)}
+    password:     { type:  string(128)}
+    last_login:   { type: timestamp }
+  relations:
+    UserProfile:  {  onDelete: CASCADE, local: user_id, foreign: id }
+    CompanyPage:  {  onDelete: CASCADE, local: page_id, foreign: id }
+
+#Company tables
+Company:
+  actAs:
+    Timestampable: ~
+    I18n:
+      fields: [title, description, content]
+    Sluggable:
+      unique: true
+      fields: [title]
+      canUpdate: false
+  columns:
+    external_id:          { type: string(36), notnull: true }
+    title:                { type: string(255), notnull: true }
+#    title_en:             { type: string(255) }
+    description:          { type: string }
+    content:              { type: string }
+#    description_en:       { type: string }
+    email:                { type: string(128) }
+    phone:                { type: string(255) }
+    phone1:               { type: string(255) }
+    phone2:               { type: string(255) }
+    website_url:          { type: string(255) }
+    googleplus_url:       { type: string(255) }
+    foursquare_url:       { type: string(255) }
+    twitter_url:          { type: string(255) }
+    facebook_url:         { type: string(255) }
+    facebook_id:          { type: string(50)}
+    city_id:              { type: integer, notnull: true }
+    location_id:          { type: integer }
+    image_id:             { type: integer }
+    sector_id:            { type: integer }
+    classification_id:    { type: integer }
+    review_id:            { type: integer }
+    company_type:         { type: integer(4), default: 0 }
+    company_number:       { type: integer(4), default: 0 }
+    parent_external_id:   { type: string(36) }
+    is_validated:         {  type: enum, values: [ not_validated, validation_started, awaiting_approval, validated ], default: not_validated }
+    status:               {  type: enum, values: [ approved, rejected, pending, invisible ], default: pending }
+    number_of_reviews:    { type: integer(4), default: 0 }
+    average_rating:       { type: float, default: 0 }
+    is_address_modified:  { type: boolean, default: false }
+    registration_no:      { type: string(14) }
+    updated_crm:          { type: timestamp }
+    date_mod_crm:         { type: timestamp }
+    created_by:           { type: integer }
+    score:                { type: decimal(5), scale: 2, default: 1 }
+    country_id:           { type: integer }
+    last_modified_by:     { type: integer , notnull: false}
+    date_last_modified_by:     { type: timestamp}
+    referer:              { type: string(255) }
+    old_slug:             { type: string(255) }
+    cover_image_id:             { type: integer }
+    logo_image_id:             { type: integer }
+
+  relations:
+    CoverImage:          { onDelete: SET NULL, local: cover_image_id, foreign: id, foreignType: one }
+    City:                 { onDelete: CASCADE, local: city_id, foreign: id }
+    Sector:               { onDelete: CASCADE, local: sector_id, foreign: id }
+    Classification:       { onDelete: CASCADE, local: classification_id, foreign: id }
+    Location:             { onDelete: CASCADE, local: location_id, foreign: id, class: CompanyLocation }
+    CreatedByUser:        { onDelete: SET NULL, local: created_by, foreign: id, class: UserProfile  }
+    Image:                { onDelete: SET NULL, local: image_id, foreign: id, foreignType: one }
+    Country:              { onDelete: CASCADE, local: country_id, foreign: id }
+    TopReview:            { onDelete: SET NULL, local: review_id, foreign: id, class: Review }
+    UserProfile:          { onDelete: SET NULL, local: last_modified_by, foreign: id }
+    LogoImage:            { onDelete: SET NULL, local: logo_image_id, foreign: id, foreignType: one, class: Image }
+
+  indexes:
+    old_id:               { fields: [external_id] }
+    rating:               { fields: [average_rating, number_of_reviews] }
+    reviews:              { fields: [number_of_reviews] }
+
+Menu:
+  columns:
+    company_id:       { type: integer }
+    filename:         { type: string(255) }
+    name:             { type: enum, values: [Menu, Prices, Catalogue, Products, Services]}
+  relations:
+    Company:          { onDelete: CASCADE, local: company_id, foreign: id }
+
+CoverImage:
+  columns:
+    company_id:       { type: integer }
+    user_id:          { type: integer }
+    filename:         { type: string(255) }
+    caption:          { type: string(255) }
+    status:           { type: enum, values: [ approved, rejected, pending, mobile_upload ], default: approved }
+  relations:
+    Company:          { onDelete: CASCADE, local: company_id, foreign: id }
+    UserProfile:       { onDelete: SET NULL, local: user_id, foreign: id }
+
+CompanyLocation:
+  actAs:
+    Geographical: ~
+    Timestampable: ~
+  columns:
+    company_id:        { type: integer, notnull: false }
+    accuracy:          { type: integer(1) }
+    is_active:         { type: boolean }
+    user_id:           { type: integer, notnull: false }
+    location_type:     { type: integer(1), default: 0 }
+    street_type_id:    { type: integer }
+    street_number:     { type: string(255) }
+    street:            { type: string(255) }
+    neighbourhood:     { type: string(255) }
+    building_no:       { type: string(255) }
+    entrance:          { type: string(255) }
+    floor:             { type: string(255) }
+    appartment:        { type: string(255) }
+    postcode:          { type: string(255) }
+    full_address:      { type: string(255) }
+    full_address_en:   { type: string(255) }
+    address_info:      { type: string(255) }
+    address_info_en:   { type: string(255) }
+    zoom:              { type: integer }
+    sublocation:       { type: string(255) }
+  relations:
+    Company:           { onDelete: CASCADE, local: company_id, foreign: id }
+    UserProfile:       { onDelete: SET NULL, local: user_id, foreign: id }
+
+CompanyDetail:
+  actAs:
+    Timestampable: ~
+  columns:
+    company_id:       { type: integer, notnull: true }
+    mon_from:         { type: integer(2) }
+    mon_to:           { type: integer(2) }
+    tue_from:         { type: integer(2) }
+    tue_to:           { type: integer(2) }
+    wed_from:         { type: integer(2) }
+    wed_to:           { type: integer(2) }
+    thu_from:         { type: integer(2) }
+    thu_to:           { type: integer(2) }
+    fri_from:         { type: integer(2) }
+    fri_to:           { type: integer(2) }
+    sat_from:         { type: integer(2) }
+    sat_to:           { type: integer(2) }
+    sun_from:         { type: integer(2) }
+    sun_to:           { type: integer(2) }
+   # content:          { type: string }
+    #content_en:       { type: string }
+    confirmed:        { type: boolean, default: false }
+    last_modified_by:     { type: integer, notnull: false }
+    outdoor_seats:        { type: integer }
+    indoor_seats:         { type: integer }
+    wifi_access:          { type: boolean }
+  relations:
+    Company:          { onDelete: CASCADE, local: company_id, foreign: id, foreignType: one  }
+    UserProfile:      { onDelete: SET NULL, local: last_modified_by, foreign: id }
+
+CompanyDetailSr:
+  columns:
+    company_id:       { type: integer, notnull: true }
+    internal_id:       { type: integer, notnull: true }
+    full_company_name:                { type: string(255) }
+    sr_url:       { type: string(255) }
+  relations:
+    Company:          { onDelete: CASCADE, local: company_id, foreign: id, foreignType: one  }
+
+#Media tables
+Image:
+  actAs:
+    Timestampable: ~
+    DoctrineClusterStorage:
+      filename:
+        is_image: true
+        sizes:    { 0:150x150, 1:45x45, 2:260x195, 3:560x420, preview:800x0 }
+        prefix:   photo_gallery
+        sizefield_name: false
+  columns:
+    user_id:          { type: integer }
+    caption:          { type: string(255) }
+    status:           { type: enum, values: [ approved, rejected, pending, mobile_upload ], default: approved }
+    priority:         { type: integer, default: 0 }
+    country_id:       { type: integer }
+  relations:
+    UserProfile:      { onDelete: CASCADE, local: user_id, foreign: id }
+
+Video:
+  inheritance:
+    extends: Image
+    type: column_aggregation
+    keyField: type
+    keyValue: video
+  actAs:
+    Timestampable: ~
+  columns:
+    link:             { type: string(255) }
+    description:      { type: string(255)}
+
+CompanyImage:
+  options:
+    symfony:   { form: false, filter: false }
+  columns:
+    company_id:        { type: integer }
+    image_id:          { type: integer }
+  relations:
+    Company:           { onDelete: CASCADE, local: company_id, foreign: id }
+    Image:             { onDelete: CASCADE, local: image_id, foreign: id, foreignType: one }
+
+Report:
+  actAs:
+    Timestampable: ~
+  columns:
+    user_id:          { type: integer, notnull: false }
+    email:            { type: string(255) }
+    name:             { type: string(255) }
+    body:             { type: string(1000) }
+    offence:          { type: string(255) }
+    status:           { type: enum, values: [approved, pending, rejected], default: pending }
+    object_id:        { type: integer }
+  relations:
+    UserProfile:    { onDelete: SET NULL, local: user_id, foreign: id }
+
+ReportImage:
+  inheritance:
+    extends: Report
+    type: column_aggregation
+    keyField: type
+    keyValue: image
+  relations:
+    Image:      { local: object_id, foreign: id }
+
+ReportReview:
+  inheritance:
+    extends: Report
+    type: column_aggregation
+    keyField: type
+    keyValue: review
+  relations:
+    Review:    { local: object_id, foreign: id }
+
+ReportCompany:
+  inheritance:
+    extends: Report
+    type: column_aggregation
+    keyField: type
+    keyValue: company
+  relations:
+    Company:    { local: object_id, foreign: id }
+
+#activity list for the follow system
+#ToDo:
+Comment:
+  actAs:
+    Timestampable: ~
+  columns:
+    body:           { type: string(1000) }
+    status:         {  type: enum, values: [ approved, rejected ], default: approved }
+    user_id:        { type: integer }
+    activity_id:    { type: integer }
+    rank:           { type: integer(4) }
+    parent_id:      { type: integer }
+  relations:
+    UserProfile:    { onDelete: CASCADE, local: user_id, foreign: id }
+    Activity:       { onDelete: CASCADE, local: activity_id, foreign: id }
+    Parent:         { onDelete: CASCADE, local: parent_id, foreign: id, class: Comment }
+
+
+Review:
+  actAs:
+    Timestampable: ~
+  columns:
+    user_id:        { type: integer }
+    company_id:     { type: integer }
+    text:           { type: string(5000), notnull: true }
+    recommend:      { type: integer(1), notnull: true }
+    rating:         { type: integer(1), notnull: true }
+    badwords:       { type: boolean }
+    is_published:   { type: boolean, default: true }
+    slug:           { type: string(255), notnull: true }
+    ip:             { type: string(50) }
+    promo_source:   { type: integer(4), default: 0}
+    parent_id:      { type: integer}
+    recommended_at: { type: timestamp, notnull: false }
+    referer:        { type: string(255) }
+  relations:
+    UserProfile:    { onDelete: NO ACTION, local: user_id, foreign: id }
+    Company:        { onDelete: CASCADE, local: company_id, foreign: id }
+    Answer:         { onDelete: CASCADE, local: parent_id, foreign: id, foreignType: one, class: Review }
+  indexes:
+    recommended:    { fields: [recommended_at] }
+
+Like:
+  tableName: likes
+  actAs:
+    Timestampable: ~
+  columns:
+    user_id:         { type: integer }
+    activity_id:     { type: integer }
+    ip:              { type: string(25) }
+  relations:
+    UserProfile:     { onDelete: CASCADE, local: user_id, foreign: id }
+    Activity:        { onDelete: CASCADE, local: activity_id, foreign: id }
+
+Activity:
+  options:
+    symfony:   { form: false, filter: false }
+  actAs:
+    Timestampable: ~
+  columns:
+    user_id:         { type: integer }
+    action_id:       { type: integer }
+    text:            { type: string(255) }
+    caption:         { type: string(255) }
+    media_id:        { type: integer }
+    status:          { type: enum, values: [approved, pending, rejected], default: approved }
+    comment_count:   { type: integer(4), default: 0 }
+    votes_count:     { type: integer(4), default: 0 }
+    anonymous_votes_count:     { type: integer(4), default: 0 }
+    page_id:        { type: integer }
+  relations:
+    UserProfile:     { onDelete: CASCADE, local: user_id, foreign: id }
+    Image:           { onDelete: CASCADE, local: media_id, foreign: id, foreignType: one }
+    Page:            { onDelete: CASCADE, local: page_id, foreign: id, foreignType: one }
+
+ActivityReview:
+  options:
+    symfony:   { form: false, filter: false }
+  inheritance:
+    extends: Activity
+    type: column_aggregation
+    keyField: type
+    keyValue: 1
+  columns:
+    activity_id:    { type: integer }
+  relations:
+    Review:         { local: action_id, foreign: id, foreignType: one }
+    Activity:       { onDelete: CASCADE, local: activity_id, foreign: id }
+
+
+ActivityImage:
+  options:
+    symfony:   { form: false, filter: false }
+  inheritance:
+    extends: Activity
+    type: column_aggregation
+    keyField: type
+    keyValue: 2
+
+
+ActivityEvent:
+  options:
+    symfony:   { form: false, filter: false }
+  inheritance:
+    extends: Activity
+    type: column_aggregation
+    keyField: type
+    keyValue: 3
+  relations:
+    Event:         { local: action_id, foreign: id, foreignType: one }
+
+ActivityList:
+  options:
+    symfony:   { form: false, filter: false }
+  inheritance:
+    extends: Activity
+    type: column_aggregation
+    keyField: type
+    keyValue: 4
+  relations:
+    Lists:         { local: action_id, foreign: id, foreignType: one }
+
+ActivityComment:
+  options:
+    symfony:   { form: false, filter: false }
+  inheritance:
+    extends: Activity
+    type: column_aggregation
+    keyField: type
+    keyValue: 5
+  columns:
+    activity_id:    { type: integer }
+  relations:
+    Comment:        { local: action_id, foreign: id, foreignType: one }
+    Activity:       { onDelete: CASCADE, local: activity_id, foreign: id }
+
+ActivityFollowPage:
+  options:
+    symfony:   { form: false, filter: false }
+  inheritance:
+    extends: Activity
+    type: column_aggregation
+    keyField: type
+    keyValue: 6
+  relations:
+    FollowPage:     { local: action_id, foreign: id, foreignType: one }
+
+ActivityPage:
+  options:
+    symfony:   { form: false, filter: false }
+  inheritance:
+    extends: Activity
+    type: column_aggregation
+    keyField: type
+    keyValue: 7
+  columns:
+    activity_id:    { type: integer }
+  relations:
+    Page:         { local: action_id, foreign: id, foreignType: one }
+    Activity:       { onDelete: CASCADE, local: activity_id, foreign: id }
+
+ActivityCompanyOffer:
+  options:
+    symfony:   { form: false, filter: false }
+  inheritance:
+    extends: Activity
+    type: column_aggregation
+    keyField: type
+    keyValue: 8
+  relations:
+    CompanyOffer:         { local: action_id, foreign: id, foreignType: one }
+
+ActivityListPage:
+  options:
+    symfony:   { form: false, filter: false }
+  inheritance:
+    extends: Activity
+    type: column_aggregation
+    keyField: type
+    keyValue: 9
+  columns:
+    modified_field:     { type: string(255)}
+  relations:
+    ListPage:         { local: action_id, foreign: id, foreignType: one }
+
+ActivityArticle:
+  options:
+    symfony:   { form: false, filter: false }
+  inheritance:
+    extends: Activity
+    type: column_aggregation
+    keyField: type
+    keyValue: 10
+  relations:
+    Article:         { local: action_id, foreign: id, foreignType: one }
+
+#Events
+Event:
+  actAs:
+    Timestampable: ~
+    I18n:
+      fields: [title, description]
+  columns:
+    title:             { type: string(255), notnull: true }
+    description:       { type: string(6000), notnull: true }
+    start_at:          { type: timestamp }
+    end_at:            { type: timestamp }
+    start_h:           { type: time }
+    end_h:             { type: time }
+    category_id:       { type: integer }
+    image_id:          { type: integer }
+    facebook_id:       { type: string(50)}
+    info_url:          { type: string(255)}
+    buy_url:           { type: string(255)}
+    price:             { type: integer(1), default: 0 }
+    location_id:       { type: integer }
+    country_id:        { type: integer }
+    user_id:           { type: integer }
+    is_active:         { type: boolean, default: true}
+    recommend:         { type: integer(1), notnull: true }
+    recommended_at:    { type: timestamp, notnull: false }
+  relations:
+    Category:          { onDelete: CASCADE, local: category_id, foreign: id }
+    Country:           { onDelete: CASCADE, local: country_id, foreign: id }
+    UserProfile:       { onDelete: CASCADE, local: user_id, foreign: id }
+    City:              { onDelete: CASCADE, local: location_id, foreign: id }
+    Image:             { onDelete: SET NULL, local: image_id, foreign: id }
+  indexes:
+    recommended:    { fields: [recommended_at] }
+
+#Events
+EventInvite:
+  options:
+    symfony:   { form: false, filter: false }
+  columns:
+    event_id:   { type: integer }
+    user_id:    { type: integer }
+    user_from:  { type: integer }
+    replied:    { type: boolean, default: false }
+  relations:
+    Event:         { onDelete: CASCADE, local: event_id, foreign: id }
+    UserProfile:   { onDelete: CASCADE, local: user_id, foreign: id }
+
+EventUser:
+  options:
+    symfony:   { form: false, filter: false }
+  columns:
+    event_id:   { type: integer }
+    user_id:    { type: integer }
+    confirm:    { type: integer, notnull: true, default: 0 }
+  relations:
+    Event:         { onDelete: CASCADE, local: event_id, foreign: id }
+    UserProfile:   { onDelete: CASCADE, local: user_id, foreign: id }
+
+#EventLocation:
+#  inheritance:
+#    extends: Event
+#    type: column_aggregation
+#    keyField: type
+#    keyValue: 1
+#  relations:
+#    City:          { onDelete: CASCADE, local: location_id, foreign: id }
+
+#EventCompany:
+#  inheritance:
+#    extends: Event
+#    type: column_aggregation
+#    keyField: type
+#    keyValue: 2
+#  relations:
+#    Company:       { onDelete: CASCADE, local: location_id, foreign: id }
+
+EventPage:
+  options:
+    symfony:   { form: false, filter: false }
+  columns:
+    event_id:     { type: integer }
+    page_id:      { type: integer }
+  relations:
+    Event:        { onDelete: CASCADE, local: event_id, foreign: id }
+    CompanyPage:  { onDelete: CASCADE, local: page_id, foreign: id }
+
+EventImage:
+  options:
+    symfony:   { form: false, filter: false }
+  columns:
+    event_id:      { type: integer }
+    image_id:      { type: integer }
+  relations:
+    Event:         { onDelete: CASCADE, local: event_id, foreign: id }
+    Image:         { onDelete: CASCADE, local: image_id, foreign: id }
+
+Feature:
+  actAs:
+    Timestampable: ~
+    I18n:
+      fields: [name, is_active]
+  columns:
+    name:         { type: string(60), notnull: true }
+    is_active:    { type: boolean, default: true}
+    status:       { type: enum, values: [ approved, rejected], default: approved }
+
+SectorFeature:
+  options:
+    symfony:   { form: false, filter: false }
+  columns:
+    feature_id:        { type: integer }
+    sector_id:         { type: integer }
+  relations:
+    Feature:           { onDelete: CASCADE, local: feature_id, foreign: id }
+    Sector:            { onDelete: CASCADE, local: sector_id, foreign: id }
+
+PlaceFeature:
+  options:
+    symfony:   { form: false, filter: false }
+  columns:
+    page_id:            { type: integer }
+    voted_yes:          { type: integer }
+    voted_no:           { type: integer }
+    feature_id:         { type: integer }
+  relations:
+    Page:               { onDelete: CASCADE, local: page_id, foreign: id }
+    Feature:            { onDelete: CASCADE, local: feature_id, foreign: id }
+
+PlaceFeatureVote:
+  options:
+    symfony:   { form: false, filter: false }
+  actAs:
+    Timestampable: ~
+  columns:
+    user_id:            { type: integer }
+    place_feature_id:   { type: integer }
+    vote:               { type: integer(1) }
+  relations:
+    UserProfile:        { onDelete: CASCADE, local: user_id, foreign: id }
+    PlaceFeature:       { onDelete: CASCADE, local: place_feature_id, foreign: id }
+
+
+Follow:
+  options:
+    symfony:   { form: false, filter: false }
+  actAs:
+    Timestampable: ~
+  columns:
+    user_id:        { type: integer }
+    page_id:        { type: integer }
+    status:         { type: enum, values: [ one-way, two-way ], default: one-way }
+    from_value:     { type: enum, values: [ site, import ], default: site, name: from_value as from  }
+  relations:
+    UserProfile:    { onDelete: CASCADE, local: user_id, foreign: id }
+    Page:           { onDelete: CASCADE, local: page_id, foreign: id }
+
+#Offers & Vouchers - paid product
+
+CompanyOffer:
+  actAs:
+    Timestampable: ~
+    I18n:
+      fields: [title, content]
+  columns:
+    company_id:          { type: integer }
+    is_active:           { type: boolean, default: false }
+    is_draft:            { type: boolean, default: false }
+    title:               { type: string(255) }
+    content:             { type: string }
+    active_from:         { type: timestamp }
+    active_to:           { type: timestamp }
+    valid_from:          { type: timestamp }
+    valid_to:            { type: timestamp }
+    max_vouchers:        { type: integer }
+    max_per_user:        { type: integer }
+    show_to_all:    	 { type: boolean, default: false }
+    image_id:     		 { type: integer }
+    code:                { type: string(36), notnull: true }
+    count_voucher_codes: { type: integer, default:0 }
+    country_id:          { type: integer }
+    created_by:          { type: integer }
+    updated_by:          { type: integer }
+    ad_service_company_id:          { type: integer }
+    benefit_choice:      { type: integer }
+    new_price:           { type: float }
+    old_price:           { type: float }
+    discount_pct:         { type: integer }
+    benefit_text:         { type: string(255) }
+  relations:
+    Company:             { onDelete: CASCADE, local: company_id, foreign: id }
+    Country:             { onDelete: CASCADE, local: country_id, foreign: id }
+    Image:               { onDelete: SET NULL, local: image_id, foreign: id }
+    UserProfile:         { onDelete: NO ACTION, local: created_by, foreign: id }
+    UpdatedByUser:       { onDelete: NO ACTION, local: updated_by, foreign: id, class: UserProfile }
+    AdServiceCompany:    { onDelete: NO ACTION , local: ad_service_company_id, foreign: id, foreignType: one  }
+
+Voucher:
+  actAs:
+    Timestampable: ~
+  columns:
+    user_id:            { type: integer }
+    company_offer_id:   { type: integer }
+    code:               { type: string(128) }
+    status:             { type: enum, values: [ pending, used, invalid, expired ], default: pending }
+  relations:
+    CompanyOffer:       { onDelete: NO ACTION, local: company_offer_id, foreign: id }
+    UserProfile:        { onDelete: NO ACTION, local: user_id, foreign: id }
+
+#Newsletter
+
+Newsletter:
+  actAs:
+    Timestampable: ~
+    I18n:
+      fields: [name, description]
+  columns:
+    name:           { type: string(255) }
+    description:    { type: string(255) }
+    is_active:      { type: boolean, default: false}
+    mailchimp_group:   { type: string(255) }
+    country_id:     { type: integer }
+    #user_group:     { type: enum, values: [ user, business, promo ] }
+    user_group:     { type: string(255) }
+  relations:
+    Country:        { onDelete: CASCADE, local: country_id, foreign: id }
+
+NewsletterUser:
+  columns:
+    user_id:       { type: integer }
+    newsletter_id: { type: integer }
+    is_active:      { type: boolean, default: true}
+  relations:
+    Newsletter:    { onDelete: CASCADE, local: newsletter_id, foreign: id }
+    UserProfile:   { onDelete: CASCADE, local: user_id, foreign: id }
+
+#Articles - users with editor perm
+
+Article:
+  actAs:
+    Timestampable: ~
+    I18n:
+      fields: [title, content, quotation, keywords, description]
+      actAs:
+        Sluggable: { fields: [title], uniqueBy: [lang], canUpdate: false }
+#    Sluggable:
+#      unique: true
+#      fields: [title]
+#      canUpdate: true
+  columns:
+    title:            { type: string(255) }
+    content:          { type: string(5000) }
+    quotation:          { type: string(5000) }
+    keywords:         { type: string(255) }
+    description:      { type: string(5000) }
+    status:           { type: enum, values: [approved, pending, edited, rejected, publish_on], default: pending }
+    publish_on:       { type: timestamp }
+    user_id:          { type: integer }
+    country_id:       { type: integer }
+    location_id:      { type: integer }
+  relations:
+    UserProfile:      { onDelete: CASCADE, local: user_id, foreign: id }
+    Country:          { onDelete: CASCADE, local: country_id, foreign: id }
+    City:             { onDelete: CASCADE, local: location_id, foreign: id }
+
+ArticleSlugLog:
+  options:
+    symfony:          { form: false, filter: false }
+  columns:
+    article_id:       { type: integer }
+    lang:             { type: char(2)}
+    old_slug:       { type: varchar(255) }
+  relations:
+    Article:          { onDelete: CASCADE, local: article_id, foreign: id }
+
+
+ArticleImage:
+#  options:
+#    symfony:          { form: false, filter: false }
+  columns:
+    article_id:       { type: integer }
+    user_id:          { type: integer }
+    filename:         { type: string(255) }
+    descrption:       { type: string(255) }
+    source:           { type: string(255) }
+    code:             { type: string(255) }
+    rank:      	      { type: integer(4), default: 1 }
+  relations:
+    Article:          { onDelete: CASCADE, local: article_id, foreign: id }
+    UserProfile:      { onDelete: CASCADE, local: user_id, foreign: id }
+
+ArticlePage:
+  options:
+    symfony:          { form: false, filter: false }
+  columns:
+    article_id:       { type: integer }
+    page_id:          { type: integer }
+  relations:
+    Article:          { onDelete: CASCADE, local: article_id, foreign: id }
+    CompanyPage:      { onDelete: CASCADE, local: page_id, foreign: id }
+
+ArticleEvent:
+  options:
+    symfony:          { form: false, filter: false }
+  columns:
+    event_id:         { type: integer }
+    article_id:       { type: integer }
+  relations:
+    Event:            { onDelete: CASCADE, local: event_id, foreign: id }
+    Article:          { onDelete: CASCADE, local: article_id, foreign: id }
+
+ArticleList:
+  options:
+    symfony:          { form: false, filter: false }
+  columns:
+    list_id:          { type: integer }
+    article_id:       { type: integer }
+  relations:
+    Lists:            { onDelete: CASCADE, local: list_id, foreign: id }
+    Article:          { onDelete: CASCADE, local: article_id, foreign: id }
+
+CategoryArticle:
+  actAs:
+    Timestampable: ~
+    I18n:
+      fields: [ title, slug, is_active ]
+      actAs:
+        Sluggable: { fields: [title], uniqueBy: [lang], canUpdate: false }
+#    NestedSet:
+#      hasManyRoots: false
+#      rootColumnName: root_id
+  columns:
+    title:           { type: string(255), notnull: true }
+    is_active:       { type: boolean, default: true}
+    slug:            { type: varchar(255)}
+    status:          { type: enum, values: [approved, pending, rejected], default: approved }
+  relations:
+    Country:
+      onDelete: CASCADE,
+      class: Country
+      local: category_id
+      foreign: country_id
+      refClass: CategoryArticleCountry
+    Classification:
+      onDelete: CASCADE,
+      class: Classification
+      local: category_id
+      foreign: classification_id
+      refClass: CategoryArticleClassification
+
+CategoryArticleCountry:
+#  options:
+#    symfony:          { form: false, filter: false }
+  columns:
+    category_id:          { type: integer, primary: true }
+    country_id:      { type: integer, primary: true }
+#  relations:
+#    CategoryArticle: { onDelete: CASCADE, local: category_id, foreign: id }
+#    Country:         { onDelete: CASCADE, local: country_id, foreign: id }
+
+ArticleCategory:
+  options:
+    symfony:          { form: false, filter: false }
+  columns:
+    category_id:          { type: integer }
+    article_id:       { type: integer }
+  relations:
+    CategoryArticle: { onDelete: CASCADE, local: category_id, foreign: id }
+    Article:          { onDelete: CASCADE, local: article_id, foreign: id }
+
+CategoryArticleClassification:
+#  options:
+#    symfony:          { form: false, filter: false }
+  columns:
+    category_id:          { type: integer, primary: true }
+    classification_id:      { type: integer, primary: true }
+#  relations:
+#    CategoryArticle: { onDelete: CASCADE, local: category_id, foreign: id }
+#    Classification:         { onDelete: CASCADE, local: classification_id, foreign: id }
+
+
+#Lists - User's
+Lists:
+  actAs:
+    I18n:
+      fields: [title, description]
+    Timestampable: ~
+  columns:
+    user_id:         { type: integer }
+    list_type:       { type: enum, values: [opened, closed] }
+    title:           { type: string(255) }
+    description:     { type: string(1000), notnull: true }
+    is_active:       { type: boolean, default: true}
+    is_open:         { type: boolean, default: true}
+    status:          { type: enum, values: [approved, pending, rejected], default: approved }
+    country_id:      { type: integer }
+    image_id:        { type: integer }
+  relations:
+    UserProfile:     { onDelete: CASCADE, local: user_id, foreign: id }
+    Country:         { onDelete: CASCADE, local: country_id, foreign: id }
+    Image:           { onDelete: SET NULL, local: image_id, foreign: id }
+
+ListImage:
+  options:
+    symfony:   { form: false, filter: false }
+  columns:
+    list_id:       { type: integer }
+    image_id:      { type: integer }
+  relations:
+    Lists:         { onDelete: CASCADE, local: list_id, foreign: id }
+    Image:         { onDelete: CASCADE, local: image_id, foreign: id }
+
+
+ListPage:
+  options:
+    symfony:   { form: false, filter: false }
+  columns:
+    list_id:       { type: integer }
+    page_id:       { type: integer }
+    user_id:       { type: integer }
+    tip:           { type: string }
+    rank:      	   { type: integer(4), default: 1 }
+    status:        { type: enum, values: [approved, pending, rejected], default: approved }
+  relations:
+    Lists:           { onDelete: CASCADE, local: list_id, foreign: id }
+    CompanyPage:     { onDelete: CASCADE, local: page_id, foreign: id }
+    UserProfile:     { onDelete: CASCADE, local: user_id, foreign: id }
+
+
+Badge:
+  actAs:
+    I18n:
+      fields: [name, description, long_description, notify_text, progress_text]
+    DoctrineClusterStorage:
+      small_active_image: { is_image: false, prefix: badge, sizefield_name: false }
+      active_image:       { is_image: false, prefix: badge, sizefield_name: false }
+      inactive_image:     { is_image: false, prefix: badge, sizefield_name: false }
+  columns:
+    name:          { type: string(255) }
+    description:   { type: string(1000) }
+    long_description: { type: string }
+    progress_text: { type: string }
+    start_at:      { type: timestamp }
+    end_at:        { type: timestamp }
+    requirements:  { type: integer(4) }
+    points:        { type: integer(4) }
+    percent:       { type: string(5) }
+    is_active:     { type: boolean }
+    is_seasonal:   { type: boolean }
+    is_visible:    { type: boolean }
+    notify_by_email: { type: boolean }
+    display_message: { type: boolean }
+
+BadgeRequirement:
+  columns:
+    value:          { type: integer, name: "keyValue as value" }
+    badge_id:       { type: integer }
+    group_no:       { type: integer(1) }
+  relations:
+    Badge:          { onDelete: CASCADE, local: badge_id, foreign: id }
+
+BadgeRequirementField:
+  columns:
+    requirement_id:    { type: integer }
+    key:               { type: string(255), name: "keyName as key" }
+  relations:
+    BadgeRequirement:  { onDelete: CASCADE, local: requirement_id, foreign: id }
+
+UserBadge:
+  options:
+    symfony:   { form: false, filter: false }
+  actAs:
+    Timestampable: ~
+  columns:
+    user_id:      { type: integer }
+    badge_id:     { type: integer }
+  relations:
+    Badge:       { onDelete: CASCADE, local: badge_id, foreign: id }
+    UserProfile: { onDelete: CASCADE, local: user_id, foreign: id }
+
+UserStatKey:
+  options:
+    symfony:   { form: false, filter: false }
+  columns:
+    key:        { type: string(255), name: "keyName as key" }
+    name:       { type: string(255) }
+    type:       { type: string(255) }
+    weight:     { type: integer(4), default: 0 }
+
+UserStat:
+  options:
+    symfony:   { form: false, filter: false }
+  columns:
+    user_id:       { type: integer }
+    key:           { type: string(255), name: "keyName as key" }
+    value:         { type: integer, name: "keyValue as value" }
+  relations:
+    UserProfile:     { onDelete: CASCADE, local: user_id, foreign: id }
+    BadgeRequirementField: { local: key, foreign: key }
+
+Box:
+  options:
+    symfony:   { form: false, filter: false }
+  columns:
+    module:    { type: string(255) }
+    component: { type: string(255) }
+    settings:  { type: array }
+
+BoxToZone:
+  options:
+    symfony:   { form: false, filter: false }
+  columns:
+    box_id:    { type: integer }
+    key:       { type: string(255), name: "keyName as key" }
+    col_no:    { type: integer(1) }
+    weight:    { type: integer(4) }
+    settings:  { type: array }
+  relations:
+    Box:       { onDelete: CASCADE, local: box_id, foreign: id }
+
+#search tables
+SearchHistory:
+  options:
+    symfony:   { form: false, filter: false }
+  columns:
+    word:          { type: string(255), notnull: true }
+    culture:       { type: string(50), notnull: true, default: en }
+    count:         { type: integer(4), default: 0 }
+    results_count: { type: integer(4), default: 0 }
+  indexes:
+    word:          { fields: [word] }
+# EN; BG; RO;
+
+
+Search:
+  options:
+    type: MyISAM
+  columns:
+    title:          { type: string }
+    body:           { type: string }
+    keywords:       { type: string }
+    object_id:      { type: integer }
+    culture:        { type: string(10) }
+  indexes:
+    search:
+      fields:
+        title:    []
+        body:     []
+        keywords: []
+      type: fulltext
+    object:         { fields: [object_id, model_name, culture] }
+
+CompanySearch:
+  options:
+    symfony:   { form: false, filter: false }
+  options:
+    type: MyISAM
+  inheritance:
+    extends: Search
+    type: column_aggregation
+    keyField: model_name
+    keyValue: Company
+  relations:
+    Company:       { local: object_id, foreign: id, foreignType: one }
+
+EventSearch:
+  options:
+    type: MyISAM
+    symfony:   { form: false, filter: false }
+  inheritance:
+    extends: Search
+    type: column_aggregation
+    keyField: model_name
+    keyValue: Event
+  relations:
+    Event:       { local: object_id, foreign: id, foreignType: one }
+
+ReviewSearch:
+  options:
+    type: MyISAM
+    symfony:        { form: false, filter: false }
+  columns:
+    body:           { type: string }
+    search_id:      { type: integer }
+  indexes:
+    search:
+      fields:
+        body:     []
+      type: fulltext
+  relations:
+    CompanySearch:  { local: search_id, foreign: id }
+
+#needs rebuild
+StaticPage:
+  actAs:
+    I18n:
+      fields: [title, content, slug, is_active]
+
+    NestedSet:
+      hasManyRoots: true
+      rootColumnName: root_id
+
+  columns:
+    title:              { type: string(255) }
+    content:            { type: string }
+    slug:               { type: string(255), notnull: true }
+    is_active:          { type: boolean, notnull: true}
+    status:             { type: enum, values: [approved, pending, rejected], default: approved }
+    country_id:         { type: integer }
+  relations:
+    Country:           { onDelete: CASCADE, local: country_id, foreign: id }
+
+
+AdService:
+  actAs:
+    I18n:
+      fields: [name, short_description, is_active]
+  columns:
+    code:         { type: string(50) }
+    name:         { type: string(255) }
+    short_description:         { type: string }
+    is_active:    { type: boolean, notnull: true, default: true}
+    status:       { type: boolean, notnull: true, default: true}
+
+AdServiceCompany:
+  actAs:
+    Timestampable: ~
+  columns:
+    ad_service_id:    { type: integer, notnull: true }
+    company_id:       { type: integer, notnull: true}
+    status:           { type: enum, values: [ registered, paid, active, cancelled, expired ], default: registered }
+    crm_id:           { type: integer }
+    active_from:      { type: date }
+    active_to:        { type: date }
+    deal_start_date:  { type: date }
+  relations:
+    AdService:         { onDelete: CASCADE, local: ad_service_id, foreign: id }
+    Company:           { onDelete: CASCADE, local: company_id, foreign: id }
+
+UrlMap:
+  options:
+    symfony:   { form: false, filter: false }
+  columns:
+    old_url:       { type: string(255) }
+    new_url:       { type: string(255) }
+
+CompanyStats:
+  options:
+    symfony:   { form: false }
+  columns:
+    action_id:  { type: integer, notnull: true }
+    company_id: { type: integer, notnull: true }
+    month:      { type: date }
+    views:      { type: integer, default: 1 }
+  relations:
+    Company:    {  onDelete: CASCADE, local: company_id, foreign: id }
+  indexes:
+    monthly:               { fields: [action_id, company_id, month] }
+    allmonthly:               { fields: [company_id, month] }
+
+CheckInStatus:
+  actAs:
+    Timestampable: ~
+  options:
+    symfony:   { form: false }
+  columns:
+    user_id:    { type: integer, notnull: true }
+    company_id: { type: integer, notnull: true }
+    latitude:   { type: string(50) }
+    longitude:  { type: string(50) }
+  relations:
+    Company:    {  onDelete: CASCADE, local: company_id, foreign: id }
+
+CheckIn:
+  actAs:
+    Timestampable: ~
+  options:
+    symfony:   { form: false }
+  columns:
+    user_id:    { type: integer, notnull: true }
+    company_id: { type: integer, notnull: true }
+    latitude:   { type: string(50) }
+    longitude:  { type: string(50) }
+  relations:
+    Company:    {  onDelete: CASCADE, local: company_id, foreign: id }
+
+Slider:
+  actAs:
+    Timestampable: ~
+    DoctrineClusterStorage:
+      filename:
+        is_image: true
+        sizes:    { 0: 600x290, 1:63x63 }
+        prefix:   slider
+        sizefield_name: false
+  columns:
+    title:     { type: string(255) }
+    title_en:  { type: string(255) }
+    title_ru:  { type: string(255) }
+    body:      { type: string }
+    body_en:   { type: string }
+    body_ru:   { type: string }
+    link:      { type: string(255) }
+    link_en:   { type: string(255) }
+    link_ru:   { type: string(255) }
+    rank:      { type: integer(4) }
+    country_id: { type: integer }
+    whole_country: boolean
+    is_active: { type: boolean }
+  relations:
+    Sectors:   {  onDelete: CASCADE, class: Sector, refClass: SliderSector, local: slider_id, foreign: sector_id }
+    Cities:    {  onDelete: CASCADE, class: City, refClass: SliderCity, local: slider_id, foreign: city_id }
+
+SliderSector:
+  options:
+    symfony:   { form: false, filter: false }
+  columns:
+    slider_id: { type: integer }
+    sector_id: { type: integer }
+  relations:
+    Sector:    {  onDelete: CASCADE, local: sector_id, foreign: id }
+    Slider:    {  onDelete: CASCADE, local: slider_id, foreign: id }
+
+SliderCity:
+  options:
+    symfony:   { form: false, filter: false }
+  columns:
+    slider_id: { type: integer }
+    city_id:   { type: integer }
+  relations:
+    Slider:    {  onDelete: CASCADE, local: slider_id, foreign: id }
+    City:      {  onDelete: CASCADE, local: city_id, foreign: id }
+
+MobileNews:
+  actAs:
+    Timestampable: ~
+    DoctrineClusterStorage:
+      filename:
+        is_image: true
+        sizes:    { 0: 600x220, 1:63x63 }
+        prefix:   slider
+        sizefield_name: false
+  columns:
+    title:      { type: string(255) }
+    line1:      { type: string(255) }
+    line2:      { type: string(255) }
+    link:       { type: string(255) }
+    rank:       { type: integer(4) }
+    country_id: { type: integer }
+    is_active:  { type: boolean, default: false }
+  relations:
+    Cities:     {  onDelete: CASCADE, class: City, refClass: MobileNewsCity, local: news_id, foreign: city_id }
+
+MobileNewsCity:
+  options:
+    symfony:    { form: false, filter: false }
+  columns:
+    news_id:    { type: integer }
+    city_id:    { type: integer }
+  relations:
+    MobileNews: { onDelete: CASCADE, local: news_id, foreign: id }
+    City:       { onDelete: CASCADE, local: city_id, foreign: id }
+
+
+AdminRememberKey:
+  options:
+    symfony:
+      form:   false
+      filter: false
+  actAs: [Timestampable]
+  columns:
+    page_admin_id: integer
+    remember_key: string(32)
+    ip_address: string(50)
+  relations:
+    PageAdmin:
+      class: PageAdmin
+      local: page_admin_id
+      foreignAlias: RememberKeys
+      foreignType: one
+      onDelete: CASCADE
+
+ActivityLogUser:
+  options:
+    symfony:
+      form:   false
+      filter: false
+  columns:
+    object: string(30)
+    action: string(30)
+    email_address: string(255)
+    ip_address: string(50)
+    created_at:  timestamp
+    object_id:  { type: integer }
+
+CubesLogin:
+  options:
+    symfony:      { form: false, filter: false }
+  actAs:
+    Timestampable: ~
+  columns:
+    user_id:        { type: integer }
+    token:          { type: string(255) }
+    expires_at:     { type: timestamp }
+    is_active:      { type: boolean, default: true }
+  relations:
+    sfGuardUser:    { onDelete: CASCADE, local: user_id, foreign: id }
+
+getWeekend:
+  actAs:
+    Timestampable: ~
+    DoctrineClusterStorage:
+      filename:
+        is_image: true
+        sizes:    { 0: 295x170, 1:63x63 }
+        prefix:   getweekend
+        sizefield_name: false
+  columns:
+    title:      { type: string(255) }
+    title_en:   { type: string(255) }
+    body:       { type: string }
+    body_en:    { type: string }
+    embed:      { type: string(255) }
+    aired_on:   { type: date }
+    country_id: { type: integer }
+    is_active:  { type: boolean }
+  relations:
+    Companies:  { class: Company, refClass: getWeekendCompany, local: parent_id, foreign: company_id }
+    Events:     { class: Event, refClass: getWeekendEvent, local: parent_id, foreign: event_id }
+
+getWeekendCompany:
+  options:
+    symfony:   { form: false, filter: false }
+  columns:
+    parent_id:  { type: integer }
+    company_id: { type: integer }
+  relations:
+    Company:    { onDelete: CASCADE, local: company_id, foreign: id }
+    getWeekend: { onDelete: CASCADE, local: parent_id, foreign: id }
+
+getWeekendEvent:
+  options:
+    symfony:   { form: false, filter: false }
+  columns:
+    parent_id:  { type: integer }
+    event_id:   { type: integer }
+  relations:
+    Event:      { onDelete: CASCADE, local: event_id, foreign: id }
+    getWeekend: { onDelete: CASCADE, local: parent_id, foreign: id }
+
+FacebookGame:
+  options:
+    symfony:   { form: false, filter: false }
+  columns:
+    user_id:    { type: integer }
+    question:   { type: varchar(255) }
+    answer:     { type: varchar(255) }
+    game:       { type: varchar(255) }
+    uid:        { type: varchar(255) }
+    party_name_id:    { type: integer }
+    shared: { type: boolean, default: false }
+  relations:
+    UserProfile: { onDelete: CASCADE, local: user_id, foreign: id }
+    PartyName: { onDelete: CASCADE, local: party_name_id, foreign: id }
+
+FacebookReviewGame:
+  options:
+    symfony:   { form: false, filter: false }
+  columns:
+    slug:       { type: varchar(255) }
+    name:       { type: varchar(255) }
+    # Page title
+    title:      { type: varchar(255) }
+    # What wins
+    description: { type: varchar(5000) }
+    # Parameters for mail and FB app...
+    final_support_text: { type: varchar(5000) }
+    status:     { type: enum, values: [opened, closed], default: opened }
+    winner:     { type: integer }
+    intermediate_winners: { type: varchar(250) }
+    lang:       { type: enum, values: [bg, sr, mk, ro, en], default: bg }
+  relations:
+    UserProfile: { onDelete: CASCADE, local: winner, foreign: id }
+
+FacebookReviewGameUser:
+  actAs:
+    Timestampable: ~
+  options:
+    symfony:   { form: false, filter: false }
+  columns:
+    user_id:    { type: integer }
+    facebook_review_game_id: { type: integer }
+    referer:   { type: varchar(255) }
+    points: { type: integer, default: 0 }
+    hash: { type: varchar(255) }
+  relations:
+    UserProfile: { onDelete: CASCADE, local: user_id, foreign: id }
+    FacebookReviewGame: { onDelete: CASCADE, local: facebook_review_game_id, foreign: id }
+  indexes:
+    user_hash:
+      fields: [hash]
+
+FacebookReviewGameResult:
+  options:
+    symfony:   { form: false, filter: false }
+  columns:
+    facebook_review_game_id: { type: integer }
+    param1:    { type: varchar(255) }
+    param2:    { type: varchar(255) }
+  relations:
+    FacebookReviewGame: { onDelete: CASCADE, local: facebook_review_game_id, foreign: id }
+
+PartyName:
+  options:
+    symfony:   { form: false, filter: false }
+  columns:
+    name:      { type: varchar(255) }
+
+ReviewTopWeek:
+  options:
+    symfony:    { form: false, filter: false }
+  columns:
+    time_from:  { type: date }
+    time_to:    { type: date }
+    top_type:   { type: enum, values: [ week, month ] }
+
+ReviewTopPrize:
+  options:
+    symfony:    { form: false, filter: false }
+  actAs:
+    DoctrineClusterStorage:
+      filename:
+        is_image: true
+        sizes:    { 0: 295x170, 1:63x63 }
+        prefix:   review_prize
+        sizefield_name: false
+  columns:
+    name:           { type: string(255) }
+    name_en:        { type: string(255) }
+    description:    { type: string }
+    description_en: { type: string }
+    place:          { type: integer(1), default: 1 }
+    country_id:     { type: integer }
+    week_id:        { type: integer }
+  relations:
+    ReviewTopWeek:  { onDelete: CASCADE, local: week_id, foreign: id }
+    Country:        { onDelete: CASCADE, local: country_id, foreign: id }
+
+ReviewTop:
+  options:
+    symfony:    { form: false, filter: false }
+  columns:
+    review_id:  { type: integer }
+    country_id: { type: integer }
+    week_id:    { type: integer }
+    count:      { type: integer(4), default: 0 }
+  relations:
+    Review:         { onDelete: CASCADE, local: review_id, foreign: id }
+    ReviewTopWeek:  { onDelete: CASCADE, local: week_id, foreign: id }
+    Country:        { onDelete: CASCADE, local: country_id, foreign: id }
+
+ReviewVoucher:
+  options:
+    symfony:   { form: false, filter: false }
+  columns:
+    user_id:  { type: integer }
+    voucher:    { type: string(255), notnull: true }
+    week_id: { type: integer, notnull: true}
+    date_issued: { type: timestamp}
+  relations:
+    UserProfile:    { onDelete: NO ACTION, local: user_id, foreign: id }
+
+mailBgCampaign:
+  actAs:
+    Timestampable: ~
+  columns:
+    company_id: { type: integer }
+    city_id: { type: integer }
+    is_active:  { type: boolean, default: false }
+  relations:
+    Company:    { onDelete: CASCADE, local: company_id, foreign: id }
+    City:       { onDelete: CASCADE, local: city_id, foreign: id }
+  indexes:
+    company_index:
+      fields: [company_id]
+      type: unique
+
+invitedUser:
+  options:
+    symfony:        { form: true, filter: true }
+  columns:
+    email:          { type: string(128) }
+    facebook_uid:   { type: string(20) }
+    hash:           { type: string(50) }
+    invited_from:   { type: enum, values: [ email, gmail_yahoo, facebook ] }
+    points_to_invited: { type: integer(4) }
+    points_to_user: { type: integer(4) }
+    user_id:        { type: integer }
+  relations:
+    UserProfile:    { onDelete: CASCADE, local: user_id, foreign: id }
+  indexes:
+    user_data:      { fields: [email, facebook_uid] }
+
+friendList:
+  options:
+    symfony:        { form: false, filter: false }
+  columns:
+    user_id1:       { type: integer }
+    user_id2:       { type: integer }
+  relations:
+    UserProfile:    { onDelete: CASCADE, local: user_id1, foreign: id }
+    UserProfile:    { onDelete: CASCADE, local: user_id2, foreign: id }
+  indexes:
+    user_id:        { fields: [user_id1, user_id2] }
+
+Conversation:
+  actAs:
+    Timestampable: ~
+  columns:
+    page_from:      { type: integer }
+    page_to:        { type: integer }
+    opened:         { type: boolean, default: 0 }
+    last_message_id: { type: integer }
+  relations:
+    FromPage: { onDelete: CASCADE, local: page_from, foreign: id, class: Page }
+    ToPage:   { onDelete: CASCADE, local: page_to, foreign: id, class: Page }
+    Message:   { onDelete: CASCADE, local: last_message_id, foreign: id }
+
+Message:
+  actAs:
+    Timestampable: ~
+  columns:
+    body:           { type: string(1000) }
+    conversation_id: { type: integer }
+    page_id:        { type: integer }
+    is_read:    { type: boolean, default: false }
+  relations:
+    Page:    { onDelete: CASCADE, local: page_id, foreign: id }
+    Conversation:   { onDelete: CASCADE, local: conversation_id, foreign: id }
+
+FollowPage:
+  options:
+  actAs:
+    Timestampable: ~
+  columns:
+    user_id:        { type: integer }
+    page_id:        { type: integer }
+    email_notification:     { type: boolean, default: true }
+    internal_notification:  { type: boolean, default: true }
+    newsfeed:       { type: boolean, default: true }
+    weekly_update:  { type: boolean, default: true }
+  relations:
+    UserProfile:    { onDelete: CASCADE, local: user_id, foreign: id }
+    Page:           { onDelete: CASCADE, local: page_id, foreign: id }
+
+
+UnregisteredNewsletterUser:
+  columns:
+    firstname:     { type: string(255) }
+    lastname:      { type: string(255) }
+    email_address: { type: string(128) }
+    country_id:    { type: integer }
+  relations:
+    Country:       { onDelete: CASCADE, local: country_id, foreign: id }
+
+Notification:
+  options:
+    symfony:      { form: false, filter: false }
+  actAs:
+    Timestampable: ~
+  columns:
+    page_id:    { type: integer }
+    model_name: { type: varchar, notnull: true }
+    foreign_id:   { type: integer, notnull: true }
+    is_read:    { type: boolean, default: false }
+  relations:
+    Page:           { onDelete: CASCADE, local: page_id, foreign: id }
+
+
+# Company status table
+CompanyStatus:
+  options:
+    symfony:      { form: false, filter: false }
+  actAs:
+    Timestampable: ~
+  columns:
+    user_id:        { type: integer }
+    company_id:     { type: integer }
+    text:           { type: string(5000), notnull: true }
+    publish_to:     { type: string(255) }
+    is_published:   { type: boolean, default: true }
+  relations:
+    UserProfile:    { onDelete: NO ACTION, local: user_id, foreign: id }
+    Company:        { onDelete: CASCADE, local: company_id, foreign: id }
+
+MobileLog:
+  actAs:
+    Timestampable: ~
+  columns:
+    user_id: integer
+    device: { type: enum, values: [ios, android] }
+    version: string(80)
+    action:
+      type: enum
+      values: [login, register, company, review, upload]
+    foreign_id: integer
+    lat: string(50)
+    lng: string(50)
+  relations:
+    UserProfile: { onDelete: CASCADE, local: user_id, foreign: id }
+
+Sitemaps:
+  options:
+    symfony:      { form: false, filter: false }
+  columns:
+    sitemap:       { type: string(255) }
+    page:          { type: integer }
+    country_id:    { type: integer }
+    f_id:          { type: integer }
+    l_id:          { type: integer }
+    last_mod:     { type: timestamp }
+
+FeatureCompany:
+  actAs:
+    Timestampable: ~
+    I18n:
+      fields: [name, is_active]
+  columns:
+    name:         { type: string(60), notnull: true }
+    is_active:    { type: boolean, default: true}
+    status:       { type: enum, values: [ approved, rejected], default: approved }
+  relations:
+    Company:
+      onDelete: CASCADE,
+      class: Company
+      local: feature_id
+      foreign: company_id
+      refClass: CompanyFeatureCompany
+
+CompanyFeatureCompany:
+  columns:
+    feature_id:          { type: integer, primary: true }
+    company_id:      { type: integer, primary: true }
+
+
+# Company Extra fields needed for Finland import
+CompanyExtra:
+  options:
+    symfony: { form: false, filter: false }
+  columns:
+    company_id: { type: integer }
+    establishment_date: { type: string(255) }
+    registration_date: { type: string(255) }
+    company_form: { type: string(255) }
+    business_type: { type: string(255) }
+    nace_code: { type: string(255) }
+    personal_abount: { type: string(255) }
+    personal_year: { type: string(255) }
+    turnover: { type: string(255) }
+    turnover_year: { type: string(255) }
+    tax_reg: { type: string(255) }
+    financial_risk: { type: string(255) }
+    source: { type: string(255) }
+  relations:
+    Company:
+      onDelete: CASCADE
+      local: company_id
+      foreign: id
+
+
+# Vidos for GetPilot
+PilotVideo:
+  actAs:
+    Timestampable: ~
+  columns:
+    name: { type: string(255) }
+    youtube_key: { type: string(255) }
+
+PilotVote:
+  actAs:
+    Timestampable: ~
+  columns:
+    user_id: { type: integer }
+    video_id: { type: integer }
+  relations:
+    User:
+      onDelete: CASCADE
+      local: user_id
+      foreign: id
+      class: sfGuardUser
+    PilotVideo:
+      onDelete: CASCADE
+      local: video_id
+      foreign: id
+
+Setting:
+    columns:
+        k: { type: string(255) }
+        val: { type: string(5000) }
+    indexes:
+        k:          { fields: [k] }

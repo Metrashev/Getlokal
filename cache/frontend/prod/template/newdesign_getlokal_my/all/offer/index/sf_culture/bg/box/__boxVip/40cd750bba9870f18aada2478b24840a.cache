@@ -1,0 +1,101 @@
+001417616100001417608900a:2:{s:7:"content";s:7570:"    <div class="col-sm-12 events-premium-places">
+        <div class="premium-places-header">
+            <h3>Препоръчани места</h3>
+        </div>
+        <ul>
+                            <li class="events-places">
+                    <div class="events-place-image">
+                        <a title="asd" href="/bg/sofia/blok-skateshop-2"><img alt="Blok Shop" src="/uploads/photo_gallery/123/20/21/150x150/1513243_700454893333083_261570407_n.jpg" height="45" width="45" /></a>                    </div><!-- place-image -->
+                    <div class="event-place-content">
+                        <div class="place-content">
+                            <a href="/bg/sofia/blok-skateshop-2"><h4 class="premium-place-title">Blok Shop</h4></a>
+                                     <div class="stars-holder small">                  
+                                        <ul>
+                                            <li class="gray-star"><i class="fa fa-star"></i></li>
+                                            <li class="gray-star"><i class="fa fa-star"></i></li>
+                                            <li class="gray-star"><i class="fa fa-star"></i></li>
+                                            <li class="gray-star"><i class="fa fa-star"></i></li>
+                                            <li class="gray-star"><i class="fa fa-star"></i></li>
+                                            
+                                        </ul>
+                                    <div class="top-list">
+                                        <div class="hiding-holder" style="width: 99%;">
+                                            <ul class="spans-holder">
+                                                <li class="red-star"><i class="fa fa-star"></i></li>
+                                                <li class="red-star"><i class="fa fa-star"></i></li>
+                                                <li class="red-star"><i class="fa fa-star"></i></li>
+                                                <li class="red-star"><i class="fa fa-star"></i></li>
+                                                <li class="red-star"><i class="fa fa-star"></i></li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                            <p class="events-review-number"><span>30</span>ревюта</p>
+                        </div><!-- place-content -->
+                    </div>
+                </li>
+                            <li class="events-places">
+                    <div class="events-place-image">
+                        <a title="asd" href="/bg/sofia/studio-relax"><img alt="Студио Релакс" src="/uploads/photo_gallery/123/20/21/150x150/556447_384065928317878_535114419_n.jpg" height="45" width="45" /></a>                    </div><!-- place-image -->
+                    <div class="event-place-content">
+                        <div class="place-content">
+                            <a href="/bg/sofia/studio-relax"><h4 class="premium-place-title">Студио Релакс</h4></a>
+                                     <div class="stars-holder small">                  
+                                        <ul>
+                                            <li class="gray-star"><i class="fa fa-star"></i></li>
+                                            <li class="gray-star"><i class="fa fa-star"></i></li>
+                                            <li class="gray-star"><i class="fa fa-star"></i></li>
+                                            <li class="gray-star"><i class="fa fa-star"></i></li>
+                                            <li class="gray-star"><i class="fa fa-star"></i></li>
+                                            
+                                        </ul>
+                                    <div class="top-list">
+                                        <div class="hiding-holder" style="width: 100%;">
+                                            <ul class="spans-holder">
+                                                <li class="red-star"><i class="fa fa-star"></i></li>
+                                                <li class="red-star"><i class="fa fa-star"></i></li>
+                                                <li class="red-star"><i class="fa fa-star"></i></li>
+                                                <li class="red-star"><i class="fa fa-star"></i></li>
+                                                <li class="red-star"><i class="fa fa-star"></i></li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                            <p class="events-review-number"><span>6</span>ревюта</p>
+                        </div><!-- place-content -->
+                    </div>
+                </li>
+                            <li class="events-places">
+                    <div class="events-place-image">
+                        <a title="asd" href="/bg/sofia/shops-art-bird"><img alt="Магазин за изкуство Птица" src="/uploads/photo_gallery/123/20/21/150x150/dscn2181.jpg" height="45" width="45" /></a>                    </div><!-- place-image -->
+                    <div class="event-place-content">
+                        <div class="place-content">
+                            <a href="/bg/sofia/shops-art-bird"><h4 class="premium-place-title">Магазин за изкуство Птица</h4></a>
+                                     <div class="stars-holder small">                  
+                                        <ul>
+                                            <li class="gray-star"><i class="fa fa-star"></i></li>
+                                            <li class="gray-star"><i class="fa fa-star"></i></li>
+                                            <li class="gray-star"><i class="fa fa-star"></i></li>
+                                            <li class="gray-star"><i class="fa fa-star"></i></li>
+                                            <li class="gray-star"><i class="fa fa-star"></i></li>
+                                            
+                                        </ul>
+                                    <div class="top-list">
+                                        <div class="hiding-holder" style="width: 100%;">
+                                            <ul class="spans-holder">
+                                                <li class="red-star"><i class="fa fa-star"></i></li>
+                                                <li class="red-star"><i class="fa fa-star"></i></li>
+                                                <li class="red-star"><i class="fa fa-star"></i></li>
+                                                <li class="red-star"><i class="fa fa-star"></i></li>
+                                                <li class="red-star"><i class="fa fa-star"></i></li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                            <p class="events-review-number"><span>5</span>ревюта</p>
+                        </div><!-- place-content -->
+                    </div>
+                </li>
+                    </ul>
+    </div>
+";s:8:"response";C:13:"sfWebResponse":986:{a:11:{i:0;s:0:"";i:1;i:200;i:2;s:2:"OK";i:3;a:5:{s:13:"http_protocol";s:8:"HTTP/1.1";s:7:"logging";s:0:"";s:7:"charset";s:5:"utf-8";s:17:"send_http_headers";b:1;s:12:"content_type";s:24:"text/html; charset=utf-8";}i:4;b:0;i:5;a:1:{s:12:"Content-Type";s:24:"text/html; charset=utf-8";}i:6;a:1:{s:5:"title";s:6:"Offers";}i:7;a:1:{s:12:"Content-Type";s:24:"text/html; charset=utf-8";}i:8;a:3:{s:5:"first";a:0:{}s:0:"";a:10:{s:20:"font-awesome.min.css";a:0:{}s:13:"bootstrap.css";a:0:{}s:9:"style.css";a:0:{}s:12:"settings.css";a:0:{}s:10:"style1.css";a:0:{}s:19:"/images/favicon.ico";a:0:{}s:11:"prettyPhoto";a:0:{}s:9:"component";a:0:{}s:10:"offers.css";a:0:{}s:29:"select-menu/select2-green.css";a:0:{}}s:4:"last";a:0:{}}i:9;a:3:{s:5:"first";a:0:{}s:0:"";a:7:{s:14:"jquery.1.11.js";a:0:{}s:12:"jquery-ui.js";a:0:{}s:6:"map.js";a:0:{}s:13:"offers.all.js";a:0:{}s:21:"jquery.shuffle.min.js";a:0:{}s:17:"offers.sorting.js";a:0:{}s:16:"header.footer.js";a:0:{}}s:4:"last";a:0:{}}i:10;a:0:{}}}}

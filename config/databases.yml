@@ -1,0 +1,20 @@
+# You can find more information about this file on the symfony website:
+# http://www.symfony-project.org/reference/1_4/en/07-Databases
+
+all:
+  doctrine:
+    class: sfDoctrineDatabase
+    param:
+      dsn:      'mysql:host=dev.ned.local;dbname=getlokal;'
+  #    dsn:      'mysql:host=dev.ned.local;dbname=getlokal;'
+      username: getlokal
+      password: 3Swygyigh
+  #    dsn:      'mysql:host=odin.ned.bg;dbname=getlokal;'
+  #    username: getlokal
+  #    password: getfucker
+
+task:
+  doctrine:
+    class: sfDoctrineDatabase
+    param:
+      profiler: false

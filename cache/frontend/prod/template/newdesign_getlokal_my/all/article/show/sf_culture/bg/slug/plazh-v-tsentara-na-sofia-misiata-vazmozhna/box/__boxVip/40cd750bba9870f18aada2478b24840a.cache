@@ -1,0 +1,123 @@
+001417519187001417511987a:2:{s:7:"content";s:7580:"    <div class="col-sm-12 events-premium-places">
+        <div class="premium-places-header">
+            <h3>Препоръчани места</h3>
+        </div>
+        <ul>
+                            <li class="events-places">
+                    <div class="events-place-image">
+                        <a title="asd" href="/bg/sofia/restaurant-dobro-f7a0"><img alt="Ресторант Добро Лозенец" src="/uploads/photo_gallery/123/20/21/150x150/dsc_3645.jpg" height="45" width="45" /></a>                    </div><!-- place-image -->
+                    <div class="event-place-content">
+                        <div class="place-content">
+                            <a href="/bg/sofia/restaurant-dobro-f7a0"><h4 class="premium-place-title">Ресторант Добро Лозенец</h4></a>
+                                     <div class="stars-holder small">                  
+                                        <ul>
+                                            <li class="gray-star"><i class="fa fa-star"></i></li>
+                                            <li class="gray-star"><i class="fa fa-star"></i></li>
+                                            <li class="gray-star"><i class="fa fa-star"></i></li>
+                                            <li class="gray-star"><i class="fa fa-star"></i></li>
+                                            <li class="gray-star"><i class="fa fa-star"></i></li>
+                                            
+                                        </ul>
+                                    <div class="top-list">
+                                        <div class="hiding-holder" style="width: 97%;">
+                                            <ul class="spans-holder">
+                                                <li class="red-star"><i class="fa fa-star"></i></li>
+                                                <li class="red-star"><i class="fa fa-star"></i></li>
+                                                <li class="red-star"><i class="fa fa-star"></i></li>
+                                                <li class="red-star"><i class="fa fa-star"></i></li>
+                                                <li class="red-star"><i class="fa fa-star"></i></li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                            <p class="events-review-number"><span>6</span>ревюта</p>
+                        </div><!-- place-content -->
+                    </div>
+                </li>
+                            <li class="events-places">
+                    <div class="events-place-image">
+                        <a title="asd" href="/bg/sofia/am-gul"><img alt="Ам - Гъл" src="/uploads/photo_gallery/87/16/33/150x150/056a3124e62ad37f0214f0ff58acf4907d4399bb.jpg" height="45" width="45" /></a>                    </div><!-- place-image -->
+                    <div class="event-place-content">
+                        <div class="place-content">
+                            <a href="/bg/sofia/am-gul"><h4 class="premium-place-title">Ам - Гъл</h4></a>
+                                     <div class="stars-holder small">                  
+                                        <ul>
+                                            <li class="gray-star"><i class="fa fa-star"></i></li>
+                                            <li class="gray-star"><i class="fa fa-star"></i></li>
+                                            <li class="gray-star"><i class="fa fa-star"></i></li>
+                                            <li class="gray-star"><i class="fa fa-star"></i></li>
+                                            <li class="gray-star"><i class="fa fa-star"></i></li>
+                                            
+                                        </ul>
+                                    <div class="top-list">
+                                        <div class="hiding-holder" style="width: 93%;">
+                                            <ul class="spans-holder">
+                                                <li class="red-star"><i class="fa fa-star"></i></li>
+                                                <li class="red-star"><i class="fa fa-star"></i></li>
+                                                <li class="red-star"><i class="fa fa-star"></i></li>
+                                                <li class="red-star"><i class="fa fa-star"></i></li>
+                                                <li class="red-star"><i class="fa fa-star"></i></li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                            <p class="events-review-number"><span>25</span>ревюта</p>
+                        </div><!-- place-content -->
+                    </div>
+                </li>
+                            <li class="events-places">
+                    <div class="events-place-image">
+                        <a title="asd" href="/bg/sofia/soul-kitchen-1"><img alt="Ресторант Соул Китчън" src="/uploads/photo_gallery/123/20/21/150x150/0_4_details.jpg" height="45" width="45" /></a>                    </div><!-- place-image -->
+                    <div class="event-place-content">
+                        <div class="place-content">
+                            <a href="/bg/sofia/soul-kitchen-1"><h4 class="premium-place-title">Ресторант Соул Китчън</h4></a>
+                                     <div class="stars-holder small">                  
+                                        <ul>
+                                            <li class="gray-star"><i class="fa fa-star"></i></li>
+                                            <li class="gray-star"><i class="fa fa-star"></i></li>
+                                            <li class="gray-star"><i class="fa fa-star"></i></li>
+                                            <li class="gray-star"><i class="fa fa-star"></i></li>
+                                            <li class="gray-star"><i class="fa fa-star"></i></li>
+                                            
+                                        </ul>
+                                    <div class="top-list">
+                                        <div class="hiding-holder" style="width: 100%;">
+                                            <ul class="spans-holder">
+                                                <li class="red-star"><i class="fa fa-star"></i></li>
+                                                <li class="red-star"><i class="fa fa-star"></i></li>
+                                                <li class="red-star"><i class="fa fa-star"></i></li>
+                                                <li class="red-star"><i class="fa fa-star"></i></li>
+                                                <li class="red-star"><i class="fa fa-star"></i></li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                            <p class="events-review-number"><span>5</span>ревюта</p>
+                        </div><!-- place-content -->
+                    </div>
+                </li>
+                    </ul>
+    </div>
+";s:8:"response";C:13:"sfWebResponse":5718:{a:11:{i:0;s:0:"";i:1;i:200;i:2;s:2:"OK";i:3;a:5:{s:13:"http_protocol";s:8:"HTTP/1.1";s:7:"logging";s:0:"";s:7:"charset";s:5:"utf-8";s:17:"send_http_headers";b:1;s:12:"content_type";s:24:"text/html; charset=utf-8";}i:4;b:0;i:5;a:1:{s:12:"Content-Type";s:24:"text/html; charset=utf-8";}i:6;a:3:{s:5:"title";s:76:"Плаж в центъра на София - мисията възможна";s:11:"description";s:99:"Вижте къде в София може да се озовете на истински плаж.";s:8:"keywords";s:103:"софия, мол, плаж, център, парти, коктейли, плажен волейбол";}i:7;a:1:{s:12:"Content-Type";s:24:"text/html; charset=utf-8";}i:8;a:3:{s:5:"first";a:0:{}s:0:"";a:8:{s:20:"font-awesome.min.css";a:0:{}s:13:"bootstrap.css";a:0:{}s:9:"style.css";a:0:{}s:12:"settings.css";a:0:{}s:10:"style1.css";a:0:{}s:19:"/images/favicon.ico";a:0:{}s:11:"prettyPhoto";a:0:{}s:9:"component";a:0:{}}s:4:"last";a:0:{}}i:9;a:3:{s:5:"first";a:0:{}s:0:"";a:0:{}s:4:"last";a:0:{}}i:10;a:1:{s:8:"facebook";s:4647:"	<meta property="fb:app_id" content="101454179905887"/>
+	<meta property="og:url" content="http://newdesign.getlokal.my/bg/article/plazh-v-tsentara-na-sofia-misiata-vazmozhna">
+	<meta property="og:title" content="Плаж в центъра на София - мисията възможна">
+	<meta property="og:description" content="Какво повече може да искаш през лятото, освен плаж, слънце и освежителни напитки. Като изключим факта, че ни предстои дъждовна и мрачна седмица, лятото е вече тук и може да се каже, че изминалите няколко дни доказаха това. И понеже колкото и да ни се иска не можем да прекараме всеки ден на плажа, защото доста километри ни делят от крайбрежието, ние в София няма да останем лишени от плажно изживяване, за което не е нужно да напускаме града.
+Днес вече ви разказахме за баровете на покриви &ndash; от София до Ню Йорк, и сега решихме да продължим темата. За втора година Сердика център ще стане най-горещата точка в столицата. По-точно&nbsp; на покрива на мола ще се появи почти истински плаж, такъв който си има всичко&hellip;е, може би с изключение на морето. На най-високата точка на Сердика център ще се появи известния Beach bar, който стана популярен за пръв път миналата година. Така че, ако искате да пиете мохито на плажа или ви се ходи на някое бийч парти, няма нужда да потегляте в посока Черно море, защото всичко което трябва да направите е да натиснете последното копче на асансьора в Сердика.
+
+Както миналата година, така и тази Beach bar ви е подготвил страхотна програма, така че всеки ден от седмицата, между 1 юни и 30 септември да не скучаете. Ето и някои от по-интересните предстоящи събития за юни в Beach bar:
+18 юни може да се посмеете с комедийната вечер на ХА-ХА-ХА ИМПРО. 
+Всеки четвъртък ви очаква Jam Session, като този, на 19 юни очаквайте ACOUSTIC CORPORATON, а на 26 юни ETHNO JAZZ: Milanov &amp; Baleva.
+Всеки петък ще има DJ Party. Следващите петъци &ndash; 20 и 27 юни ще има съответно COSMO Bikini Party &nbsp;и изпълнения на KOTTARASHKY SOLO.
+Всяка събота от 11.30 ще има Dance Academy за деца, а и в двата дни на уикенда ще има школа по зумба от 10.30.
+
+И ако очаквате, че с партито и коктейлите всичко свършва, съвсем не е така. Какъв плаж би било, ако няма малко плажен волейбол ? Е, в Beach bar ще имате възможност не просто да си запазите игрището и да поиграете малко с приятели, а и да участвате в турнири по плажен волейбол. Точно като на плажа.
+
+Ние от Getlokal подкрепяме с две ръце инициативата за поява на такъв бар, защото и ние в София имаме нужда от своето плажно местенце&hellip;поне докато отидем на море.
+">
+	<meta property="og:site_name" content="newdesign.getlokal.my" />
+    <meta property="og:type" content="article" />
+	    <meta property="og:image" content="http://newdesign.getlokal.my/uploads/article/big/aed4b77015c04274cee6af90d8185aa25bd8a748.jpg">
+	        	<meta property="article:published_time" content="2014-06-16T14:02:54+0300" />
+    <meta property="article:publisher" content="https://www.facebook.com/getlokal" />
+        
+";}}}}

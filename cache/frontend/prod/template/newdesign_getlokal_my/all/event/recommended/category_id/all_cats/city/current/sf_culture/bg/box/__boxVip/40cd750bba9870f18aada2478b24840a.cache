@@ -1,0 +1,164 @@
+001417608782001417601582a:2:{s:7:"content";s:7562:"    <div class="col-sm-12 events-premium-places">
+        <div class="premium-places-header">
+            <h3>Препоръчани места</h3>
+        </div>
+        <ul>
+                            <li class="events-places">
+                    <div class="events-place-image">
+                        <a title="asd" href="/bg/sofia/getlokal-com"><img alt="Гетлокал.ком" src="/images/gui/default_place_150x150.jpg" height="45" width="45" /></a>                    </div><!-- place-image -->
+                    <div class="event-place-content">
+                        <div class="place-content">
+                            <a href="/bg/sofia/getlokal-com"><h4 class="premium-place-title">Гетлокал.ком</h4></a>
+                                     <div class="stars-holder small">                  
+                                        <ul>
+                                            <li class="gray-star"><i class="fa fa-star"></i></li>
+                                            <li class="gray-star"><i class="fa fa-star"></i></li>
+                                            <li class="gray-star"><i class="fa fa-star"></i></li>
+                                            <li class="gray-star"><i class="fa fa-star"></i></li>
+                                            <li class="gray-star"><i class="fa fa-star"></i></li>
+                                            
+                                        </ul>
+                                    <div class="top-list">
+                                        <div class="hiding-holder" style="width: 100%;">
+                                            <ul class="spans-holder">
+                                                <li class="red-star"><i class="fa fa-star"></i></li>
+                                                <li class="red-star"><i class="fa fa-star"></i></li>
+                                                <li class="red-star"><i class="fa fa-star"></i></li>
+                                                <li class="red-star"><i class="fa fa-star"></i></li>
+                                                <li class="red-star"><i class="fa fa-star"></i></li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                            <p class="events-review-number"><span>9</span>ревюта</p>
+                        </div><!-- place-content -->
+                    </div>
+                </li>
+                            <li class="events-places">
+                    <div class="events-place-image">
+                        <a title="asd" href="/bg/sofia/restaurant-montesito"><img alt="Ресторант- градина Монтесито" src="/uploads/photo_gallery/25/6/16/150x150/179167_158985947616520_258013048_n.jpg" height="45" width="45" /></a>                    </div><!-- place-image -->
+                    <div class="event-place-content">
+                        <div class="place-content">
+                            <a href="/bg/sofia/restaurant-montesito"><h4 class="premium-place-title">Ресторант- градина Монтесито</h4></a>
+                                     <div class="stars-holder small">                  
+                                        <ul>
+                                            <li class="gray-star"><i class="fa fa-star"></i></li>
+                                            <li class="gray-star"><i class="fa fa-star"></i></li>
+                                            <li class="gray-star"><i class="fa fa-star"></i></li>
+                                            <li class="gray-star"><i class="fa fa-star"></i></li>
+                                            <li class="gray-star"><i class="fa fa-star"></i></li>
+                                            
+                                        </ul>
+                                    <div class="top-list">
+                                        <div class="hiding-holder" style="width: 20%;">
+                                            <ul class="spans-holder">
+                                                <li class="red-star"><i class="fa fa-star"></i></li>
+                                                <li class="red-star"><i class="fa fa-star"></i></li>
+                                                <li class="red-star"><i class="fa fa-star"></i></li>
+                                                <li class="red-star"><i class="fa fa-star"></i></li>
+                                                <li class="red-star"><i class="fa fa-star"></i></li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                            <p class="events-review-number"><span>2</span>ревюта</p>
+                        </div><!-- place-content -->
+                    </div>
+                </li>
+                            <li class="events-places">
+                    <div class="events-place-image">
+                        <a title="asd" href="/bg/sofia/spaghetty-company-3"><img alt="Spaghetti Company" src="/uploads/photo_gallery/123/20/21/150x150/24_03.jpg" height="45" width="45" /></a>                    </div><!-- place-image -->
+                    <div class="event-place-content">
+                        <div class="place-content">
+                            <a href="/bg/sofia/spaghetty-company-3"><h4 class="premium-place-title">Spaghetti Company</h4></a>
+                                     <div class="stars-holder small">                  
+                                        <ul>
+                                            <li class="gray-star"><i class="fa fa-star"></i></li>
+                                            <li class="gray-star"><i class="fa fa-star"></i></li>
+                                            <li class="gray-star"><i class="fa fa-star"></i></li>
+                                            <li class="gray-star"><i class="fa fa-star"></i></li>
+                                            <li class="gray-star"><i class="fa fa-star"></i></li>
+                                            
+                                        </ul>
+                                    <div class="top-list">
+                                        <div class="hiding-holder" style="width: 93%;">
+                                            <ul class="spans-holder">
+                                                <li class="red-star"><i class="fa fa-star"></i></li>
+                                                <li class="red-star"><i class="fa fa-star"></i></li>
+                                                <li class="red-star"><i class="fa fa-star"></i></li>
+                                                <li class="red-star"><i class="fa fa-star"></i></li>
+                                                <li class="red-star"><i class="fa fa-star"></i></li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                            <p class="events-review-number"><span>6</span>ревюта</p>
+                        </div><!-- place-content -->
+                    </div>
+                </li>
+                    </ul>
+    </div>
+";s:8:"response";C:13:"sfWebResponse":2743:{a:11:{i:0;s:0:"";i:1;i:200;i:2;s:2:"OK";i:3;a:5:{s:13:"http_protocol";s:8:"HTTP/1.1";s:7:"logging";s:0:"";s:7:"charset";s:5:"utf-8";s:17:"send_http_headers";b:1;s:12:"content_type";s:24:"text/html; charset=utf-8";}i:4;b:0;i:5;a:1:{s:12:"Content-Type";s:24:"text/html; charset=utf-8";}i:6;a:0:{}i:7;a:1:{s:12:"Content-Type";s:24:"text/html; charset=utf-8";}i:8;a:3:{s:5:"first";a:0:{}s:0:"";a:12:{s:20:"font-awesome.min.css";a:0:{}s:13:"bootstrap.css";a:0:{}s:9:"style.css";a:0:{}s:12:"settings.css";a:0:{}s:10:"style1.css";a:0:{}s:19:"/images/favicon.ico";a:0:{}s:11:"prettyPhoto";a:0:{}s:9:"component";a:0:{}s:10:"events.css";a:0:{}s:28:"select-menu/select2-pink.css";a:0:{}s:30:"select-menu/select2-custom.css";a:0:{}s:40:"ui-lightness/jquery-ui-1.8.16.custom.css";a:0:{}}s:4:"last";a:0:{}}i:9;a:3:{s:5:"first";a:0:{}s:0:"";a:3:{s:19:"jquery.jcarousel.js";a:0:{}s:19:"init_date_picker.js";a:0:{}s:20:"jquery-ui-i18n-bg.js";a:0:{}}s:4:"last";a:0:{}}i:10;a:1:{s:15:"side_categories";s:1748:"<div class="events-section-categories">
+	<div class="event-categories-title">
+		Изберете категория	</div>
+	<!-- categories-title -->
+	<ul class="events-category-list">
+		<li class="selected">
+			<div class="marker"></div> 
+			<a value="all_cats" title="Всички категории"> 
+				Всички категории			</a>
+		</li>
+				<li>
+			<div class="marker"></div> 
+			<a value="1" title="Музика и концерти"> 
+				Музика и концерти			</a>
+		</li>
+				<li>
+			<div class="marker"></div> 
+			<a value="2" title="Изкуство"> 
+				Изкуство			</a>
+		</li>
+				<li>
+			<div class="marker"></div> 
+			<a value="3" title="Кино и театър"> 
+				Кино и театър			</a>
+		</li>
+				<li>
+			<div class="marker"></div> 
+			<a value="4" title="Kулинарни"> 
+				Kулинарни			</a>
+		</li>
+				<li>
+			<div class="marker"></div> 
+			<a value="5" title="Мода"> 
+				Мода			</a>
+		</li>
+				<li>
+			<div class="marker"></div> 
+			<a value="6" title="Фестивали и панаири"> 
+				Фестивали и панаири			</a>
+		</li>
+				<li>
+			<div class="marker"></div> 
+			<a value="7" title="Спорт"> 
+				Спорт			</a>
+		</li>
+				<li>
+			<div class="marker"></div> 
+			<a value="8" title="Нощен живот"> 
+				Нощен живот			</a>
+		</li>
+				<li>
+			<div class="marker"></div> 
+			<a value="9" title="Деца и семейство"> 
+				Деца и семейство			</a>
+		</li>
+				<li>
+			<div class="marker"></div> 
+			<a value="10" title="Локални"> 
+				Локални			</a>
+		</li>
+			</ul>
+	<!-- categories-list -->
+</div>
+";}}}}

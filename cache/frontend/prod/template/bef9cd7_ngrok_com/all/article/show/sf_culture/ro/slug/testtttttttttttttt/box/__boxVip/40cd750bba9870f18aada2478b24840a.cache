@@ -1,0 +1,111 @@
+001417533091001417525891a:2:{s:7:"content";s:7455:"    <div class="col-sm-12 events-premium-places">
+        <div class="premium-places-header">
+            <h3>Locuri recomandate</h3>
+        </div>
+        <ul>
+                            <li class="events-places">
+                    <div class="events-place-image">
+                        <a title="asd" href="/ro/bucuresti/getlokal-ro"><img alt="Getlokal.ro" src="/uploads/photo_gallery/123/20/21/150x150/u0q2hydaz5tipzti3oz3_0n76rn_fskmuhan6tm_mgc.jpg" height="45" width="45" /></a>                    </div><!-- place-image -->
+                    <div class="event-place-content">
+                        <div class="place-content">
+                            <a href="/ro/bucuresti/getlokal-ro"><h4 class="premium-place-title">Getlokal.ro</h4></a>
+                                     <div class="stars-holder small">                  
+                                        <ul>
+                                            <li class="gray-star"><i class="fa fa-star"></i></li>
+                                            <li class="gray-star"><i class="fa fa-star"></i></li>
+                                            <li class="gray-star"><i class="fa fa-star"></i></li>
+                                            <li class="gray-star"><i class="fa fa-star"></i></li>
+                                            <li class="gray-star"><i class="fa fa-star"></i></li>
+                                            
+                                        </ul>
+                                    <div class="top-list">
+                                        <div class="hiding-holder" style="width: 100%;">
+                                            <ul class="spans-holder">
+                                                <li class="red-star"><i class="fa fa-star"></i></li>
+                                                <li class="red-star"><i class="fa fa-star"></i></li>
+                                                <li class="red-star"><i class="fa fa-star"></i></li>
+                                                <li class="red-star"><i class="fa fa-star"></i></li>
+                                                <li class="red-star"><i class="fa fa-star"></i></li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                            <p class="events-review-number"><span>3</span>o opinie</p>
+                        </div><!-- place-content -->
+                    </div>
+                </li>
+                            <li class="events-places">
+                    <div class="events-place-image">
+                        <a title="asd" href="/ro/bucuresti/ludic-bar"><img alt="Ludic Pub" src="/uploads/photo_gallery/123/20/21/150x150/ludic1.jpg" height="45" width="45" /></a>                    </div><!-- place-image -->
+                    <div class="event-place-content">
+                        <div class="place-content">
+                            <a href="/ro/bucuresti/ludic-bar"><h4 class="premium-place-title">Ludic Pub</h4></a>
+                                     <div class="stars-holder small">                  
+                                        <ul>
+                                            <li class="gray-star"><i class="fa fa-star"></i></li>
+                                            <li class="gray-star"><i class="fa fa-star"></i></li>
+                                            <li class="gray-star"><i class="fa fa-star"></i></li>
+                                            <li class="gray-star"><i class="fa fa-star"></i></li>
+                                            <li class="gray-star"><i class="fa fa-star"></i></li>
+                                            
+                                        </ul>
+                                    <div class="top-list">
+                                        <div class="hiding-holder" style="width: 98%;">
+                                            <ul class="spans-holder">
+                                                <li class="red-star"><i class="fa fa-star"></i></li>
+                                                <li class="red-star"><i class="fa fa-star"></i></li>
+                                                <li class="red-star"><i class="fa fa-star"></i></li>
+                                                <li class="red-star"><i class="fa fa-star"></i></li>
+                                                <li class="red-star"><i class="fa fa-star"></i></li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                            <p class="events-review-number"><span>10</span>o opinie</p>
+                        </div><!-- place-content -->
+                    </div>
+                </li>
+                            <li class="events-places">
+                    <div class="events-place-image">
+                        <a title="asd" href="/ro/bucuresti/have-a-cigar"><img alt="Have a cigar" src="/uploads/photo_gallery/123/20/21/150x150/704679_518979624787314_922536856_o.jpg" height="45" width="45" /></a>                    </div><!-- place-image -->
+                    <div class="event-place-content">
+                        <div class="place-content">
+                            <a href="/ro/bucuresti/have-a-cigar"><h4 class="premium-place-title">Have a cigar</h4></a>
+                                     <div class="stars-holder small">                  
+                                        <ul>
+                                            <li class="gray-star"><i class="fa fa-star"></i></li>
+                                            <li class="gray-star"><i class="fa fa-star"></i></li>
+                                            <li class="gray-star"><i class="fa fa-star"></i></li>
+                                            <li class="gray-star"><i class="fa fa-star"></i></li>
+                                            <li class="gray-star"><i class="fa fa-star"></i></li>
+                                            
+                                        </ul>
+                                    <div class="top-list">
+                                        <div class="hiding-holder" style="width: 98%;">
+                                            <ul class="spans-holder">
+                                                <li class="red-star"><i class="fa fa-star"></i></li>
+                                                <li class="red-star"><i class="fa fa-star"></i></li>
+                                                <li class="red-star"><i class="fa fa-star"></i></li>
+                                                <li class="red-star"><i class="fa fa-star"></i></li>
+                                                <li class="red-star"><i class="fa fa-star"></i></li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                            <p class="events-review-number"><span>13</span>o opinie</p>
+                        </div><!-- place-content -->
+                    </div>
+                </li>
+                    </ul>
+    </div>
+";s:8:"response";C:13:"sfWebResponse":1556:{a:11:{i:0;s:0:"";i:1;i:200;i:2;s:2:"OK";i:3;a:5:{s:13:"http_protocol";s:8:"HTTP/1.1";s:7:"logging";s:0:"";s:7:"charset";s:5:"utf-8";s:17:"send_http_headers";b:1;s:12:"content_type";s:24:"text/html; charset=utf-8";}i:4;b:0;i:5;a:1:{s:12:"Content-Type";s:24:"text/html; charset=utf-8";}i:6;a:3:{s:5:"title";s:18:"testtttttttttttttt";s:11:"description";s:31:"testtttttttttttttt - Bucureşti";s:8:"keywords";s:30:"testtttttttttttttt, bucureşti";}i:7;a:1:{s:12:"Content-Type";s:24:"text/html; charset=utf-8";}i:8;a:3:{s:5:"first";a:0:{}s:0:"";a:8:{s:20:"font-awesome.min.css";a:0:{}s:13:"bootstrap.css";a:0:{}s:9:"style.css";a:0:{}s:12:"settings.css";a:0:{}s:10:"style1.css";a:0:{}s:19:"/images/favicon.ico";a:0:{}s:11:"prettyPhoto";a:0:{}s:9:"component";a:0:{}}s:4:"last";a:0:{}}i:9;a:3:{s:5:"first";a:0:{}s:0:"";a:0:{}s:4:"last";a:0:{}}i:10;a:1:{s:8:"facebook";s:686:"	<meta property="fb:app_id" content="103879256389966"/>
+	<meta property="og:url" content="http://bef9cd7.ngrok.com/ro/article/testtttttttttttttt">
+	<meta property="og:title" content="testtttttttttttttt">
+	<meta property="og:description" content="">
+	<meta property="og:site_name" content="bef9cd7.ngrok.com" />
+    <meta property="og:type" content="article" />
+	    <meta property="og:image" content="http://bef9cd7.ngrok.com/uploads/article/big/1b082bb0a67085d7cea63207ad214b2c0c997812.png">
+	        	<meta property="article:published_time" content="2014-06-17T14:59:15+0300" />
+    <meta property="article:publisher" content="https://www.facebook.com/getlokal" />
+        
+";}}}}

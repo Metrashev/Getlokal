@@ -1,0 +1,289 @@
+001417687266001417514466a:3:{s:7:"content";s:55546:"<div class="slider_wrapper pp">
+  <div class="slider-image">
+    <div class="dim"></div>
+  </div>
+  <div class="slider-separator"></div>  
+</div><!-- slider_wrapper -->
+<div class="container set-over-slider">
+    <div class="row">	
+        <div class="container">
+            <div class="row">
+                <h1 class="col-xs-12 main-form-title">Справочник</h1>
+            </div>
+        </div>	          
+    </div>
+    <div class="default-container default-form-wrapper col-sm-12">
+        <ul class="directory">    
+                                                <li><a class="default-link" href="/frontend_dev.php/bg/locations/avto-moto/koli-prodajba">Продажба на автомобили</a></li>
+                                                                <li><a class="default-link" href="/frontend_dev.php/bg/locations/avto-moto/benzinostancii">Бензиностанции</a></li>
+                                                                <li><a class="default-link" href="/frontend_dev.php/bg/locations/avto-moto/parkingi">Паркинги</a></li>
+                                                                <li><a class="default-link" href="/frontend_dev.php/bg/locations/avto-moto/koli-pod-naem">Автомобили под наем</a></li>
+                                                                <li><a class="default-link" href="/frontend_dev.php/bg/locations/avto-moto/shofiorski-kursove">Шофьорски курсове</a></li>
+                                                                <li><a class="default-link" href="/frontend_dev.php/bg/locations/avto-moto/avtomivki">Автомивки</a></li>
+                                                                <li><a class="default-link" href="/frontend_dev.php/bg/locations/avto-moto/taksita">Таксита</a></li>
+                                                                <li><a class="default-link" href="/frontend_dev.php/bg/locations/avto-moto/avtoservizi">Автосервизи</a></li>
+                                                                <li><a class="default-link" href="/frontend_dev.php/bg/locations/avto-moto/velosipedi-motocikleti">Велосипеди и мотоциклети</a></li>
+                                                                <li><a class="default-link" href="/frontend_dev.php/bg/locations/avto-moto/avtochasti">Авточасти и автоаксесоари</a></li>
+                                                                <li><a class="default-link" href="/frontend_dev.php/bg/locations/avto-moto/avtomobilni-gumi">Автомобилни гуми</a></li>
+                                                                <li><a class="default-link" href="/frontend_dev.php/bg/locations/avto-moto/motocikleti-prodajba-remont">Мотоциклети - продажба и ремонт</a></li>
+                                                                <li><a class="default-link" href="/frontend_dev.php/bg/locations/krasota/solariumi">Соларни студия</a></li>
+                                                                <li><a class="default-link" href="/frontend_dev.php/bg/locations/krasota/friziorski-kozmetichni">Фризьорски и козметични салони</a></li>
+                                                                <li><a class="default-link" href="/frontend_dev.php/bg/locations/krasota/aromaterapiya">Ароматерапия</a></li>
+                                                                <li><a class="default-link" href="/frontend_dev.php/bg/locations/krasota/zdravosloven-jivot">Здравословен живот</a></li>
+                                                                <li><a class="default-link" href="/frontend_dev.php/bg/locations/krasota/yoga-meditatsiya-pilates">Йога, медитация и пилатес</a></li>
+                                                                <li><a class="default-link" href="/frontend_dev.php/bg/locations/krasota/kineziterapiya">Кинезитерапия</a></li>
+                                                                <li><a class="default-link" href="/frontend_dev.php/bg/locations/krasota/kozmetichni-saloni">Козметични салони</a></li>
+                                                                <li><a class="default-link" href="/frontend_dev.php/bg/locations/krasota/masaji">Масажи</a></li>
+                                                                <li><a class="default-link" href="/frontend_dev.php/bg/locations/krasota/parfyumeriya-kozmetika-magazini">Магазини за парфюмерия и козметика</a></li>
+                                                                <li><a class="default-link" href="/frontend_dev.php/bg/locations/krasota/tatuirovki-piarsing">Татуировки и пиърсинг</a></li>
+                                                                <li><a class="default-link" href="/frontend_dev.php/bg/locations/krasota/spa">СПА</a></li>
+                                                                <li><a class="default-link" href="/frontend_dev.php/bg/locations/krasota/epilacia">Епилация</a></li>
+                                                                <li><a class="default-link" href="/frontend_dev.php/bg/locations/stroitelstvo/zhilishtno-stroitelstvo">Жилищно строителство</a></li>
+                                                                <li><a class="default-link" href="/frontend_dev.php/bg/locations/stroitelstvo/vrati">Врати - производство, продажба и монтаж</a></li>
+                                                                <li><a class="default-link" href="/frontend_dev.php/bg/locations/stroitelstvo/stroitelni-materiali">Строителни материали - магазини</a></li>
+                                                                <li><a class="default-link" href="/frontend_dev.php/bg/locations/stroitelstvo/alpinisti-uslugi">Алпинистки услуги - ремонт и поддръжка на сгради</a></li>
+                                                                <li><a class="default-link" href="/frontend_dev.php/bg/locations/detsa/parkove-gradini">Паркове и градини</a></li>
+                                                                <li><a class="default-link" href="/frontend_dev.php/bg/locations/detsa/zoologicheski-gradini">Зоологически градини</a></li>
+                                                                <li><a class="default-link" href="/frontend_dev.php/bg/locations/detsa/atraktsioni">Атракциони</a></li>
+                                                                <li><a class="default-link" href="/frontend_dev.php/bg/locations/detsa/plajove">Плажове</a></li>
+                                                                <li><a class="default-link" href="/frontend_dev.php/bg/locations/detsa/detski-centrove">Центрове за забавления и почасово гледане на деца</a></li>
+                                                                <li><a class="default-link" href="/frontend_dev.php/bg/locations/detsa/cirkove">Циркове</a></li>
+                                                                <li><a class="default-link" href="/frontend_dev.php/bg/locations/detsa/parti-aksesoari">Парти аксесоари</a></li>
+                                                                <li><a class="default-link" href="/frontend_dev.php/bg/locations/detsa/gledane-deca">Гледане на деца</a></li>
+                                                                <li><a class="default-link" href="/frontend_dev.php/bg/locations/detsa/detski-magazini">Магазини за детски стоки и играчки</a></li>
+                                                                <li><a class="default-link" href="/frontend_dev.php/bg/locations/detsa/maichinstvo">Майчинство</a></li>
+                                                                <li><a class="default-link" href="/frontend_dev.php/bg/locations/detsa/sladoledeni-kashti">Сладоледени къщи</a></li>
+                                                                <li><a class="default-link" href="/frontend_dev.php/bg/locations/detsa/detski-gradini-yasli">Детски ясли и градини</a></li>
+                                                                <li><a class="default-link" href="/frontend_dev.php/bg/locations/detsa/detska-kuhnya">Детски кухни</a></li>
+                                                                <li><a class="default-link" href="/frontend_dev.php/bg/locations/detsa/detski-drehi-magazini">Детски дрехи - магазини</a></li>
+                                                                <li><a class="default-link" href="/frontend_dev.php/bg/locations/kino-teatar/kina">Кина</a></li>
+                                                                <li><a class="default-link" href="/frontend_dev.php/bg/locations/kino-teatar/opera-balet-klasicheska-muzika">Опера, балет и класическа музика</a></li>
+                                                                <li><a class="default-link" href="/frontend_dev.php/bg/locations/kino-teatar/teatri">Театри</a></li>
+                                                                <li><a class="default-link" href="/frontend_dev.php/bg/locations/kafeneta-sladkarnitsi/kafeneta">Кафенета</a></li>
+                                                                <li><a class="default-link" href="/frontend_dev.php/bg/locations/kafeneta-sladkarnitsi/sladkarnici">Сладкарници</a></li>
+                                                                <li><a class="default-link" href="/frontend_dev.php/bg/locations/kafeneta-sladkarnitsi/chaina">Чайни</a></li>
+                                                                <li><a class="default-link" href="/frontend_dev.php/bg/locations/mesta-za-piyvane/klubove-muzika-na-jivo">Клубове и музика на живо</a></li>
+                                                                <li><a class="default-link" href="/frontend_dev.php/bg/locations/mesta-za-piyvane/kazina">Казина</a></li>
+                                                                <li><a class="default-link" href="/frontend_dev.php/bg/locations/mesta-za-piyvane/vinarni">Винарни</a></li>
+                                                                <li><a class="default-link" href="/frontend_dev.php/bg/locations/mesta-za-piyvane/barove-bistra">Барове и бистра</a></li>
+                                                                <li><a class="default-link" href="/frontend_dev.php/bg/locations/mesta-za-piyvane/birarii">Бирарии</a></li>
+                                                                <li><a class="default-link" href="/frontend_dev.php/bg/locations/mesta-za-piyvane/irlandski-krachmi">Ирландски кръчми</a></li>
+                                                                <li><a class="default-link" href="/frontend_dev.php/bg/locations/mesta-za-piyvane/mehani-krachmi">Механи и кръчми</a></li>
+                                                                <li><a class="default-link" href="/frontend_dev.php/bg/locations/mesta-za-piyvane/piano-barove">Пиано-барове</a></li>
+                                                                <li><a class="default-link" href="/frontend_dev.php/bg/locations/mesta-za-piyvane/fresh-bar">Фреш барове</a></li>
+                                                                <li><a class="default-link" href="/frontend_dev.php/bg/locations/mesta-za-hapvane/romanski-restoranti">Румънски ресторанти</a></li>
+                                                                <li><a class="default-link" href="/frontend_dev.php/bg/locations/mesta-za-hapvane/balgarski-restoranti">Ресторанти с българска кухня</a></li>
+                                                                <li><a class="default-link" href="/frontend_dev.php/bg/locations/mesta-za-hapvane/zavedenia-barzo-hranene">Заведения за бързо хранене</a></li>
+                                                                <li><a class="default-link" href="/frontend_dev.php/bg/locations/mesta-za-hapvane/pitsarii">Пицарии</a></li>
+                                                                <li><a class="default-link" href="/frontend_dev.php/bg/locations/mesta-za-hapvane/restoranti">Ресторанти</a></li>
+                                                                <li><a class="default-link" href="/frontend_dev.php/bg/locations/mesta-za-hapvane/gracki-restoranti">Гръцки ресторанти</a></li>
+                                                                <li><a class="default-link" href="/frontend_dev.php/bg/locations/mesta-za-hapvane/restoranti-ekzotichni">Ресторанти - екзотична кухня</a></li>
+                                                                <li><a class="default-link" href="/frontend_dev.php/bg/locations/mesta-za-hapvane/indiyski-restoranti">Индийски ресторанти</a></li>
+                                                                <li><a class="default-link" href="/frontend_dev.php/bg/locations/mesta-za-hapvane/restoranti-internatsionalni">Ресторанти - интернационална кухня</a></li>
+                                                                <li><a class="default-link" href="/frontend_dev.php/bg/locations/mesta-za-hapvane/italianski-restoranti">Италиански ресторанти</a></li>
+                                                                <li><a class="default-link" href="/frontend_dev.php/bg/locations/mesta-za-hapvane/kitayski-restoranti">Китайски ресторанти</a></li>
+                                                                <li><a class="default-link" href="/frontend_dev.php/bg/locations/mesta-za-hapvane/ribni-restoranti">Рибни ресторанти</a></li>
+                                                                <li><a class="default-link" href="/frontend_dev.php/bg/locations/mesta-za-hapvane/srabska-skara">Сръбски ресторанти</a></li>
+                                                                <li><a class="default-link" href="/frontend_dev.php/bg/locations/mesta-za-hapvane/sushi-restoranti">Суши ресторанти</a></li>
+                                                                <li><a class="default-link" href="/frontend_dev.php/bg/locations/mesta-za-hapvane/turski-restoranti">Турски ресторанти</a></li>
+                                                                <li><a class="default-link" href="/frontend_dev.php/bg/locations/mesta-za-hapvane/frenski-restoranti">Френски ресторанти</a></li>
+                                                                <li><a class="default-link" href="/frontend_dev.php/bg/locations/mesta-za-hapvane/vegetarianski-restoranti">Вегетариански ресторанти</a></li>
+                                                                <li><a class="default-link" href="/frontend_dev.php/bg/locations/mesta-za-hapvane/portugalski-restoranti">Португалски ресторанти</a></li>
+                                                                <li><a class="default-link" href="/frontend_dev.php/bg/locations/mesta-za-hapvane/braserii">Брасерии</a></li>
+                                                                <li><a class="default-link" href="/frontend_dev.php/bg/locations/mesta-za-hapvane/britanski-restoranti">Британски ресторанти</a></li>
+                                                                <li><a class="default-link" href="/frontend_dev.php/bg/locations/mesta-za-hapvane/restoranti-moderna-evropeyska-kuhnya">Ресторанти - модерна европейска кухня</a></li>
+                                                                <li><a class="default-link" href="/frontend_dev.php/bg/locations/mesta-za-hapvane/tapas-bar">Тапас барове</a></li>
+                                                                <li><a class="default-link" href="/frontend_dev.php/bg/locations/mesta-za-hapvane/vietnamski-restoranti">Виетнамски ресторанти</a></li>
+                                                                <li><a class="default-link" href="/frontend_dev.php/bg/locations/mesta-za-hapvane/tailandski-restoranti">Тайландски ресторанти</a></li>
+                                                                <li><a class="default-link" href="/frontend_dev.php/bg/locations/mesta-za-hapvane/restoranti-sredizemnomorski">Ресторанти - средиземноморска кухня</a></li>
+                                                                <li><a class="default-link" href="/frontend_dev.php/bg/locations/mesta-za-hapvane/armenski-restoranti">Арменски ресторанти</a></li>
+                                                                <li><a class="default-link" href="/frontend_dev.php/bg/locations/obrazovanie/kursove-po-tanci">Уроци и курсове по танци</a></li>
+                                                                <li><a class="default-link" href="/frontend_dev.php/bg/locations/obrazovanie/kursove-uroci">Курсове, уроци и школи</a></li>
+                                                                <li><a class="default-link" href="/frontend_dev.php/bg/locations/obrazovanie/ezikovi-kursove">Езикови уроци и курсове</a></li>
+                                                                <li><a class="default-link" href="/frontend_dev.php/bg/locations/obrazovanie/obrazovanie">Образование</a></li>
+                                                                <li><a class="default-link" href="/frontend_dev.php/bg/locations/zabavlenie/bowling-biliard">Боулинг и билярд</a></li>
+                                                                <li><a class="default-link" href="/frontend_dev.php/bg/locations/zabavlenie/organizirane-tarjestva-sabitiya">Организиране нa тържества и събития</a></li>
+                                                                <li><a class="default-link" href="/frontend_dev.php/bg/locations/zabavlenie/sex-shop">Еротични магазини</a></li>
+                                                                <li><a class="default-link" href="/frontend_dev.php/bg/locations/zabavlenie/muzikalni-magazini">Музикални магазини</a></li>
+                                                                <li><a class="default-link" href="/frontend_dev.php/bg/locations/zabavlenie/foto-video-uslugi">Фотографски и видео услуги и магазини</a></li>
+                                                                <li><a class="default-link" href="/frontend_dev.php/bg/locations/zabavlenie/kulturni-centrove">Културни центрове</a></li>
+                                                                <li><a class="default-link" href="/frontend_dev.php/bg/locations/hrani-napitki/delikatesni-magazini">Деликатесни магазини</a></li>
+                                                                <li><a class="default-link" href="/frontend_dev.php/bg/locations/hrani-napitki/furni-pekarni">Фурни и пекарни</a></li>
+                                                                <li><a class="default-link" href="/frontend_dev.php/bg/locations/hrani-napitki/mesarnici">Месарници</a></li>
+                                                                <li><a class="default-link" href="/frontend_dev.php/bg/locations/hrani-napitki/magazini-shokolad">Шоколад и шоколадови изделия - магазини</a></li>
+                                                                <li><a class="default-link" href="/frontend_dev.php/bg/locations/hrani-napitki/ribni-magazini">Магазини за риба</a></li>
+                                                                <li><a class="default-link" href="/frontend_dev.php/bg/locations/hrani-napitki/plod-zelenchuk">Магазини за плодове и зеленчуци</a></li>
+                                                                <li><a class="default-link" href="/frontend_dev.php/bg/locations/hrani-napitki/supermarketi">Супермаркети</a></li>
+                                                                <li><a class="default-link" href="/frontend_dev.php/bg/locations/hrani-napitki/bio-magazini">Био магазини</a></li>
+                                                                <li><a class="default-link" href="/frontend_dev.php/bg/locations/hrani-napitki/magazini-vino">Магазини за вино</a></li>
+                                                                <li><a class="default-link" href="/frontend_dev.php/bg/locations/hrani-napitki/denonoshtni-magazini">Денонощни магазини</a></li>
+                                                                <li><a class="default-link" href="/frontend_dev.php/bg/locations/hrani-napitki/magazini-alkohol-bezalkoholni">Магазини за алкохолни и безалкохолни напитки</a></li>
+                                                                <li><a class="default-link" href="/frontend_dev.php/bg/locations/hrani-napitki/magazini-kafe-chay-podpravki">Кафе, чай и подправки - магазини</a></li>
+                                                                <li><a class="default-link" href="/frontend_dev.php/bg/locations/hrani-napitki/hranitelni-stoki">Хранителни стоки - магазини</a></li>
+                                                                <li><a class="default-link" href="/frontend_dev.php/bg/locations/hrani-napitki/ketaring">Кетъринг</a></li>
+                                                                <li><a class="default-link" href="/frontend_dev.php/bg/locations/zdrave-meditsina/apteki">Аптеки</a></li>
+                                                                <li><a class="default-link" href="/frontend_dev.php/bg/locations/zdrave-meditsina/denonoshtni-apteki">Аптеки - денонощни</a></li>
+                                                                <li><a class="default-link" href="/frontend_dev.php/bg/locations/zdrave-meditsina/hospisi">Хосписи</a></li>
+                                                                <li><a class="default-link" href="/frontend_dev.php/bg/locations/zdrave-meditsina/kliniki">Клиники</a></li>
+                                                                <li><a class="default-link" href="/frontend_dev.php/bg/locations/zdrave-meditsina/meditsinski-kabineti">Медицински кабинети</a></li>
+                                                                <li><a class="default-link" href="/frontend_dev.php/bg/locations/zdrave-meditsina/magazini-hora-s-uvrejdaniya">Магазини за хора с увреждания</a></li>
+                                                                <li><a class="default-link" href="/frontend_dev.php/bg/locations/zdrave-meditsina/bilkovi-apteki">Билкови аптеки</a></li>
+                                                                <li><a class="default-link" href="/frontend_dev.php/bg/locations/zdrave-meditsina/bolnici">Болници</a></li>
+                                                                <li><a class="default-link" href="/frontend_dev.php/bg/locations/zdrave-meditsina/netraditsionna-medicina">Нетрадиционна медицина</a></li>
+                                                                <li><a class="default-link" href="/frontend_dev.php/bg/locations/zdrave-meditsina/optiki">Оптики</a></li>
+                                                                <li><a class="default-link" href="/frontend_dev.php/bg/locations/zdrave-meditsina/polikliniki-dkc">ДКЦ - поликлиники</a></li>
+                                                                <li><a class="default-link" href="/frontend_dev.php/bg/locations/zdrave-meditsina/zabolekari-stomatolozi">Зъболекарски услуги</a></li>
+                                                                <li><a class="default-link" href="/frontend_dev.php/bg/locations/zdrave-meditsina/fizioterapia">Физиотерапия</a></li>
+                                                                <li><a class="default-link" href="/frontend_dev.php/bg/locations/dom-gradina/perdeta-magazini">Магазини за пердета</a></li>
+                                                                <li><a class="default-link" href="/frontend_dev.php/bg/locations/dom-gradina/magazini-osvetitelni">Магазини за осветителни тела</a></li>
+                                                                <li><a class="default-link" href="/frontend_dev.php/bg/locations/dom-gradina/gradinski-centrove">Градински центрове и магазини</a></li>
+                                                                <li><a class="default-link" href="/frontend_dev.php/bg/locations/dom-gradina/bania-obzavezhdane">Бани - производство, продажба и монтаж на обзавеждане</a></li>
+                                                                <li><a class="default-link" href="/frontend_dev.php/bg/locations/dom-gradina/kuhni-obzavezhdane">Кухни - производство, продажба и монтаж</a></li>
+                                                                <li><a class="default-link" href="/frontend_dev.php/bg/locations/dom-gradina/agencii-imoti">Недвижими имоти</a></li>
+                                                                <li><a class="default-link" href="/frontend_dev.php/bg/locations/dom-gradina/arhitekturni-proektantski-biura">Архитектурна дейност</a></li>
+                                                                <li><a class="default-link" href="/frontend_dev.php/bg/locations/dom-gradina/darvodelski-uslugi">Дърводелски услуги</a></li>
+                                                                <li><a class="default-link" href="/frontend_dev.php/bg/locations/dom-gradina/landshaftna-arhitektura">Ландшафтна архитектура</a></li>
+                                                                <li><a class="default-link" href="/frontend_dev.php/bg/locations/dom-gradina/mebeli-proizvodstvo">Мебели - производство</a></li>
+                                                                <li><a class="default-link" href="/frontend_dev.php/bg/locations/dom-gradina/parket-laminat">Паркети и ламинати - производство, продажба и монтаж</a></li>
+                                                                <li><a class="default-link" href="/frontend_dev.php/bg/locations/dom-gradina/mebelni-magazini">Мебелни магазини</a></li>
+                                                                <li><a class="default-link" href="/frontend_dev.php/bg/locations/dom-gradina/prane-kilimi-moketi">Пране на килими и мокети</a></li>
+                                                                <li><a class="default-link" href="/frontend_dev.php/bg/locations/dom-gradina/remont-elektrouredi">Домакински и професионални електроуреди - ремонт</a></li>
+                                                                <li><a class="default-link" href="/frontend_dev.php/bg/locations/dom-gradina/stroitelstvo-remonti">Строително-ремонтни услуги</a></li>
+                                                                <li><a class="default-link" href="/frontend_dev.php/bg/locations/dom-gradina/pochistvane-domove">Почистване на домове</a></li>
+                                                                <li><a class="default-link" href="/frontend_dev.php/bg/locations/dom-gradina/boyadzhiyski-uslugi">Бояджийски услуги</a></li>
+                                                                <li><a class="default-link" href="/frontend_dev.php/bg/locations/dom-gradina/vik-uslugi">Водопроводчици и В и К услуги</a></li>
+                                                                <li><a class="default-link" href="/frontend_dev.php/bg/locations/dom-gradina/magazini-kilimi">Килими, настилки и облицовки</a></li>
+                                                                <li><a class="default-link" href="/frontend_dev.php/bg/locations/dom-gradina/shtori-tenti-sennitsi">Щори, тенти и сенници</a></li>
+                                                                <li><a class="default-link" href="/frontend_dev.php/bg/locations/dom-gradina/parketi-tsiklene">Циклене на паркети</a></li>
+                                                                <li><a class="default-link" href="/frontend_dev.php/bg/locations/dom-gradina/dogrami-remont">Дограма - ремонт</a></li>
+                                                                <li><a class="default-link" href="/frontend_dev.php/bg/locations/dom-gradina/spalni-matraci">Матраци и спални продукти</a></li>
+                                                                <li><a class="default-link" href="/frontend_dev.php/bg/locations/zabelejitelnosti/pametnici">Паметници</a></li>
+                                                                <li><a class="default-link" href="/frontend_dev.php/bg/locations/zabelejitelnosti/arhitekturni-zabelejitelnosti">Архитектурни паметници</a></li>
+                                                                <li><a class="default-link" href="/frontend_dev.php/bg/locations/zabelejitelnosti/carkvi-hramove">Църкви и храмове</a></li>
+                                                                <li><a class="default-link" href="/frontend_dev.php/bg/locations/zabelejitelnosti/dzhamii">Джамии</a></li>
+                                                                <li><a class="default-link" href="/frontend_dev.php/bg/locations/mestni-uslugi/poshti">Пощи</a></li>
+                                                                <li><a class="default-link" href="/frontend_dev.php/bg/locations/mestni-uslugi/retsiklirane">Рециклиране</a></li>
+                                                                <li><a class="default-link" href="/frontend_dev.php/bg/locations/mestni-uslugi/bileti">Билетни центрове</a></li>
+                                                                <li><a class="default-link" href="/frontend_dev.php/bg/locations/mestni-uslugi/obshtestveni-peralni">Обществени перални</a></li>
+                                                                <li><a class="default-link" href="/frontend_dev.php/bg/locations/mestni-uslugi/ozeleniavane">Озеленяване</a></li>
+                                                                <li><a class="default-link" href="/frontend_dev.php/bg/locations/mestni-uslugi/pogrebalni-biura">Погребални услуги</a></li>
+                                                                <li><a class="default-link" href="/frontend_dev.php/bg/locations/mestni-uslugi/svatbeni-agencii">Сватбени агенции</a></li>
+                                                                <li><a class="default-link" href="/frontend_dev.php/bg/locations/mestni-uslugi/tsvetarski-magazini">Цветарски магазини</a></li>
+                                                                <li><a class="default-link" href="/frontend_dev.php/bg/locations/mestni-uslugi/magazini-chasovnici">Магазини за часовници</a></li>
+                                                                <li><a class="default-link" href="/frontend_dev.php/bg/locations/mestni-uslugi/kliuchari">Ключари и ключове</a></li>
+                                                                <li><a class="default-link" href="/frontend_dev.php/bg/locations/mestni-uslugi/obushtari-kojari">Обущарски и кожарски услуги</a></li>
+                                                                <li><a class="default-link" href="/frontend_dev.php/bg/locations/mestni-uslugi/himichesko-chistene">Химическо чистене</a></li>
+                                                                <li><a class="default-link" href="/frontend_dev.php/bg/locations/mestni-uslugi/shivashki-uslugi">Шивашки услуги</a></li>
+                                                                <li><a class="default-link" href="/frontend_dev.php/bg/locations/mestni-uslugi/ramki-kartini-snimki">Рамки за картини и снимки</a></li>
+                                                                <li><a class="default-link" href="/frontend_dev.php/bg/locations/mestni-uslugi/oborudvane-naem">Оборудване под наем</a></li>
+                                                                <li><a class="default-link" href="/frontend_dev.php/bg/locations/mestni-uslugi/lodki-aksesoari">Лодки и аксесоари за лодки</a></li>
+                                                                <li><a class="default-link" href="/frontend_dev.php/bg/locations/pari-finansi/banki">Банки</a></li>
+                                                                <li><a class="default-link" href="/frontend_dev.php/bg/locations/pari-finansi/finansovi-uslugi">Финансови услуги</a></li>
+                                                                <li><a class="default-link" href="/frontend_dev.php/bg/locations/pari-finansi/zastrahovki">Застрахователна дейност</a></li>
+                                                                <li><a class="default-link" href="/frontend_dev.php/bg/locations/pari-finansi/schetovodni-kashti">Счетоводни услуги</a></li>
+                                                                <li><a class="default-link" href="/frontend_dev.php/bg/locations/pari-finansi/bankomati">Банкомати</a></li>
+                                                                                            <li><a class="default-link" href="/frontend_dev.php/bg/locations/muzei-izkustvo/prilojni-izkustva">Приложни изкуства</a></li>
+                                                                <li><a class="default-link" href="/frontend_dev.php/bg/locations/muzei-izkustvo/muzei">Музеи</a></li>
+                                                                <li><a class="default-link" href="/frontend_dev.php/bg/locations/muzei-izkustvo/hudojestveni-galerii">Художествени галерии и арт магазини</a></li>
+                                                                <li><a class="default-link" href="/frontend_dev.php/bg/locations/muzei-izkustvo/antikvarni-magazini">Антикварни магазини</a></li>
+                                                                <li><a class="default-link" href="/frontend_dev.php/bg/locations/drugi-uslugi/posolstva">Посолства</a></li>
+                                                                <li><a class="default-link" href="/frontend_dev.php/bg/locations/drugi-uslugi/organizatsii-nestopanska-tsel">Организации и дружества с нестопанска цел</a></li>
+                                                                <li><a class="default-link" href="/frontend_dev.php/bg/locations/drugi-uslugi/zvukozapisni-studia">Звукозаписни студия и услуги</a></li>
+                                                                <li><a class="default-link" href="/frontend_dev.php/bg/locations/drugi-uslugi/geodezia-kartografia">Геодезия и картография</a></li>
+                                                                <li><a class="default-link" href="/frontend_dev.php/bg/locations/na-otkrito/lovno-ribarski-prinadlejnosti">Ловно-рибарски магазини</a></li>
+                                                                <li><a class="default-link" href="/frontend_dev.php/bg/locations/na-otkrito/kampingi">Къмпинги</a></li>
+                                                                <li><a class="default-link" href="/frontend_dev.php/bg/locations/na-otkrito/ezda">Езда</a></li>
+                                                                <li><a class="default-link" href="/frontend_dev.php/bg/locations/na-otkrito/lov-ribolov">Лов и риболов</a></li>
+                                                                <li><a class="default-link" href="/frontend_dev.php/bg/locations/na-otkrito/ekstremeni-sportove">Екстремни спортове и игри на открито</a></li>
+                                                                <li><a class="default-link" href="/frontend_dev.php/bg/locations/na-otkrito/golf-igrishta-klubove">Голф игрища и клубове</a></li>
+                                                                <li><a class="default-link" href="/frontend_dev.php/bg/locations/na-otkrito/tenis-kortove">Тенис кортове</a></li>
+                                                                <li><a class="default-link" href="/frontend_dev.php/bg/locations/na-otkrito/zimen-sport">Зимни спортове и съоръжения</a></li>
+                                                                <li><a class="default-link" href="/frontend_dev.php/bg/locations/domashni-lyubimtsi/priyuti-jivotni">Приюти за животни</a></li>
+                                                                <li><a class="default-link" href="/frontend_dev.php/bg/locations/domashni-lyubimtsi/domashni-liubimci">Домашни любимци</a></li>
+                                                                <li><a class="default-link" href="/frontend_dev.php/bg/locations/domashni-lyubimtsi/hoteli-za-domashni-liubimetsi">Хотели за домашни любимци</a></li>
+                                                                <li><a class="default-link" href="/frontend_dev.php/bg/locations/domashni-lyubimtsi/zoomagazini">Зоомагазини</a></li>
+                                                                <li><a class="default-link" href="/frontend_dev.php/bg/locations/profesionalni-uslugi/ohranitelni-uslugi">Охранителни услуги</a></li>
+                                                                <li><a class="default-link" href="/frontend_dev.php/bg/locations/profesionalni-uslugi/speditsia-transport">Спедиция и международен транспорт</a></li>
+                                                                <li><a class="default-link" href="/frontend_dev.php/bg/locations/profesionalni-uslugi/reklamna-deinost">Рекламна дейност</a></li>
+                                                                <li><a class="default-link" href="/frontend_dev.php/bg/locations/profesionalni-uslugi/reklamni-agentsii">Рекламни агенции</a></li>
+                                                                <li><a class="default-link" href="/frontend_dev.php/bg/locations/profesionalni-uslugi/dizaineri">Дизайнерски услуги</a></li>
+                                                                <li><a class="default-link" href="/frontend_dev.php/bg/locations/profesionalni-uslugi/PR-agencii">Връзки с обществеността</a></li>
+                                                                <li><a class="default-link" href="/frontend_dev.php/bg/locations/profesionalni-uslugi/agrohimicheski-uslugi">Агрохимически услуги</a></li>
+                                                                <li><a class="default-link" href="/frontend_dev.php/bg/locations/profesionalni-uslugi/mitnicheski-agencii">Митнически агенти и услуги</a></li>
+                                                                <li><a class="default-link" href="/frontend_dev.php/bg/locations/profesionalni-uslugi/advokati">Адвокати</a></li>
+                                                                <li><a class="default-link" href="/frontend_dev.php/bg/locations/profesionalni-uslugi/notariusi">Нотариуси</a></li>
+                                                                <li><a class="default-link" href="/frontend_dev.php/bg/locations/profesionalni-uslugi/biznes-centrove">Бизнес центрове</a></li>
+                                                                <li><a class="default-link" href="/frontend_dev.php/bg/locations/profesionalni-uslugi/sertifikatsionni-registratsionni-uslugi">Сертификационни и регистрационни услуги</a></li>
+                                                                <li><a class="default-link" href="/frontend_dev.php/bg/locations/profesionalni-uslugi/pochistvane">Почистване на офиси и сгради</a></li>
+                                                                <li><a class="default-link" href="/frontend_dev.php/bg/locations/profesionalni-uslugi/konferentni-zali">Конферентни зали и центрове</a></li>
+                                                                <li><a class="default-link" href="/frontend_dev.php/bg/locations/profesionalni-uslugi/advokatski-kantori">Юридически услуги</a></li>
+                                                                <li><a class="default-link" href="/frontend_dev.php/bg/locations/profesionalni-uslugi/prevodi-legalizatsia-nabor-tekst">Превод, легализация и набор на текст</a></li>
+                                                                <li><a class="default-link" href="/frontend_dev.php/bg/locations/profesionalni-uslugi/kurieri">Куриерски услуги</a></li>
+                                                                <li><a class="default-link" href="/frontend_dev.php/bg/locations/profesionalni-uslugi/desinfekcia-desinsektsia-deratizatsia">Дезинфекция, дезинсекция и дератизация</a></li>
+                                                                <li><a class="default-link" href="/frontend_dev.php/bg/locations/profesionalni-uslugi/premestvane-dom-ofis">Преместване на домове и офиси</a></li>
+                                                                <li><a class="default-link" href="/frontend_dev.php/bg/locations/profesionalni-uslugi/vremenen-personal">Временен персонал</a></li>
+                                                                <li><a class="default-link" href="/frontend_dev.php/bg/locations/obshestveni-uslugi/politsiya">Полиция</a></li>
+                                                                <li><a class="default-link" href="/frontend_dev.php/bg/locations/obshestveni-uslugi/stopanski-targovski-kamari">Стопански и търговски камари</a></li>
+                                                                <li><a class="default-link" href="/frontend_dev.php/bg/locations/obshestveni-uslugi/institutsii-ministerstva">Институции</a></li>
+                                                                <li><a class="default-link" href="/frontend_dev.php/bg/locations/shoping/pazari-bazari">Пазари и базари</a></li>
+                                                                <li><a class="default-link" href="/frontend_dev.php/bg/locations/shoping/sportni-magazini">Спортни и туристически магазини</a></li>
+                                                                <li><a class="default-link" href="/frontend_dev.php/bg/locations/shoping/knijarnici">Книжарници</a></li>
+                                                                <li><a class="default-link" href="/frontend_dev.php/bg/locations/shoping/bijuterii">Бижутерийни магазини</a></li>
+                                                                <li><a class="default-link" href="/frontend_dev.php/bg/locations/shoping/mebeli">Мебели - търговия</a></li>
+                                                                <li><a class="default-link" href="/frontend_dev.php/bg/locations/shoping/platove-magazini">Платове - магазини</a></li>
+                                                                <li><a class="default-link" href="/frontend_dev.php/bg/locations/shoping/manista-magazini">Мъниста - магазини</a></li>
+                                                                <li><a class="default-link" href="/frontend_dev.php/bg/locations/shoping/svatbeni-saloni">Сватбени салони</a></li>
+                                                                <li><a class="default-link" href="/frontend_dev.php/bg/locations/shoping/suveniri-podaraci-magazini">Магазини за подаръци и сувенири</a></li>
+                                                                <li><a class="default-link" href="/frontend_dev.php/bg/locations/shoping/damski-drehi-magazini">Дамска мода - магазини</a></li>
+                                                                <li><a class="default-link" href="/frontend_dev.php/bg/locations/shoping/magazini-elektrouredi">Магазини за електроуреди</a></li>
+                                                                <li><a class="default-link" href="/frontend_dev.php/bg/locations/shoping/magazini-kojeni">Магазини за кожени изделия</a></li>
+                                                                <li><a class="default-link" href="/frontend_dev.php/bg/locations/shoping/GSM-magazini">Магазини за мобилни телефони</a></li>
+                                                                <li><a class="default-link" href="/frontend_dev.php/bg/locations/shoping/majka-moda">Мъжка мода - магазини</a></li>
+                                                                <li><a class="default-link" href="/frontend_dev.php/bg/locations/shoping/oblekla-vtora-upotreba">Облекла втора употреба - магазини</a></li>
+                                                                <li><a class="default-link" href="/frontend_dev.php/bg/locations/shoping/oblekla-aksesoari">Магазини за облекло и аксесоари</a></li>
+                                                                <li><a class="default-link" href="/frontend_dev.php/bg/locations/shoping/magazini-obuvki">Магазини за обувки</a></li>
+                                                                <li><a class="default-link" href="/frontend_dev.php/bg/locations/shoping/targovski-centrove">Търговски центрове</a></li>
+                                                                <li><a class="default-link" href="/frontend_dev.php/bg/locations/shoping/unikati">Уникати - магазини</a></li>
+                                                                <li><a class="default-link" href="/frontend_dev.php/bg/locations/shoping/spalno-belyo">Спално бельо, хавлии и покривки</a></li>
+                                                                <li><a class="default-link" href="/frontend_dev.php/bg/locations/shoping/domakinski-potrebi">Домакински съдове, принадлежности и домашни потреби</a></li>
+                                                                <li><a class="default-link" href="/frontend_dev.php/bg/locations/shoping/pasmanteriya-galanteriya-kinkaleriya">Пасмантерия, галантерия и кинкалерия</a></li>
+                                                                <li><a class="default-link" href="/frontend_dev.php/bg/locations/shoping/trikotaj-belyo">Трикотаж и бельо</a></li>
+                                                                <li><a class="default-link" href="/frontend_dev.php/bg/locations/shoping/magazini-chanti-kufari">Чанти, куфари и аксесоари</a></li>
+                                                                <li><a class="default-link" href="/frontend_dev.php/bg/locations/shoping/magazini">Магазини</a></li>
+                                                                <li><a class="default-link" href="/frontend_dev.php/bg/locations/shoping/kancelarski-ofis-materiali">Канцеларски и офис материали</a></li>
+                                                                <li><a class="default-link" href="/frontend_dev.php/bg/locations/shoping/elektronna-katalojna-targovia">Електронна и каталожна търговия</a></li>
+                                                                <li><a class="default-link" href="/frontend_dev.php/bg/locations/sport-fitnes/sportove">Спортове</a></li>
+                                                                <li><a class="default-link" href="/frontend_dev.php/bg/locations/sport-fitnes/sportni-klubove">Спортни клубове</a></li>
+                                                                <li><a class="default-link" href="/frontend_dev.php/bg/locations/sport-fitnes/vodolazni-uslugi">Водолазни услуги и спорт</a></li>
+                                                                <li><a class="default-link" href="/frontend_dev.php/bg/locations/sport-fitnes/fitnes-klubove">Фитнес клубове</a></li>
+                                                                <li><a class="default-link" href="/frontend_dev.php/bg/locations/sport-fitnes/boino-izkustvo">Бойни изкуства и спортове</a></li>
+                                                                <li><a class="default-link" href="/frontend_dev.php/bg/locations/sport-fitnes/profesionalni-sportni-klubove">Професионални спортни клубове и организации</a></li>
+                                                                <li><a class="default-link" href="/frontend_dev.php/bg/locations/sport-fitnes/sportni-zali">Спортни зали</a></li>
+                                                                <li><a class="default-link" href="/frontend_dev.php/bg/locations/sport-fitnes/baseini">Басейни</a></li>
+                                                                <li><a class="default-link" href="/frontend_dev.php/bg/locations/sport-fitnes/stadioni">Стадиони</a></li>
+                                                                                            <li><a class="default-link" href="/frontend_dev.php/bg/locations/tehnologia/audio-vizualna-elektronna-tehnika">Аудио-визуална и електронна техника</a></li>
+                                                                <li><a class="default-link" href="/frontend_dev.php/bg/locations/tehnologia/kompiutri-prodazhba">Компютри - продажба</a></li>
+                                                                <li><a class="default-link" href="/frontend_dev.php/bg/locations/tehnologia/pc-remont">Компютри - поддръжка и ремонт</a></li>
+                                                                <li><a class="default-link" href="/frontend_dev.php/bg/locations/tehnologia/telekomunikacii-produkti-uslugi">Телекомуникации – продукти и услуги</a></li>
+                                                                <li><a class="default-link" href="/frontend_dev.php/bg/locations/patuvane/turisticheski-agencii">Туристически агенции и туроператори</a></li>
+                                                                <li><a class="default-link" href="/frontend_dev.php/bg/locations/patuvane/kashti-za-gosti">Къщи за гости</a></li>
+                                                                <li><a class="default-link" href="/frontend_dev.php/bg/locations/patuvane/eko-turizam">Еко туризъм</a></li>
+                                                                <li><a class="default-link" href="/frontend_dev.php/bg/locations/patuvane/pochivni-bazi">Почивни бази</a></li>
+                                                                <li><a class="default-link" href="/frontend_dev.php/bg/locations/patuvane/vili-bungala">Ваканционни вили и бунгала</a></li>
+                                                                <li><a class="default-link" href="/frontend_dev.php/bg/locations/patuvane/hosteli">Хостели</a></li>
+                                                                <li><a class="default-link" href="/frontend_dev.php/bg/locations/patuvane/hoteli">Хотели</a></li>
+                                                                <li><a class="default-link" href="/frontend_dev.php/bg/locations/patuvane/moteli">Мотели</a></li>
+                                                                <li><a class="default-link" href="/frontend_dev.php/bg/locations/patuvane/hiji">Хижи</a></li>
+                                                                <li><a class="default-link" href="/frontend_dev.php/bg/locations/patuvane/selski-turizam">Селски туризъм</a></li>
+                                                                <li><a class="default-link" href="/frontend_dev.php/bg/locations/patuvane/prirodni-zabelejitelnosti">Природни забележителности</a></li>
+                                                                <li><a class="default-link" href="/frontend_dev.php/bg/locations/patuvane/voden-transport">Воден транспорт</a></li>
+                             
+        </ul>
+    </div>	
+</div>
+
+<style>
+    .directory{
+        list-style: none;
+    }
+</style>";s:17:"decoratorTemplate";s:62:"C:\wamp\www\tasks\newdesign\apps\frontend\templates/layout.php";s:8:"response";C:13:"sfWebResponse":891:{a:11:{i:0;s:0:"";i:1;i:200;i:2;s:2:"OK";i:3;a:5:{s:13:"http_protocol";s:8:"HTTP/1.1";s:7:"logging";s:1:"1";s:7:"charset";s:5:"utf-8";s:17:"send_http_headers";b:1;s:12:"content_type";s:24:"text/html; charset=utf-8";}i:4;b:0;i:5;a:1:{s:12:"Content-Type";s:24:"text/html; charset=utf-8";}i:6;a:3:{s:5:"title";s:23:"Select a classification";s:11:"description";s:50:"Избери класификация - София";s:8:"keywords";s:50:"избери, класификация, софия";}i:7;a:1:{s:12:"Content-Type";s:24:"text/html; charset=utf-8";}i:8;a:3:{s:5:"first";a:0:{}s:0:"";a:8:{s:20:"font-awesome.min.css";a:0:{}s:13:"bootstrap.css";a:0:{}s:9:"style.css";a:0:{}s:12:"settings.css";a:0:{}s:10:"style1.css";a:0:{}s:19:"/images/favicon.ico";a:0:{}s:11:"prettyPhoto";a:0:{}s:9:"component";a:0:{}}s:4:"last";a:0:{}}i:9;a:3:{s:5:"first";a:0:{}s:0:"";a:0:{}s:4:"last";a:0:{}}i:10;a:0:{}}}}
