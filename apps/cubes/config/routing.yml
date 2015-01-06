@@ -1,0 +1,47 @@
+# You can find more information about this file on the symfony website:
+# http://www.symfony-project.org/reference/1_4/en/10-Routing
+
+# default rules
+homepage:
+  url:   /
+  param: { module: default, action: index }
+
+# generic rules
+# please, remove them by adding more specific rules
+placeanorder:
+  url:   /order/:action/:company_id/:token
+  param: { module: order }
+  requirements:  { company_id: \d+, token: \w(\w|\+)*\w , action: (?:create|getCompanyOrders)}
+
+merge_companies:
+  url:   /company/:action/:company1_id/:company2_id/:token
+  param: { module: company, action: merge }
+  requirements:  { company1_id: \d+, company2_id: \d+, token: \w(\w|\+)*\w}
+
+
+placeadmin:
+  url:   /:module/:action/:user_id/:company_id/:token
+  requirements:  { module: placeadmin, user_id: \d+, company_id: \d+, token: \w(\w|\+)*\w, action: (?:setPlaceAdmin|checkAdmin|deleteAdmin)}
+
+new_object:
+  url:   /:module/:action/:token
+  requirements:  { token: \w(\w|\+)*\w, action: (?:create|checkUser)}
+
+object:
+  url:   /:module/:action/:id/:token
+  requirements:  {id: \d+, token: \w(\w|\+)*\w}
+  
+
+
+default:
+  url:   /:module/:action/*
+
+default_index:
+  url:   /:module
+  param: { action: index }
+
+
+
+  
+
+  

@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<xliff version="1.0">
+    <file orginal="global" source-language="en_EN" datatype="plaintext">
+        <body>
+            <trans-unit>
+                <source>Your Claim request for %s, %s is currently pending.</source>
+                <target>Вашето барање за админитрација на %s, %s чека одобрување.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>After its approval by getlokal, you will be able to upload photos, working hours, description of %s, as well as to respond to user reviews.</source>
+                <target>По добивањето на одобрување од страна на getlokal, ќе бидете во можност да прикачувате фотографии, работно време, опис за %s, како и да давате одговор на препораките на корисниците. </target>
+            </trans-unit>
+            <trans-unit>
+                <source>If you have any questions, feel free to %s.</source>
+                <target>Доколку имате било какви прашања, слободно %s. </target>
+            </trans-unit>
+            <trans-unit>
+                <source>contact us</source>
+                <target>контактирајте не</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Your Place Claim for %s, %s  has already been rejected and you have been notified by email.</source>
+                <target>Вашето барање за администрација на %s, %s е веќе одбиено и известени сте за истото преку  е-пошта.</target>
+            </trans-unit>
+        </body>
+    </file>
+</xliff>

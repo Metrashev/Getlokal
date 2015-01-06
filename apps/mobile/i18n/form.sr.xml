@@ -1,0 +1,1348 @@
+<?xml version="1.0" ?>
+<xliff version="1.0">
+    <file orginal="global" source-language="en_EN" datatype="plaintext">
+        <body>
+            <trans-unit>
+                <source>Day, month and year are mandatory fields</source>
+                <target>Dan, mesec i godina su obavezna polja.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Username "%value%" cannot be used</source>
+                <target>Korisničko ime "%value%" se ne može koristiti.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The username "%value%" contains characters that are not allowed</source>
+                <target>Korisničko ime "%value%" sadrži karaktere koji nisu dozvoljeni.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The slug "%value%" contains characters that are not allowed</source>
+                <target>Korisničko ime "%value%" sadrži karaktere koji nisu dozvoljeni.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Username must contain at least %min_length% characters</source>
+                <target>Korisničko ime mora sadržati najmanje %min_length% karaktera.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Username cannot contain more than %max_length% characters.</source>
+                <target>Korisničko ime ne može sadržati više od %max_length% karaktera.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Invalid email – your email is not in the correct format</source>
+                <target>Nevalidna email adresa – email adresa nije u korektnom formatu.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>"%value%" is too short.  The username should be at least 3 characters.</source>
+                <target>"%value%" je suviše kratko. Korisničko ime treba imati najmanje 3 karaktera.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Your password should be at least %min_length% characters long</source>
+                <target>Lozinka treba imati najmanje %min_length% karaktera.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Your password cannot contain more than %max_length% characters</source>
+                <target>Lozinka ne može imati više od %max_length% karaktera.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The passwords do not match</source>
+                <target>Lozinka nije tačna.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>This email address has already been registered by another user</source>
+                <target>Ova email adresa je već registrovana od strane drugog korisnika.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>This username is already in use</source>
+                <target>Ovo korisničko ime je već registrovano.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>This field is mandatory. Please start typing the name of your home location and select from the list.</source>
+                <target>Ovo polje je obavezno. Unesi početna slova svoje lokacije i odaberi je iz liste.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>You have entered the text incorrectly. Please try again.</source>
+                <target>Netačno je unet tekst. Pokušaj ponovo.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Please retype your password.</source>
+                <target>Unesi svoju lozinku ponovo.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Please retype your password.</source>
+                <target>Unesi svoju lozinku ponovo.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Email is required</source>
+                <target>Email adresa je obavezna.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>You must select a file to upload</source>
+                <target>Moraš selektovati fajl.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The file you submitted is not in a valid format. Please upload a JPG, GIF or PNG image file.</source>
+                <target>Fajl koji je selektovan nije odgovarajuceg formata. Selektuj fajl u JPG, GIF ili PNG formatu.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The file you submitted is not in a valid format. Please upload a JPG, GIF or PNG image file.</source>
+                <target>Fajl koji je selektovan nije odgovarajuceg formata. Selektuj fajl u JPG, GIF ili PNG formatu.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>File size limit is 4MB.Please reduce file size before submitting again.</source>
+                <target>Veličina fajla je limitirana na 4MB. Redukuj veličinu fajla.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>File size limit is 2MB.Please reduce file size.</source>
+                <target>Veličina fajla je ograničena na 2MB. Redukuj veličinu fajla.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Caption "%value%" contains forbidden characters</source>
+                <target>Opis "%value%" sadrži karaktere koji nisu dozvoljeni.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Caption "%value%" contains forbidden words</source>
+                <target>Opis "%value%" sadrži reči koje nisu dozvoljene.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Type photo caption</source>
+                <target>Opiši fotografiju.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Type photo caption</source>
+                <target>Opiši fotografiju.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Caption must contain at least %min_length% characters</source>
+                <target>Opis mora da sadrži najmanje %min_length% karaktera.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The caption cannot contain more than %max_length% characters.</source>
+                <target>Opis ne može sadržati više od %max_length% karaktera.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The review cannot contain more than %max_length% characters. Shorten your review.</source>
+                <target>Preporuka ne može sadržati više od %max_length% karaktera. Skrati svoju preporuku.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The review must contain at least %min_length% characters</source>
+                <target>Preporuka treba sadržati najmanje %min_length% karaktera.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The review contains characters that are not allowed</source>
+                <target>Preporuka sadrži karaktere koji nisu dozvoljeni.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The review contains words that are not allowed</source>
+                <target>Preporuka sadrži reči koje nisu dozvoljene.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The answer cannot contain more than %max_length% characters</source>
+                <target>Odgovor ne može sadržati više od %max_length% karaktera.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The answer must contain at least %min_length% characters</source>
+                <target>Odgovor mora sadržati najmanje %min_length% karaktera.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The review cannot contain more than %max_length% characters</source>
+                <target>Preporuka ne može sadržati više od %max_length% karaktera.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>the answer contains words that are not allowed</source>
+                <target>Odgovor sadrži reči koje nisu dozvoljene.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Type Review</source>
+                <target>Napiši preporuku.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The caption must contain at least 3 characters</source>
+                <target>Opis treba da sadrži najmanje 3 karaktera.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The caption cannot contain more than 155 characters</source>
+                <target>Opis ne može sadržati više od 155 karaktera.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The field is mandatory</source>
+                <target>Polje je obavezno.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Select Your Position</source>
+                <target>Odaberi svoju poziciju.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Invalid Phone Number</source>
+                <target>Broj telefona nije validan.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>This field is mandatory. Select your town/city from the dropdown list.</source>
+                <target>Ovo polje je obavezno. Odaberi svoj grad iz padajućeg menija.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>This field is mandatory. Select your town/city from the dropdown list.</source>
+                <target>Ovo polje je obavezno. Odaberi svoj grad iz padajućeg menija.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>This field cannot contain more than %max_length% characters</source>
+                <target>Ovo polje ne može sadržati više od %max_length% karaktera.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Select company type</source>
+                <target>Odaberi tip firme.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Select address type</source>
+                <target>Odaberi tip adrese.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Invalid Postcode</source>
+                <target>Poštanski broj je netačan.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>You must select Street and/or Nighbourhood</source>
+                <target>Odaberi "ulicu" i "naselje".</target>
+            </trans-unit>
+            <trans-unit>
+                <source>You must enter Street and/or Nighbourhood</source>
+                <target>Unes naziv "ulice" i "naselja".</target>
+            </trans-unit>
+            <trans-unit>
+                <source>You must enter Street Number and/or Entrance</source>
+                <target>Moraš uneti broj ulice.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Enter the URL of Your Blog</source>
+                <target>Unesi veb adresu - URL svog bloga</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The field cannot contain more than %max_length% characters</source>
+                <target>Polje ne može sadržati više od %max_length% karaktera.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The field must contain at least %min_length% characters</source>
+                <target>Polje mora sadržati najmanje %min_length% karaktera.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Invalid format. E.g. http://www.getlokal.com</source>
+                <target>Format nije validan. Primer: http://www.getlokal.rs</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Invalid format. E.g. getlokal.com!</source>
+                <target>Format nije validan. Primer: getlokal.rs!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Invalid format. E.g. http://blog.getlokal.com</source>
+                <target>Format nije validan. Primer: http://blog.getlokal.com</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Invalid format. E.g. http://twitter.com/@getlokal</source>
+                <target>Format nije validan. Primer: http://twitter.com/@getlokal.rs</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Invalid format. E.g. http://www.facebook.com/#!/getlokal</source>
+                <target>Format nije validan. Primer: http://www.facebook.com/getlokal.rs</target>
+            </trans-unit>
+            <trans-unit>
+                <source>This field is not mandatory but if you fill it in it must contain at least %min_length% characters</source>
+                <target>Ovo polje nije obavezno ali ukolko se popunjava ono mora sadržati najmanje %min_length% karaktera.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>This field is not mandatory but if you fill it in it cannot contain more than %max_length% characters.</source>
+                <target>Ovo polje nije obavezno ali ukolko se popunjava ono ne može sadržati više od %max_length% karaktera.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Select Your Position</source>
+                <target>Odaberi svoju poziciju.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Company validation email was not sent successfully. Company registration failed. Please try again.</source>
+                <target>Potvrda validnosti podataka nije uspešno izvršena. Registracija firme nije uspela. Molimo pokušaj ponovo.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The new password was sent successfully to the email you provided.</source>
+                <target>Nova lozinka je poslata ne email adresu koja je navedena.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Invalid format. E.g. http://www.facebook.com/getlokal.rs</source>
+                <target>Format nije validan. Primer: http://www.facebook.com/getlokal.rs</target>
+            </trans-unit>
+            <trans-unit>
+                <source>There was a problem changing your password. Please try again later.</source>
+                <target>Došlo je do greške prilikom promene lozinke. Molimo pokušaj ponovo malo kasnije.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The start date cannot be earlier than today</source>
+                <target>Datum početka ne može biti pre današnjeg.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The start date of the second promo month cannot be earlier than the end date of the first</source>
+                <target>Datum početka drugog promotivnog meseca ne može biti pre datuma kraja prvog.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The start date of the third promo month cannot be earlier than the end date of the second</source>
+                <target>Datum početka trećeg promotivnog meseca ne može biti pre datuma kraja drugog.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The start date for the third period must not be later than 30 days before the end date of your advert</source>
+                <target>Datum početka trećeg perioda može biti najkasnije 30 dana pre datuma isteka oglasa.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The start date for the period must not be later than 30 days before the end date of your advert</source>
+                <target>Datum početka perioda može biti najkasnije 30 dana pre datuma isteka oglasa.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Type an Answer</source>
+                <target>Upiši odgovor.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The Offer Title cannot be longer than %max_length% characters</source>
+                <target>Naziv funkcije ne može biti duži od %max_length% karaktera.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Offer Title</source>
+                <target>Naziv funkcije.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The maximum number of vouchers issued per user cannot exceed the total number of vouchers for the offer</source>
+                <target>Maksimalan broj izdatih vaučera po korisniku ne može biti veći od ukupnog broja vaučera u ponudi.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>You cannot select a date earlier than today's</source>
+                <target>Datum ne može biti pre današnjeg.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Тhe end date of your offer cannot be later than the end date of your advert</source>
+                <target>Datum isteka ponude ne može biti nakon isteka oglasa.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The offer end date cannot be earlier than the start date</source>
+                <target>Datum isteka ponude ne može biti pre datuma njenog početka.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The voucher valid to date cannot be earlier than the offer end date</source>
+                <target>Vaučer mora da važi najmanje do datuma isteka ponude.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Select date, month and year</source>
+                <target>Odaberi dan, mesec i godinu.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The email address is not in a valid format</source>
+                <target>Email adresa nije u korektnom formatu.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>An email is mandatory</source>
+                <target>Email adresa je obavezna.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>You need to agree to the Terms of Use and the Policy for Use and Protection of the Information on Getlokal</source>
+                <target>Potrebno je prihvatiti Uslove korišćenja i Polisu korišćenja i Zaštite infornacija na Getlokal </target>
+            </trans-unit>
+            <trans-unit>
+                <source>You need to agree to getlokal's Terms of Use to create a user account</source>
+                <target>Potrebno je prihvatiti Getlokal Uslove korišćenja da bi de kreirao korisnički nalog.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Location is mandatory. Start typing the name of your location and select from the list.</source>
+                <target>Lokacija je obavezna. Unesi početna slova svoje lokacije i odaberi je iz liste.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Password must be at least %min_length% characters</source>
+                <target>Lozinka mora sadržati najmanje %min_length% karaktera.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Password cannot be more than %min_length% characters</source>
+                <target>Lozinka ne može biti duža od %max_length% karaktera.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>A username is mandatory</source>
+                <target>Korisničko ime je obavezno.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Invalid unsubscribe code for </source>
+                <target>Kod za odjavu je nevalidan za </target>
+            </trans-unit>
+            <trans-unit>
+                <source>The passwords don't match</source>
+                <target>Lozinke nisu iste.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Description must contain at least %min_length% characters</source>
+                <target>Opis mora sadržati najmanje %min_length% karaktera.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The description cannot contain more than %max_length% characters.</source>
+                <target>Opis ne može sadržati više od %max_length% karaktera.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Description "%value%" contains forbidden words</source>
+                <target>Opis "%value%" sadrži zabranjene reči.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The Offer Title must contain at least %min_length% characters</source>
+                <target>Naziv ponude mora sadržati najmanje %min_length% karaktera.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The Offer Title and Terms are mandatory for at least one of the two language versions.</source>
+                <target>Naslov i uslovi ponude su obavezni u bar jednom od dva jezika.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The Newsletter Title cannot be longer than %max_length% characters</source>
+                <target>Naslov Newsletter-a ne može biti duži od %min_length% karaktera.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The Newsletter Title must contain at least %min_length% characters</source>
+                <target>Naslov Newsletter-a mora sadržati najmanje %min_length% karaktera.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Please enter search criteria</source>
+                <target>Unesite kriterijume za pretragu.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Please correct search criteria</source>
+                <target>Ispravi kriterijume za pretragu.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Incorrect search term</source>
+                <target>Nekorektan termin za pretragu.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Message must contain at least %min_length% characters</source>
+                <target>Poruka mora sadržati najmanje %min_length% karaktera.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The message cannot contain more than %max_length% characters.</source>
+                <target>Poruka ne može sadržati manje od %max_length% karaktera.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>This email and unsubscribed key do not match</source>
+                <target>Email adresa i kod za odjavu sa liste nisu isti.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Video Title must contain at least %min_length% characters</source>
+                <target>Naslov Videa mora sadržati najmanje %min_length% karaktera.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The video title cannot contain more than %max_length% characters.</source>
+                <target>Naslov Videa ne može sadržati više od %max_length% karaktera.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>You need to agree to getlokal's Terms of Use to create a business account</source>
+                <target>Potrebno je prihvatiti Getlokal Uslove korišćenja da bi se kreirao poslovni nalog.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>This username has already been registered by another user</source>
+                <target>Ovo korisničko ime je već registrovao drugi korisnik.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Тhe start date cannot be later than the end date of the event</source>
+                <target>Datum početka Događaja ne može biti pre datuma njegovog završetka.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Abuse type is required.</source>
+                <target>Tip zloupotrebe je obavezno naznačiti.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The message contains forbidden words</source>
+                <target>Poruka sadrži zabranjene reči.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>An invite was already sent to this email address</source>
+                <target>Poziv je već poslat na ovu email adresu.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Please add location - city/town is required if venue not known!</source>
+                <target>Unesi lokaciju - Grad je obavezan ako Mesto nije poznato!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Business type is required!</source>
+                <target>Tip firme je obavezan!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>This field is required. Please type company address!</source>
+                <target>Ovo polje je obavezno. Unesi adresu firme!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Company name is required!</source>
+                <target>Naziv firme je obavezan!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Username</source>
+                <target>Korisničko ime</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Email</source>
+                <target>Email</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Password</source>
+                <target>Lozinka</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Retype Your Password</source>
+                <target>Potvrdi lozinku</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Select Your City</source>
+                <target>Odaberite svoj grad</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Name</source>
+                <target>Ime</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Surname</source>
+                <target>Prezime</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Date of Birth</source>
+                <target>Datum rođenja</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Gender</source>
+                <target>Pol</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Location</source>
+                <target>Lokacija</target>
+            </trans-unit>
+            <trans-unit>
+                <source>About me</source>
+                <target>O meni</target>
+            </trans-unit>
+            <trans-unit>
+                <source>My Website</source>
+                <target>Moj veb sajt</target>
+            </trans-unit>
+            <trans-unit>
+                <source>My Blog</source>
+                <target>Moj blog</target>
+            </trans-unit>
+            <trans-unit>
+                <source>My Facebook</source>
+                <target>Моj Facebook</target>
+            </trans-unit>
+            <trans-unit>
+                <source>My Google+</source>
+                <target>Моj Google+</target>
+            </trans-unit>
+            <trans-unit>
+                <source>My Twitter</source>
+                <target>Моj Twitter</target>
+            </trans-unit>
+            <trans-unit>
+                <source>New Password</source>
+                <target>Nova lozinka</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Retype New Password</source>
+                <target>Potvrdi novu lozinku</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The field is required</source>
+                <target>Polje je obavezno.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Fields marked with a star are mandatory.</source>
+                <target>Polja označena zvezdicom su obavezna.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Owner</source>
+                <target>Vlasnik</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Director</source>
+                <target>Direktor</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Manager</source>
+                <target>Menadžer</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Employee</source>
+                <target>Zaposlen</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Choose...</source>
+                <target>Izaberi...</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Other</source>
+                <target>Ostalo</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Male</source>
+                <target>Muštki</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Female</source>
+                <target>Ženski</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Position</source>
+                <target>Pozicija</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Phone</source>
+                <target>Telefon</target>
+            </trans-unit>
+            <trans-unit>
+                <source>I declare that I am an authorized representative of the business.</source>
+                <target>Potvrđujem da sam ovlašćeni predstavnik firme.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Enter the Bulstat of your business.</source>
+                <target>Unesi matični broj Vaše firme.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Declare that you are an authorized representative of the business.</source>
+                <target>Potvrdi da si ovlašćeni predstavnik firme.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Invalid Bulstat</source>
+                <target>Netačan matični broj.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Company Name</source>
+                <target>Naziv firme</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Company Type</source>
+                <target>Tip firme</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Company Name in Latin</source>
+                <target>Naziv firme latiničnim slovima.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Address</source>
+                <target>Adresa</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Classification</source>
+                <target>Delatnost</target>
+            </trans-unit>
+            <trans-unit>
+                <source>City</source>
+                <target>Grad</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Company Address</source>
+                <target>Adresa firme</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Contact Information</source>
+                <target>Kontakt informacije</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Working Hours</source>
+                <target>Radno vreme</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Bulstat</source>
+                <target>Matični broj</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Postcode</source>
+                <target>Poštanski broj</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Street</source>
+                <target>Ulica</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Number</source>
+                <target>Broj</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Neighbourhood</source>
+                <target>Kraj</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Bl.</source>
+                <target>Bul.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Ent.</source>
+                <target>Ulaz</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Fl.</source>
+                <target>Sprat</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Ap.</source>
+                <target>Stan</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Monday</source>
+                <target>Ponedeljak</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Tuesday</source>
+                <target>Utorak</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Wednesday</source>
+                <target>Sreda</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Thursday</source>
+                <target>Četvrtak</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Friday</source>
+                <target>Petak</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Saturday</source>
+                <target>Subota</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Sunday</source>
+                <target>Nedelja</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Serbian</source>
+                <target>Srpski</target>
+            </trans-unit>
+            <trans-unit>
+                <source>English</source>
+                <target>Engleski</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Password:</source>
+                <target>Lozinka:</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Remember me</source>
+                <target>Zapamti me</target>
+            </trans-unit>
+            <trans-unit>
+                <source>E-mail:</source>
+                <target>Email:</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Description</source>
+                <target>Opis</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Category</source>
+                <target>Kategorija</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Website</source>
+                <target>Veb sajt</target>
+            </trans-unit>
+            <trans-unit>
+                <source>You entered "%value%". The security check picture contains %length% characters. Please try again.</source>
+                <target>Upisano je "%value%". Sigurnosna slika sadrži %length% karaktera. Pokušaj ponovo.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Security check. Enter the characters from the picture below</source>
+                <target>Sigurnosna provera. Unesi karaktere koje vidiš na slici ispod.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Start Date</source>
+                <target>Datum početka</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Detailed Description</source>
+                <target>Detaljan opis</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Detailed Description (English)</source>
+                <target>Detalanj opis (Engleski)</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Select a photo from your computer</source>
+                <target>Selektuj fotografiju sa svog računara.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Voucher</source>
+                <target>Vaučer</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Voucher Valid From</source>
+                <target>Trajanje vaučera.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Voucher Valid To</source>
+                <target>Vaučer važi do</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Offer Active From</source>
+                <target>Ponuda je aktivna od</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Offer Active To</source>
+                <target>Ponuda je aktivna do</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Maximum number of vouchers to be issued</source>
+                <target>Maksimalan broj vaučera</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Maximum number of vouchers to be issued per user</source>
+                <target>Maksimalan broj vaučera po korisniku</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Offer Terms</source>
+                <target>Uslovi ponude</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Caption</source>
+                <target>Opis</target>
+            </trans-unit>
+            <trans-unit id="8">
+                <source>Please enter your Name and Surname</source>
+                <target>Unesi svoje Ime i Prezime.</target>
+            </trans-unit>
+            <trans-unit id="9">
+                <source>Invalid email</source>
+                <target>Nevažeća email adresa.</target>
+            </trans-unit>
+            <trans-unit id="10">
+                <source>Please rate this company</source>
+                <target>Oceni ovu firmu.</target>
+            </trans-unit>
+            <trans-unit id="22">
+                <source>Please enter your email</source>
+                <target>Unesite svoju email adresu.</target>
+            </trans-unit>
+            <trans-unit id="11">
+                <source>Invalid Rating</source>
+                <target>Nevalidna ocena.</target>
+            </trans-unit>
+            <trans-unit id="19">
+                <source>Please enter a valid email</source>
+                <target>Unesi važeću email adresu.</target>
+            </trans-unit>
+            <trans-unit id="15">
+                <source>Please agree to observe the Terms of Use of the Getlokal Website</source>
+                <target>MPotvrdi saglasnost sa Pravilima korišćenja sajta Getlokal.</target>
+            </trans-unit>
+            <trans-unit id="54">
+                <source>Choose if you want to recommend this company to a friend</source>
+                <target>Ukoliko želiš da preporučiš ovu firmu prijatelju klikni ovde.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Your account changes were successfully saved.</source>
+                <target>Promene na tvom nalogu su uspešno izvršene.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Enter a few words about yourself separated by comma</source>
+                <target>Unesi nekoliko reči koje te predstavljaju razdvojene zarezom.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Current Password</source>
+                <target>Trenutna lozinka</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Company Name or Bulstat</source>
+                <target>Moja firma</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Enter the CUI of your business.</source>
+                <target>Unesi PIB svoje firme.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Choose... </source>
+                <target>Izaberi...</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Enter New Email</source>
+                <target>Unesi novu email adresu</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Description</source>
+                <target>Opis</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Description (English)</source>
+                <target>Opis (Engleski)</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Detailed Description</source>
+                <target>Detaljan opis</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Detailed Description (English)</source>
+                <target>Detaljan opis (Engleski)</target>
+            </trans-unit>
+            <trans-unit>
+                <source>When</source>
+                <target>Kada</target>
+            </trans-unit>
+            <trans-unit>
+                <source>End Date</source>
+                <target>Datum završetka</target>
+            </trans-unit>
+            <trans-unit>
+                <source>City/Town</source>
+                <target>Grad</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Venue name</source>
+                <target>Naziv mesta održavanja - poveži događaj sa profilom mesta.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>More Info (add link)</source>
+                <target>Više informacija (dodaj link)</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Buy ticket/book (add link)</source>
+                <target>Kupi/rezerviši kartu (dodaj link)</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Price</source>
+                <target>Cena</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Event Type</source>
+                <target>Tip događaja</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Add Photo</source>
+                <target>Dodaj fotografiju</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Event Name</source>
+                <target>Naziv događaja</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Event Description</source>
+                <target>Opis događaja</target>
+            </trans-unit>
+            <!-- NEw -->
+            <trans-unit>
+                <source>VIP Position Start Date</source>
+                <target>Početni datum za VIP poziciju</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Select file</source>
+                <target>Selektuj fajl</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Invalid format. E.g. http://www.getlokal.rs</source>
+                <target>Nevalidan format. Primer: http://www.getlokal.rs</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Invalid format. E.g. getlokal.rs!</source>
+                <target>Nevalidan format. Primer: getlokal.rs!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Invalid format. E.g. http://blog.getlokal.com</source>
+                <target>Nevalidan format. Primer: http://blog.getlokal.com</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Invalid format. E.g. http://twitter.com/@getlokal.rs</source>
+                <target>Nevalidan format. Primer: http://twitter.com/@getlokal.rs</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Invalid format. E.g. http://www.facebook.com/#!/getlokal</source>
+                <target>Nevalidan format. Primer: http://www.facebook.com/#!/getlokal</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Invalid format. E.g. @getlokal.rs</source>
+                <target>Format nije validan. Primer: @getlokal.rs</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Invalid format. E.g. https://plus.google.com/</source>
+                <target>Format nije validan. Primer: https://plus.google.com/</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Invalid format. E.g. https://foursquare.com/</source>
+                <target>Format nije validant. Primer: https://foursquare.com/</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Invalid format.</source>
+                <target>Nevalidan format.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Password is mandatory</source>
+                <target>Lozinka je obavezna.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The email and/or password are invalid</source>
+                <target>Email adresa i/ili lozinka su netačni.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Incorrect Password</source>
+                <target>Netačna lozinka.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Message</source>
+                <target>Poruka</target>
+            </trans-unit>
+            <trans-unit>
+                <source>E-mail is required.</source>
+                <target>Email adresa je obavezna.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Your name is required.</source>
+                <target>Tvoje ime je obavezno.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>This field is required. Please type your message.</source>
+                <target>Ovo polje je obavezno. Upiši svoju poruku.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Please rate this company</source>
+                <target>Oceni ovu firmu.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Poster size</source>
+                <target>Veličina postera.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The username "%value%" is invalid.</source>
+                <target>Ovo korisničko ime "%value%" nije validno.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Username must contain at least %min_length% characters.</source>
+                <target>Korisničko ime mora da sadrži najmanje %min_length% karaktera.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The username and/or password you entered for %s are invalid or you don't have enough credentials</source>
+                <target>Korisničko ime i/ili lozinka koji su uneti za %s su netačni ili ne postoji adekvatna akreditacija.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The username and/or password you entered are invalid or you don't have enough credentials</source>
+                <target>Korisničko ime i/ili lozinka koji su uneti su netačni ili ne postoji adekvatna akreditacija.</target>
+            </trans-unit>
+            <trans-unit>
+                <source><![CDATA[You need to agree to getlokal's Terms of Use & Privacy Policy]]>
+                </source>
+                <target><![CDATA[Potrebno je prihvatiti Getlokal Uslove korišćenja i Polisu privatnosti.]]>
+                </target>
+            </trans-unit>
+            <trans-unit>
+                <source>Start Time</source>
+                <target>Vreme početka</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Place Name</source>
+                <target>Naziv firme/mesta.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Place Name in English</source>
+                <target>Naziv mesta na Engleskom.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The place name in English has to be written with Latin characters</source>
+                <target>Naziv mesta na engleskom jeziku treba biti napisan latiničnim slovima.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Telephone/Website/FB page</source>
+                <target>Telefon/Veb sajt/FB stranica</target>
+            </trans-unit> 
+            <trans-unit>
+                <source>The maximum number of vouchers cannot be lower than the total number of vouchers already issued</source>
+                <target>Maksimalni broj vaučera ne može biti manji od ukupnog broja već izdatih vaučera.</target>
+            </trans-unit>     
+            <trans-unit>
+                <source>This field is mandatory. Please select your country name from the list.</source>
+                <target>Ovo polje je obavezno. Označi naziv svoje zemlje iz liste.</target>
+            </trans-unit>     
+            <trans-unit>
+                <source>Country</source>
+                <target>Zemlja</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Additional Address Details</source>
+                <target>Dodatne informacije u vezi adrese.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>List</source>
+                <target>Lista</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The Offer can be active for a maximum period of 30 days.</source>
+                <target>Ponuda može biti aktivna najduže 30 dana.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The offer start date can not be later than %s</source>
+                <target>Datum početka ponude ne sme biti kasnije od %s</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The offer end date can not be later than %s</source>
+                <target>Datum završetka ponude ne sme biti kasnije od %s</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The offer end date can not be later than</source>
+                <target>Datum završetka ponude ne sme biti kasnije od</target>
+            </trans-unit>
+   
+            <trans-unit>
+                <source>Open List</source>
+                <target>Otvorena lista</target>
+            </trans-unit>
+            <trans-unit>
+                <source>List Name</source>
+                <target>Naziv liste</target>
+            </trans-unit>
+            <trans-unit>
+                <source>List Description</source>
+                <target>Opis liste</target>
+            </trans-unit>         
+            <trans-unit>
+                <source>Invalid phone number. The correct format to use is 023456789 or for mobile phones 0888888888. Add only the local area code for landlines. Only add digits – any other characters or spaces between characters are not allowed.</source>
+                <target>Neispravan telefonski broj. Ispravan format za telefonski broj je 011456789 ili za mobilni telefon 0638888888. Za fiksne telefonske brijeve treba dodati samo lokalni pozivni broj. Koristi samo brojeve, svi drugi znakovi uključujući i razmak su zabranjeni. </target>
+            </trans-unit>
+            <trans-unit>
+                <source>The Deal can be active for a maximum period of 4 weeks.</source>
+                <target>Ponuda može biti akrtivna maksimalno 4 nedelje.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Google+ Page</source>
+                <target>Google+ stranica</target>
+            </trans-unit>
+            <!-- Articles -->     
+            <trans-unit>
+                <source>Article Title</source>
+                <target>Naslov Članka</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Article Content</source>
+                <target>Sadržaj Članka</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Slug</source>
+                <target>URL</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Meta Keywords</source>
+                <target>Meta klučne reči (Meta Keywords)</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Quotation</source>
+                <target>Citat</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Image (recommended 600x278 pxls)</source>
+                <target>Slika (preporučeno 600x278 piksela)</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Image Descrption</source>
+                <target>Opis slike</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Meta Description</source>
+                <target>Meta opis(Meta Description)</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Image Source</source>
+                <target>Izvor slike</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Status</source>
+                <target>Status</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Approved</source>
+                <target>Odobreno</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Pending</source>
+                <target>Na čekanju</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Rejected</source>
+                <target>Odbačeno</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Invalid Date.</source>
+                <target>Neispravan datum.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Caption </source>
+                <target>Naziv videa</target>
+            </trans-unit>
+            <trans-unit>
+                <source>When you publish an Offer please give details of its terms, timing and content e.g. "Get 20% off a weekend for two in hotel X. The offer is valid only for the period between 20.08 and 27.08. The discount applies to advanced bookings only.</source>
+                <target>Kada se objavljuje ponuda treba naznačiti detalje uslova, rokova i sadržaja. Npr. "Iskoristite 20% popusta na vikend za dvoje u hotelu X. Ponuda važi u periodu između 20.08. i 27.08. a popust se odnosi samo na rezervacije koje se izvrše unapred."</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Publish</source>
+                <target>Objavi</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Save Draft</source>
+                <target>Sačuvaj ponudu</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Offer Description</source>
+                <target>Оpis ponude</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Offer Drafts</source>
+                <target>Neobjavljene ponude</target>
+            </trans-unit>
+            <trans-unit>
+                <source>preview</source>
+                <target>pregledaj</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Number of vouchers per user cannot exceed 99.</source>
+                <target>Broj vaučera po korisniku ne može biti veći od 99.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Save and Publish</source>
+                <target>Sačuvaj i objavi ponudu.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>[0]No vouchers have been issued yet for this offer.|[1]1 voucher has been issued for this offer.|(1,+Inf]%count% vouchers have been issued for this offer.</source>
+                <target>[0]Za ovu ponudu još uvek nisu izdati vaučeri.|[1]1 vaučer je izdat za ovu ponudu.|(1,+Inf]%count% vaučera je izdato za ovu ponudu.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Directions to place:</source>
+                <target>Kako doći do firme/mesta</target>
+            </trans-unit>
+            <trans-unit>
+                <source>More address info</source>
+                <target>Više informacija o adresi</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Main Offer Benefit</source>
+                <target>Glavna prednost ponude</target>
+            </trans-unit>
+           <trans-unit>
+                <source>Discount</source>
+                <target>Popust</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Discount: </source>
+                <target>Popust: </target>
+            </trans-unit>
+            <trans-unit>
+                <source>discount</source>
+                <target>popust</target>
+            </trans-unit>
+            <trans-unit>
+                <source>% discount</source>
+                <target>% popust</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Text</source>
+                <target>Tekstualni opis</target>
+            </trans-unit>
+            <trans-unit>
+                <source>New price</source>
+                <target>Snižena cena</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Old price</source>
+                <target>Regularna cena</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The price must be equal to or greater than 1.</source>
+                <target>Cena mora biti veća ili jednaka 1.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The old price must be greater than the new price.</source>
+                <target>Regularna cena mora biti veća od snižene cene.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The discount cannot be lower than 1%</source>
+                <target>Popust ne može biti manji od 1%</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The discount cannot be higher than 99%</source>
+                <target>Popust ne može biti veći od 99%</target>
+            </trans-unit>
+            <trans-unit>
+                <source>This text must contain at least %s characters.</source>
+                <target>Tekstualni opis mora da sadrži najmnje %s karaktera.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The text cannot contain more than %s characters.</source>
+                <target>Tekstualni opis ne može da sadrži više od %s karaktera.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>You save: </source>
+                <target>Ušteda: </target>
+            </trans-unit>
+             <trans-unit>
+                <source>Time left to get it:</source>
+                <target>Preostalo vremena:</target>
+            </trans-unit>
+            <trans-unit>
+                <source> characters left</source>
+                <target> broj preostalih karaktera</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Expiring soon</source>
+                <target>Ističe uskoro</target>
+            </trans-unit>                                 
+            <trans-unit>
+                <source>Not available</source>
+                <target>Nije dostupno</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Post offer in English</source>
+                <target>Objavi ponudu na engleskom jeziku</target>
+            </trans-unit>
+             <trans-unit>
+                <source>Choose an offer, download the voucher now and pay when you use it in the place.</source>
+                <target>Odaberi ponudu i preuzmi besplatan vaučer - plati kasnije na licu mesta.</target> 
+             </trans-unit>
+              <trans-unit>
+                <source>Have a business and want to include your offers?</source>
+                <target>Imaš firmu i želiš da objaviš ponudu?</target> 
+             </trans-unit>
+             <trans-unit>
+                <source>Create one now - click </source>
+                <target>Objavi je odmah - klikni </target>
+            </trans-unit>
+            <trans-unit>
+                <source>here</source>
+                <target>ovde</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Download the voucher for this offer now and pay when you use it in the place.</source>
+                <target>Preuzmi ovaj besplatan vaučer odmah - plati kasnije na licu mesta.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>You can only use alphanumeric characters and ? ( ) [ ] { } %</source>
+                <target>Možeš koristiti samo alfanumeričke karaktere kao i znakove ? ( ) [ ] { } %</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Current file</source>
+                <target>Odabrani fajl</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Accepts pdf files only</source>
+                <target>Samo PDF fajlovi su prihvatljivi</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Select the area from the image that you want to appear in your Offer</source>
+                <target>Selektuj deo slike koji želiš da se pojavi u Ponudi</target>
+            </trans-unit>
+             <trans-unit>
+                <source>Clear image</source>
+                <target>Obriši sliku</target>
+            </trans-unit>
+             <trans-unit>
+                <source>Image Preview</source>
+                <target>Prikaz slike</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Offer image</source>
+                <target>Slika ponude</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Scheduled publish</source>
+                <target>Zakazane objave</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Publish on</source>
+                <target>Objavi</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Author</source>
+                <target>Autor</target>
+            </trans-unit>
+        </body>
+    </file>
+</xliff>

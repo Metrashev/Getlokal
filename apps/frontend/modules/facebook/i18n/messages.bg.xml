@@ -1,0 +1,184 @@
+<?xml version="1.0" ?>
+<xliff version="1.0">
+  <file orginal="global" source-language="en_EN" datatype="plaintext">
+    <body>
+      <trans-unit>
+        <source><![CDATA[Welcome <span>%s</span>]]></source>
+        <target><![CDATA[Здравей <span>%s</span>]]></target>
+      </trans-unit>
+      <trans-unit>
+        <source>You usually go out in these types of places</source>
+        <target>Обикновено посещаваш места, като тези</target>
+      </trans-unit>
+      <trans-unit>
+        <source>So far, you’ve helped others with lokal information about</source>
+        <target>До момента си споделил/а мнението си за общо</target>
+      </trans-unit>
+      <trans-unit>
+        <source>[1]1 place|(1,+Inf]%s places</source>
+        <target>[1]1 място|(1,+Inf]%s места</target>
+      </trans-unit>
+      <trans-unit>
+        <source><![CDATA[Your lokal city is <span>%s</span>]]></source>
+        <target><![CDATA[в град <span>%s</span>]]></target>
+      </trans-unit>
+      <trans-unit>
+        <source>Change city</source>
+        <target>Смени града</target>
+      </trans-unit>
+      <trans-unit>
+        <source>You usually go out in these types of places</source>
+        <target>Обикновено посещаваш места като тези</target>
+      </trans-unit>
+      <trans-unit>
+        <source><![CDATA[feel free to modify the selection<br />to match your preference]]></source>
+        <target><![CDATA[Кликни на бутона 'Продължи', за да напишеш ревюта в избраните категории.</br>Ако искаш да премахнеш някоя от категориите, кликни върху нея.]]></target>
+      </trans-unit>
+      <trans-unit>
+        <source>SELECTED</source>
+        <target>ИЗБРАНО</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Next step</source>
+        <target>Продължи</target>
+      </trans-unit>
+      <trans-unit>
+        <source><![CDATA[[0]We found <span>%s</span> places on getlokal that match your search criteria.|[1]We found <span>1</span> place on getlokal that match your search criteria.|(1,+Inf]We found <span>%s</span> places on getlokal that match your search criteria.]]></source>
+        <target><![CDATA[[0] Открихме <span>%s</span> места, които отговарят на твоите критерии|[1]Открихме <span>1</span> място, които отговарят на твоите критерии |(1,+Inf] Открихме <span>%s</span> места, които отговарят на твоите критерии]]></target>
+     </trans-unit>
+      <trans-unit>
+        <source><![CDATA[[0]<b>0</b> reviews|[1]<b>1</b> review|(1,+Inf]<b>%s</b> reviews]]></source>
+        <target><![CDATA[[0]<b>0</b> ревюта|[1]<b>1</b> ревю|(1,+Inf]<b>%s</b> ревюта]]></target>
+      </trans-unit>
+      <trans-unit>
+        <source><![CDATA[[0]<b>0</b> chances|[1]<b>1</b> chance|(1,+Inf]<b>%s</b> chances]]></source>
+        <target><![CDATA[[0]<b>0</b> шанса|[1]<b>1</b> шанс|(1,+Inf]<b>%s</b> шанса]]></target>
+      </trans-unit>
+      <trans-unit>
+        <source>Help your lokal community take informed decisions by writing a short review about your experience in any of the places below. If you haven’t been there, you can skip a place.</source>
+        <target><![CDATA[Помогни на приятелите си като напишеш мнение за местата по-горе. <br>Ако не си бил/а там, пропусни място. За да заредиш ново място, натисни "Х".]]></target>
+      </trans-unit>
+      <trans-unit>
+        <source>Reviews form other users</source>
+        <target>Ревюта на другите</target>
+      </trans-unit>
+      <trans-unit>
+        <source>We saved your review. Thanks!</source>
+        <target>Твоето ревю беше запазено.</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Load another place</source>
+        <target>Зареди още едно място</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Your review</source>
+        <target>Твоето ревю</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Address</source>
+        <target>Адрес</target>
+      </trans-unit>
+    <trans-unit>
+        <source>Add а New Place</source>
+        <target>Добави ново място</target>
+      </trans-unit>
+    <trans-unit>
+        <source>Change filtering</source>
+        <target>Промени</target>
+      </trans-unit>
+     <trans-unit>
+        <source>PUT YOUR CITY ON THE GETLOKAL MAP</source>
+        <target>ПОКАЖИ ГРАДА СИ В GETLOKAL</target>
+      </trans-unit>
+     <trans-unit>
+        <source><![CDATA[Rules &amp; Prizes]]></source>
+        <target><![CDATA[Правила &amp; Награди]]></target>
+      </trans-unit>
+     <trans-unit>
+        <source>There are no reviews for %s yet. Be the first to write one.</source>
+        <target>Все още няма публикувани мнения за %s. Напиши първото мнение за това място!</target>
+      </trans-unit>
+     <trans-unit>
+        <source>Help others with lokal information by reviewing and rating places on getlokal!</source>
+        <target><![CDATA[Напиши 3 мнения и може да спечелиш 2 билета за концерта Аrmin Only!]]></target>
+      </trans-unit>     
+     <trans-unit>
+        <source>Partners</source>
+        <target>Партньори</target>
+      </trans-unit>
+     <trans-unit>
+        <source><![CDATA[Get our<br />free app!]]></source>
+        <target><![CDATA[Свали си<br />безплатното приложение!]]></target>
+      </trans-unit>
+     <trans-unit>
+        <source>in</source>
+        <target>в</target>
+      </trans-unit>
+     <trans-unit>
+        <source>Share this on your wall</source>
+        <target>Сподели на стената си</target>
+      </trans-unit>
+     <trans-unit>
+        <source>Invite your friends to play</source>
+        <target>Покани приятелите си</target>
+      </trans-unit>
+     <trans-unit>
+        <source>Play again</source>
+        <target>Играй отново</target>
+      </trans-unit>
+     <trans-unit>
+        <source>Text</source>
+        <target>Напиши твоето ревю тук</target>
+      </trans-unit>     
+      <trans-unit>
+        <source>Congratulations</source>
+        <target>Поздравления</target>
+      </trans-unit>
+      <trans-unit>
+        <source><![CDATA[You just scored <strong>1 chance</strong> for the getlokal prizes]]></source>
+        <target><![CDATA[Току-що спечели <strong>още 1 шанс</strong> за наградите!]]></target>
+      </trans-unit>
+      <trans-unit>
+        <source><![CDATA[<strong class="chance"><span>%s chances</span></strong>]]></source>
+        <target><![CDATA[<strong class="chance"><span>%s шанса</span></strong>]]></target>
+      </trans-unit>
+      <trans-unit>
+        <source><![CDATA[In total you have written <strong class="reviews"><span>%s</span> reviews</strong> and you have]]></source>
+        <target><![CDATA[Написал си общо <strong class="reviews"><span>%s</span> ревюта</strong>, което ти дава]]></target>
+      </trans-unit>
+      <trans-unit>
+        <source><![CDATA[[0]%s chance|[1]%s chance|(1,+Inf]%s chances]]></source>
+        <target><![CDATA[[0]%s шанса|[1]%s шанс|(1,+Inf]%s шанса]]></target>
+      </trans-unit>
+      
+      <trans-unit>
+        <source>Write reviews for the places in your city and you can win cool prizes from getlokal.</source>
+        <target>Getlokal те предизвиква - напиши 3 мнения и спечели два билета за концерта Armin Only!</target>
+      </trans-unit>
+      <trans-unit>
+        <source>fb_share_message</source>
+        <target>Искаш ли да разбереш за кои места оставих своето мнение? Виж тук.</target>
+      </trans-unit>
+      <trans-unit>
+        <source>fb_share_title</source>
+        <target>Написах 3 мнения в Getlokal</target>
+      </trans-unit>
+      <trans-unit>
+        <source>fb_share_caption</source>
+        <target>Напиши 3 мнения и спечели два билета за концерта Armin Only</target>
+      </trans-unit>
+      <trans-unit>
+        <source>fb_share_description</source>
+        <target>Пиши мнения и спечели!</target>
+      </trans-unit>
+      <trans-unit>
+        <source>fb_share_user_promp_message</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit>
+        <source>fb_share_message</source>
+        <target></target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

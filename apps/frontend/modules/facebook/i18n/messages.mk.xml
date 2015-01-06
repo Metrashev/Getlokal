@@ -1,0 +1,185 @@
+<?xml version="1.0" ?>
+<xliff version="1.0">
+  <file orginal="global" source-language="en_EN" datatype="plaintext">
+    <body>
+      <trans-unit>
+        <source><![CDATA[Welcome <span>%s</span>]]></source>
+        <target><![CDATA[Добредојде <span>%s</span>]]></target>
+      </trans-unit>
+      <trans-unit>
+        <source>You usually go out in these types of places</source>
+        <target>Најчесто излегуваш на места како:</target>
+      </trans-unit>
+      <trans-unit>
+        <source>So far, you’ve helped others with lokal information about</source>
+        <target>Досега им помогна на другите со локални информации за</target>
+      </trans-unit>
+      <trans-unit>
+        <source>[1]1 place|(1,+Inf]%s places</source>
+        <target>[1]1 место|(1,+Inf]%s места</target>
+      </trans-unit>
+      <trans-unit>
+        <source><![CDATA[Your lokal city is <span>%s</span>]]></source>
+        <target><![CDATA[Твојот град е <span>%s</span>]]></target>
+      </trans-unit>
+      <trans-unit>
+        <source>Change city</source>
+        <target>Промени град</target>
+      </trans-unit>
+      <trans-unit>
+        <source>You usually go out in these types of places</source>
+        <target>Најчесто излегуваш на места како:</target>
+      </trans-unit>
+      <trans-unit>
+        <source><![CDATA[feel free to modify the selection<br />to match your preference]]></source>
+        <target><![CDATA[слободно промени го </br>понудениот избор по твоја желба]]></target>
+      </trans-unit>
+      <trans-unit>
+        <source>SELECTED</source>
+        <target>ИЗБРАНО</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Next step</source>
+        <target>Следен чекор</target>
+      </trans-unit>
+      <trans-unit>
+        <source><![CDATA[[0]We found <span>%s</span> places on getlokal that match your search criteria.|[1]We found <span>1</span> place on getlokal that match your search criteria.|(1,+Inf]We found <span>%s</span> places on getlokal that match your search criteria.]]></source>
+        <target><![CDATA[[0] Најдовме <span>%s</span> места кои одговараат на твојот критериум за пребарување|[1]Најдовме <span>1</span> места кои одговараат на твојот критериум за пребарување |(1,+Inf] Најдовме <span>%s</span> места кои одговараат на твојот критериум за пребарување]]></target>
+     </trans-unit>
+      <trans-unit>
+        <source><![CDATA[[0]<b>0</b> reviews|[1]<b>1</b> review|(1,+Inf]<b>%s</b> reviews]]></source>
+        <target><![CDATA[[0]<b>0</b> препораки|[1]<b>1</b> препорака|(1,+Inf]<b>%s</b> препораки]]></target>
+      </trans-unit>
+      <trans-unit>
+        <source><![CDATA[[0]<b>0</b> chances|[1]<b>1</b> chance|(1,+Inf]<b>%s</b> chances]]></source>
+        <target><![CDATA[[0]<b>0</b> шанси|[1]<b>1</b> шанса|(1,+Inf]<b>%s</b> шанси]]></target>
+      </trans-unit>
+      <trans-unit>
+        <source><![CDATA[Help your lokal community take informed decisions by writing a short review about your experience in any of the places below. If you haven’t been there, you can skip a place.]]></source>
+        <target><![CDATA[Помогни им на луѓето од твојата околина да донесат добри одлуки со пишување на кратка препорака за твоето искуство во било кое од местата на листата погоре<b> (прифаќаме само вистински препораки!)</b>. Ако не си бил во некое место, можеш да го прескокнеш.]]></target>
+      </trans-unit>
+      <trans-unit>
+        <source>Reviews form other users</source>
+        <target>Препораки од други корисници</target>
+      </trans-unit>
+      <trans-unit>
+        <source>We saved your review. Thanks!</source>
+        <target>Ја зачувавме твојата препорака. Ти благодариме!</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Load another place</source>
+        <target>Сега одбери друго место.</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Your review</source>
+        <target>Твојата препорака</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Address</source>
+        <target>Адрес</target>
+      </trans-unit>
+    <trans-unit>
+        <source>Add а New Place</source>
+        <target>Добави ново място</target>
+      </trans-unit>
+    <trans-unit>
+        <source>Change filtering</source>
+        <target>Промени ги критериумите</target>
+      </trans-unit>
+     <trans-unit>
+        <source>PUT YOUR CITY ON THE GETLOKAL MAP</source>
+        <target>ПОКАЖИ ГРАДА СИ В GETLOKAL</target>
+      </trans-unit>
+     <trans-unit>
+        <source><![CDATA[Rules &amp; Prizes]]></source>
+        <target><![CDATA[Правила &amp; Награди]]></target>
+      </trans-unit>
+     <trans-unit>
+        <source>There are no reviews for %s yet. Be the first to write one.</source>
+        <target>Сеуште нема објавени препораки за %s. Напиши ја првата препорака за ова место!</target>
+      </trans-unit>
+     <trans-unit>
+        <source>Help others with lokal information by reviewing and rating places on getlokal!</source>
+        <target><![CDATA[Напиши 3 препораки и учествувај во неделните извлекувања како и во <br/>извлекувањето за <a href="http://www.getlokal.mk/mk/page/reviewmania-rules" target="_blank">Главната Награда</a на 24.10.2013]]></target>
+      </trans-unit>     
+     <trans-unit>
+        <source>Partners</source>
+        <target>Главна Награда</target>
+      </trans-unit>
+     <trans-unit>
+        <source><![CDATA[Get our<br />free app!]]></source>
+        <target><![CDATA[Превземи ја нашата<br />бесплатна апликација!]]></target>
+      </trans-unit>
+     <trans-unit>
+        <source>in</source>
+        <target>во</target>
+      </trans-unit>
+     <trans-unit>
+        <source>Share this on your wall</source>
+        <target>Сподели го ова на твојот ѕид</target>
+      </trans-unit>
+     <trans-unit>
+        <source>Invite your friends to play</source>
+        <target>Покани ги твоите пријатели</target>
+      </trans-unit>
+     <trans-unit>
+        <source>Play again</source>
+        <target>Играј повторно</target>
+      </trans-unit>
+     <trans-unit>
+        <source>Text</source>
+        <target>Напиши ја твојата препорака тука</target>
+      </trans-unit>     
+      <trans-unit>
+        <source>Congratulations</source>
+        <target>Честитки,</target>
+      </trans-unit>
+      <trans-unit>
+        <source><![CDATA[You just scored <strong>1 chance</strong> for the getlokal prizes]]></source>
+        <target><![CDATA[Само што освои <strong>1 шанса</strong> за награда од getlokal]]></target>
+      </trans-unit>
+      <trans-unit>
+        <source><![CDATA[<strong class="chance"><span>%s chances</span></strong>]]></source>
+        <target><![CDATA[<strong class="chance"><span>%s шанси</span></strong>]]></target>
+      </trans-unit>
+      <trans-unit>
+        <source><![CDATA[In total you have written <strong class="reviews"><span>%s</span> reviews</strong> and you have]]></source>
+        <target><![CDATA[Вкупно имаш напишано <strong class="reviews"><span>%s</span> препораки</strong>, и имаш]]></target>
+      </trans-unit>
+      <trans-unit>
+        <source><![CDATA[[0]%s chance|[1]%s chance|(1,+Inf]%s chances]]></source>
+        <target><![CDATA[[0]%s шанси|[1]%s шанса|(1,+Inf]%s шанси]]></target>
+      </trans-unit>
+      
+      <trans-unit>
+        <source>Write reviews for the places in your city and you can win cool prizes from getlokal.</source>
+        <target>getlokal те предизвикува – напиши 3 препораки и освои шанса за главната награда - фотоапарат Olympus VG - 170!</target>
+      </trans-unit>
+      <trans-unit>
+        <source>fb_share_message</source>
+        <target>Искаш ли да разбереш, кои са местата, където ходя обикновено? Току-що написах 3 ревюта за места в getlokal.</target>
+      </trans-unit>
+      <trans-unit>
+        <source>fb_share_title</source>
+        <target>getlokal те предизвикува</target>
+      </trans-unit>
+      <trans-unit>
+        <source>fb_share_caption</source>
+        <target>Напиши 3 препораки и освои шанса за главната награда - фотоапарат Olympus VG - 170!</target>
+      </trans-unit>
+      <trans-unit>
+        <source>fb_share_description</source>
+        <target>На 24.10 – освој ја Главната Награда</target>
+      </trans-unit>
+      <trans-unit>
+        <source>fb_share_user_promp_message</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit>
+        <source>fb_share_message</source>
+        <target></target>
+      </trans-unit>
+      
+    </body>
+  </file>
+</xliff>

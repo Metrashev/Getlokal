@@ -1,0 +1,1527 @@
+<?xml version="1.0" ?>
+<xliff version="1.0">
+    <file orginal="global" source-language="en_EN" datatype="plaintext">
+        <body>
+            <trans-unit>
+                <source>The information you entered was saved successfully.</source>
+                <target>Informacija koju ste uneli je uspešno sačuvana.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Your company information was saved successfully. It will be added to getlokal after it has been approved by an administrator.</source>
+                <target>Informacije o Vašoj kompaniji su uspešno sačuvane i biće objavljene nakon odobrenja od strane administratora.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Your username should contain only alphanumeric characters, dash, dot or underscore</source>
+                <target>Korisničko ime može sadržati samo alfanumeričke karaktere, srednju crtu, donju crtu i tačku. Razmak između karaktera ne može da postoji.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>This field is required</source>
+                <target>Ovo polje je potrebno popuniti</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The email and/or password are invalid</source>
+                <target>Email i/ili lozinka su netačni</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Serbia</source>
+                <target>Srbija</target>
+            </trans-unit>
+            <trans-unit>
+                <source>SERBIA</source>
+                <target>SRBIJA</target>
+            </trans-unit>
+            <trans-unit>
+                <source>No Results found for %keyword% in %place%</source>
+                <target>Nisu pronađeni rezultati za %keyword% u %place%</target>
+            </trans-unit>
+            <trans-unit>
+                <source>click here</source>
+                <target>kliknite ovde</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Resend an activation mail</source>
+                <target>Pošaljite aktivacioni email ponovo</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Password is mandatory</source>
+                <target>Lozinka je obavezna</target>
+            </trans-unit>
+            <trans-unit>
+                <source> for </source>
+                <target> za </target>
+            </trans-unit>
+            <trans-unit>
+                <source>E-mail</source>
+                <target>Email</target>
+            </trans-unit>
+            <trans-unit>
+                <source>%s in %s</source>
+                <target>%s u %s</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Your email was changed successfully.</source>
+                <target>uspešno ste promenili email..</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Sign Up</source>
+                <target>Registruj se</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Login</source>
+                <target>Prijavi se</target>
+            </trans-unit>
+            <trans-unit>
+                <source>About Us</source>
+                <target>O nama</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Contact Us</source>
+                <target>Kontakt</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Reviews</source>
+                <target>Preporuke</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Lists</source>
+                <target>Liste</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Directory</source>
+                <target>Direktorijum</target>
+            </trans-unit>
+            <trans-unit>
+                <source>City</source>
+                <target>Grad</target>
+            </trans-unit>
+            <trans-unit>
+                <source>see all</source>
+                <target>pogledaj sve</target>
+            </trans-unit>
+            <trans-unit>
+                <source>hide</source>
+                <target>skloni</target>
+            </trans-unit>
+            <trans-unit>
+                <source>See more in</source>
+                <target>Pogledaj još</target>
+            </trans-unit>
+            <trans-unit>
+                <source>reviews</source>
+                <target>preporuke</target>
+            </trans-unit>
+            <trans-unit>
+                <source>About Us</source>
+                <target>O nama</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Contact Us</source>
+                <target>Kontakt</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Terms of Use</source>
+                <target>Uslovi korišćenja</target>
+            </trans-unit>
+            <trans-unit>
+                <source><![CDATA[General Terms & Conditions]]></source>
+                <target><![CDATA[Getlokal uslovi korišćenja]]></target>
+            </trans-unit>
+            <trans-unit>
+                <source>Policy for Use and Protection of the Information of Getlokal</source>
+                <target>Polisa zaštite privatnosti podataka na Getlokal</target>
+            </trans-unit>
+            <trans-unit>
+                <source>from</source>
+                <target>od</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Report Abuse</source>
+                <target>Prijavite zloupotrebu</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Blog</source>
+                <target>Blog</target>
+            </trans-unit>
+            <trans-unit>
+                <source>My Vouchers</source>
+                <target>Moji Vaučeri</target>
+            </trans-unit>
+            <trans-unit>
+                <source>OR</source>
+                <target>ili</target>
+            </trans-unit>
+            <trans-unit>
+                <source>or</source>
+                <target>ili</target>
+            </trans-unit>
+            <trans-unit>
+                <source>see more</source>
+                <target>vidi još</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Register</source>
+                <target>Registruj se</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Other Services</source>
+                <target>Drugi servisi</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Bulgaria</source>
+                <target>Bugarska</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Romania</source>
+                <target>Rumunija</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Macedonia</source>
+                <target>Makedonija</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Serbia</source>
+                <target>Srbiji</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Finland</source>
+                <target>Finska</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Hungary</source>
+                <target>Mađarska</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Montenegro</source>
+                <target>Crna Gora</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Articles</source>
+                <target>Članci</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Events</source>
+                <target>Događaji</target>
+            </trans-unit>
+            <trans-unit>
+                <source>New List</source>
+                <target>Nova lista</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Lists</source>
+                <target>Liste</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Delete</source>
+                <target>Obrišite</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Save</source>
+                <target>Sačuvaj</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Create Username and Password</source>
+                <target>Kreiraj korisničko ime i lozinku</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Add Place</source>
+                <target>Dodaj firmu/mesto</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Add other place</source>
+                <target>Dodaj firmu/mesto</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Edit</source>
+                <target>Uredi</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Close</source>
+                <target>Zatvori</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Search</source>
+                <target>Traži</target>
+            </trans-unit>
+            <trans-unit>
+                <source>more info</source>
+                <target>još informacija</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Your review was published successfully.</source>
+                <target>Preporuka je uspešno objavljena.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Your review was not published successfully.</source>
+                <target>Preporuka nije objavljena.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Review was deleted successfully.</source>
+                <target>Preporuka je obrisana uspešno.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Confirm deletion</source>
+                <target>Potvrda brisanja</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The offer was not saved. Please fill in all mandatory fields.</source>
+                <target>Ponuda nije sačuvana. Molimo popunite obavezna polja.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Account Settings</source>
+                <target>Podešavanje naloga</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Personal Information</source>
+                <target>Lični podaci</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Change Password</source>
+                <target>Promeni lozinku</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Forgotten Password</source>
+                <target>Zaboravljena lozinka</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Change Email</source>
+                <target>Promeni email</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The photo was deleted successfully.</source>
+                <target>Fotografija je uspešno obrisana.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The classification was deleted successfully.</source>
+                <target>Delatnost je uspešno obrisana.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The profile picture was changed successfully.</source>
+                <target>Slika profila je uspešno promenjena.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>[0]No uploaded photos yet.|[1]1 uploaded photo|(1,+Inf]%count% uploaded photos</source>
+                <target>[0]Još uvek nema postavljenih fotografija.|[1]1 objavljena slika|(1,+Inf]Broj objavljenih fotografija: %count%</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Photos</source>
+                <target>Fotografije</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The photo was published successfully.</source>
+                <target>Fotografija je uspešno dodata</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Name</source>
+                <target>Ime</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Surname</source>
+                <target>Prezime</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Your account changes were successfully saved.</source>
+                <target>Promene na nalogu su uspešno sačuvane.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Security Settings</source>
+                <target>Sigurnosna podešavanja</target>
+            </trans-unit>
+            <trans-unit>
+                <source>No results found.</source>
+                <target>Rezultati nisu pronađeni.</target>
+            </trans-unit>
+
+            <trans-unit>
+                <source>Settings</source>
+                <target>Podešavanja</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Your password was changed successfully.</source>
+                <target>Lozinka je uspešno promenjena.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Send</source>
+                <target>Pošalji</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The changes were saved successfully.</source>
+                <target>Promene su uspešno sačuvane.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Profile Photo Gallery</source>
+                <target>Foto galerija profila</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The classification information was saved successfully.</source>
+                <target>Informacije o delatnosti su uspešno sačuvane.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The detailed description was activated successfully.</source>
+                <target>Detaljan opis je uspešno aktiviran.</target>
+            </trans-unit>
+
+            <trans-unit>
+                <source>Change Username</source>
+                <target>Promena korisničkog imena</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Your username was changed successfully.</source>
+                <target>Korisničko ime je uspešno promenjeno.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Picture was saved successfully.</source>
+                <target>Fotografija je uspešno sačuvana.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Admin status changed successfully.</source>
+                <target>Status administratora je uspešno promenjen.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Invalid or inactive offer</source>
+                <target>Nevalidna ili neaktivna ponuda</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The offer is already active.</source>
+                <target>Ponuda je već aktivna.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Stop Administration</source>
+                <target>Onemogući administraciju</target>
+            </trans-unit>
+            <trans-unit>
+                <source>English</source>
+                <target>Engleski</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The offer was deactivated successfully.</source>
+                <target>Ponuda je uspešno deaktivirana.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The offer was added successfully.</source>
+                <target>Ponuda je uspešno sačuvana.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The offer was activated successfully..</source>
+                <target>Ponuda je uspešno aktivirana.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The offer title and description (terms) are mandatory for at least one of the two language versions.</source>
+                <target>Naslov i opis (uslovi) Akcije su obavezni za najmanje jednu od dve jezičke verzije.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Search in getlokal</source>
+                <target>Pronađi na getlokal</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Are you sure ?</source>
+                <target>Da li ste sigurni?</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Users</source>
+                <target>Korisnici</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Where</source>
+                <target>Gde</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Website</source>
+                <target>Veb sajt</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Badges</source>
+                <target>Bedževi</target>
+            </trans-unit>
+            <trans-unit>
+                <source>We were unable to send a confirmation request to the email address that you provided. Please check the email you provided is correct.</source>
+                <target>Nismo bili u mogućnosti da pošaljemo potvrdu zahteva na email adresu koju ste dali. Molimo proverite tačnost email adrese koju ste uneli.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Your account has been activated. You can now log in using the email and password you provided at registration time.</source>
+                <target>Vaš nalog je aktiviran. Možete se prijaviti korišćenjem email adrese i lozinke koju ste uneli pri registraciji.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The new password was sent successfully to the email you provided.</source>
+                <target>Nova lozinka je uspešno poslata na email adresu koju ste uneli</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Leave Comment</source>
+                <target>Ostavi komentar</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Company Admins</source>
+                <target>Administratori</target>
+            </trans-unit>
+            <trans-unit>
+                <source>See Place Page</source>
+                <target>Pogledajte profil stranu firme</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Approve</source>
+                <target>Odobrite</target>
+            </trans-unit>
+            <trans-unit>
+                <source>approve</source>
+                <target>оbrite</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Reject</source>
+                <target>Odbijte</target>
+            </trans-unit>
+            <trans-unit>
+                <source>reject</source>
+                <target>оdbijte</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Approve?</source>
+                <target>Odobrite?</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Reject?</source>
+                <target>Odbijte?</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Publish</source>
+                <target>Objavi</target>
+            </trans-unit>
+            <trans-unit>
+                <source>We were unable to process your request. Place administration process failed.</source>
+                <target>Nismo mogli da ispoštujemo zahtev. Zahtev za administraciju mesta nije uspeo.</target>
+            </trans-unit>
+            <!-- footer -->
+            <trans-unit>
+                <source>For You</source>
+                <target>Za tebe</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Do you know your city?</source>
+                <target>Poznaješ li svoj grad?</target>
+            </trans-unit>
+            <trans-unit>
+                <source>For Your Business</source>
+                <target>Za tvoju firmu</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Do you engage with your customers?</source>
+                <target>Da li je tvoja firma u kontaktu sa svojim klijentima?</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Write a Review</source>
+                <target>Napiši preporuku</target>
+            </trans-unit>
+            <trans-unit id="34">
+                <source>more</source>
+                <target>još</target>
+            </trans-unit>
+            <trans-unit id="37">
+                <source>Review</source>
+                <target>Preporuka</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Please write clearly, without using offensive or obscene language.</source>
+                <target>Molimo pišite iskreno, bez uvredljivih reči.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Back to list</source>
+                <target>Nazad na listu</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Comments</source>
+                <target>Komentari</target>
+            </trans-unit>
+            <trans-unit>
+                <source>read more...</source>
+                <target>Čitaj dalje...</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Read more...</source>
+                <target>Čitaj dalje...</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Read more</source>
+                <target>Pročitaj više</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Photo Gallery of %s</source>
+                <target>%s Foto galerija</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Top Reviews for %city%</source>
+                <target>Najbolje preporuke - %city%</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Top Places</source>
+                <target>Najbolja mesta</target>
+            </trans-unit>
+            <trans-unit>
+                <source>view all offers</source>
+                <target>Pogledajte sve ponude</target>
+            </trans-unit>
+            <trans-unit>
+                <source>by</source>
+                <target>od</target>
+            </trans-unit>
+            <trans-unit>
+                <source>VIP Places</source>
+                <target>VIP mesto</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Top Review</source>
+                <target>Najbolje preporuke</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Places</source>
+                <target>Mesta</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Find Similar Places</source>
+                <target>Pronađi slična mesta</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Your claim was submitted successfully!</source>
+                <target>Vaš zahtev za preuzimanje profila je prihvaćen!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Thank you for your claim request!</source>
+                <target>Hvala što ste poslali zahtev za preuzimanje profila!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Your claim request was submitted and will be approved by an administrator. Once you have been approved, you will be able to manage the information about this company.</source>
+                <target>Vaš zahtev za preuzimanje profila je prihvaćen i biće odobren od strane administratora. Kada bude odobren, moći ćete uređivati informacije o ovoj firmi.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Map</source>
+                <target>Mapa</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The event picture was changed successfully.</source>
+                <target>Fotografila događaja je uspešno promenjena.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>set as event photo</source>
+                <target>postavite kao fotografiju događaja</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Event Photo Gallery</source>
+                <target>Galerija fotografija događaja</target>
+            </trans-unit>
+            <trans-unit>
+                <source>[0]0 reviews|[1]1 review|(1,+Inf]%count% reviews</source>
+                <target>[0]0 preporuka|[1]1 preporuka|(1,+Inf]%count% preporuka</target>
+            </trans-unit>
+            <trans-unit>
+                <source>reply</source>
+                <target>odgovori</target>
+            </trans-unit>
+            <trans-unit>
+                <source>edit</source>
+                <target>uredi</target>
+            </trans-unit>
+            <trans-unit>
+                <source>delete</source>
+                <target>obriši</target>
+            </trans-unit>
+            <trans-unit>
+                <source>report</source>
+                <target>prijavi</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Mon</source>
+                <target>Pon</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Tue</source>
+                <target>Uto</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Wed</source>
+                <target>Sre</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Thu</source>
+                <target>Čet</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Fri</source>
+                <target>Pet</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Sat</source>
+                <target>Sub</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Sun</source>
+                <target>Ned</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Your review about %s was changed successfully.</source>
+                <target>Vaša preporuka za %s je uspešno promenjana.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>There is no registered profile with this email address</source>
+                <target>Nema registrovanih profila sa ovom email adresom</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Register with Facebook</source>
+                <target>Registrujte se putem Facebook naloga</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Facebook page of %s</source>
+                <target>%s Facebook stranica</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Twitter page of %s</source>
+                <target>%s Twitter stranica</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Google+ page of %s</source>
+                <target>%s Google+ stranica</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Foursquare page of %s</source>
+                <target>%s Foursquare stranica</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Website of %s: %s</source>
+                <target>Veb sajt firme %s: %s</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Your message was sent successfully.</source>
+                <target>Poruka je uspešno poslata.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The place details were saved successfully.</source>
+                <target>Detalji u vezi mesta su uspešno sačuvani.</target>
+            </trans-unit>
+            <trans-unit>
+                <source><![CDATA[<span>Thank you for suggesting</span> <span>a new place!</span>]]></source>
+                <target><![CDATA[<span>Hvala što ste predložili</span> <span>novo mesto!</span>]]></target>
+            </trans-unit>
+            <trans-unit>
+                <source>Congratulations! Thank you for adding a place!</source>
+                <target>Čestitamo! Hvala što ste upisali novo mesto!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Request through getlokal</source>
+                <target>Zahtev putem getlokal.rs</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Event was submitted successfully.</source>
+                <target>Događaj je uspešno prijavljen.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Full Review...</source>
+                <target>Cela preporuka...</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The email message was not sent successfully.</source>
+                <target>Email poruka nije uspešno poslata.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>We encountered problem activating your account.</source>
+                <target>Naišli smo na problem pri aktivaciji vašeg naloga.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>If you wish us to send you again your activation mail, </source>
+                <target>Ukoliko želite da Vam ponovo pošaljemo aktivacioni mail, </target>
+            </trans-unit>
+            <trans-unit>
+                <source>Rate</source>
+                <target>Oceni</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Vote</source>
+                <target>Glasaj</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Vote for this place</source>
+                <target>Glasajte za ovo mesto</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Skip</source>
+                <target>Preskočite</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Larger</source>
+                <target>Uvećano</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Smaller</source>
+                <target>Umanjeno</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The username was sent successfully to your email.</source>
+                <target>Korisničko ime je uspešno poslato na vaš email.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>I agree with the %s and the %s</source>
+                <target>Slažem se sa %s i %s</target>
+            </trans-unit>
+            <trans-unit>
+                <source>I have the necessary representative powers and agree with the %s and the %s</source>
+                <target>Imam sva potrebna ovlašćenja i slažem se sa %s i %s</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Enter your EIK/Bulstat</source>
+                <target>Unesite Matični broj firme/mesta</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Forgotten password for %s</source>
+                <target>Zaboravljena lozinka za %s</target>
+            </trans-unit>
+            <trans-unit>
+                <source>In order to protect the information associated with your business we have introduced some additional security requirements.</source>
+                <target>U cilju zaštite informacija u vezi Vaše firme uveli smo dodatne sigurnosne mere.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Create a username and password for each of the places you manage and keep this information secure.</source>
+                <target>Kreirajte korisničko ime i lozinku za svako od mesta/firme koje vodite i čuvajte ovu informaciju na sigurnom.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Use these login details every time you want to view or edit the information about the places you manage.</source>
+                <target>Koristite ove detalje za prijavu svaki put kada želite da ažurirate informacije o mestu/firmi koju vodite.</target>
+            </trans-unit>
+            <trans-unit>
+                <source> about the additional security requirements</source>
+                <target> o dodatnim bezbednosnim zahtevima</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Send it to us</source>
+                <target>Pošaljite nam</target>
+            </trans-unit>
+            <trans-unit>
+                <source>In my capacity as parent/trustee I hereby declare that I agree with the %s and the %s</source>
+                <target> U svojstvu staratelja izjavljujem saglasnost sa %s i sa %s</target>
+            </trans-unit>
+            <trans-unit>
+                <source>If you are underage person, your parent/trustee must also declare his/her consent below</source>
+                <target>Ukoliko ste maloletni, vaš roditelj ili staratelj mora takođe odobriti pristanak</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Tomorrow</source>
+                <target>Sutra</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Today</source>
+                <target>Danas</target>
+            </trans-unit>
+            <trans-unit>
+                <source>No uploaded photos yet.</source>
+                <target>Nema objavljenih fotografija.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Comment</source>
+                <target>Komentar</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Reply to Comment</source>
+                <target>Odgovor na komentar</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Poor</source>
+                <target>Loša</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Average</source>
+                <target>Prosečna</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Good</source>
+                <target>Dobra</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Very good</source>
+                <target>Veoma dobra</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Excellent</source>
+                <target>Izvrsna</target>
+            </trans-unit>
+            <trans-unit>
+                <source>There is no profile with this username</source>
+                <target>Ne postoji profil sa ovim korisničkim imenom</target>
+            </trans-unit>
+            <trans-unit>
+                <source>An error ocurred while processing your request. Please try again later.</source>
+                <target>Došlo je do greške prilikom obrade zahteva. Molimo pokušajte ponovo kasnije.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The video was successfully uploaded.</source>
+                <target>Video je uspešno postavljen.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The video was deleted successfully.</source>
+                <target>Video je uspešno obrisan.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Leave getlokal</source>
+                <target>Napusti getlokal</target>
+            </trans-unit>
+            <trans-unit>
+                <source>You get interesting information about all the places and events near you</source>
+                <target>Možeš dobiti zanimljive informacije o mestima i događajima u tvojoj blizini</target>
+            </trans-unit>
+            <trans-unit>
+                <source>You have the opportunity to win fab prizes by participating in getlokal promotions</source>
+                <target>Imaš priliku da osvojiš fantastične nagrade na Getlokal promocijama</target>
+            </trans-unit>
+            <trans-unit>
+                <source>If you want to leave the getlokal community, all of your reviews, photos, events and lists will be deleted!</source>
+                <target>Ukoliko želite da napustite getlokal zajednicu, sve vaše preporuke, fotografije, događaje i liste biće izbrisane!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Proceed to deletion of your getlokal account</source>
+                <target>Nastavite proces brisanja getlokal naloga</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Here are three good reasons to keep your account:</source>
+                <target>Ovo su tri dobra razloga da zardžiš svoj nalog:</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Still want to delete your profile?</source>
+                <target>I dalje želite da obrišete svoj nalog?</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Your account was deleted</source>
+                <target>Vaš nalog je izbrisan</target>
+            </trans-unit>
+            <trans-unit>
+                <source>We are sorry to see you go. We value all our users and would be grateful if you %s and let us know what we did wrong.</source>
+                <target>Žao nam je što odlazite. Poštujemo sve naše korisnike i voleli bismo da %s i date nam do znanja šta smo uradili pogrešno.</target>
+            </trans-unit>
+
+            <trans-unit>
+                <source>I agree to the %s and the %s</source>
+                <target>Slažem se sa %s i sa %s</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Policy for Use and Protection of the Information on the Getlokal Website</source>
+                <target>Polisa Korišćenja i Zaštite informacija na sajtu Getlokal</target>
+            </trans-unit>
+            <trans-unit>
+                <source>I have the necessary representative powers and I agree to the %s and the %s</source>
+                <target>Posedujem obavezna ovlašćenja i slažem se sa %s i sa %s</target>
+            </trans-unit>
+            <trans-unit>
+                <source>%s for %s (%s)</source>
+                <target>%s za %s (%s)</target>
+            </trans-unit>
+            <trans-unit>
+                <source>page</source>
+                <target>strana</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Search results for %s</source>
+                <target>Rezultati pretrage za %s</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The place you suggested was added to getlokal. It will be checked by a member of the getlokal team to ensure we have the right details and you will receive a confirmation email once it has been verified.</source>
+                <target>Mesto/firma koju ste predložili je dodata na getlokal. Član getlokal tima će je proveriti kako bi se uverio da ste uneli sve tačne detalje pa ćete dobiti potvrdu putem emaila.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>If you want to add %s, please log into your getlokal profile.</source>
+                <target>Ako želiš da dodaš %s moraš da se uloguješ.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>places</source>
+                <target>mesto/firmu</target>
+            </trans-unit>
+            <trans-unit>
+                <source>reviews</source>
+                <target>preporuke</target>
+            </trans-unit>
+            <trans-unit>
+                <source>review</source>
+                <target>preporuka</target>
+            </trans-unit>
+            <trans-unit>
+                <source>events</source>
+                <target>događaji?</target>
+            </trans-unit>
+            <trans-unit>
+                <source>List was successfully created.</source>
+                <target>Lista je uspešno kreirana.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>List was deleted successfully.</source>
+                <target>Lista je uspešno obrisana.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>You need to log in with a user profile and not as a place admin in order to finish what you started.</source>
+                <target>Morate se prijaviti preko korisničkog naloga a ne kao administrator mesta/firme kako biste završili započeto.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Open</source>
+                <target>Otvoreno</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Closed</source>
+                <target>Zatvoreno</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Your list was successfully updated!</source>
+                <target>Vaša lista je uspešno ažurirana!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>We couldn't find a place beginning with:</source>
+                <target>Nismo pronašli mesto/firmu koja počinje sa:</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Top Places in %city%</source>
+                <target>Najbolja mesta u %city%</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Top Review for %city%</source>
+                <target>Najbolje preporuke - %city%</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Recommended for %sector% in  %city%</source>
+                <target>Preporučeno za %sector% u %city%</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Top Reviews for %sector% in %city%</source>
+                <target>Najbolje preporuke za %sector% u %city%</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Choose From:</source>
+                <target>Izaberite od:</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Top Review for %sector% in %city%</source>
+                <target>Najbolje preporuke za %sector% u %city%</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Sorry, the place you were looking for does no longer exist at this web address.</source>
+                <target>Mesto/firma kojeu ste tražili više ne postoji na ovoj adresi.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>You might find similar places if you browse through the places listed in getlokal!</source>
+                <target>Možete pronaći slična mesta/firme na getlokal</target>
+            </trans-unit>
+            <trans-unit>
+                <source>On getlokal you can read recommendations written by people like you and write your own which will help you take more informed decisions! You can also make lists with useful places, add photos of places and win prizes in our campaigns!</source>
+                <target>Na getlokalu možete pročitati preporuke, pisane od strane ljudi poput Vas, i pisati svoje  preporuke koje će Vam pomoći da uz više infomacija donosite odluke! Takođe, možete napraviti liste s korisnim mestima, dodavati fotografije mesta/firmi i osvojiti nagrade u našim kampanjama!</target>
+            </trans-unit>
+            <trans-unit>
+                <source><![CDATA[Badge unlocked by <span> %s%s </span> of users]]></source>
+                <target><![CDATA[Bedž otključan od <span> %s%s </span> korisnika]]></target>
+            </trans-unit>
+            <trans-unit>
+                <source><![CDATA[Badge unlocked by <strong> %s%s </strong> of users]]></source>
+                <target><![CDATA[Bedž otključan od <strong> %s%s </strong> korisnika]]></target>
+            </trans-unit>
+            <trans-unit>
+                <source><![CDATA[use <i>getlokal</i> as:]]></source>
+                <target><![CDATA[Koristi <i>getlokal</i> nalog:]]></target>
+            </trans-unit>
+            <trans-unit>
+                <source>Locations</source>
+                <target>Lokacije</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Follow Us</source>
+                <target>Prati nas</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Unfollow Us</source>
+                <target>Prestanite da nas pratite</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Show Places Nearby</source>
+                <target>Prikaži mesta/firme u blizini</target>
+            </trans-unit>
+            <trans-unit>
+                <source>[0]No uploaded cover photos yet.|[1]1 uploaded cover photo|(1,+Inf]%count% uploaded cover photos</source>
+                <target>[0]Nije postavljena fotografija.|[1]1 postavljena fotografija|(1,+Inf]%count% postavljene fotografije</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Cover Photo Gallery of %s</source>
+                <target>Foto galerija %s</target>
+            </trans-unit>
+            <trans-unit>
+                <source>set as cover photo</source>
+                <target>Postavite kao naslovnu fotografiju</target>
+            </trans-unit>
+            <trans-unit>
+                <source>You need to select a crop area in your image.</source>
+                <target>Morate kropovati fotografiju.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Preview</source>
+                <target>Pregled</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Your Photo</source>
+                <target>vaša fotografija</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Confirm</source>
+                <target>Potvrdi</target>
+            </trans-unit>
+
+            <trans-unit>
+                <source>Followers</source>
+                <target>Nas prate</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Following</source>
+                <target>Ja pratim</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Messages</source>
+                <target>Poruke</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Follow</source>
+                <target>Prati</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Unfollow</source>
+                <target>Prestani da pratiš</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Send Message</source>
+                <target>Pošalji poruku</target>
+            </trans-unit>
+            <trans-unit>
+                <source>View Messages</source>
+                <target>Pogledaj poruke</target>
+            </trans-unit>
+            <trans-unit>
+                <source>[0]No followers|[1]1 follower|(1,+Inf]%count% followers</source>
+                <target>[0]Nema pratioca|[1]Korisnici koji me prate: 1|(1,+Inf]%count% pratioca</target>
+            </trans-unit>
+
+            <trans-unit>
+                <source>[0]No users or places being followed.|[1]1 followed.|(1,+Inf]%count% followed</source>
+                <target>[0]Nema korisnika ni mesta/firme koji se prate.|[1]1 se prati|(1,+Inf]Broj korisnika i mesta koje pratim: %count%</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Your message was sent successfully</source>
+                <target>Poruka je uspešno poslata</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Contact Followers</source>
+                <target>Kontaktiraj pratioce</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Select All</source>
+                <target>Izaberi sve</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Latest News</source>
+                <target>Poslednje vesti</target>
+            </trans-unit>
+            <trans-unit>
+                <source>More Info</source>
+                <target>još informacija</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Options</source>
+                <target>Opcije</target>
+            </trans-unit>
+            <trans-unit>
+                <source>e.g. restaurant, hairdresser, cafe</source>
+                <target>npr. restoran, frizer, kafe bar</target>
+            </trans-unit>
+            <trans-unit>
+                <source>E.g. restaurant</source>
+                <target>npr. Restorani</target>
+            </trans-unit>
+            <trans-unit>
+                <source>e.g. restaurant, hairdresser</source>
+                <target>npr. restoran, frizer</target>
+            </trans-unit>
+            <trans-unit>
+                <source>e.g. Novi Sad, Nis, Beograd</source>
+                <target>npr. Novi Sad, Niš, Beograd</target>
+            </trans-unit>
+            <trans-unit>
+                <source><![CDATA[<span></span> Novi Sad, Nis, Beograd]]></source>
+                <target><![CDATA[<span></span> Novi Sad, Nis, Beograd]]></target>
+            </trans-unit>
+            <trans-unit>
+                <source>Novi Sad, Nis, Beograd</source>
+                <target>Novi Sad, Niš, Beograd</target>
+            </trans-unit>
+            <trans-unit>
+                <source>loading...</source>
+                <target>Učitavanje...</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Thank you for registering with getlokal!</source>
+                <target>Hvala i čestitamo na registraciji</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Search for</source>
+                <target>Traži</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Select Country</source>
+                <target>Odaberi zemlju</target>
+            </trans-unit>
+            <trans-unit>
+                <source>in</source>
+                <target>gde</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Edit </source>
+                <target>Uredi Članak</target>
+            </trans-unit>
+            <trans-unit>
+                <source>About getlokal</source>
+                <target>getlokal</target>
+            </trans-unit>
+            <trans-unit>
+                <source>FAQ's</source>
+                <target>FAQ</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Team</source>
+                <target>Tim</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Timeline</source>
+                <target>Hronologija</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Contact form</source>
+                <target>Kontakt</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Office Addresses</source>
+                <target>Adrese</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Free</source>
+                <target>Besplatno</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Paid</source>
+                <target>Plaćeno</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Telephone</source>
+                <target>Telefon</target>
+            </trans-unit>
+            <trans-unit>
+                <source>You are already an administrator for this place and cannot write reviews for it but only reply to reviews by other users about your place.</source>
+                <target>Kao administrator ovog mesta ne možete pisati preporuke za njega već samo odgovarati na preporuke drugih korisnika.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Deleting Review</source>
+                <target>Brisanje Preporuke</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Deleting List</source>
+                <target>Brisanje list</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Deleting Article</source>
+                <target>Brisanje članak</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Are you sure you want to delete your review?</source>
+                <target>Sigurno želiš da izbrišeš svoju preporuku?</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Are you sure you want to delete your article?</source>
+                <target>Sigurno želiš da izbrišeš ovaj članak?</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Are you sure you want to delete your list?</source>
+                <target>Sigurno želiš da izbrišeš ovu listu?</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Are you sure you want to delete your event?</source>
+                <target>Sigurno želiš da izbrišeš ovaj događaj?</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Are you sure you want to delete the current file?</source>
+                <target>Dali sigurno želis da izbrišeš  postojeći fajl?</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Delete file</source>
+                <target>Brisanje fajla</target>
+            </trans-unit>
+            <source>Deleting Event</source>
+            <target>Brisanje Događaja</target>
+            <trans-unit>
+                <source>Are you sure you want to approve </source>
+                <target>Potvrđuješ </target>
+            </trans-unit>
+            <trans-unit>
+                <source>Are you sure you want to reject </source>
+                <target>Ne potvrđuješ </target>
+            </trans-unit>
+            <trans-unit>
+                <source>Are you sure you want to deactivate </source>
+                <target>Sigurno želiš da deaktiviraš </target>
+            </trans-unit>
+            <trans-unit>
+                <source> as admin for </source>
+                <target> каo administrator za </target>
+            </trans-unit>
+            <trans-unit>
+                <source>approve</source>
+                <target>odobri</target>
+            </trans-unit>
+            <trans-unit>
+                <source>reject</source>
+                <target>odbij</target>
+            </trans-unit>
+            <trans-unit>
+                <source>yes</source>
+                <target>da</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Embed</source>
+                <target>Embed</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Place Widget</source>
+                <target>Widget profila</target>
+            </trans-unit>
+            <trans-unit>
+                <source>If you just want to grab this place details and show them on your blog or site, just customise the settings below and paste the code in your source file.</source>
+                <target>Ako želiš da preuzmeš detalje ovog profila i prikažeš ih na svom sajtu ili blogu, podesi parametre i kopiraj kod u svoj sors fajl.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Events Widget</source>
+                <target>Widget Događaja</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Do you run a events related blog or website? You can take-away some fresh content from getlokal. Just customize the looks and content, grab the code and paste it in the source code where you want it to show.</source>
+                <target>Ako imaš sajt ili blog koji se bavi događajima i želiš da ga obogatiš sadržajem, možeš ga preuzeti sa našeg sajta. Podesi parametre, izgled i sadržaj koji želiš da preuzimaš i kopiraj kod u svoj sors fajl.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Please fill in all mandatory fields.</source>
+                <target>Molimo popunite obavezna polja.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>All sectors</source>
+                <target>Svi sektori</target>
+            </trans-unit>
+            <trans-unit>
+                <source>All locations</source>
+                <target>Svi gradovi</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Upload a new PDF file</source>
+                <target>Postavi novi PDF fajl</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Menu</source>
+                <target>Meni</target>
+            </trans-unit>  
+            <trans-unit>
+                <source>Prices</source>
+                <target>Cene</target>
+            </trans-unit>  
+            <trans-unit>
+                <source>Catalogue</source>
+                <target>Katalog</target>
+            </trans-unit>  
+            <trans-unit>
+                <source>Products</source>
+                <target>Proizvodi</target>
+            </trans-unit>  
+            <trans-unit>
+                <source>Services</source>
+                <target>Servisi</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Sort by:</source>
+                <target>Poređaj po:</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Discount high to low</source>
+                <target>Popustu od većeg ka manjem</target>
+            </trans-unit> 
+            <trans-unit>
+                <source>Discount low to high</source>
+                <target>Popustu od manjeg ka većem</target>
+            </trans-unit> 
+            <trans-unit>
+                <source>Latest</source>
+                <target>Najnoviji popusti</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Expiring soon</source>
+                <target>Ističu uskoro</target>
+            </trans-unit> 
+            <trans-unit>
+                <source>The current file has been successfully deleted.</source>
+                <target>Postojeći fajl je uspešno obrisan.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>See all in </source>
+                <target>Pregledaj sve u </target>
+            </trans-unit>
+            <trans-unit>
+                <source>All categories</source>
+                <target>Sve kategorije</target>
+            </trans-unit> 
+            <trans-unit>
+                <source>%what% in %where%</source>
+                <target>%what% u %where%</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Find places around you,</source>
+                <target>Pronađi ono što tražiš još lakše,</target>
+            </trans-unit>
+            <trans-unit>
+                <source>download getlokal app.</source>
+                <target>preuzmi getlokal aplikaciju.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Continue to the website</source>
+                <target>Nastavi da koristiš sajt</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Available on the</source>
+                <target>Preuzmi sa</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Get it on</source>
+                <target>Preuzmi sa</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Changes to "My Places"</source>
+                <target>Izmene za "Moja mesta"</target>
+            </trans-unit>
+            <trans-unit>
+                <source>You made some changes. What do you want to do with them?</source>
+                <target>Da li želiš da sačuvaš izmene?</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Save</source>
+                <target>Sačuvaj</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Continue without saving</source>
+                <target>Nastavi bez izmena</target>
+            </trans-unit>
+            <trans-unit>
+                <source>%what% in %where%</source>
+                <target>%what% u %where%</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Thank you for sending your reservation request. Getlokal will forward it to the relevant person and they will be in touch with you shortly.</source>
+                <target>Hvala. Zahtev za rezervaciju je poslat. Getlokal će je proslediti nadležnom licu tako da ćeš uskoro dobiti povratnu informaciju o rezervaciji.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Login / Register</source>
+                <target>PRIJAVI SE/REGISTRUJ SE</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Log in/Register to link the places you added with your account!</source>
+                <target>Uloguj se/registruj se i poveži dodata mesta/firme sa svojim profilom!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Login with Facebook</source>
+                <target>Prijavi se putem Facebook naloga</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Login with Email</source>
+                <target>Prijavi se putem email-a</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Not registered?</source>
+                <target>Nisi registrovan?</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Thank you! If the place is claimed, we will sent your suggestions to the owner. If not, we will manually verify and update the details of the place.</source>
+                <target>Hvala! Ako je profil preuzet od strane vlasnika, poslaćemo mu predložene izmene. Ako nije, administratori će proveriti informacije i objaviti izmene.</target>
+            </trans-unit>
+
+            <!-- NEW DESIGN -->
+
+            <trans-unit>
+                <source>Add new</source>
+                <target>Dodaj</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Place</source>
+                <target>Mesto</target>
+            </trans-unit>
+             <trans-unit>
+                <source>Install</source>
+                <target>Instaliraj</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Getlokal app</source>
+                <target>Getlokal aplikaciju</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Sponsored</source>
+                <target>Sponzorisano</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Advertise</source>
+                <target>Oglašavanje</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Scroll to top</source>
+                <target>Idi do vrha</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Scroll to bottom</source>
+                <target>Idi do dna</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Categories</source>
+                <target>Pretraga po delatnosti</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Leave Comment</source>
+                <target>Напиши коментар</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Places</source>
+                <target>Mesta</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Your Getlokal</source>
+                <target>Tvoj Getlokal</target>
+            </trans-unit>
+
+            <trans-unit>
+                <source>Scan this code with your smartphone</source>
+                <target>Skeniraj kod pomoću telefona</target>
+            </trans-unit>
+
+
+            <trans-unit>
+                <source>Like and follow us</source>
+                <target>Lajkuj i prati nas</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Planning a great night out looking for a recommended beauty salon, or a trendy bar - you will find everything you search in Getlokal</source>
+                <target>Planiraš izlazak i dobar provod, tražiš preporučeni salon lepote ili popularni kafe bar - sve što tražiš pronaći ćeš na Getlokal</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Concerts, exhibitions, parties – Getlokal will show you when and where local events are happening</source>
+                <target>Koncerti, izložbe, žurke - Getlokal će te obavestiti gde i kad se održavaju lokalni događaji</target>
+            </trans-unit>
+            <trans-unit>
+                <source>If you want to search again for another location, please use the 'Where' field to enter the right location. It is also possible to expand your search to cover the whole of %s</source>
+                <target>Ukoliko želite da tražite ponovo za novu lokaciju, molimo da koristite polje 'gde' kako biste uneli tačnu lokaciju. Možete i proširiti pretragu kako biste pokrili celu %s</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Couldn't find the place you were looking for? %s and we'll add it.</source>
+                <target>Niste pronašli mesto/firmu koje ste tražili? %s i dodajte.</target>
+            </trans-unit>
+
+            <trans-unit>
+                <source>for</source>
+                <target>za</target>
+            </trans-unit>
+
+            <trans-unit>
+                <source>Places in %city%</source>
+                <target>Mesta u %city%</target>
+            </trans-unit>
+        </body>
+    </file>
+</xliff>

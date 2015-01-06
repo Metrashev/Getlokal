@@ -1,0 +1,9 @@
+all:
+  #javascripts: [jquery.ui.dialog.js]
+  stylesheets: [/css/ui-lightness/jquery-ui-1.8.16.custom.css]
+  
+detailsSuccess:
+  javascripts: [tiny_mce/jquery.tinymce.js,tiny_mce/tiny_mce.js,jquery.cookie.js]
+  
+videosSuccess:
+  javascripts: [swfobject.js,jquery.cookie.js]

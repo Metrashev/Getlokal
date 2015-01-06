@@ -1,0 +1,12 @@
+Create:
+  is_secure: true
+Edit:
+  is_secure: true
+Delete:
+  is_secure: true
+AddEventUser:
+  is_secure: true
+SetEvent:
+  is_secure: true
+DeleteImage:
+  is_secure: true

@@ -1,0 +1,1021 @@
+﻿<?xml version="1.0" ?>
+<xliff version="1.0">
+ <file original="global" source-language="en" datatype="plaintext">
+  <body>
+   <trans-unit id="1">
+    <source>There is no user registered with the this email</source>
+    <target>Δεν υπάρχει εγγεγραμμένος χρήστης με αυτήν την ηλεκτρονική διεύθυνση</target>
+   </trans-unit>
+   <trans-unit id="2">
+    <source>Day, month and year are mandatory fields</source>
+    <target>Η ημέρα, ο μήνας και η χρονιά είναι υποχρεωτικά πεδία</target>
+   </trans-unit>
+   <trans-unit id="3">
+    <source>Username "%value%" cannot be used</source>
+    <target>Το όνομα χρήστη "%value%" δεν μπορεί να χρησιμοποιηθεί</target>
+   </trans-unit>
+   <trans-unit id="4">
+    <source>The username "%value%" contains characters that are not allowed</source>
+    <target>Το όνομα χρήστη "%value%" περιέχει χαρακτήρες που δεν επιτρέπονται</target>
+   </trans-unit>
+   <trans-unit id="5">
+    <source>Username must contain at least %min_length% characters</source>
+    <target>Το όνομα χρήστη πρέπει να περιέχει τουλάχιστον %min_length% χαρακτήρες</target>
+   </trans-unit>
+   <trans-unit id="6">
+    <source>Username cannot contain more than %max_length% characters.</source>
+    <target>Το όνομα χρήστη δεν πρέπει να περιέχει περισσότερους από %min_length% χαρακτήρες</target>
+   </trans-unit>
+   <trans-unit id="7">
+    <source>Invalid email – your email is not in the correct format</source>
+    <target>Μη έγκυρη ηλεκτρονική διεύθυνση- η ηλεκτρονική σας διεύθυνση δεν έχει τη σωστή μορφή</target>
+   </trans-unit>
+   <trans-unit id="8">
+    <source>"%value%" is too short. The username should be at least 3 characters.</source>
+    <target>"%value%" είναι πολύ μικρό. Το όνομα χρήστη πρέπει να έχει τουλάχιστον 3 χαρακτήρες.</target>
+   </trans-unit>
+   <trans-unit id="9">
+    <source>Your password should be at least %min_length% characters long</source>
+    <target>Ο κωδικός ασφαλείας σας πρέπει να είναι τουλάχιστον %min_length% χαρακτήρες</target>
+   </trans-unit>
+   <trans-unit id="10">
+    <source>Your password cannot contain more than %max_length% characters</source>
+    <target>Ο κωδικός ασφαλέιας σας δεν μπορεί να περιέχει περισσότερους από %max_length% χαρακτήρες</target>
+   </trans-unit>
+   <trans-unit id="11">
+    <source>We will send the new password, to the email address you provided during registration</source>
+    <target>Θα στείλουμε το νέο κωδικό ασφαλείας στην ηλεκτρονική διεύθυνση που μας δώσατε κατά την εγγραφή</target>
+   </trans-unit>
+   <trans-unit id="12">
+    <source>The passwords do not match</source>
+    <target>Οι κωδικοί σφαλείας δεν ταιριάζουν</target>
+   </trans-unit>
+   <trans-unit id="13">
+    <source>This email address has already been registered by another user</source>
+    <target>Αυτή η ηλεκτρονική διεύθυνση έχει ήδη χρησιμοποιηθεί από άλλο χρήστη</target>
+   </trans-unit>
+   <trans-unit id="14">
+    <source>This username is already in use</source>
+    <target>Αυτό το όνομα χρήστη χρησιμοποιείται ήδη</target>
+   </trans-unit>
+    <trans-unit id="15">
+    <source>This field is mandatory. Please start typing the name of your home location and select from the list.</source>
+    <target>Αυτό το πεδίο είναι υποχρεωτικό. Παρακαλούμε ξεκινήστε να γράφετε το όνομα της τοποθεσίας σας και επιλέξτε από τη λίστα</target>
+   </trans-unit>
+   <trans-unit id="16">
+    <source>You have entered the text incorrectly. Please try again.</source>
+    <target>Έχετε εισάγει το κείμενο λάθος. Παρακαλούμε δοκιμάστε ξανά.</target>
+   </trans-unit>
+   <trans-unit id="17">
+    <source>Please retype your password.</source>
+    <target>Παρακαλούμε πληκτρολογείστε πάλι τον κωδικό ασφαλείας σας.</target>
+   </trans-unit>
+	 <trans-unit id="18">
+    <source>Please retype your password.</source>
+    <target> Παρακαλούμε πληκτρολογείστε πάλι τον κωδικό ασφαλείας σας.</target>
+   </trans-unit>
+   <trans-unit id="19">
+    <source>Email is required</source>
+    <target>Χρειάζεται η ηλεκτρονική διεύθυνση</target>
+   </trans-unit>
+   <trans-unit id="20">
+    <source>You must select a file to upload</source>
+    <target>Πρέπει να επιλέξετε ένα αρχείο για μεταφόρτωση</target>
+   </trans-unit>
+   <trans-unit id="21">
+    <source>The file you submitted is not in a valid format. Please upload a JPG, GIF or PNG image file.</source>
+    <target>Το αρχείο που υποβάλατε δεν είναι στη σωστή μορφή. Παρακαλούμε μεταμορφώστε ένα αρχείο εικόνας JPG, GIF ή PNG.</target>
+   </trans-unit>
+	 <trans-unit id="22">
+    <source>The file you submitted is not in a valid format. Please upload a JPG, GIF or PNG image file.</source>
+    <target> Το αρχείο που υποβάλατε δεν είναι στη σωστή μορφή. Παρακαλούμε μεταμορφώστε ένα αρχείο εικόνας JPG, GIF ή PNG.</</target>
+   </trans-unit>
+   <trans-unit id="23">
+    <source>File size limit is 4MB. Please reduce file size before submitting again.</source>
+    <target>Το μέγιστο μεγέθος αρχείου είναι 4MB. Παρακαλούμε μειώστε το μέγεθος του αρχείου πριν το υποβάλετε πάλι.</target>
+   </trans-unit>
+   <trans-unit id="24">
+    <source>File size limit is 2MB.Please reduce file size.</source>
+    <target> Το μέγιστο μεγέθος αρχείου είναι 2MB. Παρακαλούμε μειώστε το μέγεθος του αρχείου.</target>
+   </trans-unit>
+   <trans-unit id="25">
+    <source>Caption "%value%" contains forbidden characters</source>
+    <target>Η λεζάντα "%value%" περιέχει απαγορευμένους χαρακτήρες</target>
+   </trans-unit>
+   <trans-unit id="26">
+    <source>Caption "%value%" contains forbidden words</source>
+    <target>Η λεζάντα "%value%" περιέχει απαγορευμένες λέξεις</target>
+   </trans-unit>
+   <trans-unit id="27">
+    <source>Type photo caption</source>
+    <target>Πληκτρολογείστε λεζάντα για την εικόνα</target>
+   </trans-unit>
+	 <trans-unit id="28">
+    <source>Type photo caption</source>
+    <target> Πληκτρολογείστε λεζάντα για την εικόνα </target>
+   </trans-unit>
+   <trans-unit id="29">
+    <source>Caption must contain at least %min_length% characters</source>
+    <target>Η λεζάντα πρέπει να περιέχει τουλάχιστον %min_length% χαρακτήρες</target>
+   </trans-unit>
+   <trans-unit id="30">
+    <source>The caption cannot contain more than %max_length% characters.</source>
+    <target>Η λεζάντα δεν μπορεί να περιέχει περισσότερους από %max_length% χαρακτήρες. </target>
+   </trans-unit>
+   <trans-unit id="31">
+    <source>The review cannot contain more than %max_length% characters. Shorten your review.</source>
+    <target>Η κρητική δεν μπορεί να περιέχει περισσότερους από %max_length% χαρακτήρες. Μειώστε την κρητική σας.</target>
+   </trans-unit>
+    <trans-unit id="32">
+    <source>The review must contain at least %min_length% characters</source>
+    <target>Η κρητική πρέπει να περιέχει τουλάχιστον %min_length% χαρακτήρες</target>
+   </trans-unit>
+   <trans-unit id="33">
+    <source>The review contains characters that are not allowed</source>
+    <target>Η κρητική περιέχει χαρακτήρες που δεν επιτρέπονται</target>
+   </trans-unit>
+   <trans-unit id="34">
+    <source>The review contains words that are not allowed</source>
+    <target>Η κρητική περιέχει λέξεις που δεν επιτρέπονται</target>
+   </trans-unit>
+   <trans-unit id="35">
+    <source>The answer cannot contain more than %max_length% characters</source>
+    <target>Η απάντηση δεν μπορεί να περιέχει περισσότερους από %max_length% χαρακτήρες</target>
+   </trans-unit>
+    <trans-unit id="36">
+    <source>The answer must contain at least %min_length% characters</source>
+    <target>Η απάντηση πρέπει να περιέχει τουλάχιστον %min_length% χαρακτήρες</target>
+   </trans-unit>
+    <trans-unit id="37">
+    <source>The review cannot contain more than %max_length% characters</source>
+    <target>Η κρητική δεν μπορεί να περιέχει περισσότερους από %max_length% χαρακτήρες</target>
+   </trans-unit>
+   <trans-unit id="38">
+    <source>the answer contains words that are not allowed</source>
+    <target>Η απάντηση περιέχει λέξεις που δεν επιτρέπονται</target>
+   </trans-unit>
+   <trans-unit id="39">
+    <source>Type Review</source>
+    <target>Πληκτρολογείστε την Κρητική</target>
+   </trans-unit>
+   <trans-unit id="40">
+    <source>The caption must contain at least 3 characters</source>
+    <target>Η λεζάντα πρέπει να περιέχει τουλάχιστον 3 χαρακτήρες</target>
+   </trans-unit>
+   <trans-unit id="41">
+    <source>The caption cannot contain more than 255 characters</source>
+    <target>Η λεζάντα δεν μπορεί να περιέχει περισσότερους από 255 χαρακτήρες</target>
+   </trans-unit>
+   <trans-unit id="42">
+    <source>The field is mandatory</source>
+    <target>Το πεδίο είναι υποχρεωτικό</target>
+   </trans-unit>
+   <trans-unit id="43">
+    <source>Select Your Position</source>
+    <target>Επιλέξτε τη Θέση Σας</target>
+   </trans-unit>
+   <trans-unit id="44">
+    <source>Invalid Phone Number</source>
+    <target>Μη έγκυρος Αριθμός Τηλεφώνου</target>
+   </trans-unit>
+   <trans-unit id="45">
+    <source>This field is mandatory. Select your town/city from the dropdown list.</source>
+    <target>Το πεδίο είναι υποχρεωτικό. Επιλέξτε την πόλη σας από την αναδιπλούμενη λίστα.</target>
+   </trans-unit>
+   <trans-unit id="46">
+    <source>This field cannot contain more than %max_length% characters</source>
+    <target>Αυτό το πεδίο δεν μπορεί να περιέχει περισσότερους από %max_length% χαρακτήρες</target>
+   </trans-unit>
+   <trans-unit id="47">
+    <source>Select company type</source>
+    <target>Επιλέξτε είδος εταιρείας</target>
+   </trans-unit>
+   <trans-unit id="48">
+    <source>Select address type</source>
+    <target>Επιλέξτε είδος διεύθυνσης</target>
+   </trans-unit>
+   <trans-unit id="49">
+    <source>Invalid Postcode</source>
+    <target>Μη έγκυρος Ταχυδρομικός Κωδικός</target>
+   </trans-unit>
+   <trans-unit id="50">
+    <source>You must select Street and/or Nighbourhood</source>
+    <target>Πρέπει να επιλέξετε Οδό ή/και Περιοχή</target>
+   </trans-unit>
+   <trans-unit id="51">
+    <source>You must enter Street and/or Nighbourhood</source>
+    <target> Πρέπει να εισάγετε Οδό ή/και Περιοχή </target>
+   </trans-unit>
+   <trans-unit id="52">
+    <source>You must enter Street Number and/or Entrance</source>
+    <target> Πρέπει να εισάγετε Αριθμό ή/και Είσοδο </target>
+   </trans-unit>
+   <trans-unit id="53">
+    <source>You need to register a business account in order to manage you company's listing in getlokal.ro</source>
+    <target>Πρέπει να εγγραφείτε με ένα λογαριασμό επιχείρησης για να διαχειριστείτε τις πληροφορίες της επιχείρησής σας στο getlokal.ro </target>
+   </trans-unit>
+    <trans-unit id="54">
+    <source>Log out of your user profile and register as a business</source>
+    <target>Αποσυνδεθείτε από το προφίλ χρήστη σας και εγγραφείτε σαν επιχείρηση</target>
+   </trans-unit>
+   <trans-unit id="55">
+    <source>Only business users can claim companies!</source>
+    <target>Μόνο χρήστες εγγεγραμμένοι ως επιχείρηση μπορούν να συμπληρώσουν το πεδίο σαν εταιρείες!</target>
+   </trans-unit>
+   <trans-unit id="56">
+    <source>Enter the URL of Your Blog</source>
+    <target>Εισάγετε το URL του Βlog σας</target>
+   </trans-unit>
+   <trans-unit id="57">
+    <source>The field cannot contain more than %max_length% characters</source>
+    <target>Το πεδίο δεν μπορεί να περιέχει περισσότερους από %max_length% χαρακτήρες</target>
+   </trans-unit>
+   <trans-unit id="58">
+    <source>The field must contain at least %min_length% characters</source>
+    <target>Το πεδίο πρέπει να περιέχει τουλάχιστον %min_length% χαρακτήρες</target>
+   </trans-unit>
+   <trans-unit id="59">
+    <source>Invalid format. E.g. http://www.getlokal.ro.</source>
+    <target>Μη έγκυρη μορφή. Π.χ. http://www.getlokal.ro.</target>
+   </trans-unit>
+   <trans-unit id="60">
+    <source>Invalid format. E.g. getlokal.ro!</source>
+    <target> Μη έγκυρη μορφή. Π.χ. getlokal.ro!</target>
+   </trans-unit>
+   <trans-unit id="61">
+    <source>Invalid format. E.g. http://blog.getlokal.ro.</source>
+    <target> Μη έγκυρη μορφή. Π.χ. http://blog.getlokal.ro.</target>
+   </trans-unit>
+   <trans-unit id="62">
+    <source>Invalid format. E.g. http://twitter.com/@getlokal.</source>
+    <target> Μη έγκυρη μορφή. Π.χ. http://twitter.com/@getlokal.</target>
+   </trans-unit>
+   <trans-unit id="63">
+    <source>Invalid format. E.g. http://www.facebook.com/#!/getlokal.</source>
+    <target> Μη έγκυρη μορφή. Π.χ. http://www.facebook.com/#!/getlokal.</target>
+   </trans-unit>
+   <trans-unit id="64">
+    <source>This field is not mandatory but if you fill it in it must contain at least %min_length% characters</source>
+    <target>Αυτό το πεδίο δεν είναι υποχρεωτικό αλλά αν το συμπληρώσετε πρέπει να περιέχει τουλάχιστον %min_length% χαρακτήρες</target>
+   </trans-unit>
+   <trans-unit id="65">
+    <source>This field is not mandatory but if you fill it in itcannot contain more than %max_length% characters.</source>
+    <target> Αυτό το πεδίο δεν είναι υποψρεωτικό αλλά αν το συμπληρώσετε δεν πρέπει να περιέχει περισσότερους από %max_length% χαρακτήρες</target>
+   </trans-unit>
+   <trans-unit id="66">
+    <source>Select Your Position</source>
+    <target>Επιλέξτε τη Θέση Σας</target>
+   </trans-unit>
+
+   <trans-unit id="67">
+    <source>Invalid format. E.g. http://www.facebook.com/getlokal.</source>
+    <target> Μη έγκυρη μορφή. Π.χ. http://www.facebook.com/getlokal.</target>
+   </trans-unit>
+   <trans-unit id="68">
+    <source>There was a problem changing your password. Please try again later.</source>
+    <target>Παρουσιάστηκε πρόβλημα με την αλλαγή του κωδικού ασφαλείας σας. Παρακαλούμε προσπαθήστε αργότερα.</target>
+   </trans-unit>
+   <trans-unit id="69">
+    <source>Your password was changed successfully</source>
+    <target>Ο κωδικός ασφαλείας σας άλλαξε επιτυχώς</target>
+   </trans-unit>
+    <trans-unit id="70">
+    <source>The start date cannot be earlier than today</source>
+    <target>Η ημερομηνία έναρξης δεν μπορεί να είναι νωρίτερα από σήμερα</target>
+   </trans-unit>
+   <trans-unit id="71">
+    <source>The start date of the second promo month cannot be earlier than the end date of the first</source>
+    <target>Η ημερομηνία έναρξης του δεύτερου προωθητικού μήνα δεν μπορεί να είναι νωρίτερα από την ημερομηνία λήξης του πρώτου</target>
+   </trans-unit>
+    <trans-unit id="72">
+    <source>The start date of the third promo month cannot be earlier than the end date of the second</source>
+    <target>Η ημερομηνία έναρξης του τρίτου προωθητικού μήνα δεν μπορεί να είναι νωρίτερα από την ημερομηνία λήξης τους δεύτερου</target>
+   </trans-unit>
+    <trans-unit id="73">
+    <source>The start date for the third period must not be later than 30 days before the end date of your advert</source>
+    <target>Η ημερομηνία έναρξης της τρίτης περιόδου δεν μπορεί να είναι αργότερα από 30 μέρες πριν από την ημερομηνία λήξης της διαφήμισής σας</target>
+   </trans-unit>
+   <trans-unit id="74">
+    <source>The start date for the period must not be later than 30 days before the end date of your advert</source>
+    <target>Η ημερομηνία έναρξης για την περίοδο δεν μπορεί να είναι αργότερα από 30 μέρες πριν από την ημερομηνία λήξης της διαφήμισής σας</target>
+   </trans-unit>
+   <trans-unit id="75">
+    <source>Type an Answer</source>
+    <target>Πληκτρολογείστε μια Απάντηση</target>
+   </trans-unit>
+   <trans-unit id="76">
+    <source>The Offer Title cannot be longer than %max_length% characters</source>
+    <target>Ο Τίτλος Προσφοράς δεν μπορεί να είναι μεγαλύτερος από %max_length% νχαρακτήρες</target>
+   </trans-unit>
+   <trans-unit id="77">
+    <source>The maximum number of vouchers issued per user cannot exceed the total number of vouchers for the offer</source>
+    <target>Ο μέγιστος αριθμός κουπονιών που εκδίδονται ανά χρήστη δεν μπορεί να υπερβεί το συνολικό αριθμό κουπονιών της προσφοράς</target>
+   </trans-unit>
+   <trans-unit id="78">
+    <source>You cannot select a date earlier than today's</source>
+    <target>Δεν μπορείτε να επιλέξετε ημερομηνία προηγούμενη της σημερινής</target>
+   </trans-unit>
+   <trans-unit id="79">
+    <source>Тhe end date of your offer cannot be later than the end date of your advert</source>
+    <target>Η ημερομηνία λήξης της προσφοράς σας δεν μπορεί να είναι αργότερα από την ημερομηνία λήξης της διαφήμισής σας</target>
+   </trans-unit>
+   <trans-unit id="80">
+    <source>The offer end date cannot be earlier than the start date</source>
+    <target>Η ημερομηνία λήξης της προσφοράς σας δεν μπορεί να είναι νωρίτερα από την ημερομηνία έναρξης</target>
+   </trans-unit>
+   <trans-unit id="81">
+    <source>The voucher valid to date cannot be earlier than the offer end date</source>
+    <target>Το κουπόνι που ισχύει ως σήμερα δεν μπορεί να είναι νωρίτερα από ημερομηνία λήξης της προσφοράς</target>
+   </trans-unit>
+   <trans-unit id="82">
+    <source>Select date, month and year</source>
+    <target>Επιλέξτε ημερομηνία, μήνα και χρονιά</target>
+   </trans-unit>
+    <trans-unit id="83">
+    <source>The email address is not in a valid format</source>
+    <target>Η ηλεκτρονική διεύθυνση δεν είναι σε έγκυρη μορφή</target>
+   </trans-unit>
+   <trans-unit id="84">
+    <source>An email is mandatory</source>
+    <target>Η ηλεκτρονική διεύθυνση είναι υποχρεωτική</target>
+   </trans-unit>
+   <trans-unit id="85">
+    <source>You need to agree to getlokal's Terms of Use to create a user account</source>
+    <target>Πρέπει να συμφωνήσε με τους Όρους Χρήσης του getlokal για να δημιουργήσετε λογαριασμό χρήστη</target>
+   </trans-unit>
+    <trans-unit id="86">
+    <source>Location is mandatory. Start typing the name of your location and select from the list.</source>
+    <target>Η τοποθεσία είναι υποχρεωτική. Ξεκινήστε να πληκτρολογείτε το όνομα της τοποθεσίας σα και επιλέξτε από τη λίστα.</target>
+   </trans-unit>
+   <trans-unit id="87">
+    <source>Password must be at least %min_length% characters</source>
+    <target>Ο κωδικός ασφαλείας πρέπει να είναι τουλάχιστον %min_length% χαρακτήρες</target>
+   </trans-unit>
+   <trans-unit id="88">
+    <source>Password cannot be more than %min_length% characters</source>
+    <target>Ο κωδικός ασφαλείας δεν μπορεί να είναι μεγαλύτερος από %min_length% χαρακτηρες</target>
+   </trans-unit>
+   <trans-unit id="89">
+    <source>A username is mandatory</source>
+    <target>Το όνομα χρήστη είναι υποχρεωτικό</target>
+   </trans-unit>
+    <trans-unit id="90">
+    <source>Invalid unsubscribe code for </source>
+    <target>Μη έγκυρος κωδικός διαγραφής για</target>
+   </trans-unit>
+	 <trans-unit id="91">
+    <source>The passwords don't match</source>
+    <target>Οι κωδικοί ασφαλείας δεν ταιριάζουν</target>
+   </trans-unit>
+
+	  <trans-unit id="92">
+    <source>Description must contain at least %min_length% characters</source>
+    <target>Η περιγραφή πρέπει να περιέχει τουλάχιστον %min_length% χαρακτήρες</target>
+   </trans-unit>
+   <trans-unit id="93">
+    <source>The description cannot contain more than %max_length% characters.</source>
+    <target>Η περιγραφή δεν μπορεί να περιέχει περισσότερους από %max_length% χαρακτήρες.</target>
+   </trans-unit>
+   <trans-unit id="94">
+    <source>Description "%value%" contains forbidden words</source>
+    <target>Η περιγραφή "%value%" περιέχει απαγορευμένες λέξεις</target>
+   </trans-unit>
+    <trans-unit id="95">
+    <source>The Offer Title must contain at least %min_length% characters</source>
+    <target>Ο Τίτλος Προσφοράς πρέπει να περιέχει τουλάχιστον %min_length% χαρακτήρες</target>
+   </trans-unit>
+   <trans-unit id="96">
+    <source>The Offer Title and Terms are mandatory for at least one of the two language versions.</source>
+    <target>Ο Τίτλος Προσφοράς και οι Όροι είναι υποχρεωτικοί σε τουλάχιστον μία από τις δύο γλώσσσες.</target>
+   </trans-unit>
+    <trans-unit id="97">
+    <source>The Newsletter Title cannot be longer than %max_length% characters</source>
+    <target>Ο Τίτλος του Ενημερωτικού Δελτίου δεν μπορεί να είναι μεγαλύτερος από %max_length% χαρακτήρες</target>
+   </trans-unit>
+   <trans-unit id="98">
+    <source>The Newsletter Title must contain at least %min_length% characters</source>
+    <target> Ο Τίτλος του Ενημερωτικού Δελτίου πρέπει να περιέχει τουλάχιστον %min_length% χαρακτήρες </target>
+   </trans-unit>
+   <trans-unit id="99">
+    <source>Please enter search criteria</source>
+    <target>Παρακαλούμε εισάγετε κριτήρια αναζήτησης</target>
+   </trans-unit>
+   <trans-unit id="100">
+    <source>Please correct search criteria</source>
+    <target>Παρακαλούμε διορθώστε τα κριτήρια αναζήτησης</target>
+   </trans-unit>
+   <trans-unit id="101">
+    <source>Incorrect search term</source>
+    <target>Μη σωστός όρος αναζήτησης</target>
+   </trans-unit>
+   <trans-unit id="102">
+    <source>Message must contain at least %min_length% characters</source>
+    <target>Το μήνυμα πρέπει να περιέχει τουλάχιστον %min_length% χαρακτήρες</target>
+   </trans-unit>
+   <trans-unit id="103">
+    <source>The message cannot contain more than %max_length% characters.</source>
+    <target>Το μήνυμα δεν πρέπει να περιέχει περισσότερους από %max_length% χαρακτήρες.</target>
+   </trans-unit>
+    <trans-unit id="104">
+    <source>This email and unsubscribed key do not match</source>
+    <target>Αυτή η ηλεκτρονική διεύθυνση και το κλειδί διαγραφής δεν ταιριάζουν</target>
+   </trans-unit>
+    <trans-unit id="105">
+    <source>Video Title must contain at least %min_length% characters</source>
+    <target>Ο Τίτλος του Βίντεο πρέπει να περιέχει τουλάχιστον %min_length% χαρακτήρες </target>
+   </trans-unit>
+   <trans-unit id="106">
+    <source>The video title cannot contain more than %max_length% characters.</source>
+    <target>Ο Τίτλος του Βίντεο δεν μπορεί να περιέχει περισσότερους από %max_length% χαρακτήρες</target>
+   </trans-unit>
+    <trans-unit id="107">
+    <source>The email message was not sent successfully.</source>
+    <target>Το μήνυμα ηλεκτρονικού ταχυδρομείου δε στάλθηκε επιτυχώς.</target>
+   </trans-unit>
+   <trans-unit id="108">
+    <source>This username has already been registered by another user</source>
+    <target>Αυτό το όνομα χρήστη έχει ήδη χρησιμοποιηθεί από άλλο χρήστη</target>
+   </trans-unit>
+    <trans-unit id="109">
+    <source>Тhe start date cannot be later than the end date of the event</source>
+    <target>Η ημερομηνία έναρξης δεν μπορεί να ειναι αργότερα από την ημερομηνία λήξης του event</target>
+   </trans-unit>
+   <trans-unit id="110">
+    <source>Please add location - city/town is required if venue not known!</source>
+    <target>Παρακαλούμε προσθέστε τοποθεσία- η πόλη είναι απαραίτητη εάν δε γνωρίζετε τον τόπο του event</target>
+   </trans-unit>
+   <trans-unit id="111">
+    <source>Please enter the characters from the picture below to confirm you like parties!</source>
+    <target>Παρακαλούμε εισάγετε τους χαρακτήρες από την παρακάτω εικόνα για να επιβεβαίωσετε ότι σας αρέσουν τα πάρτυ!</target>
+   </trans-unit>
+     <trans-unit id="112">
+    <source>Username</source>
+    <target>Όνομα Χρήστη</target>
+   </trans-unit>
+   <trans-unit id="113">
+    <source>Email</source>
+    <target>Ηλεκτρονική Διεύθυνση</target>
+   </trans-unit>
+   <trans-unit id="114">
+    <source>Password</source>
+    <target>Κωδικός Ασφαλείας</target>
+   </trans-unit>
+   <trans-unit id="115">
+    <source>Retype Your Password</source>
+    <target>Πληκτρολογείστε ξανά τον Κωδικό Ασφαλείας Σας</target>
+   </trans-unit>
+   <trans-unit id="116">
+    <source>Select Your City</source>
+    <target>Επιλέξτε την Πόλη Σας</target>
+   </trans-unit>
+      <trans-unit id="117">
+    <source>Enter your Email address.</source>
+    <target>Εισάγετε τη διεύθυνση του Ηλεκτρονικού σας Ταχυδρομείου.</target>
+   </trans-unit>
+   <trans-unit id="118">
+    <source>Name</source>
+    <target>Όνομα</target>
+   </trans-unit>
+   <trans-unit id="119">
+    <source>Surname</source>
+    <target>Επώνυμο</target>
+   </trans-unit>
+   <trans-unit id="120">
+    <source>Profile Picture</source>
+    <target>Εικόνα Προφίλ</target>
+   </trans-unit>
+   <trans-unit id="121">
+    <source>Delete current</source>
+    <target>Διαγραφή τρέχοντος</target>
+   </trans-unit>
+   <trans-unit id="122">
+    <source>Date of Birth</source>
+    <target>Ημερομηνία Γέννησης</target>
+   </trans-unit>
+   <trans-unit id="123">
+    <source>Gender</source>
+    <target>Φύλο</target>
+   </trans-unit>
+   <trans-unit id="124">
+    <source>Location</source>
+    <target>Τοποθεσία</target>
+   </trans-unit>
+      <trans-unit id="125">
+    <source>About me</source>
+    <target>Σχετικά με μένα</target>
+   </trans-unit>
+   <trans-unit id="126">
+    <source>My Website</source>
+    <target>Η Ιστοσελίδα μου</target>
+   </trans-unit>
+   <trans-unit id="127">
+    <source>My Blog</source>
+    <target>Το Blog μου</target>
+   </trans-unit>
+   <trans-unit id="128">
+    <source>My Facebook</source>
+    <target>Το Facebook μου</target>
+   </trans-unit>
+   <trans-unit id="129">
+    <source>My Google+</source>
+    <target>Το Google+ μου</target>
+   </trans-unit>
+
+   <trans-unit id="130">
+    <source>New Password</source>
+    <target>Νέος Κωδικός Ασφαλείας</target>
+   </trans-unit>
+   <trans-unit id="131">
+    <source>Retype New Password</source>
+    <target>Πληκτρολογείστε το Νέο Κωδικό Ασφαλείας</target>
+   </trans-unit>
+   <trans-unit id="132">
+    <source>The field is required</source>
+    <target>Το πεδίο αυτό είναι απαιτούμενο</target>
+   </trans-unit>
+   <trans-unit id="133">
+    <source>Fields marked with a star are mandatory.</source>
+    <target>Τα πεδία που είναι σημειωμένα με αστεράκι είναι υποχρεωτικά.</target>
+   </trans-unit>
+      <trans-unit id="134">
+    <source>Owner</source>
+    <target>Ιδιοκτήτης</target>
+   </trans-unit>
+   <trans-unit id="135">
+    <source>Director</source>
+    <target>Διευθυντής</target>
+   </trans-unit>
+    <trans-unit id="136">
+    <source>Manager</source>
+    <target>Διαχειριστής</target>
+   </trans-unit>
+   <trans-unit id="137">
+    <source>Employee</source>
+    <target>Εργαζόμενος</target>
+   </trans-unit>
+   <trans-unit id="138">
+    <source>Choose...</source>
+    <target>Επιλέξτε...</target>
+   </trans-unit>
+   <trans-unit id="139">
+    <source>Other</source>
+    <target>Άλλο</target>
+   </trans-unit>
+      <trans-unit id="140">
+    <source>My Facebook</source>
+    <target>Το Facebook μου</target>
+   </trans-unit>
+   <trans-unit id="141">
+    <source>My Тwitter</source>
+    <target>Το Тwitter μου</target>
+   </trans-unit>
+      <trans-unit id="142">
+    <source>Current Password</source>
+    <target>Τρέχων Κωδικός Ασφαλείας</target>
+   </trans-unit>
+   <trans-unit id="143">
+    <source>Retype New Password</source>
+    <target>Πληκτρολογείστε ξανά το Νέο Κωδικό Ασφαλείας</target>
+   </trans-unit>
+   <trans-unit id="144">
+    <source>Passwords don't match</source>
+    <target>Οι κωδικοί ασφαλείας δεν ταιριάζουν</target>
+   </trans-unit>
+   <trans-unit id="145">
+    <source>Your Password</source>
+    <target>Ο Κωδικός Ασφαλείας Σας</target>
+   </trans-unit>
+    <trans-unit id="146">
+    <source>Male</source>
+    <target>Άρρεν</target>
+   </trans-unit>
+    <trans-unit id="147">
+    <source>Female</source>
+    <target>Θήλυ</target>
+   </trans-unit>
+   <trans-unit id="148">
+    <source>Position</source>
+    <target>Θέση</target>
+   </trans-unit>
+   <trans-unit id="149">
+    <source>Phone</source>
+    <target>Τηλέφωνο</target>
+   </trans-unit>
+    <trans-unit id="150">
+    <source>I declare that I am an authorized representative of the business.</source>
+    <target>Δηλώνω ότι είμαι εξουσιοδοτημένος αντιπρόσωπος της επιχείρησης.</target>
+   </trans-unit>
+   <trans-unit id="151">
+    <source>Enter the CUI of your business.</source>
+    <target>Εισάγετε το ΑΦΜ της επιχείρησής σας.</target>
+   </trans-unit>
+    <trans-unit id="152">
+    <source>Declare that you are an authorized representative of the business.</source>
+    <target>Δηλώστε ότι είστε εξουσιοδοτημένος αντιπρόσωπος της επιχείρησης.</target>
+   </trans-unit>
+   <trans-unit id="153">
+    <source>Invalid CUI</source>
+    <target>Μη έγκυρο ΑΦΜ</target>
+   </trans-unit>
+   <trans-unit id="154">
+    <source>Company Name</source>
+    <target>Όνομα Εταιρείας</target>
+   </trans-unit>
+   <trans-unit id="155">
+    <source>Company Type</source>
+    <target>Είδος Εταιρείας</target>
+   </trans-unit>
+    <trans-unit id="156">
+    <source>Company Name in Latin characters</source>
+    <target>Όνομα Εταιρείας με λατινικούς χαρακτήρες</target>
+   </trans-unit>
+    <trans-unit id="157">
+    <source>Address</source>
+    <target>Διεύθυνση</target>
+   </trans-unit>
+    <trans-unit id="158">
+    <source>Classification</source>
+    <target>Ταξινόμηση</target>
+   </trans-unit>
+    <trans-unit id="159">
+    <source>City</source>
+    <target>Πόλη</target>
+   </trans-unit>
+   <trans-unit id="160">
+    <source>Company Address</source>
+    <target>Διεύθυνση Εταιρείας</target>
+   </trans-unit>
+   <trans-unit id="161">
+    <source>Postcode</source>
+    <target>Ταχυδρομικός Κωδικός</target>
+   </trans-unit>
+   <trans-unit id="162">
+    <source>Street</source>
+    <target>Οδός</target>
+   </trans-unit>
+   <trans-unit id="163">
+    <source>Number</source>
+    <target>Αριθμός</target>
+   </trans-unit>
+   <trans-unit id="164">
+    <source>Neighbourhood</source>
+    <target>Περιοχή</target>
+   </trans-unit>
+   <trans-unit id="165">
+    <source>Bl.</source>
+    <target>Τετράγωνο</target>
+   </trans-unit>
+   <trans-unit id="166">
+    <source>Ent.</source>
+    <target>Είσοδος</target>
+   </trans-unit>
+   <trans-unit id="167">
+    <source>Fl.</source>
+    <target>Όροφος</target>
+   </trans-unit>
+   <trans-unit id="168">
+    <source>Ap.</source>
+    <target>Διαμέρισμα</target>
+   </trans-unit>
+      <trans-unit id="169">
+    <source>Monday</source>
+    <target>Δευτέρα</target>
+   </trans-unit>
+   <trans-unit id="170">
+    <source>Tuesday</source>
+    <target>Τρίτη</target>
+   </trans-unit>
+   <trans-unit id="171">
+    <source>Wednesday</source>
+    <target>Τετάρτη</target>
+   </trans-unit>
+   <trans-unit id="172">
+    <source>Thursday</source>
+    <target>Πέμπτη</target>
+   </trans-unit>
+   <trans-unit id="173">
+    <source>Friday</source>
+    <target>Παρασκευή</target>
+   </trans-unit>
+   <trans-unit id="174">
+    <source>Saturday</source>
+    <target>Σάββατο</target>
+   </trans-unit>
+   <trans-unit id="175">
+    <source>Sunday</source>
+    <target>Κυριακή</target>
+   </trans-unit>
+     <trans-unit id="176">
+    <source>Bulgarian</source>
+    <target>Βουλγαρικά</target>
+   </trans-unit>
+   <trans-unit id="177">
+    <source>English</source>
+    <target>Αγγλικά</target>
+   </trans-unit>
+   <trans-unit id="178">
+    <source>Email:</source>
+    <target>Ηλεκτρονική Διεύθυνση:</target>
+   </trans-unit>
+   <trans-unit id="179">
+    <source>Password:</source>
+    <target>Κωδικός Ασφαλείας:</target>
+   </trans-unit>
+   <trans-unit id="180">
+    <source>Remember me</source>
+    <target>Μείνετε συνδεδεμένοι</target>
+   </trans-unit>
+   <trans-unit id="181">
+    <source>Description</source>
+    <target>Περιγραφή</target>
+   </trans-unit>
+   <trans-unit id="182">
+    <source>Category</source>
+    <target>Κατηγορία</target>
+   </trans-unit>
+   <trans-unit id="183">
+    <source>Website</source>
+    <target>Ιστοσελίδα</target>
+   </trans-unit>
+   			<trans-unit id="184">
+    <source>You entered "%value%". The security check picture contains %length% characters. Please try again.</source>
+    <target>Εισάγατε "%value%". Η εικόνα ελέγχου ασφαλείας περιέχει %length% χαρακτήρες. Παρακαλούμε προσπαθήστε ξανά. </target>
+   </trans-unit>
+      <trans-unit id="185">
+    <source>Security check. Enter the characters from the picture below</source>
+    <target>Έλεγος ασφαλείας. Εισάγετε τους χαρακτήρες της παρακάτω εικόνας</target>
+   </trans-unit>
+   <trans-unit id="186">
+    <source>Start Date</source>
+    <target>Ημερομηνία Έναρξης</target>
+   </trans-unit>
+   <trans-unit id="187">
+    <source>Detailed Description</source>
+    <target>Λεπτομερής Περιγραφή</target>
+   </trans-unit>
+   <trans-unit id="188">
+    <source>Detailed Description (English)</source>
+    <target>Λεπτομερής Περιγραφή (Αγγλικά)</target>
+   </trans-unit>
+   <trans-unit id="189">
+    <source>Offer Title</source>
+    <target>Τίτλος Προσφοράς</target>
+   </trans-unit>
+   <trans-unit id="190">
+    <source>Voucher</source>
+    <target>Κουπόνι</target>
+   </trans-unit>
+   <trans-unit id="191">
+    <source>Voucher Valid From</source>
+    <target>Κουπόνι Έγκυρο Από</target>
+   </trans-unit>
+   <trans-unit id="192">
+    <source>Voucher Valid To</source>
+    <target>Κουπόνι Έγκυρο Έως</target>
+   </trans-unit>
+   <trans-unit id="193">
+    <source>Offer Active From</source>
+    <target>Προσφορά Ενεργή Από</target>
+   </trans-unit>
+   <trans-unit id="194">
+    <source>Offer Active To</source>
+    <target>Προσφορά Ενεργή Έως</target>
+   </trans-unit>
+   <trans-unit id="195">
+    <source>Maximum number of vouchers to be issued</source>
+    <target>Μέγιστος αριθμός κουπονιών που θα εκδοθούν</target>
+   </trans-unit>
+    <trans-unit id="196">
+    <source>Maximum number of vouchers to be issued per user</source>
+    <target>Μέγιστος αριθμός κουπονιών που θα εκδοθούν ανά χρήστη</target>
+   </trans-unit>
+   <trans-unit id="197">
+    <source>Offer Terms</source>
+    <target>Όροι Προσφοράς</target>
+   </trans-unit>
+    <trans-unit id="198">
+    <source>Select a photo from your computer</source>
+    <target>Επιλέξτε μια φωτογραφία από τον υπολογιστή σας</target>
+   </trans-unit>
+   <trans-unit id="199">
+    <source>Caption</source>
+    <target>Λεζάντα</target>
+   </trans-unit>
+   <trans-unit id="8">
+    <source>Please enter your Name and Surname</source>
+    <target>Παρακαλούμε εισάγετε το Όνομα και το Επώνυμό σας</target>
+   </trans-unit>
+   <trans-unit id="9">
+    <source>Invalid email</source>
+    <target>Μη έγκυρη ηλεκτρονική διεύθυνση</target>
+   </trans-unit>
+   <trans-unit id="10">
+    <source>Please rate this company</source>
+    <target>Παρακαλούμε βαθμολογείστε αυτήν την εταιρεία</target>
+   </trans-unit>
+   <trans-unit id="22">
+    <source>Please enter your email</source>
+    <target>Παρακαλούμε εισάγετε την ηλεκτρονική σας διεύθυνση</target>
+   </trans-unit>
+   <trans-unit id="11">
+    <source>Invalid Rating</source>
+    <target>Μη έγκυρη Βαθμολογία</target>
+   </trans-unit>
+    <trans-unit id="15">
+    <source>Please agree to observe the Terms of Use of the Getlokal Website</source>
+    <target>Παρακαλούμε συμφωνείστε να διαβάσετε του Όρους Χρήση από την Ιστοσελίδα του Getlokal </target>
+  </trans-unit>
+  <trans-unit id="54">
+    <source>Choose if you want to recommend this company to a friend</source>
+    <target>Επιλέξτε αν θέλετε να προτείνετε αυτήν την εταιρεία σε κάποιο φίλο</target>
+   </trans-unit>
+    <trans-unit id="200">
+    <source>Name</source>
+    <target>Όνομα</target>
+   </trans-unit>
+   <trans-unit id="201">
+    <source>Surname</source>
+    <target>Επώνυμο</target>
+   </trans-unit>
+   <trans-unit id="202">
+    <source>Enter your Email address.</source>
+    <target>Εισάγετε την Ηλετρονική σας Διεύθυνση.</target>
+   </trans-unit>
+    <trans-unit id="203">
+    <source>Your username should contain only alphanumeric characters, dash, dot or underscore and begin with a letter</source>
+    <target>Το επώνυμό σας πρέπει να περιέχει μόνο αλφαριθμητικούς χαρακτήρες, παύλα, τελεία ή κάτω παύλα και να ξεκινάει με γράμμα</target>
+   </trans-unit>
+   <trans-unit id="204">
+    <source>Your account changes were successfully saved.</source>
+    <target>Οι αλλαγές του λογαριασμού σας σώθηκαν επιτυχώς.</target>
+   </trans-unit>
+   <trans-unit id="205">
+    <source>Company Name or CUI</source>
+    <target>Όνομα Εταιρείας ή ΑΦΜ</target>
+   </trans-unit>
+    <trans-unit id="206">
+    <source>CUI (Cod Unic de Identificare)</source>
+    <target>ΑΦΜ (Αριθμός Φορολογικού Μητρώου)</target>
+   </trans-unit>
+   <trans-unit id="207">
+    <source>Select file</source>
+    <target>Επιλέξτε Αρχείο</target>
+   </trans-unit>
+   <trans-unit id="208">
+    <source>Invalid format. E.g. http://www.getlokal.ro.</source>
+    <target>Μη έγκυρη μορφή. Π.χ. http://www.getlokal.ro.</</target>
+   </trans-unit>
+   <trans-unit id="209">
+    <source>Invalid format. E.g. getlokal.ro!</source>
+    <target> Μη έγκυρη μορφή. Π.χ. getlokal.ro!</target>
+   </trans-unit>
+   <trans-unit id="210">
+    <source>Invalid format. E.g. http://blog.getlokal.ro.</source>
+    <target> Μη έγκυρη μορφή. Π.χ. http://blog.getlokal.ro.</target>
+   </trans-unit>
+   <trans-unit id="211">
+    <source>Invalid format. E.g. http://twitter.com/@getlokal.</source>
+    <target> Μη έγκυρη μορφή. Π.χ. http://twitter.com/@getlokal.</target>
+   </trans-unit>
+   <trans-unit id="212">
+    <source>Invalid format. E.g. http://www.facebook.com/#!/getlokal.</source>
+    <target>> Μη έγκυρη μορφή. Π.χ. http://www.facebook.com/#!/getlokal.</target>
+   </trans-unit>
+   <trans-unit id="213">
+    <source>Invalid format.</source>
+    <target>Μη έγκυρη μορφή.</target>
+   </trans-unit>
+   <trans-unit id="214">
+    <source>Password is mandatory</source>
+    <target>Ο κωδικός ασφαλείας είναι υποχρεωτικός</target>
+   </trans-unit>
+   <trans-unit id="215">
+    <source>The email and/or password are invalid</source>
+    <target>Η ηλεκτρονική διεύθυνση ή/και ο κωδικός ασφαλείας δεν είναι έγκυρα</target>
+   </trans-unit>
+   <trans-unit id="216">
+    <source>Incorrect Password</source>
+    <target>Λάθος Κωδικός Ασφαλείας</target>
+   </trans-unit>
+   <trans-unit id="217">
+    <source>When</source>
+    <target>Πότε</target>
+   </trans-unit>
+   <trans-unit id="218">
+    <source>End Date</source>
+    <target>Ημερομηνία Λήξης</target>
+   </trans-unit>
+   <trans-unit id="219">
+    <source>City/Town</source>
+    <target>Πόλη</target>
+   </trans-unit>
+   <trans-unit id="220">
+    <source>Venue name</source>
+    <target>Ονομασία τόπου όπου θα λάβει χώρα το event</target>
+   </trans-unit>
+   <trans-unit id="221">
+    <source>More Info (add link)</source>
+    <target>Περισσότερες Πληροφορίες (προσθέστε σύνδεσμο)</target>
+   </trans-unit>
+   <trans-unit id="222">
+    <source>Buy ticket/book (add link)</source>
+    <target>Αγορά εισιτηρίου/Κράτηση (προσθέστε σύνδεσμο)</target>
+   </trans-unit>
+   <trans-unit id="223">
+    <source>Event Type</source>
+    <target>Είδος Event</target>
+   </trans-unit>
+   <trans-unit id="224">
+    <source>Price</source>
+    <target>Τιμή</target>
+   </trans-unit>
+   <trans-unit id="225">
+    <source>Add Photo</source>
+    <target>Προσθέστε Φωτογραφία</target>
+   </trans-unit>
+   <trans-unit id="226">
+    <source>Event Name</source>
+    <target>Ονομασία Event</target>
+   </trans-unit>
+   <trans-unit id="227">
+    <source>Event Description</source>
+    <target>Περιγραφή Event</target>
+   </trans-unit>
+   <!-- NEw -->
+    <trans-unit id="228">
+    <source>Show to All</source>
+    <target>Εμφάνιση σε Όλους</target>
+   </trans-unit>
+   <trans-unit id="229">
+    <source>Choose... </source>
+    <target>Επιλέξτε...</target>
+   </trans-unit>
+   <trans-unit id="230">
+    <source>Enter New Email</source>
+    <target>Εισάγετε Νέα Ηλεκτρονική Διεύθυνση</target>
+   </trans-unit>
+   <trans-unit id="231">
+    <source>Description</source>
+    <target>Περιγραφή</target>
+   </trans-unit>
+   <trans-unit id="232">
+    <source>Description (English)</source>
+    <target>Περιγραφή (Αγγλικά)</target>
+   </trans-unit>
+   <trans-unit id="233">
+    <source>Detailed Description (English)</source>
+    <target>Λεπτομερής Περιγραφή (Αγγλικά)</target>
+   </trans-unit>
+   <trans-unit id="234">
+    <source>Detailed Description</source>
+    <target>Λεπτομερής Περιγραφή</target>
+   </trans-unit>
+    <trans-unit id="235">
+    <source>VIP Position Start Date</source>
+    <target>Θέση VIP Ημερομηνία Έναρξης</target>
+   </trans-unit>
+   <trans-unit id="236">
+    <source>Message</source>
+    <target>Μήνυμα</target>
+   </trans-unit>
+   <trans-unit id="237">
+    <source>Please rate this company</source>
+    <target>Παρακαλούμε βαθμολογείστε αυτήν την εταιρεία</target>
+   </trans-unit>
+   <trans-unit id="238">
+    <source>The username "%value%" is invalid.</source>
+    <target>Το όνομα χρήση "%value%" δεν είναι έγκυρο.</target>
+   </trans-unit>
+   <trans-unit id="239">
+    <source>Username must contain at least %min_length% characters.</source>
+    <target>Το όνομα χρήστη πρέπει να περιέχει τουλάχιστον %min_length% χαρακτήρες.</target>
+   </trans-unit>
+   <trans-unit id="240">
+    <source>The username and/or password you entered for %s are invalid or you don't have enough credentials</source>
+    <target>Το όνομα χρήστη ή/και ο κωδικός ασφαλείας που εισάγατε για %s δεν είναι έγκυρα ή δεν έχετε αρκετά διαπιστευτήρια</target>
+   </trans-unit>
+    <trans-unit id="241">
+    <source>The username and/or password you entered are invalid or you don't have enough credentials</source>
+    <target> Το όνομα χρήστη ή/και ο κωδικός ασφαλείας που εισάγατε δεν είναι έγκυρα ή δεν έχετε αρκετά διαπιστευτήρια </target>
+   </trans-unit>
+    <trans-unit id="242">
+    <source><![CDATA[You need to agree to Getlokal Terms of Use & Privacy Policy]]></source>
+    <target><![CDATA[Χρειάζεται να συμφωνήσετε με τους Όρους Χρήσης & την Πολιτική Προστασίας Προσωπικών Δεδομένων του Getlokal]]></target>
+   </trans-unit>
+   <trans-unit id="243">
+    <source>Start Time</source>
+    <target>Ώρα Έναρξης</target>
+   </trans-unit>
+
+   <trans-unit id="244">
+    <source>Place Name</source>
+    <target>Όνομα Μέρους</target>
+   </trans-unit>
+	 <trans-unit id="245">
+    <source>Place Name in English</source>
+    <target>Όνομα Μέρους στα Αγγλικά</target>
+   </trans-unit>
+
+ </body>
+ </file>
+</xliff>

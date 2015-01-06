@@ -1,0 +1,1258 @@
+<?xml version="1.0" ?><xliff version="1.0">
+  <file datatype="plaintext" original="global" source-language="en">
+    <body>
+      <trans-unit id="1">
+        <source>There is no user registered with the this email</source>
+        <target>Tälle sähköpostille ei ole rekisteröity käyttäjää</target>
+        
+      </trans-unit>
+      <trans-unit id="2">
+        <source>Day, month and year are mandatory fields</source>
+        <target>Päivä, kuukausi ja vuosi ovat pakollisia kenttiä</target>
+        
+      </trans-unit>
+      <trans-unit id="3">
+        <source>Username &quot;%value%&quot; cannot be used</source>
+        <target>Käyttäjänimeä &quot;%value%&quot; ei voi käyttää</target>
+        
+      </trans-unit>
+      <trans-unit id="4">
+        <source>The username &quot;%value%&quot; contains characters that are not allowed</source>
+        <target>Käyttäjänimi &quot;%value%&quot; sisältää merkkejä, joita ei sallita</target>
+        
+      </trans-unit>
+      <trans-unit id="5">
+        <source>Username must contain at least %min_length% characters</source>
+        <target>Käyttäjänimen täytyy sisältää vähintään %min_length% merkkiä</target>
+        
+      </trans-unit>
+      <trans-unit id="6">
+        <source>Username cannot contain more than %max_length% characters.</source>
+        <target>Käyttäjänimi saa sisältää enintään %max_length% merkkiä.</target>
+        
+      </trans-unit>
+      <trans-unit id="7">
+        <source>Invalid email – your email is not in the correct format</source>
+        <target>Väärä sähköposti - sähköpostisi ei ole oikeaa muotoa</target>
+        
+      </trans-unit>
+      <trans-unit id="8">
+        <source>&quot;%value%&quot; is too short.  The username should be at least 3 characters.</source>
+        <target>&quot;%value%&quot; on liian lyhyt. Käyttäjänimessä täytyy olla vähintään 3 merkkiä.</target>
+        
+      </trans-unit>
+      <trans-unit id="9">
+        <source>Your password should be at least %min_length% characters long</source>
+        <target>Salasanasi pitäisi olla vähintään %min_length% merkkiä pitkä</target>
+        
+      </trans-unit>
+      <trans-unit id="10">
+        <source>Your password cannot contain more than %max_length% characters</source>
+        <target>Salasanasi saa sisältää enintään %max_length% merkkiä</target>
+        
+      </trans-unit>
+      <trans-unit id="11">
+        <source>We will send the new password, to the email address you provided during registration</source>
+        <target>Lähetämme uuden salasanan sähköpostiosoitteeseen, jonka annoit rekisteröityessäsi</target>
+        
+      </trans-unit>
+      <trans-unit id="12">
+        <source>The passwords do not match</source>
+        <target>Salasanat eivät täsmää</target>
+        
+      </trans-unit>
+      <trans-unit id="13">
+        <source>This email address has already been registered by another user</source>
+        <target>Toinen käyttäjä on jo rekisteröinyt tämän sähköpostiosoitteen</target>
+        
+      </trans-unit>
+      <trans-unit id="14">
+        <source>This username is already in use</source>
+        <target>Tämä käyttäjänimi on jo käytössä</target>
+        
+      </trans-unit>
+       <trans-unit id="15">
+        <source>This field is mandatory. Please start typing the name of your home location and select from the list.</source>
+        <target>Tämä kenttä on pakollinen. Ala kirjoittaa kotisijaintisi nimeä ja valitse se listasta.</target>
+        
+      </trans-unit>
+      <trans-unit id="16">
+        <source>You have entered the text incorrectly. Please try again.</source>
+        <target>Olet syöttänyt tekstin väärin. Yritä uudestaan.</target>
+        
+      </trans-unit>
+      <trans-unit id="17">
+        <source>Please retype your password.</source>
+        <target>Kirjoita salasanasi uudestaan.</target>
+        
+      </trans-unit>
+	  <trans-unit id="18">
+        <source>Please retype your password.</source>
+        <target>Kirjoita salasanasi uudestaan.</target>
+        
+      </trans-unit>
+      <trans-unit id="19">
+        <source>Email is required</source>
+        <target>Sähköposti vaaditaan</target>
+        
+      </trans-unit>
+      <trans-unit id="20">
+        <source>You must select a file to upload</source>
+        <target>Sinun täytyy valita tiedosto lähetettäväksi</target>
+        
+      </trans-unit>
+      <trans-unit id="21">
+        <source>The file you submitted is not in a valid format. Please upload a JPG, GIF or PNG image file.</source>
+        <target>Lähettämäsi tiedoston muoto ei kelpaa. Lähetä JPG-, GIF- tai PNG-kuvatiedosto.</target>
+        
+      </trans-unit>
+	  <trans-unit id="22">
+        <source>The file you submitted is not in a valid format. Please upload a JPG, GIF or PNG image file.</source>
+        <target>Lähettämäsi tiedoston muoto ei kelpaa. Lähetä JPG-, GIF- tai PNG-kuvatiedosto.</target>
+        
+      </trans-unit>
+      <trans-unit id="23">
+        <source>File size limit is 4MB. Please reduce file size before submitting again.</source>
+        <target>Tiedostokoon raja on 4 Mt. Pienennä tiedostokokoa ennen tiedoston lähettämistä uudelleen.</target>
+        
+      </trans-unit>
+      <trans-unit id="24">
+        <source>File size limit is 2MB.Please reduce file size.</source>
+        <target>Tiedostokoon raja on 2 Mt. Pienennä tiedostokokoa.</target>
+        
+      </trans-unit>
+      <trans-unit id="25">
+        <source>Caption &quot;%value%&quot; contains forbidden characters</source>
+        <target>Kuvateksti &quot;%value%&quot; sisältää kiellettyjä merkkejä</target>
+        
+      </trans-unit>
+      <trans-unit id="26">
+        <source>Caption &quot;%value%&quot; contains forbidden words</source>
+        <target>Kuvateksti &quot;%value%&quot; sisältää kiellettyjä sanoja</target>
+        
+      </trans-unit>
+      <trans-unit id="27">
+        <source>Type photo caption</source>
+        <target>Kirjoita kuvateksti</target>
+        
+      </trans-unit>
+	  <trans-unit id="28">
+        <source>Type photo caption</source>
+        <target>Kirjoita valokuvan kuvateksti</target>
+        
+      </trans-unit>
+      <trans-unit id="29">
+        <source>Caption must contain at least %min_length% characters</source>
+        <target>Kuvatekstin täytyy sisältää vähintään %min_length% merkkiä</target>
+        
+      </trans-unit>
+      <trans-unit id="30">
+        <source>The caption cannot contain more than %max_length% characters.</source>
+        <target>Kuvateksti saa sisältää enintään %max_length% merkkiä.</target>
+        
+      </trans-unit>
+      <trans-unit id="31">
+        <source>The review cannot contain more than %max_length% characters. Shorten your review.</source>
+        <target>Arvostelu voi sisältää enintään %max_length% merkkiä. Lyhennä arvosteluasi.</target>
+        
+      </trans-unit>
+       <trans-unit id="32">
+        <source>The review must contain at least %min_length% characters</source>
+        <target>Arvostelun täytyy sisältää vähintään %min_length% merkkiä</target>
+        
+      </trans-unit>
+      <trans-unit id="33">
+        <source>The review contains characters that are not allowed</source>
+        <target>Arvostelu sisältää merkkejä, joita ei sallita</target>
+        
+      </trans-unit>
+      <trans-unit id="34">
+        <source>The review contains words that are not allowed</source>
+        <target>Arvostelu sisältää sanoja, joita ei sallita</target>
+        
+      </trans-unit>
+      <trans-unit id="35">
+        <source>The answer cannot contain more than %max_length% characters</source>
+        <target>Vastaus saa sisältää enintään %max_length% merkkiä</target>
+        
+      </trans-unit>
+       <trans-unit id="36">
+        <source>The answer must contain at least %min_length% characters</source>
+        <target>Vastauksen täytyy sisältää vähintään %min_length% merkkiä</target>
+        
+      </trans-unit>
+       <trans-unit id="37">
+        <source>The review cannot contain more than %max_length% characters</source>
+        <target>Arvostelu saa sisältää enintään %max_length%  merkkiä</target>
+        
+      </trans-unit>
+      <trans-unit id="38">
+        <source>the answer contains words that are not allowed</source>
+        <target>vastaus sisältää sanoja, joita ei sallita</target>
+        
+      </trans-unit>
+      <trans-unit id="39">
+        <source>Type Review</source>
+        <target>Kirjoita arvostelu</target>
+        
+      </trans-unit>
+      <trans-unit id="40">
+        <source>The caption must contain at least 3 characters</source>
+        <target>Kuvatekstin täytyy sisältää vähintään 3 merkkiä</target>
+        
+      </trans-unit>
+      <trans-unit id="41">
+        <source>The caption cannot contain more than 255 characters</source>
+        <target>Kuvateksti voi sisältää enintään 255 merkkiä</target>
+        
+      </trans-unit>
+      <trans-unit id="42">
+        <source>The field is mandatory</source>
+        <target>Kenttä on pakollinen</target>
+        
+      </trans-unit>
+      <trans-unit id="43">
+        <source>Select Your Position</source>
+        <target>Valitse sijaintisi</target>
+        
+      </trans-unit>
+      <trans-unit id="44">
+        <source>Invalid Phone Number</source>
+        <target>Puhelinnumero ei kelpaa</target>
+        
+      </trans-unit>
+      <trans-unit id="45">
+        <source>This field is mandatory. Select your town/city from the dropdown list.</source>
+        <target>Kenttä on pakollinen. Valitse paikkakuntasi/kaupunkisi pudotuslistasta.</target>
+        
+      </trans-unit>
+      <trans-unit id="46">
+        <source>This field cannot contain more than %max_length% characters</source>
+        <target>Tämä kenttä saa sisältää enintään %max_length% merkkiä</target>
+        
+      </trans-unit>
+      <trans-unit id="47">
+        <source>Select company type</source>
+        <target>Valitse yritystyyppi</target>
+        
+      </trans-unit>
+      <trans-unit id="48">
+        <source>Select address type</source>
+        <target>Valitse osoitetyyppi</target>
+        
+      </trans-unit>
+      <trans-unit id="49">
+        <source>Invalid Postcode</source>
+        <target>Väärä postinumero</target>
+        
+      </trans-unit>
+      <trans-unit id="50">
+        <source>You must select Street and/or Nighbourhood</source>
+        <target>Sinun täytyy valita katu ja/tai kaupunginosa</target>
+        
+      </trans-unit>
+      <trans-unit id="51">
+        <source>You must enter Street and/or Nighbourhood</source>
+        <target>Sinun täytyy syöttää katu ja/tai kaupunginosa</target>
+        
+      </trans-unit>
+      <trans-unit id="52">
+        <source>You must enter Street Number and/or Entrance</source>
+        <target>Sinun täytyy syöttää katunumero ja/tai sisäänkäynti</target>
+        
+      </trans-unit>
+      <trans-unit id="53">
+        <source>You need to register a business account in order to manage you company's listing in getlokal.ro</source>
+        <target>Sinun täytyy rekisteröidä yritystili, jotta voit hallita yrityksesi listaa osoitteessa getlokal.ro </target>
+        
+      </trans-unit>
+       <trans-unit id="54">
+        <source>Log out of your user profile and register as a business</source>
+        <target>Kirjaudu ulos käyttäjäprofiilistasi ja rekisteröidy yrityksenä</target>
+        
+      </trans-unit>
+      <trans-unit id="55">
+        <source>Only business users can claim companies!</source>
+        <target>Vain yrityskäyttäjät voivat esittää vaatimuksia yrityksille!</target>
+        
+      </trans-unit>
+      <trans-unit id="56">
+        <source>Enter the URL of Your Blog</source>
+        <target>Kirjoita blogisi URL</target>
+        
+      </trans-unit>
+      <trans-unit id="57">
+        <source>The field cannot contain more than %max_length% characters</source>
+        <target>Kenttä saa sisältää enintään %max_length% merkkiä</target>
+        
+      </trans-unit>
+      <trans-unit id="58">
+        <source>The field must contain at least %min_length% characters</source>
+        <target>Kentän täytyy sisältää vähintään %min_length% merkkiä</target>
+        
+      </trans-unit>
+      <trans-unit id="59">
+        <source>Invalid format. E.g. http://www.getlokal.ro.</source>
+        <target>Väärä muoto. Esim. http://www.getlokal.ro. </target>
+        
+      </trans-unit>
+      <trans-unit id="60">
+        <source>Invalid format. E.g. getlokal.ro!</source>
+        <target>Väärä muoto. Esim. getlokal.ro! </target>
+        
+      </trans-unit>
+      <trans-unit id="61">
+        <source>Invalid format. E.g. http://blog.getlokal.ro.</source>
+        <target>Väärä muoto. Esim. http://blog.getlokal.ro. </target>
+        
+      </trans-unit>
+      <trans-unit id="62">
+        <source>Invalid format. E.g. http://twitter.com/@getlokal.</source>
+        <target>Väärä muoto. Esim. http://twitter.com/@getlokal. </target>
+        
+      </trans-unit>
+      <trans-unit id="63">
+        <source>Invalid format. E.g. http://www.facebook.com/#!/getlokal.</source>
+        <target>Väärä muoto. Esim. http://www.facebook.com/#!/getlokal. </target>
+        
+      </trans-unit>
+      <trans-unit id="64">
+        <source>This field is not mandatory but if you fill it in it must contain at least %min_length% characters</source>
+        <target>Kenttä ei ole pakollinen, mutta jos täytät sen, sen täytyy sisältää vähintään %min_length% merkkiä</target>
+        
+      </trans-unit>
+      <trans-unit id="65">
+        <source>This field is not mandatory but if you fill it in itcannot contain more than %max_length% characters.</source>
+        <target>Kenttä ei ole pakollinen, mutta jos täytät sen, se saa sisältää enintään %max_length% merkkiä.</target>
+        
+      </trans-unit>
+      <trans-unit id="66">
+        <source>Select Your Position</source>
+        <target>Valitse sijaintisi</target>
+        
+      </trans-unit>
+
+      <trans-unit id="67">
+        <source>Invalid format. E.g. http://www.facebook.com/getlokal.</source>
+        <target>Väärä muoto. Esim. http://www.facebook.com/getlokal. </target>
+        
+      </trans-unit>
+      <trans-unit id="68">
+        <source>There was a problem changing your password. Please try again later.</source>
+        <target>Salasanasi vaihtamisessa oli ongelma. Yritä myöhemmin uudestaan.</target>
+        
+      </trans-unit>
+      <trans-unit id="69">
+        <source>Your password was changed successfully</source>
+        <target>Salasanasi vaihtaminen onnistui</target>
+        
+      </trans-unit>
+       <trans-unit id="70">
+        <source>The start date cannot be earlier than today</source>
+        <target>Alkamispäivä ei voi olla aiempi kuin tämä päivä</target>
+        
+      </trans-unit>
+      <trans-unit id="71">
+        <source>The start date of the second promo month cannot be earlier than the end date of the first</source>
+        <target>Toisen promootiokuukauden alkamispäivä ei voi olla aikaisempi kuin ensimmäisen kuukauden loppumispäivä</target>
+        
+      </trans-unit>
+       <trans-unit id="72">
+        <source>The start date of the third promo month cannot be earlier than the end date of the second</source>
+        <target>Kolmannen promootiokuukauden alkamispäivä ei voi olla ennen toisen kuukauden loppumispäivää</target>
+        
+      </trans-unit>
+       <trans-unit id="73">
+        <source>The start date for the third period must not be later than 30 days before the end date of your advert</source>
+        <target>Kolmannen jakson alkamispäivä ei saa olla myöhemmin kuin 30 päivää ennen ilmoituksesi loppumispäivää</target>
+        
+      </trans-unit>
+      <trans-unit id="74">
+        <source>The start date for the period must not be later than 30 days before the end date of your advert</source>
+        <target>Jakson alkamispäivä ei saa olla myöhemmin kuin 30 päivää ennen ilmoituksesi päättymispäivää</target>
+        
+      </trans-unit>
+      <trans-unit id="75">
+        <source>Type an Answer</source>
+        <target>Kirjoita vastaus</target>
+        
+      </trans-unit>
+      <trans-unit id="76">
+        <source>The Offer Title cannot be longer than %max_length% characters</source>
+        <target>Tarjouksen nimi saa olla enintään %max_length% merkkiä pitkä</target>
+        
+      </trans-unit>
+      <trans-unit id="77">
+        <source>The maximum number of vouchers issued per user cannot exceed the total number of vouchers for the offer</source>
+        <target>Etuseteleiden enimmäismäärä käyttäjää kohden ei voi ylittää tarjouksen etuseteleiden kokonaismäärää</target>
+        
+      </trans-unit>
+      <trans-unit id="78">
+        <source>You cannot select a date earlier than today's</source>
+        <target>Et voi valita päivää, joka on aiempi kuin tämä päivä</target>
+        
+      </trans-unit>
+      <trans-unit id="79">
+        <source>Тhe end date of your offer cannot be later than the end date of your advert</source>
+        <target>Tarjouksesi loppumispäivä ei voi olla myöhempi kuin ilmoituksesi loppumispäivä</target>
+        
+      </trans-unit>
+      <trans-unit id="80">
+        <source>The offer end date cannot be earlier than the start date</source>
+        <target>Tarjouksen loppumispäivä ei voi olla aiempi kuin alkamispäivä</target>
+        
+      </trans-unit>
+      <trans-unit id="81">
+        <source>The voucher valid to date cannot be earlier than the offer end date</source>
+        <target>Etusetelin viimeinen voimassaolopäivä ei voi olla aiempi kuin tarjouksen päättymispäivä</target>
+        
+      </trans-unit>
+      <trans-unit id="82">
+        <source>Select date, month and year</source>
+        <target>Valitse päivä, kuukausi ja vuosi</target>
+        
+      </trans-unit>
+       <trans-unit id="83">
+        <source>The email address is not in a valid format</source>
+        <target>Sähköpostiosoitteen muoto ei kelpaa</target>
+        
+      </trans-unit>
+      <trans-unit id="84">
+        <source>An email is mandatory</source>
+        <target>Sähköposti on pakollinen</target>
+        
+      </trans-unit>
+      <trans-unit id="85">
+        <source>You need to agree to getlokal's Terms of Use to create a user account</source>
+        <target>Sinun täytyy hyväksyä getlokalin käyttöehdot luodaksesi käyttäjätilin</target>
+        
+      </trans-unit>
+       <trans-unit id="86">
+        <source>Location is mandatory. Start typing the name of your location and select from the list.</source>
+        <target>Sijainti on pakollinen. Ala kirjoittaa sijaintisi nimeä ja valitse se listasta.</target>
+        
+      </trans-unit>
+      <trans-unit id="87">
+        <source>Password must be at least %min_length% characters</source>
+        <target>Salasanassa täytyy olla vähintään %min_length% merkkiä</target>
+        
+      </trans-unit>
+      <trans-unit id="88">
+        <source>Password cannot be more than %min_length% characters</source>
+        <target>Salasana saa olla enintään %min_length% merkkiä pitkä</target>
+        
+      </trans-unit>
+      <trans-unit id="89">
+        <source>A username is mandatory</source>
+        <target>Käyttäjänimi on pakollinen</target>
+        
+      </trans-unit>
+       <trans-unit id="90">
+        <source>Invalid unsubscribe code for </source>
+        <target>Tilauksen perumiskoodi ei kelpaa kohteelle</target>
+        
+      </trans-unit>
+	  <trans-unit id="91">
+        <source>The passwords don't match</source>
+        <target>Salasanat eivät täsmää</target>
+        
+      </trans-unit>
+
+	   <trans-unit id="92">
+        <source>Description must contain at least %min_length% characters</source>
+        <target>Kuvauksen täytyy sisältää vähintään %min_length% merkkiä</target>
+        
+      </trans-unit>
+      <trans-unit id="93">
+        <source>The description cannot contain more than %max_length% characters.</source>
+        <target>Kuvaus saa sisältää enintään %max_length% merkkiä.</target>
+        
+      </trans-unit>
+      <trans-unit id="94">
+        <source>Description &quot;%value%&quot; contains forbidden words</source>
+        <target>Kuvaus &quot;%value%&quot; sisältää kiellettyjä sanoja</target>
+        
+      </trans-unit>
+       <trans-unit id="95">
+        <source>The Offer Title must contain at least %min_length% characters</source>
+        <target>Tarjouksen nimen täytyy sisältää vähintään %min_length% merkkiä</target>
+        
+      </trans-unit>
+      <trans-unit id="96">
+        <source>The Offer Title and Terms are mandatory for at least one of the two language versions.</source>
+        <target>Tarjouksen nimi ja ehdot ovat pakollisia ainakin toiselle kahdesta kieliversiosta.</target>
+        
+      </trans-unit>
+       <trans-unit id="97">
+        <source>The Newsletter Title cannot be longer than %max_length% characters</source>
+        <target>Uutiskirjeen nimi saa olla enintään %max_length% merkkiä pitkä</target>
+        
+      </trans-unit>
+      <trans-unit id="98">
+        <source>The Newsletter Title must contain at least %min_length% characters</source>
+        <target>Uutiskirjeen nimen täytyy sisältää vähintään %min_length% merkkiä</target>
+        
+      </trans-unit>
+      <trans-unit id="99">
+        <source>Please enter search criteria</source>
+        <target>Syötä hakuehdot</target>
+        
+      </trans-unit>
+      <trans-unit id="100">
+        <source>Please correct search criteria</source>
+        <target>Korjaa hakuehtoja</target>
+        
+      </trans-unit>
+      <trans-unit id="101">
+        <source>Incorrect search term</source>
+        <target>Väärä hakutermi</target>
+        
+      </trans-unit>
+     <trans-unit id="102">
+        <source>Message must contain at least %min_length% characters</source>
+        <target>Viestin täytyy sisältää vähintään %min_length% merkkiä</target>
+        
+      </trans-unit>
+      <trans-unit id="103">
+        <source>The message cannot contain more than %max_length% characters.</source>
+        <target>Viesti saa sisältää enintään %max_length% merkkiä.</target>
+        
+      </trans-unit>
+       <trans-unit id="104">
+        <source>This email and unsubscribed key do not match</source>
+        <target>Tämä sähköposti ja perumiskoodi eivät täsmää.</target>
+        
+      </trans-unit>
+        <trans-unit id="105">
+        <source>Video Title must contain at least %min_length% characters</source>
+        <target>Videon nimen täytyy sisältää vähintään %min_length% merkkiä</target>
+        
+      </trans-unit>
+      <trans-unit id="106">
+        <source>The video title cannot contain more than %max_length% characters.</source>
+        <target>Videon nimi saa sisältää enintään %max_length% merkkiä.</target>
+        
+      </trans-unit>
+       <trans-unit id="107">
+        <source>The email message was not sent successfully.</source>
+        <target>Sähköpostiviestin lähetys ei onnistunut.</target>
+        
+      </trans-unit>
+      <trans-unit id="108">
+        <source>This username has already been registered by another user</source>
+        <target>Toinen käyttäjä on jo rekisteröinyt tämän käyttäjänimen</target>
+        
+      </trans-unit>
+       <trans-unit id="109">
+        <source>Тhe start date cannot be later than the end date of the event</source>
+        <target>Alkamispäivä ei voi olla myöhempi kuin tapahtuman loppumispäivä</target>
+        
+      </trans-unit>
+      <trans-unit id="110">
+        <source>Please add location - city/town is required if venue not known!</source>
+        <target>Lisää sijainti - paikkakunta/kaupunki vaaditaan, jos paikkaa ei tiedetä!</target>
+        
+      </trans-unit>
+      <trans-unit id="111">
+        <source>Please enter the characters from the picture below to confirm you like parties!</source>
+        <target>Syötä merkit alla olevasta kuvasta vahvistaaksesi, että pidät juhlista!</target>
+        
+      </trans-unit>
+          <trans-unit id="112">
+        <source>Username</source>
+        <target>Käyttäjänimi</target>
+        
+      </trans-unit>
+      <trans-unit id="113">
+        <source>Email</source>
+        <target>Sähköposti</target>
+        
+      </trans-unit>
+      <trans-unit id="114">
+        <source>Password</source>
+        <target>Salasana</target>
+        
+      </trans-unit>
+      <trans-unit id="115">
+        <source>Retype Your Password</source>
+        <target>Kirjoita salasanasi uudelleen</target>
+        
+      </trans-unit>
+      <trans-unit id="116">
+        <source>Select Your City</source>
+        <target>Valitse kaupunkisi</target>
+        
+      </trans-unit>
+            <trans-unit id="117">
+        <source>Enter your Email address.</source>
+        <target>Syötä sähköpostiosoitteesi.</target>
+        
+      </trans-unit>
+      <trans-unit id="118">
+        <source>Name</source>
+        <target>Nimi</target>
+        
+      </trans-unit>
+      <trans-unit id="119">
+        <source>Surname</source>
+        <target>Sukunimi</target>
+        
+      </trans-unit>
+      <trans-unit id="120">
+        <source>Profile Picture</source>
+        <target>Profiilikuva</target>
+        
+      </trans-unit>
+      <trans-unit id="121">
+        <source>Delete current</source>
+        <target>Poista nykyinen</target>
+        
+      </trans-unit>
+      <trans-unit id="122">
+        <source>Date of Birth</source>
+        <target>Syntymäpäivä</target>
+        
+      </trans-unit>
+      <trans-unit id="123">
+        <source>Gender</source>
+        <target>Sukupuoli</target>
+        
+      </trans-unit>
+      <trans-unit id="124">
+        <source>Location</source>
+        <target>Sijainti</target>
+        
+      </trans-unit>
+           <trans-unit id="125">
+        <source>About me</source>
+        <target>Tietoja minusta</target>
+        
+      </trans-unit>
+      <trans-unit id="126">
+        <source>My Website</source>
+        <target>Oma verkkosivusto</target>
+        
+      </trans-unit>
+      <trans-unit id="127">
+        <source>My Blog</source>
+        <target>Oma blogi</target>
+        
+      </trans-unit>
+      <trans-unit id="128">
+        <source>My Facebook</source>
+        <target>Oma Facebook</target>
+        
+      </trans-unit>
+      <trans-unit id="129">
+        <source>My Google+</source>
+        <target>Oma Google+</target>
+        
+      </trans-unit>
+
+      <trans-unit id="130">
+        <source>New Password</source>
+        <target>Uusi salasana</target>
+        
+      </trans-unit>
+      <trans-unit id="131">
+        <source>Retype New Password</source>
+        <target>Kirjoita uusi salasana uudestaan</target>
+        
+      </trans-unit>
+      <trans-unit id="132">
+        <source>The field is required</source>
+        <target>Kenttä on pakollinen</target>
+        
+      </trans-unit>
+      <trans-unit id="133">
+        <source>Fields marked with a star are mandatory.</source>
+        <target>Tähdellä merkityt kentät ovat pakollisia.</target>
+        
+      </trans-unit>
+            <trans-unit id="134">
+        <source>Owner</source>
+        <target>Omistaja</target>
+        
+      </trans-unit>
+      <trans-unit id="135">
+        <source>Director</source>
+        <target>Johtaja</target>
+        
+      </trans-unit>
+       <trans-unit id="136">
+        <source>Manager</source>
+        <target>Päällikkö</target>
+        
+      </trans-unit>
+      <trans-unit id="137">
+        <source>Employee</source>
+        <target>Työntekijä</target>
+        
+      </trans-unit>
+      <trans-unit id="138">
+        <source>Choose...</source>
+        <target>Valitse...</target>
+        
+      </trans-unit>
+      <trans-unit id="139">
+        <source>Other</source>
+        <target>Muu</target>
+        
+      </trans-unit>
+            <trans-unit id="140">
+        <source>My Facebook</source>
+        <target>Oma Facebook</target>
+        
+      </trans-unit>
+      <trans-unit id="141">
+        <source>My Тwitter</source>
+        <target>Oma Twitter</target>
+        
+      </trans-unit>
+            <trans-unit id="142">
+        <source>Current Password</source>
+        <target>Nykyinen salasana</target>
+        
+      </trans-unit>
+      <trans-unit id="143">
+        <source>Retype New Password</source>
+        <target>Kirjoita uusi salasana uudestaan</target>
+        
+      </trans-unit>
+      <trans-unit id="144">
+        <source>Passwords don't match</source>
+        <target>Salasanat eivät täsmää</target>
+        
+      </trans-unit>
+      <trans-unit id="145">
+        <source>Your Password</source>
+        <target>Salasanasi</target>
+        
+      </trans-unit>
+       <trans-unit id="146">
+        <source>Male</source>
+        <target>Mies</target>
+        
+      </trans-unit>
+       <trans-unit id="147">
+        <source>Female</source>
+        <target>Nainen </target>
+        
+      </trans-unit>
+      <trans-unit id="148">
+        <source>Position</source>
+        <target>Asema</target>
+        
+      </trans-unit>
+      <trans-unit id="149">
+        <source>Phone</source>
+        <target>Puhelin</target>
+        
+      </trans-unit>
+       <trans-unit id="150">
+        <source>I declare that I am an authorized representative of the business.</source>
+        <target>Vakuutan, että olen yrityksen valtuutettu edustaja.</target>
+        
+      </trans-unit>
+      <trans-unit id="151">
+        <source>Enter the CUI of your business.</source>
+        <target>Syötä yrityksesi CUI.</target>
+        
+      </trans-unit>
+       <trans-unit id="152">
+        <source>Declare that you are an authorized representative of the business.</source>
+        <target>Ilmoita, että olet yrityksen valtuutettu edustaja.</target>
+        
+      </trans-unit>
+      <trans-unit id="153">
+        <source>Invalid CUI</source>
+        <target>CUI ei kelpaa</target>
+        
+      </trans-unit>
+      <trans-unit id="154">
+        <source>Company Name</source>
+        <target>Yrityksen nimi</target>
+        
+      </trans-unit>
+      <trans-unit id="155">
+        <source>Company Type</source>
+        <target>Yritystyyppi</target>
+        
+      </trans-unit>
+       <trans-unit id="156">
+        <source>Company Name in Latin characters</source>
+        <target>Yrityksen nimi latinalaisin merkein</target>
+        
+      </trans-unit>
+       <trans-unit id="157">
+        <source>Address</source>
+        <target>Osoite</target>
+        
+      </trans-unit>
+       <trans-unit id="158">
+        <source>Classification</source>
+        <target>Luokitus</target>
+        
+      </trans-unit>
+       <trans-unit id="159">
+        <source>City</source>
+        <target>Kaupunki</target>
+        
+      </trans-unit>
+      <trans-unit id="160">
+        <source>Company Address</source>
+        <target>Yrityksen osoite</target>
+        
+      </trans-unit>
+      <trans-unit id="161">
+        <source>Postcode</source>
+        <target>Postinumero</target>
+        
+      </trans-unit>
+      <trans-unit id="162">
+        <source>Street</source>
+        <target>Katu</target>
+        
+      </trans-unit>
+      <trans-unit id="163">
+        <source>Number</source>
+        <target>Numero</target>
+        
+      </trans-unit>
+      <trans-unit id="164">
+        <source>Neighbourhood</source>
+        <target>Kaupunginosa</target>
+        
+      </trans-unit>
+      <trans-unit id="165">
+        <source>Bl.</source>
+        <target>Kortt.</target>
+        
+      </trans-unit>
+      <trans-unit id="166">
+        <source>Ent.</source>
+        <target>Sis.</target>
+        
+      </trans-unit>
+      <trans-unit id="167">
+        <source>Fl.</source>
+        <target>Krs</target>
+        
+      </trans-unit>
+      <trans-unit id="168">
+        <source>Ap.</source>
+        <target>Ap.</target>
+        
+      </trans-unit>
+            <trans-unit id="169">
+        <source>Monday</source>
+        <target>Maanantai</target>
+        
+      </trans-unit>
+      <trans-unit id="170">
+        <source>Tuesday</source>
+        <target>Tiistai</target>
+        
+      </trans-unit>
+      <trans-unit id="171">
+        <source>Wednesday</source>
+        <target>Keskiviikko</target>
+        
+      </trans-unit>
+      <trans-unit id="172">
+        <source>Thursday</source>
+        <target>Torstai</target>
+        
+      </trans-unit>
+      <trans-unit id="173">
+        <source>Friday</source>
+        <target>Perjantai</target>
+        
+      </trans-unit>
+      <trans-unit id="174">
+        <source>Saturday</source>
+        <target>Lauantai</target>
+        
+      </trans-unit>
+      <trans-unit id="175">
+        <source>Sunday</source>
+        <target>Sunnuntai</target>
+        
+      </trans-unit>
+         <trans-unit id="176">
+        <source>Bulgarian</source>
+        <target>Bulgaria</target>
+        
+      </trans-unit>
+      <trans-unit id="177">
+        <source>English</source>
+        <target>Englanti</target>
+        
+      </trans-unit>
+      <trans-unit id="178">
+        <source>Email:</source>
+        <target>Sähköposti:</target>
+        
+      </trans-unit>
+      <trans-unit id="179">
+        <source>Password:</source>
+        <target>Salasana:</target>
+        
+      </trans-unit>
+      <trans-unit id="180">
+        <source>Remember me</source>
+        <target>Muista minut</target>
+        
+      </trans-unit>
+      <trans-unit id="181">
+        <source>Description</source>
+        <target>Kuvaus</target>
+        
+      </trans-unit>
+      <trans-unit id="182">
+        <source>Category</source>
+        <target>Luokka</target>
+        
+      </trans-unit>
+      <trans-unit id="183">
+        <source>Website</source>
+        <target>Verkkosivusto</target>
+        
+      </trans-unit>
+      			<trans-unit id="184">
+        <source>You entered &quot;%value%&quot;. The security check picture contains %length% characters. Please try again.</source>
+        <target>Syötit &quot;%value%&quot;. Turvallisuustarkistuskuva sisältää %length% merkkiä. Yritä uudestaan.</target>
+        
+      </trans-unit>
+            <trans-unit id="185">
+        <source>Security check. Enter the characters from the picture below</source>
+        <target>Turvallisuustarkistus. Syötä merkit alla olevasta kuvasta</target>
+        
+      </trans-unit>
+      <trans-unit id="186">
+        <source>Start Date</source>
+        <target>Alkamispäivä</target>
+        
+      </trans-unit>
+      <trans-unit id="187">
+        <source>Detailed Description</source>
+        <target>Yksityiskohtainen kuvaus</target>
+        
+      </trans-unit>
+      <trans-unit id="188">
+        <source>Detailed Description (English)</source>
+        <target>Yksityiskohtainen kuvaus (englanti)</target>
+        
+      </trans-unit>
+      <trans-unit id="189">
+        <source>Offer Title</source>
+        <target>Tarjouksen nimi</target>
+        
+      </trans-unit>
+      <trans-unit id="190">
+        <source>Voucher</source>
+        <target>Etuseteli</target>
+        
+      </trans-unit>
+      <trans-unit id="191">
+        <source>Voucher Valid From</source>
+        <target>Etuseteli voimassa alkaen</target>
+        
+      </trans-unit>
+      <trans-unit id="192">
+        <source>Voucher Valid To</source>
+        <target>Etuseteli voimassa asti</target>
+        
+      </trans-unit>
+      <trans-unit id="193">
+        <source>Offer Active From</source>
+        <target>Tarjous voimassa alkaen</target>
+        
+      </trans-unit>
+      <trans-unit id="194">
+        <source>Offer Active To</source>
+        <target>Tarjous voimassa asti</target>
+        
+      </trans-unit>
+      <trans-unit id="195">
+        <source>Maximum number of vouchers to be issued</source>
+        <target>Myönnettävien etusetelien enimmäismäärä</target>
+        
+      </trans-unit>
+       <trans-unit id="196">
+        <source>Maximum number of vouchers to be issued per user</source>
+        <target>Myönnettävien etusetelien enimmäismäärä käyttäjää kohti</target>
+        
+      </trans-unit>
+      <trans-unit id="197">
+        <source>Offer Terms</source>
+        <target>Tarjouksen ehdot</target>
+        
+      </trans-unit>
+       <trans-unit id="198">
+        <source>Select a photo from your computer</source>
+        <target>Valitse valokuva tietokoneeltasi</target>
+        
+      </trans-unit>
+      <trans-unit id="199">
+        <source>Caption</source>
+        <target>Kuvateksti</target>
+        
+      </trans-unit>
+      <trans-unit id="8">
+        <source>Please enter your Name and Surname</source>
+      </trans-unit>
+      <trans-unit id="9">
+        <source>Invalid email</source>
+      </trans-unit>
+      <trans-unit id="10">
+        <source>Please rate this company</source>
+      </trans-unit>
+      <trans-unit id="22">
+        <source>Please enter your email</source>
+      </trans-unit>
+      <trans-unit id="11">
+        <source>Invalid Rating</source>
+      </trans-unit>
+       <trans-unit id="15">
+        <source>Please agree to observe the Terms of Use of the Getlokal Website</source>
+    </trans-unit>
+    <trans-unit id="54">
+        <source>Choose if you want to recommend this company to a friend</source>
+      </trans-unit>
+       <trans-unit id="200">
+        <source>Name</source>
+        <target>Nimi</target>
+        
+      </trans-unit>
+      <trans-unit id="201">
+        <source>Surname</source>
+        <target>Sukunimi</target>
+        
+      </trans-unit>
+      <trans-unit id="202">
+        <source>Enter your Email address.</source>
+        <target>Syötä sähköpostiosoitteesi.</target>
+        
+      </trans-unit>
+       <trans-unit id="203">
+        <source>Your username should contain only alphanumeric characters, dash, dot or underscore and begin with a letter</source>
+        <target>Käyttäjänimesi pitäisi sisältää vain aakkosnumeerisia merkkejä, viivan, pisteen tai alaviivan ja alkaa kirjaimella</target>
+        
+      </trans-unit>
+      <trans-unit id="204">
+        <source>Your account changes were successfully saved.</source>
+        <target>Tilisi muutokset tallennettiin onnistuneesti.</target>
+        
+      </trans-unit>
+      <trans-unit id="205">
+        <source>Company Name or CUI</source>
+        <target>Yrityksen nimi tai CUI</target>
+        
+      </trans-unit>
+       <trans-unit id="206">
+        <source>CUI (Cod Unic de Identificare)</source>
+        <target>CUI (Cod Unic de Identificare) </target>
+        
+      </trans-unit>
+      <trans-unit id="207">
+        <source>Select file</source>
+        <target>Valitse tiedosto</target>
+        
+      </trans-unit>
+      <trans-unit id="208">
+        <source>Invalid format. E.g. http://www.getlokal.ro.</source>
+        <target>Väärä muoto. Esim. http://www.getlokal.ro. </target>
+        
+      </trans-unit>
+      <trans-unit id="209">
+        <source>Invalid format. E.g. getlokal.ro!</source>
+        <target>Väärä muoto. Esim. getlokal.ro! </target>
+        
+      </trans-unit>
+      <trans-unit id="210">
+        <source>Invalid format. E.g. http://blog.getlokal.ro.</source>
+        <target>Väärä muoto. Esim. http://blog.getlokal.ro. </target>
+        
+      </trans-unit>
+      <trans-unit id="211">
+        <source>Invalid format. E.g. http://twitter.com/@getlokal.</source>
+        <target>Väärä muoto. Esim. http://twitter.com/@getlokal. </target>
+        
+      </trans-unit>
+      <trans-unit id="212">
+        <source>Invalid format. E.g. http://www.facebook.com/#!/getlokal.</source>
+        <target>Väärä muoto. Esim. http://www.facebook.com/#!/getlokal. </target>
+        
+      </trans-unit>
+      <trans-unit id="213">
+        <source>Invalid format.</source>
+        <target>Väärä muoto.</target>
+        
+      </trans-unit>
+      <trans-unit id="214">
+        <source>Password is mandatory</source>
+        <target>Salasana on pakollinen</target>
+        
+      </trans-unit>
+      <trans-unit id="215">
+        <source>The email and/or password are invalid</source>
+        <target>Sähköposti ja/tai salasana ei kelpaa</target>
+        
+      </trans-unit>
+      <trans-unit id="216">
+        <source>Incorrect Password</source>
+        <target>Väärä salasana</target>
+        
+      </trans-unit>
+      <trans-unit id="217">
+        <source>When</source>
+        <target>Milloin</target>
+        
+      </trans-unit>
+      <trans-unit id="218">
+        <source>End Date</source>
+        <target>Loppumispäivä</target>
+        
+      </trans-unit>
+      <trans-unit id="219">
+        <source>City/Town</source>
+        <target>Paikkakunta/kaupunki</target>
+        
+      </trans-unit>
+      <trans-unit id="220">
+        <source>Venue name</source>
+        <target>Paikan nimi</target>
+        
+      </trans-unit>
+      <trans-unit id="221">
+        <source>More Info (add link)</source>
+        <target>Lisätietoa (lisää linkki)</target>
+        
+      </trans-unit>
+      <trans-unit id="222">
+        <source>Buy ticket/book (add link)</source>
+        <target>Osta lippu/kirja (lisää linkki)</target>
+        
+      </trans-unit>
+      <trans-unit id="223">
+        <source>Event Type</source>
+        <target>Tapahtumatyyppi</target>
+        
+      </trans-unit>
+      <trans-unit id="224">
+        <source>Price</source>
+        <target>Hinta</target>
+        
+      </trans-unit>
+      <trans-unit id="225">
+        <source>Add Photo</source>
+        <target>Lisää valokuva</target>
+        
+      </trans-unit>
+      <trans-unit id="226">
+        <source>Event Name</source>
+        <target>Tapahtuman nimi</target>
+        
+      </trans-unit>
+      <trans-unit id="227">
+        <source>Event Description</source>
+        <target>Tapahtuman kuvaus</target>
+        
+      </trans-unit>
+      <!-- NEw -->
+       <trans-unit id="228">
+        <source>Show to All</source>
+        <target>Näytä kaikille</target>
+        
+      </trans-unit>
+      <trans-unit id="229">
+        <source>Choose... </source>
+        <target>Valitse...</target>
+        
+      </trans-unit>
+      <trans-unit id="230">
+        <source>Enter New Email</source>
+        <target>Syötä uusi sähköposti</target>
+        
+      </trans-unit>
+      <trans-unit id="231">
+        <source>Description</source>
+        <target>Kuvaus</target>
+        
+      </trans-unit>
+      <trans-unit id="232">
+        <source>Description (English)</source>
+        <target>Kuvaus (englanti)</target>
+        
+      </trans-unit>
+      <trans-unit id="233">
+        <source>Detailed Description (English)</source>
+        <target>Yksityiskohtainen kuvaus (englanti)</target>
+        
+      </trans-unit>
+      <trans-unit id="234">
+        <source>Detailed Description</source>
+        <target>Yksityiskohtainen kuvaus</target>
+        
+      </trans-unit>
+       <trans-unit id="235">
+        <source>VIP Position Start Date</source>
+        <target>VIP-aseman alkamispäivä</target>
+        
+      </trans-unit>
+      <trans-unit id="236">
+        <source>Message</source>
+        <target>Viesti</target>
+        
+      </trans-unit>
+      <trans-unit id="237">
+        <source>Please rate this company</source>
+        <target>Arvostele tämä yritys</target>
+        
+      </trans-unit>
+      <trans-unit id="238">
+        <source>The username &quot;%value%&quot; is invalid.</source>
+        <target>Käyttäjänimi &quot;%value%&quot; ei kelpaa.</target>
+        
+      </trans-unit>
+      <trans-unit id="239">
+        <source>Username must contain at least %min_length% characters.</source>
+        <target>Käyttäjänimen täytyy sisältää vähintään %min_length% merkkiä.</target>
+        
+      </trans-unit>
+      <trans-unit id="240">
+        <source>The username and/or password you entered for %s are invalid or you don't have enough credentials</source>
+        <target>Syöttämäsi käyttäjänimi ja/tai salasana kohteelle %s ei kelpaa, tai sinulla ei ole tarpeeksi valtuuksia</target>
+        
+      </trans-unit>
+       <trans-unit id="241">
+        <source>The username and/or password you entered are invalid or you don't have enough credentials</source>
+        <target>Syöttämäsi käyttäjänimi ja/tai salasana ei kelpaa, tai sinulla ei ole tarpeeksi valtuuksia</target>
+        
+      </trans-unit>
+       <trans-unit id="242">
+        <source><![CDATA[You need to agree to Getlokal Terms of Use & Privacy Policy]]></source>
+        <target>Sinun täytyy hyväksyä Getlokalin käyttöehdot ja tietosuojakäytäntö</target>
+        
+      </trans-unit>
+      <trans-unit id="243">
+        <source>Start Time</source>
+        <target>Alkamisaika</target>
+        
+     </trans-unit>
+
+      <trans-unit id="244">
+        <source>Place Name</source>
+        <target>Paikan nimi</target>
+        
+      </trans-unit>
+	  <trans-unit id="245">
+        <source>Place Name in English</source>
+        <target>Paikan nimi englanniksi</target>
+        
+      </trans-unit>
+
+ </body>
+  </file>
+</xliff>

@@ -1,0 +1,101 @@
+<?xml version="1.0" ?>
+<xliff version="1.0">
+    <file orginal="global" source-language="en_EN" datatype="plaintext">
+        <body>
+            <trans-unit>
+                <source>Create new account</source>
+                <target>Създай си профил</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Account Activation</source>
+                <target>Активиране на профил</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Resend activation email</source>
+                <target>Активирай профила си</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Forgotten Password</source>
+                <target>Забравена парола</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Offers</source>
+                <target>Оферти</target>
+            </trans-unit>
+            <trans-unit>
+                <source>%s in %s</source>
+                <target>%s в %s</target>
+            </trans-unit>
+            <trans-unit>
+                <source>New Offer</source>
+                <target>Нова оферта</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Going Out, Leisure, Health and Beauty, Shopping</source>
+                <target>Заведения, Развлечения, Здраве и красота, Шопинг</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Communication Settings</source>
+                <target>Настройки за Комуникация</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Select a classification</source>
+                <target>Избери класификация</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Add Company</source>
+                <target>Добави фирма</target>
+            </trans-unit>
+            <trans-unit>
+                <source>%s in getlokal - addresses, telephones, working hours and user reviews for %s in %s, %s</source>
+                <target>%s в getlokal  - виж адреси, телефони, работно време и ревюта на потребители за всички %s в %s, %s</target>
+            </trans-unit>
+            <trans-unit>
+                <source>%s in getlokal - addresses, telephones, working hours and user reviews for %s in %s</source>
+                <target>%s в getlokal  - виж адреси, телефони, работно време и ревюта на потребители за всички %s в %s</target>
+            </trans-unit>
+            <trans-unit>
+                <source>%s in %s - information in getlokal: see address, telephone, working hours, photos and user reviews for %s, %s</source>
+                <target>%s в %s - информация в getlokal: виж адрес, телефон, работно време, снимки и ревюта на потребители за %s, %s.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>%s, %s - reviews and ratings from customers</source>
+                <target>%s, %s - ревюта и оценки от клиенти</target>
+            </trans-unit>
+            <trans-unit>
+                <source>%s, %s - detailed information</source>
+                <target>%s, %s - подробна информация</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Find up-to-date reviews, comments and ratings of customer for %s in %s. Add your own review!</source>
+                <target>Вижте актуални ревюта, коментари и оценки на клиенти за %s в %s. Напишете и вашия отзив!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>%s - getlokal user</source>
+                <target>%s - потребител в getlokal</target>
+            </trans-unit>
+            <trans-unit>
+                <source>See information for %s and all their reviews in getlokal!</source>
+                <target>Вижте информация за %s и всички ревюта на този потребител в getlokal!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Followers</source>
+                <target>Последователи</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Following</source>
+                <target>Следвани</target>
+            </trans-unit>
+
+<!-- NEW DEsing -->
+            
+
+
+
+
+
+
+
+        </body>
+    </file>
+</xliff>

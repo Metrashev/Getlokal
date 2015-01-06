@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" ?>
+<xliff version="1.0">
+	<file original="global" source-language="en" datatype="plaintext">
+		<body>
+      		<trans-unit id="1">
+	        	<source>Place Claim in Getlokal</source>
+	       		<target>Τοποθέτηση Ισχυρισμού στη Getlokal</target>
+      		</trans-unit>
+      		<trans-unit id="2">
+	        	<source>Welcome to getlokal</source>
+	       		<target>Καλώς ήρθατε στη getlokal</target>
+      		</trans-unit>
+      		<trans-unit id="3">
+	        	<source>Request through getlokal</source>
+	       		<target>Αίτηση μέσω getlokal</target>
+      		</trans-unit>
+      		<trans-unit id="4">
+	        	<source>Claim Request</source>
+	       		<target>Αίτηση Ισχυρισμού</target>
+      		</trans-unit>
+      		<trans-unit id="5">
+	        	<source>Forgotten Password</source>
+	       		<target>Ξεχάσατε τον κωδικό σας</target>
+      		</trans-unit>
+      		<trans-unit id="6">
+	        	<source>Getlokal Account Activation</source>
+	       		<target>Getlokal Ενεργοποίηση Λογαριασμού</target>
+      		</trans-unit>
+      		<trans-unit id="7">
+	        	<source>Change Email Confirmation</source>
+	       		<target>Αλλαγή Επιβεβαίωσης Email</target>
+      		</trans-unit>
+      		<trans-unit id="8">
+	        	<source>Forgotten Place Admin Password</source>
+	       		<target>Ξεχάσατε να Βάλετε Κωδικό Διαχειριστή</target>
+      		</trans-unit>
+      		<trans-unit id="9">
+	        	<source>Forgotten Username</source>
+	       		<target>Ξεχάσατε το Όνομα Χρήστη</target>
+      		</trans-unit>
+      		<trans-unit id="10">
+	        	<source>Approved Place Claim in Getlokal</source>
+	       		<target>Εγκρίθηκε η τοποθέτηση ισχυρισμού στη Getlokal</target>
+      		</trans-unit>
+            <trans-unit id="11">
+                <source>Rejected Place Claim in Getlokal</source>
+                <target>Απορρίπτεται η τοποθέτηση ισχυρισμού στη Getlokal</target>
+            </trans-unit>
+		</body>
+	</file>
+</xliff>

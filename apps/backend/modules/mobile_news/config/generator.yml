@@ -1,0 +1,24 @@
+generator:
+  class: sfDoctrineGenerator
+  param:
+    model_class:           MobileNews
+    theme:                 admin
+    non_verbose_templates: true
+    with_show:             false
+    singular:              ~
+    plural:                ~
+    route_prefix:          mobile_news
+    with_doctrine_route:   true
+    actions_base_class:    sfActions
+
+    config:
+      actions: ~
+      fields:  ~
+      list:
+        display:        [ _thumb, title, line1, link, created_at ]
+        table_method:  getQueryForAdmin
+      filter:  
+        display: [title, line1, line2, link, rank, is_active, created_at, updated_at, filename, cities_list]
+      form:    ~
+      edit:    ~
+      new:     ~

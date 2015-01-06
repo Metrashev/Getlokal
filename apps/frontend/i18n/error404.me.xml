@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<xliff version="1.0">
+    <file orginal="global" source-language="en_EN" datatype="plaintext">
+        <body>
+            <trans-unit id="1">
+                <source>404 ERROR</source>
+                <target>GREŠKA 404</target>
+            </trans-unit>
+            <trans-unit id="2">
+                <source>The server returned a 404 response!</source>
+                <target>Server je prijavio grešku 404!</target>
+            </trans-unit>
+            <trans-unit id="3">
+                <source>Here are some of the possible reasons</source>
+                <target>Evo nekoliko mogućih razloga</target>
+            </trans-unit>
+            <trans-unit id="4">
+                <source>Did you type a URL i.e. website address?</source>
+                <target>Da li ste upisali URL (veb sajt adresu)?</target>
+            </trans-unit>
+            <trans-unit id="5">
+                <source>You may have typed the website address (URL) incorrectly. Please, check the spelling, capitalization, punctuation, etc.</source>
+                <target>Moguće je da ste veb sajt adresu (URL) upisali netačno. Molimo provjerite tekst koji ste uneli.</target>
+            </trans-unit>
+            <trans-unit id="6">
+                <source>Did you follow a link to this page from another page in this site?</source>
+                <target>Da li ste do ovog linka došli preko neke druge stranice na sajtu?</target>
+            </trans-unit>
+            <trans-unit id="8">
+                <source>Did you follow a link from another site?</source>
+                <target>Da li ste pratili link sa drugog sajta?</target>
+            </trans-unit>
+            <trans-unit id="9">
+                <source>Links from other sites can sometimes be out-of-date or misspelled. Please email us at info@getlokal.com with information about the site from which you followed the link so we can try and contact the other site in order to fix the problem.</source>
+                <target>Linkovi sa drugih sajtova mogu biti zastareli ili pogrešni. Molimo vas da nas kontaktirate i pošaljete nam informacije o sajtu sa koga ste pratili link na info@getlokal.me kako bismo kontaktirali taj sajt i pokušali riješiti problem. </target>
+            </trans-unit>
+        </body>
+    </file>
+</xliff>

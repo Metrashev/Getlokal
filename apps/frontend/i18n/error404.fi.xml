@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<xliff version="1.0">
+    <file orginal="global" source-language="en_EN" datatype="plaintext">
+        <body>
+            <trans-unit id="1">
+                <source>404 ERROR</source>
+                <target>Virhe 404</target>
+            </trans-unit>
+            <trans-unit id="2">
+                <source>The server returned a 404 response!</source>
+                <target>Serveri palautti 404 vastauksen!</target>
+            </trans-unit>
+            <trans-unit id="3">
+                <source>Here are some of the possible reasons</source>
+                <target>Tässä on mahdollisia syitä</target>
+            </trans-unit>
+            <trans-unit id="4">
+                <source>Did you type a URL i.e. website address?</source>
+                <target>Kirjoititko URL:n oikein</target>
+            </trans-unit>
+            <trans-unit id="5">
+                <source>You may have typed the website address (URL) incorrectly. Please, check the spelling, capitalization, punctuation, etc.</source>
+                <target>Olet saattanu kirjoittaa webbiosoitteen väärin (URL). Tarkista kirjoitusvirheiden varalta, isot kirjaimet yms..</target>
+            </trans-unit>
+            <trans-unit id="6">
+                <source>Did you follow a link to this page from another page in this site?</source>
+                <target>Seurasitko linkkiä tähän sivuun, jostain muualta sivustoltamme?</target>
+            </trans-unit>
+            <trans-unit id="7">
+                <source>If you reached this page from another page in this site, please email us at info@getlokal.com so we can fix the problem.</source>
+                <target>Jos seurasit linkkiä sivustoltamme, ilmoita siitä meille info@getlokal.fi jotta voimme korjata ongelman.</target>
+            </trans-unit>
+            <trans-unit id="8">
+                <source>Did you follow a link from another site?</source>
+                <target>Seurasitko linkkiä jostain toiselta sivustolta?</target>
+            </trans-unit>
+            <trans-unit id="9">
+                <source>Links from other sites can sometimes be out-of-date or misspelled. Please email us at info@getlokal.com with information about the site from which you followed the link so we can try and contact the other site in order to fix the problem.</source>
+                <target>Linkit toisilta sivustoilta voivat joskus olla virheellisiä. Lähetä meille sähköpostia info@getlokal.fi niin voimme ottaa yhteyttä sivuston ylläpitäjiin korjataksemme ongelman. </target>
+            </trans-unit>
+        </body>
+    </file>
+</xliff>

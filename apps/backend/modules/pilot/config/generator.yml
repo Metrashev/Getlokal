@@ -1,0 +1,31 @@
+generator:
+  class: sfDoctrineGenerator
+  param:
+    model_class:           PilotVideo
+    theme:                 admin
+    non_verbose_templates: true
+    with_show:             false
+    singular:              ~
+    plural:                ~
+    route_prefix:          pilot_video_pilot
+    with_doctrine_route:   true
+    actions_base_class:    sfActions
+
+    config:
+      actions: ~
+      fields:  ~
+      list:
+        display: [id, name, youtube_key]
+        # batch_actions: 
+        #   _edit: ~
+        # object_actions: 
+        #   _edit: ~
+      filter:
+        class: false
+      form:    ~
+      edit:
+        display: [name, youtube_key]
+        # actions: 
+        #   _edit: ~
+        #   _back: ~
+      new:     ~

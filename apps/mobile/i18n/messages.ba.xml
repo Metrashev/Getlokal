@@ -1,0 +1,297 @@
+<?xml version="1.0" ?>
+<xliff version="1.0">
+  <file original="global" source-language="en" datatype="plaintext">
+    <body>
+     <trans-unit id="1">
+      <source>Mon</source>
+      <target>Pon</target>
+    </trans-unit>
+     <trans-unit id="2">
+      <source>Tue</source>
+      <target>Uto</target>
+    </trans-unit>
+     <trans-unit id="3">
+      <source>Wed</source>
+      <target>Sri</target>
+    </trans-unit>
+     <trans-unit id="4">
+      <source>Thu</source>
+      <target>Čet</target>
+    </trans-unit>
+     <trans-unit id="5">
+      <source>Fri</source>
+      <target>Pet</target>
+    </trans-unit>
+     <trans-unit id="6">
+      <source>Sat</source>
+      <target>Sub</target>
+    </trans-unit>
+     <trans-unit id="7">
+      <source>Sun</source>
+      <target>Ned</target>
+    </trans-unit>
+
+      <trans-unit id="8">
+        <source>Tomorrow</source>
+        <target>Sutra</target>
+      </trans-unit>
+      <trans-unit id="9">
+        <source>Today</source>
+        <target>Danas</target>
+      </trans-unit>
+      <trans-unit id="10">
+	  <source>January</source>
+        <target>Januar</target>
+      </trans-unit>
+	  <trans-unit id="11">
+        <source>February</source>
+        <target>Februar</target>
+      </trans-unit>
+	  <trans-unit id="12">
+        <source>March</source>
+        <target>Mart</target>
+      </trans-unit>
+	  <trans-unit id="13">
+        <source>April</source>
+        <target>April</target>
+      </trans-unit>
+	  <trans-unit id="14">
+        <source>May</source>
+        <target>Maj</target>
+      </trans-unit>
+	  <trans-unit id="15">
+        <source>June</source>
+        <target>Juni</target>
+      </trans-unit>
+	  <trans-unit id="16">
+        <source>July</source>
+        <target>Juli</target>
+      </trans-unit>
+	   <trans-unit id="17">
+        <source>August</source>
+        <target>Avgust</target>
+      </trans-unit>
+	   <trans-unit id="18">
+        <source>September</source>
+        <target>Septembar</target>
+      </trans-unit>
+	   <trans-unit id="19">
+        <source>October</source>
+        <target>Oktobar</target>
+      </trans-unit>
+	   <trans-unit id="20">
+        <source>November</source>
+        <target>Novembar</target>
+      </trans-unit>
+	   <trans-unit id="21">
+        <source>December</source>
+        <target>Decembar</target>
+      </trans-unit>
+
+    <trans-unit id="22">
+      <source>Monday</source>
+      <target>Ponedjeljak</target>
+    </trans-unit>
+    <trans-unit id="23">
+      <source>Tuesday</source>
+      <target>Utorak</target>
+    </trans-unit>
+    <trans-unit id="24">
+      <source>Wednesday</source>
+      <target>Srijeda</target>
+    </trans-unit>
+    <trans-unit id="25">
+      <source>Thursday</source>
+      <target>Četvrtak</target>
+    </trans-unit>
+    <trans-unit id="26">
+      <source>Friday</source>
+      <target>Petak</target>
+    </trans-unit>
+    <trans-unit id="27">
+      <source>Saturday</source>
+      <target>Subota</target>
+    </trans-unit>
+    <trans-unit id="28">
+      <source>Sunday</source>
+      <target>Nedjelja</target>
+    </trans-unit>
+
+    <trans-unit id="29">
+      <source>Free</source>
+      <target>Slobodan</target>
+    </trans-unit>
+    <trans-unit id="30">
+      <source>Up to 10 %s</source>
+      <target>Do 10 %s</target>
+    </trans-unit>
+    <trans-unit id="31">
+      <source>Up to 50 %s</source>
+      <target>Do 50 %s</target>
+    </trans-unit>
+    <trans-unit id="32">
+      <source>Up to 100 %s</source>
+      <target>Do 100 %s</target>
+    </trans-unit>
+    <trans-unit id="33">
+      <source>Over 100 %s</source>
+      <target>Više od 100 %s</target>
+    </trans-unit>
+
+    <trans-unit id="34">
+      <source>ATTEND</source>
+      <target>PRISUSTVUJ</target>
+    </trans-unit>
+     <trans-unit id="35">
+      <source>%d participants</source>
+      <target>%d učesnika</target>
+    </trans-unit>
+
+
+     <trans-unit id="36">
+      <source>Reviews</source>
+      <target>Preporuke</target>
+    </trans-unit>
+
+    <trans-unit id="37">
+      <source>REVIEWS</source>
+      <target>PREPORUKE</target>
+    </trans-unit>
+
+     <trans-unit id="38">
+      <source>Address</source>
+      <target>Adresa</target>
+    </trans-unit>
+
+     <trans-unit id="39">
+      <source>Call</source>
+      <target>Pozovi</target>
+    </trans-unit>
+
+    <trans-unit id="40">
+      <source>CALL</source>
+      <target>POZOVI</target>
+    </trans-unit>
+
+     <trans-unit id="41">
+      <source>Ticket: </source>
+      <target>Karta: </target>
+    </trans-unit>
+    <trans-unit id="42">
+      <source>Review</source>
+      <target>Preporuka</target>
+    </trans-unit>
+    <trans-unit id="43">
+      <source>Add Pic</source>
+      <target>Dodaj fotku</target>
+    </trans-unit>
+    <trans-unit id="44">
+      <source>Fave</source>
+      <target>Omiljeno</target>
+    </trans-unit>
+    <trans-unit id="45">
+      <source>Checked in at %s</source>
+      <target>Prijava na %s</target>
+    </trans-unit>
+    <trans-unit id="46">
+      <source>Closed</source>
+      <target>Zatvoreno</target>
+    </trans-unit>
+
+    <trans-unit id="47">
+        <source>Events</source>
+        <target>Događanja</target>
+    </trans-unit>
+
+    <trans-unit id="48">
+        <source>EVENTS</source>
+        <target>DOGAĐANJA</target>
+    </trans-unit>
+
+    <trans-unit id="49">
+        <source>Check-in</source>
+        <target>Prijava</target>
+    </trans-unit>
+	<trans-unit id="50">
+        <source>Save</source>
+        <target>Save</target>
+    </trans-unit>
+	<trans-unit id="51">
+        <source>Unsave</source>
+        <target>Unsave</target>
+    </trans-unit>
+	<trans-unit id="52">
+        <source>Distance</source>
+        <target>Udaljenost</target>
+    </trans-unit>
+	<trans-unit id="53">
+        <source>km</source>
+        <target>km</target>
+    </trans-unit>
+	<trans-unit id="54">
+        <source>review(s)</source>
+        <target>preporuka</target>
+    </trans-unit>
+
+	<trans-unit id="55">
+        <source>ATMs</source>
+        <target>Bankomati</target>
+    </trans-unit>
+
+    <trans-unit id="56">
+       <source><![CDATA[[0]No reviews|[1]<span>1</span> review|(1,+Inf]<span>%count%</span> reviews]]></source>
+       <target><![CDATA[[0]Nema preporuka|[1]<span>1</span> preporuka|(1,+Inf]<span>%count%</span> preporuke]]></target>
+    </trans-unit>
+    <trans-unit id="57">
+        <source>We are mobile</source>
+        <target>Mi smo mobilni</target>
+    </trans-unit>
+    <trans-unit id="58">
+        <source>Select Country</source>
+        <target>Odaberi državu</target>
+    </trans-unit>
+    <trans-unit id="59">
+      <source>Getlokal recommended</source>
+      <target>Getlokal preporučuje</target>
+    </trans-unit>
+    <trans-unit id="60">
+      <source>Places with Offers</source>
+      <target>Mjesta sa Ponudama</target>
+    </trans-unit>
+    <trans-unit id="61">
+      <source>Voucher valid from</source>
+      <target>Bon važi od</target>
+    </trans-unit>
+    <trans-unit id="62">
+      <source> to </source>
+      <target> do </target>
+    </trans-unit>
+
+    <trans-unit id="63">
+      <source>0 available</source>
+      <target>0 dostupnih</target>
+    </trans-unit>
+    <trans-unit id="64">
+      <source>1 available</source>
+      <target>1 dostupan</target>
+    </trans-unit>
+    <trans-unit id="65">
+      <source> available</source>
+      <target> dostupni</target>
+    </trans-unit>
+
+    <trans-unit id="66">
+      <source>We were unable to issue your voucher. The offer is no longer active or you have already ordered the maximum number vouchers per user.</source>
+      <target>Nismo u mogućnosti izdati vaš bon. Ponuda nije više važeća ili ste već naručili maksimalan broj bonova po korisniku.</target>
+    </trans-unit>
+    <trans-unit id="67">
+      <source>OFFERS</source>
+      <target>PONUDE</target>
+    </trans-unit>
+    <trans-unit id="68">
+      <source>This place was added by</source>
+	  <target>Ovo mjesto je dodao korisnik</target>
+    </trans-unit>
+ </body>
+  </file>
+</xliff>

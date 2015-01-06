@@ -1,0 +1,208 @@
+<?xml version="1.0" ?>
+<xliff version="1.0">
+    <file orginal="global" source-language="en_EN" datatype="plaintext">
+        <body>
+            <trans-unit>
+                <source>Contacts</source>
+                <target>Elérhetoségek</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Address:</source>
+                <target>Cím:</target>
+            </trans-unit>
+            <trans-unit>
+                <source>1 Balsha Street</source>
+                <target>Balsa utca, 1</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Sofia 1408</source>
+                <target> 1408, Sofia</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Map:</source>
+                <target>Térkép:</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Telephone Numbers:</source>
+                <target>Telefonoszámok:</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Telephone:</source>
+                <target>Telefon:</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Company Listing Enquiries:</source>
+                <target>Cég lista bejegyzések:</target>
+            </trans-unit>
+            <trans-unit>
+                <source>General Enquiries:</source>
+                <target>Altalános bejegyzések:</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Fax:</source>
+                <target>Fax:</target>
+            </trans-unit>
+            <trans-unit>
+                <source>If you want to send us an email, please fill the form bellow:</source>
+                <target>Ha e-mailt szeretne küldeni, kérem töltse ki az alábbi lapot:</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Your e-mail:</source>
+                <target>Az Ön ?-mail-je:</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Your name:</source>
+                <target>A neve:</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Your phone:</source>
+                <target>Telefon száma:</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Your message:</source>
+                <target>Az üzenete:</target>
+            </trans-unit>
+            <trans-unit>
+                <source>en</source>
+                <target>hu</target>
+            </trans-unit>
+            <trans-unit>
+                <source>E-mail is required.</source>
+                <target>Kérem toltse be az e-mail-jét</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Your name is required.</source>
+                <target>Kérem töltse be a nevét.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>This field is required. Please type your message.</source>
+                <target>Ez a mezo kötelezo. Kérem toltse be az üzenetét.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>If you don't want to receive getlokal' %s please fill in the required information.</source>
+                <target>Ha nem akarsz kapni %s getlokal-t, töltsd ki a szükséges információkat.</target>
+            </trans-unit>
+            <!-- NEW -->
+            <trans-unit>
+                <source>Your message was sent successfully.</source>
+                <target>Az üzenete sikeresen elküldve.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Report content as</source>
+                <target>A beszámoló tartalma:</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Company Name:</source>
+                <target>A cég neve</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Company Address:</source>
+                <target>A cég címe:</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Company Phone:</source>
+                <target>A cég telefonszáma</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Business type:</source>
+                <target>Üzlet típusa:</target>
+            </trans-unit>
+            <trans-unit>
+                <source>e.g. Hairdressers or Italian restaurant etc.</source>
+                <target>például: fodrászat, vagy olasz étterem stb.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>In order to publish accurate data we would like to receive as much detail about the address as possible. The city/town name is mandatory.</source>
+                <target>Ahhoz, hogy korrekt adatokat tegyünk közzé, maximálisan pontos címinformációt kell kapnunk. A lakóhely neve kötelezo.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Company Website address:</source>
+                <target>A cég honlapja:</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Company Email address:</source>
+                <target>A cég e-mail-je.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Contact person in the company:</source>
+                <target>Kontaktszenély a cégnél.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>If you haven’t found the company or place you were looking for, please fill in the information below and send it to us so we can include it in getlokal.com. If you are the owner or representative of a business and haven’t been able to find it on our site, please</source>
+                <target>Ha nem találta a céget vagy a helyet, amelyet keres,  kérem töltse ki az alábbi információt és küldje el nekünk, hogy betöltsük a  getlokal.com-ra. Ha cégtulajdonos vagy képviselo és nem talál információt a cégérõl a honlapban, kérem</target>
+            </trans-unit>
+            <trans-unit>
+                <source>register a business account</source>
+                <target>regisztráljon üzletprofilt</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Choose... </source>
+                <target>Válasszon... </target>
+            </trans-unit>
+            <trans-unit>
+                <source>Select...</source>
+                <target>Szelektáljon...</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Illegal</source>
+                <target>Törvénytelen</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Offensive</source>
+                <target>Sértõ</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Copyright</source>
+                <target>Szerzoi jog</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Incorrect</source>
+                <target>Helytelen</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Other</source>
+                <target>Más</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Facebook Page:</source>
+                <target>Facebook oldal:</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Twitter Page:</source>
+                <target>Twitter oldal:</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Terms of Use</source>
+                <target>Használati feltételek</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Legal Info</source>
+                <target>Jogi információ </target>
+            </trans-unit>
+            <trans-unit>
+                <source>Legal</source>
+                <target>Szabályok</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Privacy Policy</source>
+                <target>Adat védelem</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Rules of games</source>
+                <target>Promóció szabályai</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Change city</source>
+                <target>Városváltozás</target>
+            </trans-unit>
+            <trans-unit>
+                <source>H-2040 Budaors, Baross utca 89, Hungary</source>
+                <target>H-2040 Budaörs, Baross utca 89, Magyarország</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Getlokal Hungary</source>
+                <target>Getlokal Magyarország</target>
+            </trans-unit>
+        </body>
+    </file>
+</xliff>

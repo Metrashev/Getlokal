@@ -1,0 +1,25 @@
+generator:
+  class: sfDoctrineGenerator
+  param:
+    model_class:           CompanyOffer
+    theme:                 admin
+    non_verbose_templates: true
+    with_show:             false
+    singular:              ~
+    plural:                ~
+    route_prefix:          company_offer
+    with_doctrine_route:   true
+    actions_base_class:    sfActions
+
+    config:
+      actions: ~
+      fields:  ~
+      list:
+        display:       [id, title, active_from, active_to, vouchers_count]
+        sort:          [company_id, desc]
+        table_method:  getQueryForAdmin
+        actions: {}
+        object_actions: {}
+        batch_actions: {}
+      filter:
+        display:       [active_from, active_to, count_voucher_codes]

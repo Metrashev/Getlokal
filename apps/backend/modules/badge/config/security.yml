@@ -1,0 +1,5 @@
+default:
+  is_secure: true
+  credentials: [[badge_bg, badge_ro, badge_sr, badge_mk, badge_fi, badge_me, badge_ru]]
+logout:
+    is_secure: false

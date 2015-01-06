@@ -1,0 +1,80 @@
+<?xml version="1.0" ?>
+<xliff version="1.0">
+    <file orginal="global" source-language="en_EN" datatype="plaintext">
+        <body>    
+            <trans-unit>
+                <source>Status updates</source>
+                <target>Status updates</target>
+            </trans-unit>
+            <trans-unit>
+                <source>shared</source>
+                <target>shared</target>
+            </trans-unit>
+            <trans-unit>
+                <source>[0]You can link your|[1]You can link your</source>
+                <target>[0]Puteti sa va legati|[1]Poti sa оti legi</target>
+            </trans-unit>
+            <trans-unit>
+                <source>accounts too.</source>
+                <target>si conturile.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>account too.</source>
+                <target>si contul.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>and</source>
+                <target>si</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Your status can`t be saved!</source>
+                <target>Statusul nu poate fi salvat!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Your status was published successfully!</source>
+                <target>Statusul a fost publicat cu succes!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Delete</source>
+                <target>Sterge</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Post</source>
+                <target>Posteaza</target>
+            </trans-unit>
+            <trans-unit>
+                <source><![CDATA[You can link your <strong>Facebook</strong>, <strong>Twitter</strong> and <strong>Google+</strong> accounts too.]]></source>
+                <target><![CDATA[Оti poti lega si conturile de <strong>Facebook</strong>, <strong>Twitter</strong> si <strong>Google+ ]]></target>
+            </trans-unit>
+            <trans-unit>
+                <source><![CDATA[Link now your <strong>Facebook</strong> page with getlokal.]]></source>
+                <target><![CDATA[Оti poti lega si conturile de <strong>Facebook</strong>.]]></target>
+            </trans-unit>
+            <trans-unit>
+                <source><![CDATA[Broadcast this on your <strong>Facebook</strong> page.]]></source>
+                <target><![CDATA[Publică și pe pagina ta de <strong>Facebook</strong>.]]></target>
+            </trans-unit>
+            <trans-unit>
+                <source>Your status update was deleted from getlokal. However it cannot be deleted from the other sites it was published on. In order to do so you will need to log into each of your other accounts where the status was published and delete it manually.</source>
+                <target>Status update-ul tău a fost șters de pe getlokal.ro. Nu poate fi șters însă de pe celelalte canale unde a fost publicat. Dacă vrei sa îl ștergi, trebuie să te loghezi pe acele rețele sociale și să îl ștergi manual.</target>
+            </trans-unit>
+
+            <trans-unit>
+                <source>This update will also be posted on your Facebook page</source>
+                <target>Acest update se va posta și pe pagina ta de Facebook</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Events</source>
+                <target>Evenimente</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Offers</source>
+                <target>Oferte</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Please, type event name here...</source>
+                <target>Te rugăm să scrii numele evenimentului aici...</target>
+            </trans-unit>
+        </body>
+    </file>
+</xliff>

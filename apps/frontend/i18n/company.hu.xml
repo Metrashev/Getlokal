@@ -1,0 +1,1242 @@
+<?xml version="1.0" ?>
+<xliff version="1.0">
+    <file orginal="global" source-language="en_EN" datatype="plaintext">
+        <body>
+            <trans-unit>
+                <source>Create Business Account</source>
+                <target>Hozz létre üzleti profilt</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Position</source>
+                <target>Beosztás</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Phone</source>
+                <target>Telefon</target>
+            </trans-unit>
+            <trans-unit>
+                <source>I declare that I am an authorized representative of the business.</source>
+                <target>Kijelentem hogy a cég felhatalmazott képviseloje vagyok.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>I declare that this is the valid Bulstat of the business.</source>
+                <target>Kijelentem hogy ez a cég érvényes adószáma.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Declare that this is the valid Bulstat of the business.</source>
+                <target>Jelentse ki, hogy ez a cég érvényes adószáma.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The Bulstat you entered doesn't match your company data. Please check again and tick the box next to "I declare that this is the valid Bulstat of the business."</source>
+                <target>A feltöltött adószám nem egyezik meg a cég adataival.Kérem ellenorizze mégegyszer az adatok helyességét és jelolje meg a "Kijelentem hogy ez a cég érvényes adószáma" mezot."</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Enter the Bulstat of your business.</source>
+                <target>Töltse fel a cég adószámát</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Declare that you are an authorized representative of the business.</source>
+                <target>Jelentse ki hogy Ön a cég felhatalmazott képviseloje!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Invalid Bulstat</source>
+                <target>Érvénytelen adószám</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Detailed Business Information</source>
+                <target>Részletes céginformáció</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Business Information</source>
+                <target>Céginformáció</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Profile of %s %s</source>
+                <target> %s %s profil</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Only users or people authorized by the business can add pictures.</source>
+                <target>Csak felhasznaló vagy a cég által felhatalmazott képviselõ tölthet fel képeket.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Name</source>
+                <target>Név</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Address</source>
+                <target>Cím</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Classification</source>
+                <target>Besorolás</target>
+            </trans-unit>
+            <trans-unit>
+                <source>All</source>
+                <target>Minden</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Approved</source>
+                <target>Jóváhagyott</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Approved</source>
+                <target>Jóváhagyott</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Awaiting Approval</source>
+                <target>Jóváhagyásra váró</target>
+            </trans-unit>
+
+            <trans-unit>
+                <source>Rejected</source>
+                <target>Elutasított</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Pending registration</source>
+                <target>Regisztráció alatt</target>
+            </trans-unit>
+            <trans-unit>
+                <source>My Business</source>
+                <target>Az én üzletem</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The Business' Bulstat is mandatory</source>
+                <target>A cég adószáma kötelezo</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Invalid Password</source>
+                <target>Érvénytelen jelszó</target>
+            </trans-unit>
+            <trans-unit>
+                <source>An authorized representative of the Business has already contacted Getlokal</source>
+                <target>A cég felhatalmazott képviseloje már kapcsolatba lépett a Getlokallal</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Continue registration process</source>
+                <target>Folytassa a regisztrációt</target>
+            </trans-unit>
+            
+            <trans-unit>
+                <source>Working hours and business description</source>
+                <target>A cég nyitva tartása és tevékenységének a leírása</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Company Name</source>
+                <target>Cégnév</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Company Type</source>
+                <target>Cég tipusa</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Company Name in Latin</source>
+                <target>A cég neve</target>CHECK
+            </trans-unit>
+            <trans-unit>
+                <source>Address</source>
+                <target>Cím</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Classification</source>
+                <target>Besorolás</target>
+            </trans-unit>
+            <trans-unit>
+                <source>City</source>
+                <target>Város</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Company Address</source>
+                <target>Cég címe</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Contact Information</source>
+                <target>Elérhtoség</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Working Hours</source>
+                <target>Munkaidõ</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Is this your business? Claim it!</source>
+                <target>Ez az Ön cége? Jelentse ki!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>From</source>
+                <target>-tól</target>
+            </trans-unit>
+            <trans-unit>
+                <source>To</source>
+                <target>-ig</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Please</source>
+                <target>Kérem</target>
+            </trans-unit>
+            <trans-unit>
+                <source>finish the registration</source>
+                <target>fejezze be a regisztrációt</target>
+            </trans-unit>
+            <trans-unit>
+                <source> if you want your business claim to be approved so you can gain access to more features of getlokal website.</source>
+                <target>, ha szeretné hogy jóváhagyni és hozzáférni a getlokal honlap több funkciójához.</target>
+            </trans-unit>
+            <trans-unit>
+                <source> with </source>
+                <target>, -val / -vel </target>
+            </trans-unit>
+            <trans-unit>
+                <source>Answer from </source>
+                <target>Válasz </target>
+            </trans-unit>
+            <trans-unit>
+                <source>representative of </source>
+                <target>képviseloje </target>
+            </trans-unit>
+            <trans-unit>
+                <source>Bulstat</source>
+                <target>Adószám</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Company Type</source>
+                <target>Cég tipusa</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Postcode</source>
+                <target>Írányító szám</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Street</source>
+                <target>Utca</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Number</source>
+                <target>Szám</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Neighbourhood</source>
+                <target>Kerület</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Bl.</source>
+                <target>Épület.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Ent.</source>
+                <target>Bejárat.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Fl.</source>
+                <target>Em.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Ap.</source>
+                <target>Lakás</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Monday</source>
+                <target>Hétfo</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Tuesday</source>
+                <target>Kedd</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Wednesday</source>
+                <target>Szerda</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Thursday</source>
+                <target>Csütörtök</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Friday</source>
+                <target>Péntek</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Saturday</source>
+                <target>Szombat</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Sunday</source>
+                <target>Vasárnap</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Bulgarian</source>
+                <target>Magyar</target>
+            </trans-unit>
+            <trans-unit>
+                <source>English</source>
+                <target>Angol</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Closed</source>
+                <target>Zárva</target>
+            </trans-unit>
+            <trans-unit>
+                <source>%s Working Hours</source>
+                <target> %s nyitvatartása</target>
+            </trans-unit>
+            <trans-unit>
+                <source>See my full review in my blog »</source>
+                <target> Nézzd meg a teljes blogmegjegyzésem »</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Add Company</source>
+                <target>Cég hozzáadása</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Click %s to add new company.</source>
+                <target>Kattintson %s, új cég hozzáadásához.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Find your company in getlokal</source>
+                <target>Talája meg a cégét a Getlokalban</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Get Business Card</source>
+                <target>szerezzen néjegykártyát</target>
+            </trans-unit>
+            <trans-unit>
+                <source>This company was claimed already. Please contact us at info@getlokal.com for more information.</source>
+                <target>Ennek a cégnek már van üzleti profilja. Az info@getlokal.com címen kapcsolatban léphet velünk további információkért</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Non Stop</source>
+                <target>Éjjel-nappal</target>
+            </trans-unit>
+            <trans-unit>
+                <source>%s, address %s, phone %s, %s, %s</source>
+                <target>%s, cím%s, tel. %s, %s, %s</target>
+            </trans-unit>
+            <trans-unit>
+                <source>If you have been to %s in %s, leave your rating and review or photo to help other users searching in %s.</source>
+                <target>Ha már ellátogatott   %s -ban %s, értékelje meg, írjon megjegyzést vagy töltson fel képet, hogy segítsen más %s -ban kereso fogyasztóknak a böngészésben.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>You can find %s at %s, telephone %s.</source>
+                <target>A %s megtalálhatja  %s-ban és %s telefonszámon.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>If you are a representative of %s, %s and manage this information. It's free and easy and %s.</source>
+                <target>Ha Ön a %s képviseloje, %s és kezeli ezt az információt. Hogyan? Ingyen és könnyen és %s.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>claim it</source>
+                <target>Jelentse be</target>
+            </trans-unit>
+            <trans-unit>
+                <source>just a few steps away</source>
+                <target>már csak néhány lépés</target>
+            </trans-unit>
+            <trans-unit>
+                <source>%s, address: %s, phone: %s, in %s.If you are the owner of %s claim your business and fill in the relevant information about it.</source>
+                <target>%s, cím: %s, tel. %s,  %s -ban. Ha Ön a  %s tulajdonosa, regisztráljon bizniszprofilt és töltsön fel információt a cégérol.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>phone: </source>
+                <target>tel.: </target>
+            </trans-unit>
+            <trans-unit>
+                <source>address: </source>
+                <target>cím: </target>
+            </trans-unit>
+            <trans-unit>
+                <source>You can use this widget to include information about the place in your blog or site. It contains company name, photo, number of reviews, address, telephone and rating of the place and it will appear when the user goes over the company name with the mouse.</source>
+                <target>Ezzel a widgettel tölthetsz fel információt a helyrol (étterem, cég stb.) a személyi blogodon vagy honlapodon. Cégnevet, képet, megjegyzések számát, címet, telefont és fogyasztók értékelését tartalmazza az adott helyrol és megjelenik ha a felhasználó az egérrel a cég nevére megy.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Go to the HTML editor in your blog post</source>
+                <target>A blogod posztjában lépj be HTML szerkesztobe </target>
+            </trans-unit>
+            <trans-unit>
+                <source>Copy the code below and insert it in your post. The code contains the company name with capital letters. You can change it if you want.</source>
+                <target>Másold le az lenti kódot és tedd be a posztodba. A kód tartalmazza a cég nevét nagy betukkel. Megváltozhatod ha akarod.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>More info</source>
+                <target>Több info</target>
+            </trans-unit>
+            <trans-unit>
+                <source>More info for company %s</source>
+                <target>Még több %s infó</target>
+            </trans-unit>
+            <trans-unit>
+                <source>up to 250 characters</source>
+                <target>250 karakterig</target>
+            </trans-unit>
+            <trans-unit>
+                <source>up to 5000 characters</source>
+                <target>5000 karakterig</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Add More Classifications</source>
+                <target>Adj hozzá kiegészíto információt</target>
+            </trans-unit>
+            <trans-unit>
+                <source>You are editing %s</source>
+                <target> %s-ban szerkeszt</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Add</source>
+                <target>Add hozzá</target>
+            </trans-unit>
+            <trans-unit>
+                <source>General Information</source>
+                <target>Alap információ</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Select Classification</source>
+                <target>Válassz besorolást</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Selected Classifications</source>
+                <target>Kiválasztott besorolások</target>
+            </trans-unit>
+            <trans-unit>
+                <source>delete</source>
+                <target>törölj</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Classifications</source>
+                <target>Besorolások</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Photos</source>
+                <target>Képek</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Select a photo from your computer</source>
+                <target>Válassz képet a számítógépedbol</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Upload</source>
+                <target>Töltsd fel</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Add Photo</source>
+                <target>Adj hozzá képet</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Add a Photo</source>
+                <target>Adj hozzá képet</target>
+            </trans-unit>
+
+            <trans-unit>
+                <source>use as logo</source>
+                <target>hsználd logóként</target>
+            </trans-unit>
+            <trans-unit>
+                <source>%s's information was saved successfully. If you want to change it, click %s.</source>
+                <target>%s cég információja sikeresen el lett mentve. Ha meg akarja változtatni kattintson %s.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>here</source>
+                <target>itt</target>
+            </trans-unit>
+
+            <trans-unit>
+                <source>VIP Position</source>
+                <target>VIP pozició</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Video</source>
+                <target>Video</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The classification information for %s was saved successfully.</source>
+                <target>Az információ a %s besorolásokról sikeresen el lett mentve.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>set as logo</source>
+                <target>tedd logóként</target>
+            </trans-unit>
+            <trans-unit>
+                <source>set as logo</source>
+                <target><![CDATA[tedd <br> logóként]]></target>
+            </trans-unit>
+            <trans-unit>
+                <source> Save </source>
+                <target> Mentés </target>
+            </trans-unit>
+            <trans-unit>
+                <source>Your company will appear in the VIP Positions module for 3 months (90 days) between the live and end dates of your advert. You can change the automatically set dates by using the controls below. You can choose a different start date for each one-month period. The start date for the third period must not be later than 30 days before the end date of your advert.</source>
+                <target>Az Ön cége a VIP pozicióban fog megjelenni 3 hónapig (90 nap) a reklámja érvényességi ideje alatt. Használva a lejebb levo mezoket megváltoztathatja az automatikusan adott dátumokat. Minden egyes egyhavi periódusra más és más kezdo dátumot választhat. A harmadik periodus kezdo dátuma nem lehet késobb mint 30 nappal a reklám végso dátuma elott.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Start Date - Promo Month 1</source>
+                <target>Kezdo dátum - Elso szakasz </target>
+            </trans-unit>
+            <trans-unit>
+                <source>Start Date - Promo Month 2</source>
+                <target>Kezdo dátum - Második szakasz</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Start Date - Promo Month 3</source>
+                <target>Kezdo dátum - Harmadik szaksz</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Your company will appear in the VIP Positions module for 1 month (30 days) between the live and end dates of your advert. You can change the automatically set date by using the controls below.</source>
+                <target>Az Ön cége a VIP pozicióban fog megjelenni 1 hónapig (30 nap) a reklámja érvényességi ideje alatt.Használva a lejebb levo mezot megváltoztathatja az automatikusan adott dátumot.</target>
+            </trans-unit>
+            <trans-unit>
+                <source><![CDATA[All fields marked with <span>*</span> are mandatory]]></source>
+                <target><![CDATA[Minden  <span>*</span>-gal jelolt mezo kitöltése kötelezo]]></target>
+            </trans-unit>
+            <trans-unit>
+                <source>Browse photos from your computer and enter caption. The caption must contain between 3 and 155 characters.</source>
+                <target>Válasszon képet a számító gépébol és vezessen be eírást hozzá. A leírásnak 3 és 155 jelt között kell tartalmaznia.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Your company is already appearing in the VIP Positions module according to the dates you selected.</source>
+                <target>Az Ön cége a VIP pozicióban jelenik meg a bejelentett dátumok szerint.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Stats for </source>
+                <target>Statisztika </target>
+            </trans-unit>
+            <trans-unit>
+                <source>Stats</source>
+                <target>Statisztika</target>
+            </trans-unit>
+      
+      
+      
+      
+      
+            <trans-unit>
+                <source>Views in search</source>
+                <target>Megjegyzések a keresés eredményekben</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Company Page Visits</source>
+                <target>Cégoldal látogatások</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Detailed Description Views</source>
+                <target>Részletes leírás megtekintések</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Visits to Review Page</source>
+                <target>Megjegyzésok oldal látogatásokról</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Detailed Map Views</source>
+                <target>Részletes térkép megtekintések</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Visits to Gallery page</source>
+                <target>Galléria oldal látogatások</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Working Hours Views</source>
+                <target>Munkaido megtekintések</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Clicks to Facebook page</source>
+                <target>Kattintások a Facebook oldalra</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Number of times videos played</source>
+                <target>Cégvideók lejátszásának száma</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Sent Emails</source>
+                <target>Elküldött e-mailek</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Clicks to website</source>
+                <target>Kattintások a honlaphoz</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Send Email</source>
+                <target>Küldj e-mailt</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Clicks to Foursquare page</source>
+                <target>Kattintások a Foursquare oldalhoz</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Clicks to Twitter page</source>
+                <target>Kattintások a Twitter oldalhoz</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Clicks to Google+ page</source>
+                <target>Kattintások a Google+ oldalhoz</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Clicks to Yellow Pages page</source>
+                <target>Kattintások a Yellow Pages oldalhoz</target>
+            </trans-unit>
+            <trans-unit>
+                <source>send email to %s</source>
+                <target>küldj e-mailt %s -nak</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The email message was sent successfully to %s.</source>
+                <target>Az e-mail sikeresen elküldve %s számára.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Registered Company Name</source>
+                <target>Regisztrált cégnév</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Upload Video</source>
+                <target>Töltsön fel egy videót</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Please enter content in the field.</source>
+                <target>Kérem töltse ki a mezõt mezobe.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Video Title</source>
+                <target>Videó címe</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Video Description</source>
+                <target>Videó leírása</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Your video is being uploaded. Please do not close this page and wait until the process of uploading has completed and you have seen a confirmation message. If you close the page the process will be interrupted and your video will not be successfully uploaded!</source>
+                <target>A video feltöltés alatt áll. Kérem ezt az oldalt ne zárja be és várja meg amig a feltöltés sikeresen véget ér. Ellenkezo esetben a folyamat megszakad és a videoja nem kerül feltöltésre!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The video was successfully uploaded and will be published after it has been approved by a moderator.</source>
+                <target>A videója feltöltése sikerült és moderátor jóváhagyása után megjelenik a honlapon .</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The title of the video must contain between 8 and 99 characters</source>
+                <target>A video címének hossza 8 és 99 karakter között lehet</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The description of the video must contain between 20 and 240 characters</source>
+                <target>A video leírása 20 és 240 jarakter között lehet</target>
+            </trans-unit>
+            <trans-unit>
+                <source>File Title</source>
+                <target>File cim</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Description</source>
+                <target>Leírás</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Please select a video for uploading!</source>
+                <target>Kérem válasszon videót feltöltésre!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Select file</source>
+                <target>Válasszon file-t</target>
+            </trans-unit>
+            <trans-unit>
+                <source>You tried to upload a file that is not in the allowed format for video files. Please upload a video file.</source>
+                <target>Nem megfelelo formátumú fájlt probált feltölteni. Kérem video formátumot töltsön fel!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Inappropriate review submitted for </source>
+                <target>A megjegyzés tartalma nem megfelelo </target>
+            </trans-unit>
+            <trans-unit>
+                <source>The dates were saved successfully.</source>
+                <target>A dátumok sikeresen elmentve.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The caption of your photo of %s was not saved. The caption must contain between 3 and 155 characters.</source>
+                <target>A %s kép leírása nem volt lementve. A kép leírása 3 és 155 karakter között lehet.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>edit caption</source>
+                <target>szerkesztés</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Profile photo</source>
+                <target>Profil kép</target>
+            </trans-unit>
+            <trans-unit>
+                <source>awaiting approval</source>
+                <target>Jóváhagyásra vár</target>
+            </trans-unit>
+            <trans-unit>
+                <source>from</source>
+                <target>-tól</target>
+            </trans-unit>
+            <trans-unit>
+                <source>If you want to add a classification you need to select from the list. Start typing the classification name or a keyword and we'll suggest a list of classifications for you to choose from.</source>
+                <target>Besorolás hozzáadásáhhoz válasszon az általunk javasolt listából. Kezdje írni a besorolás nevét vagy a kulcsszót és mi megmutatunk besorolás listát amelybol választhat.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Your changes were not saved. Please fill in the information correctly.</source>
+                <target>A változások nem lettek elmentve. Kérem töltse fel helyesen az információt.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Select Your City</source>
+                <target>Válasszon a várost</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Security check. Enter the characters from the picture below!</source>
+                <target>Spam védelem. Gépelje be a karaktereket az alábbi képbõl!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Choose a video file from your computer and enter information in the mandatory fields below.</source>
+                <target>Válasszon egy videót a számítógépérõl és töltse ki a szükséges mezõket!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Please enter information in the mandatory fields below.</source>
+                <target>Töltse ki az alábbi kötelezõ mezõket!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Location is mandatory. Start typing the name of your location and select from the list.</source>
+                <target>A mezo kitöltése kötelezõ! Kezdje írni a lakóhely nevét és válasszon a listából.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>You need to agree to getlokal's Terms of Use</source>
+                <target>Kérem fogadja el a Getlokal Használati feltételeit</target>
+            </trans-unit>
+            <!-- NEW -->
+            <trans-unit>
+                <source>Videos</source>
+                <target>Videók</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Edit</source>
+                <target>szerkesztés</target>
+            </trans-unit>
+            <trans-unit>
+                <source>[1]My company |(1,+Inf] My companies</source>
+                <target>[1]Az én cégem |(1,+Inf] Az én cégeim</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Message</source>
+                <target>Üzenet</target>
+            </trans-unit>
+            <trans-unit>
+                <source>from</source>
+                <target>-tól</target>
+            </trans-unit>
+            <trans-unit>
+                <source>to</source>
+                <target>-nak</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Companies</source>
+                <target>Cégek</target>
+            </trans-unit>
+            <trans-unit>
+                <source>classification: </source>
+                <target>besorolás: </target>
+            </trans-unit>
+            <trans-unit>
+                <source>Website of %s</source>
+                <target> %s-honlapja</target>
+            </trans-unit>
+            <trans-unit>
+                <source>bl. </source>
+                <target>háztömb. </target>
+            </trans-unit>
+            <trans-unit>
+                <source>ent. </source>
+                <target>bejárat. </target>
+            </trans-unit>
+            <trans-unit>
+                <source>fl. </source>
+                <target>em. </target>
+            </trans-unit>
+            <trans-unit>
+                <source>ap. </source>
+                <target>lakás. </target>
+            </trans-unit>
+            <trans-unit>
+                <source>Find My Company</source>
+                <target>Találja meg a cégét</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Claim Your Company</source>
+                <target>Írányítsa a cégét</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Company Information</source>
+                <target>Céginformáció</target>
+            </trans-unit>
+            <trans-unit>
+                <source>edit</source>
+                <target>szerkessz</target>
+            </trans-unit>
+            <!-- NEW -->
+            <trans-unit>
+                <source>Place Administration</source>
+                <target>Helyszín adminisztráció</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Company</source>
+                <target>Cég</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Is this your business?</source>
+                <target>Ez az On cége?</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Claim it!</source>
+                <target>Jelentse ki!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Take control of your online reputation and talk to your customers.</source>
+                <target>Szabályozza on-line a népszerûségét és beszéljen az ügífeleivel.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Rating</source>
+                <target>Értékelés</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Communication</source>
+                <target>Komunikáció</target>
+            </trans-unit>
+            <trans-unit>
+                <source>I would like to receive:</source>
+                <target>Szeretnék:</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Place Information</source>
+                <target>Alapinformáció</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Menu</source>
+                <target>Menü</target>
+            </trans-unit>
+            <trans-unit>
+                <source>See Place Page</source>
+                <target>A hely oldalához</target>
+            </trans-unit>
+      
+            <trans-unit>
+                <source>Add a place</source>
+                <target>Adj hozzá helyt</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Add a new place and make getlokal better for you and other people in your area.</source>
+                <target>Adj hozzá új helyet, így javítva a Getlokalt a környékeden lévõk számára!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Start typing the place name</source>
+                <target>Kezdd beírni a hely nevét</target>
+            </trans-unit>
+            <trans-unit>
+                <source>You need to complete this field</source>
+                <target>Ez a mezo kötelezo</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Congrats on adding the place! Do you know any more details about it?</source>
+                <target>Köszönöm hogy hozzátetted ezt a helyet! Tudnál-e segíteni további részletekkel?</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Do you know any more details about it?</source>
+                <target>Tudnál-e segíteni több részlettel?</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Place Name in English</source>
+                <target>Hely neve angolul</target>
+            </trans-unit>  
+            <trans-unit>
+                <source>Place Email Address</source>
+                <target>A hely e-mail-je</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Additional Address Details</source>
+                <target>Kiegészíto cím adatok</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Building, floor, apt, zip</source>
+                <target>Háztömb, emelet, lakás, Pf</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Any notes for getlokal editors that might speed up the approval process?</source>
+                <target>Ha tudsz valami többet errol a helyrol, ami a getlokal szerkesztoinek  segítené gyorsabban jóváhagyni a helyet - írd le ide!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Are you (representing) the place owner?</source>
+                <target>A hely tulajdonosa (képviseloje) vagy?</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Let's link the place with its other online profiles!</source>
+                <target>Kössük össze ezt a helyet a többi on-line profiljáival!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Enter the exact place website URL!</source>
+                <target>Vezess be a hely pontos web-címét!</target>
+            </trans-unit>
+    
+            <trans-unit>
+                <source>in Google</source>
+                <target>Googleban</target>
+            </trans-unit>
+      
+            <trans-unit>
+                <source>More Info</source>
+                <target>Több info</target>
+            </trans-unit>
+      
+            <trans-unit>
+                <source>If you type in the address – street name and number - the position of the market showing where the place is will change. If the positioning doesn’t seem correct you can move the marker. This will not change the address you’ve already written.</source>
+                <target>Ha beírod a címet - utca név, szám - a helyszín jelzõ poziciója megváltozik. Ha a jelzõ nem a helyes pozicióban van, mozdíthatod. Ez nem fogja megváltoztatni a címet amit már beírtál.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Start typing the place type e.g. ‘restaurant’ or ‘hairdressers’ and select the most appropriate category for the place you’re adding</source>
+                <target>Kezd beírni a cég típusát (például "étterem" vagy "fodrász") és a megjeleno listából válaszd a legmegfelelõbb kategoriát.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The correct format to use is 023456789 or for mobile phones 0888888888. Add only the local area code for landlines. Only add digits – any other characters or spaces between characters are not allowed.</source>
+                <target>A telefonszám helyes formátuma például 0123456789 vagy mobilszám 20123456. Vezetékes telefonszámhoz hozzá kell írni a lakóhely hívószámát. Csak számjegyeket szabad beírni, kötõjel és szóköz nem engedélyezett.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Cover Photo</source>
+                <target>Fõkép</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The Cover Photo is 975x300 px. For best results upload images with this size!</source>
+                <target>A fõkép mérete 975x300 px. Legjobb minõséghez ilyen méretu képet tölts fel!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>?dd Cover Photo</source>
+                <target>Adj hozzá fõképet</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Cover Photos</source>
+                <target>Fõképek</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Back to 'Photos'</source>
+                <target>Vissza a "Képekhez"</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Crop</source>
+                <target>Kivágás</target>
+            </trans-unit>
+            <trans-unit>
+                <source><![CDATA[The cover image is 975x300 pixels so if your photo is big enough our advise is to crop a part of it that’s exactly the same size. Just click on the image, stretch the crop area until it reaches the maximum size (975x300) and if necessary drag on the part of the image you wish to crop. Then click on the ‘Crop’ button. Your cover image will change immediately. <p>If your image is smaller than 975x300 pixels you can crop part of it which will be displayed on the page surrounded by black background. Again the maximum width of the crop area cannot be bigger than 975 and the maximum height more than 300 pixels. The crop area cannot be dragged outside the boundaries of your image.]]></source>
+                <target><![CDATA[ A fokép 975x300 pixel, úgyhogy ha a képed elég nagy, javasoljuk a kép kivágását, hogy a kép mérete pontosan stimmeljen. Csak kattints a képre, tágítsd a kivágási tért amíg eléri a maximális méretet (975x300) és ha szükséges, helyezd át a kivágási sablont a kivágandó részére, majd kattints a "Crop" gombra! 
+		<p> A fooldal kép azonnal megváltozik. Ha a kép kisebb 975x300 pixelnél, kivághatod annak csak egy részét – az fekete háttéren jelenik meg. Ebben az esetben a kivágási zóna szélessége úgyanígy 975 pixel lesz, a maximális magassága meg 300 pixel. A kivágási zóna nem tud túlmenni a kép határáin kivül.]]></target>
+            </trans-unit>
+            <trans-unit>
+                <source><![CDATA[The cover photo template is <strong>975x300 px</strong>. For best results, we recommend that you upload pictures of that size.]]></source>
+                <target><![CDATA[A fokép formátuma <strong>975x300 pixel méretu</strong>. Legjobb látvány eléréséhez ilyen méretû képeket javasolunk feltölteni.]]></target>
+            </trans-unit>
+            <trans-unit>
+                <source>Upload your photo here, crop it if necessary and then save it.</source>
+                <target>Töltse fel a képét ide, ka kell vágja ki és mentse le.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Before saving this image as a cover photo, we recommend that you crop it to the size of the cover photo template (975x300 px) in order to obtain best results.</source>
+                <target>A kép fõképként lementése elött, javasolunk meggyözödni, hogy a kép mérete 975x300 pixel.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>How to do that:</source>
+                <target>Ahhoz, hogy kivágja a képet, kérm kövesse a következo lépépseket:</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Click on the image</source>
+                <target>Kattintson a képre.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>You can drag the selection to a different part of the photo.</source>
+                <target>Mozdíthatja a szelekciót a kép különféle részeire az egér bal gombjával.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>If the selected area is smaller than 975x300 px, your image will be centered on the cover photo template surrounded by a black background.</source>
+                <target>Ha a kivágásra megválasztott rész kisebb 975x300 pixelnél, a képed középen lesz fekete háttérrel.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>set as profile photo</source>
+                <target>tedd be profilképnek</target>
+            </trans-unit>
+            <trans-unit>
+                <source>set as profile photo</source>
+                <target><![CDATA[tedd be <br> profilképnek]]></target>
+            </trans-unit> 
+            <trans-unit>
+                <source>Select dates for your offer</source>
+                <target>Válassz dátumokat az ajánlatodra</target>
+            </trans-unit>
+            <trans-unit>
+                <source>This page has been claimed by the Place Owner.</source>
+                <target>Ezt az oldalt a helytulajdonos jóváhagyta</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Add new classification</source>
+                <target>Add hozzá új információt</target>
+            </trans-unit>
+            <trans-unit>
+                <source>This place was successfully added to the list!</source>
+                <target>A hely sikeresen lett hozzádva a listához!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Thank you for reporting!</source>
+                <target>Köszönjük, hogy jelentette!</target>
+            </trans-unit>
+            <trans-unit>
+                <source><![CDATA[<span class="regular">If you do not know the address, just</span><span class="highlight"> drag the marker</span><span class="regular"> to where you know the place is and</span><span class="highlight"> we will get the address</span><span class="regular"> details.</span>]]></source>
+                <target><![CDATA[<span class="regular">Ha</span><span class="highlight"> a jelzo nincs helyesen elhelyezve</span><span class="regular"> a térképen, mozdíthatod. Mi</span><span class="highlight"> nem fogjuk megváltoztatni a címet</span><span class="regular"> a formában.</span>]]></target>
+            </trans-unit>
+            <trans-unit>
+                <source><![CDATA[<span class="regular">If you do not know the address, just</span><span class="highlight"> drag the marker</span><span class="regular"> to where you know the place is and</span><span class="highlight"> we will get the address</span><span class="regular"> details.</span>]]></source>
+                <target><![CDATA[<span class="regular">Ha nem tudod a címet</span><span class="highlight"> mozdítsd a jelzot a térképen,</span><span class="regular"> oda ahol van a hely és</span><span class="highlight"> mi majd beírjuk a címet.</span>]]></target>
+            </trans-unit>
+            <trans-unit>
+                <source><![CDATA[<span class="regular">You positioned the marker</span><span class="highlight"> to where the place is. If the details we filled in based on the location are not correct</span><span class="regular"> you can change the address in the form.</span>]]></source>
+                <target><![CDATA[<span class="regular">A jelzot oda helyezted</span><span class="highlight"> ahol van a hely. Ha az adatok a helyrol, amelyeket beírtunk  nem stimmelnek</span><span class="regular"> megváltozhatod a címet a formában.</span>]]></target>
+            </trans-unit>
+            <trans-unit>
+                <source><![CDATA[<span class="regular">Start typing the </span><span class="highlight">place address</span> <span class="regular"> and a marker will be placed on the map.</span>]]></source>
+                <target><![CDATA[<span class="regular">Írd be </span><span class="highlight">a hely címét</span> <span class="regular"> és a jelzo megjelenik a térképen.</span>]]></target>
+            </trans-unit>
+            <trans-unit>
+                <source><![CDATA[<span class="regular">Start typing the </span><span class="highlight">place address</span> <span class="regular"> and a marker will be placed on the map.</span>]]></source>
+                <target><![CDATA[<span class="regular">Írd be </span><span class="highlight">a hely címét</span> <span class="regular"> és a jelzo megjelenik a térképen.</span>]]></target>
+            </trans-unit>
+            <trans-unit>
+                <source>More address info</source>
+                <target>Több címinformóció</target>
+            </trans-unit>
+            <trans-unit>
+                <source>You can add up to 5 classifications!</source>
+                <target>Hozzá adhatsz nem több mint 5 besorolást!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>You can add up to 3 telephone numbers!</source>
+                <target>Hozzá adhatsz nem több mint 3 telefonszámot!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>There is missing info and/or errors. Please check again!</source>
+                <target>Hiányzó és/vagy hibás információ. Kérem ellenõrize még egyszer!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>cancel</source>
+                <target>törölni</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Are you sure you want to delete this image?</source>
+                <target>Biztos, hogy törölni akarod ezt a képet?</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Delete this image?</source>
+                <target>Törlöd ezt a képet?</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Delete this image?</source>
+                <target>Törlöd ezt a képet?</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Number of outdoor seats:</source>
+                <target>Kinti helyek száma:</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Number of indoor seats:</source>
+                <target>Benti helyek száma:</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Choose features</source>
+                <target>Válassz jelemzõket</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Clear</source>
+                <target>Törölj</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Free</source>
+                <target>Ingyen</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Paid</source>
+                <target>Fizetett</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Official page</source>
+                <target>Hivatalos oldal</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Added Places</source>
+                <target>Hozzáadott helyek</target>
+            </trans-unit>
+            <trans-unit>
+                <source>John Doe</source>
+                <target>Kovács János</target>
+            </trans-unit>
+            <trans-unit>
+                <source>This place was added by</source>
+                <target>A helyszín hozzáadva</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Suggest an Edit</source>
+                <target>Javasoljon egy szerkesztést</target>
+            </trans-unit>
+            <trans-unit>
+                <source>e.g. Paris or London</source>
+                <target>péld. Párizs vagy London</target>
+            </trans-unit>
+            <trans-unit>
+                <source>e.g. Any Road</source>
+                <target>péld. Balsha utca </target>
+            </trans-unit>
+            <trans-unit>
+                <source>Name in your local language</source>
+                <target>Név, a felhasználó anyanyelvén</target>
+            </trans-unit>
+            <trans-unit>
+                <source>If you like Getlokal and want it in your country - let us know! Want to be part of a growing team of people passionate about all things local?</source>
+                <target>Dacă îți place Getlokal și vrei să se extindă și în țara ta, dă-ne de veste! Vei face parte dintr-o echipă de oameni pasionați de tot ce înseamnă locuri și evenimente!</target>
+            </trans-unit>
+
+
+
+            <!-- NEW DESIGN -->
+
+            <trans-unit>
+                <source>Claim it</source>
+                <target>Átvétel</target>
+            </trans-unit>
+
+            <trans-unit>
+                <source>SHARE</source>
+                <target>Ossza</target>
+            </trans-unit>
+
+
+
+
+            <trans-unit>
+                <source>Information</source>
+                <target>Információ</target>
+            </trans-unit>
+
+            <trans-unit>
+                <source>Write a Review</source>
+                <target>Írjál megjegyzést</target>
+            </trans-unit>
+
+            <trans-unit>
+                <source>Powerful tools to get your Business on the Getlokal map!</source>
+                <target>Hatékony eszközökkel helyezheti el vállalkozását a Getlokal térképen!</target>
+            </trans-unit>
+            
+            <!-- <trans-unit>
+                <source>Learn more</source>
+                <target>Научи повече</target>
+            </trans-unit> -->
+
+            <trans-unit>
+                <source>Activity in Getlokal</source>
+                <target>Tevékenység a Getlokal-ban</target>
+            </trans-unit>
+
+            <trans-unit>
+                <source>SIMILAR PLACES</source>
+                <target>HASONLÓ HELYEKEN</target>
+            </trans-unit>
+
+            <trans-unit>
+                <source>SHOW MORE</source>
+                <target>Több megjelenítése</target>
+            </trans-unit>
+
+             <trans-unit>
+                <source>SHOW LESS</source>
+                <target>Kevesebb megjelenítése</target>
+            </trans-unit>
+
+            <trans-unit>
+                <source>Rate</source>
+                <target>értékelése</target>
+            </trans-unit>
+            
+            <trans-unit>
+                <source>REVIEWS FOR SIMILAR PLACES</source>
+                <target>VÉLEMÉNYEK HASONLÓ HELYEKRŐL</target>
+            </trans-unit>
+
+            <trans-unit>
+                <source>Take control of your online reputation and talk to your customers</source>
+                <target>Vegye át az irányítást az online hírneve felett  és beszéljen az ügyfeleivel</target>
+            </trans-unit>
+
+
+            <trans-unit>
+                <source>Region and Language</source>
+                <target>Régió és nyelv</target>
+            </trans-unit>
+
+
+            <trans-unit>
+                <source>Add Classification</source>
+                <target>Osztályozza</target>
+            </trans-unit>
+
+
+            <trans-unit>
+                <source>SOCIAL</source>
+                <target>Közösségi</target>
+            </trans-unit>
+
+            <trans-unit>
+                <source>Learn more</source>
+                <target>Tudjon meg többet</target>
+            </trans-unit>
+
+            
+            <trans-unit>
+                <source>Add to List</source>
+                <target>Adj hozzá listához</target>
+            </trans-unit>
+
+
+
+            <trans-unit>
+                <source>Click to add a new place</source>
+                <target>Kattintson és adjon hozzá egy új helyet</target>
+            </trans-unit>
+
+            <trans-unit>
+                <source>Click to search in area</source>
+                <target>Kattintson a keresett területre</target>
+            </trans-unit>
+
+            <trans-unit>
+                <source>Location details</source>
+                <target>Helyszín adatok</target>
+            </trans-unit>
+
+            <trans-unit>
+                <source><![CDATA[[0]<span>0</span> lists|[1]<span>1</span> list|(1,+Inf]<span>%count%</span> lists]]></source>
+                <target><![CDATA[[0]<span>0</span> Listák|[1]<span>1</span> Listát|(1,+Inf]<span>%count%</span> Listák]]></target>
+            </trans-unit>
+
+
+
+            <trans-unit>
+                <source><![CDATA[[0]<span>0</span> reviews|[1]<span>1</span> review|(1,+Inf]<span>%count%</span> reviews]]></source>
+                <target><![CDATA[[0]<span>0</span> Megjegyzések|[1]<span>1</span> Megjegyzések|(1,+Inf]<span>%count%</span> Megjegyzések]]></target>
+            </trans-unit>
+
+
+            <trans-unit>
+                <source><![CDATA[[0]<span>0</span> articles|[1]<span>1</span> article|(1,+Inf]<span>%count%</span> articles]]></source>
+                <target><![CDATA[[0]<span>0</span> Cíkkek|[1]<span>1</span> Cíkket|(1,+Inf]<span>%count%</span> Cíkkek]]></target>
+            </trans-unit>
+
+            <trans-unit>
+                <source><![CDATA[[0]<span>0</span> events|[1]<span>1</span> event|(1,+Inf]<span>%count%</span> events]]></source>
+                <target><![CDATA[[0]<span>0</span> Események|[1]<span>1</span> Esemény|(1,+Inf]<span>%count%</span> Események]]></target>
+            </trans-unit>
+
+
+            <trans-unit>
+                <source>Is this place easy to find? Add directions if necessary.</source>
+                <target>Könnyu megtalálni ezt a helyet? Ha kell adj hozzá kiegészíto információt!</target>
+            </trans-unit>
+
+
+            <trans-unit>
+                <source>I would like to receive Getlokal's Business Newsletter and Notifications.</source>
+                <target>Szeretném getlokal Biznisz hírlevelét és értésítéseit kapni.</target>
+            </trans-unit>
+
+
+        </body>
+    </file>
+</xliff>

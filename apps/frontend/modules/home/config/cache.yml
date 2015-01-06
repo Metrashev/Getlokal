@@ -1,0 +1,39 @@
+_related_classifications:
+  enabled:  true
+  lifetime: 3600
+  contextual: true
+_top_places:
+  enabled:  true
+  lifetime: 3600
+  contextual: true
+directory:
+  enabled:  true
+  lifetime: 172800
+
+locations:
+  enabled:  true
+  lifetime: 7200
+
+sublevel:
+  enabled:  true
+  lifetime: 7200
+
+_feed:
+  enabled:  true
+  lifetime: 7200
+  contextual: true
+  
+# _notifications:
+#   enabled:  true
+#   lifetime: 7200
+#   contextual: true
+
+# _messageNotifications:
+#   enabled:  true
+#   lifetime: 7200
+#   contextual: true
+
+_related_classificationsWide:
+  enabled:  true
+  lifetime: 7200
+  contextual: true

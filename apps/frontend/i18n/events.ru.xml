@@ -1,0 +1,356 @@
+<?xml version="1.0" ?>
+<xliff version="1.0">
+    <file orginal="global" source-language="en_EN" datatype="plaintext">
+        <body>
+            <trans-unit>
+                <source>New Event</source>
+                <target>Новое событие</target>
+            </trans-unit>
+            <trans-unit>
+                <source>in</source>
+                <target>в</target>
+            </trans-unit>
+            <trans-unit>
+                <source>in2</source>
+                <target>във</target>
+            </trans-unit>
+            <trans-unit>
+                <source>by</source>
+                <target> </target>
+            </trans-unit>
+            <trans-unit>
+                <source>Edit Event</source>
+                <target>Редактировать событие</target>
+            </trans-unit>
+            <trans-unit>
+                <source>When</source>
+                <target>Когда</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Where</source>
+                <target>Где</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Edit Event</source>
+                <target>Редактировать событие</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Won\'t Attend</source>
+                <target>Не будет присутствовать</target>
+            </trans-unit>
+            <trans-unit>
+                <source>No confirmed guests yet</source>
+                <target>Гости пока не подтвердили присутствие </target>
+            </trans-unit>
+            <trans-unit>
+                <source>Invite</source>
+                <target>Покани</target>
+            </trans-unit>
+            <trans-unit>
+                <source>created by</source>
+                <target>создан</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Past Events</source>
+                <target>Прошлые события</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Events</source>
+                <target>События</target>
+            </trans-unit>
+            <trans-unit>
+                <source>to</source>
+                <target>до</target>
+            </trans-unit>
+            <trans-unit>
+                <source>published by</source>
+                <target>Опубликовано</target>
+            </trans-unit>
+            <!-- NEW -->
+            <trans-unit>
+                <source>No results found</source>
+                <target>Результаты не найдены</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Event was submitted successfully.</source>
+                <target> Событие было успешно подано.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>My Events</source>
+                <target>Мои события</target>
+            </trans-unit>
+            <trans-unit>
+                <source>More</source>
+                <target>Еще</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Add Event</source>
+                <target>Добавить Событие</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Add мy Company</source>
+                <target>Добавить мою компанию</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Events %i %l - %c</source>
+                <target>События %i %l - %c</target>
+            </trans-unit>
+            <trans-unit>
+                <source>%s Events</source>
+                <target>События - %s</target>
+            </trans-unit>
+            <trans-unit>
+                <source>We couldn't find a venue beginning with %s, please enter a different name or suggest a venue!</source>
+                <target> Мы не могли найти место, начинающееся с %s. Пожалуйста, введите другое название или подскажите место!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>suggest a venue</source>
+                <target>подскажите место </target>
+            </trans-unit>
+            <trans-unit>
+                <source>Past Events %p %s</source>
+                <target>Прошедшие события %p %s</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Past Events %i %e - %c</source>
+                <target> Прошедшие события %i %e - %c</target>
+            </trans-unit>
+            <trans-unit>
+                <source>%s Past Events</source>
+                <target> Прошедшие события - %s</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Past Events</source>
+                <target>Прошедшие</target>
+            </trans-unit>
+            <trans-unit>
+                <source>See All Past Events in Bulgaria</source>
+                <target>Просмотреть все Прошедшие события в Болгарии</target>
+            </trans-unit>
+            <trans-unit>
+                <source>All Past Events</source>
+                <target>Все Прошедшие события </target>
+            </trans-unit>
+            <trans-unit>
+                <source>Past Events in %s</source>
+                <target> Прошедшие события в %s</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Past Events in %s - %s</source>
+                <target> Прошедшие события в %s - %s</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Events in %s</source>
+                <target>События в %s</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Events with Tickets in %s</source>
+                <target>События с билетами в %s</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Add Event</source>
+                <target>Добавить Событие</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Location</source>
+                <target>Место</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Date</source>
+                <target>Дата</target>
+            </trans-unit>
+            <trans-unit>
+                <source>See More Events</source>
+                <target>Посмотреть другие события</target>
+            </trans-unit>
+            <trans-unit>
+                <source>All categories</source>
+                <target>Все категории</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The event was not saved. Please fill in all mandatory fields.</source>
+                <target>Событие не было сохранено. Пожалуйста, заполните все обязательные поля.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The event title and terms are mandatory for at least one of the two language versions.</source>
+                <target> Название и условия события являются обязательными, по крайней мере, для одной из двух языковых версий.</target>
+            </trans-unit>
+            <!-- NEW -->
+            <trans-unit>
+                <source>Follow</source>
+                <target>Следуй</target>
+            </trans-unit>
+            <trans-unit>
+                <source>By Author</source>
+                <target>От автора</target>
+            </trans-unit>
+            <trans-unit>
+                <source>By Attendees</source>
+                <target>От посетителей</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Tickets Available</source>
+                <target>Доступные билеты</target>
+            </trans-unit>
+            <trans-unit>
+                <source>PLACES NEARBY</source>
+                <target>Места поблизости</target>
+            </trans-unit>
+            <trans-unit>
+                <source>You Can Also Visit</source>
+                <target>Вы также можете посетить</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Similar Events</source>
+                <target>Подобные события</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Attended Events</source>
+                <target>Посещенные события</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Previous Day</source>
+                <target>Предыдущий день</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Next Day</source>
+                <target>Следующий день</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Sorry, we don't have any events just yet. Please help us by posting the events you know about and sharing them with us. Thank you!</source>
+                <target> К сожалению, у нас пока нет никаких событий. Пожалуйста, помогите нам , разместив события, о которых вы знаете, и поделитесь ими с нами. Спасибо! </target>
+            </trans-unit>
+            <trans-unit>
+                <source>Select Category</source>
+                <target>Выбрать категорию</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Select category</source>
+                <target>Выберите категорию</target>
+            </trans-unit>
+            <trans-unit>
+                <source>From</source>
+                <target>С</target>
+            </trans-unit>
+            <trans-unit>
+                <source>To</source>
+                <target>До</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Select Time</source>
+                <target>Выбрать время</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Calendar</source>
+                <target>Календарь</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Today</source>
+                <target>Сегодня</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Free</source>
+                <target>Бесплатно</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Up to 10</source>
+                <target>До 10 </target>
+            </trans-unit>
+            <trans-unit>
+                <source>Up to 50</source>
+                <target>До 50</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Up to 100</source>
+                <target>До 100</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Over 100</source>
+                <target>более 100</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Choose...</source>
+                <target>Выбрать...</target>
+            </trans-unit>
+
+            <!-- NEW DESIGN -->
+
+            <trans-unit>
+                <source>Choose to see</source>
+                <target>Выберите видеть</target>
+            </trans-unit>
+
+            <trans-unit>
+                <source>Future Events</source>
+                <target>Будущее событие</target>
+            </trans-unit>
+
+            <trans-unit>
+                <source>Today's events</source>
+                <target>Сегодняшние события</target>
+            </trans-unit>
+
+            <trans-unit>
+                <source>Recommended Places</source>
+                <target>Рекомендуемые места</target>
+            </trans-unit>
+
+            <trans-unit>
+                <source>Events in %s</source>
+                <target>События %s</target>
+            </trans-unit>
+
+            <trans-unit>
+                <source>Share your review on Facebook</source>
+                <target>Поделитесь своим мнение о Facebook</target>
+            </trans-unit>
+
+            <trans-unit>
+                <source>RECOMMENDATIONS FOR EVENTS IN %s</source>
+                <target>Рекомендации о событиях в %s</target>
+            </trans-unit>
+ 
+            <trans-unit>
+                <source>Incoming events</source>
+                <target>Предстоящие события</target>
+            </trans-unit>
+            
+            <trans-unit>
+                <source>This event is created by</source>
+                <target>Это место было добавлено от</target>
+            </trans-unit>
+
+            <trans-unit>
+                <source>More events from</source>
+                <target>Другие события от</target>
+            </trans-unit>
+
+            <trans-unit>
+                <source>Will Аttend</source>
+                <target>Посетит</target>
+            </trans-unit>
+
+            <trans-unit>
+                <source>Attending</source>
+                <target>Посещают</target>
+            </trans-unit>
+
+            <trans-unit>
+                <source>Won't Attend</source>
+                <target>Не будет присутствовать</target>
+            </trans-unit>
+
+            <trans-unit>
+                <source>uploaded by: </source>
+                <target>Фотография была загружена: </target>
+            </trans-unit>
+
+
+            <trans-unit>
+                <source>Buy Now</source>
+                <target>Купить сейчас</target>
+            </trans-unit>
+
+        </body>
+    </file>
+</xliff>

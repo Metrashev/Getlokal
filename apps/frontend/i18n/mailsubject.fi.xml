@@ -1,0 +1,56 @@
+<?xml version="1.0" ?>
+<xliff version="1.0">
+    <file orginal="global" source-language="en_EN" datatype="plaintext">
+        <body>			
+            <trans-unit>
+                <source>Place Claim in getlokal</source>
+                <target>Hae käyttöoikeus yritykseesi getlokalissa</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Welcome to getlokal</source>
+                <target>Tervetuloa getlokaliin</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Request through getlokal</source>
+                <target>Pyyntö getlokaliin</target>
+            </trans-unit>  
+            <trans-unit>
+                <source>Claim Request</source>
+                <target>Hae käyttöoikeus</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Forgotten Password</source>
+                <target>Unohtunut Salasana</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Change Email Confirmation</source>
+                <target>Vaihda sähköpostin vahvistus</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Forgotten Place Admin Password</source>
+                <target>Unohtuiko Admin salasana</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Forgotten Username</source>
+                <target>Unohtuiko käyttäjätunnus</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Approved Place Claim in getlokal</source>
+                <target>Hyväksytty käyttöoikeuspyyntö getlokalissa</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Rejected Place Claim in getlokal</source>
+                <target>Hylätty käyttöoikeuspyyntö getlokalissa</target>
+            </trans-unit>   		      		
+            <trans-unit>
+                <source>A friend just invited you to join getlokal.fi!</source>
+                <target>Ystäväsi kutsui sinut liittymään mukaan getlokal.fi!</target>
+            </trans-unit>
+
+            <!-- NEW DESIGN -->
+
+            
+
+        </body>
+    </file>
+</xliff>

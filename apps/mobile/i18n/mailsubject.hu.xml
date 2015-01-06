@@ -1,0 +1,61 @@
+<?xml version="1.0" ?><xliff version="1.0">
+	<file datatype="plaintext" original="global" source-language="en">
+		<body>
+      		<trans-unit id="1">
+	        	<source>Place Claim in Getlokal</source>
+	        	<target>Hely Igénylés a Getlokalon</target>
+	       		
+      		</trans-unit>
+      		<trans-unit id="2">
+	        	<source>Welcome to getlokal</source>
+	        	<target>Üdvözöljük a getlokalban</target>
+	       		
+      		</trans-unit>
+      		<trans-unit id="3">
+	        	<source>Request through getlokal</source>
+	        	<target>Kérés Getlokalon keresztül.</target>
+	       		
+      		</trans-unit>
+      		<trans-unit id="4">
+	        	<source>Claim Request</source>
+	        	<target> Kérelem Igénylése</target>
+	       		
+      		</trans-unit>
+      		<trans-unit id="5">
+	        	<source>Forgotten Password</source>
+	        	<target>Elfelejtett Jelszó</target>
+	       		
+      		</trans-unit>
+      		<trans-unit id="6">
+	        	<source>Getlokal Account Activation</source>
+	        	<target>Getlokal Fiók Aktiválása</target>
+	       		
+      		</trans-unit>
+      		<trans-unit id="7">
+	        	<source>Change Email Confirmation</source>
+	        	<target>E-mail Megerősítés Módosítása </target>
+	       		
+      		</trans-unit>
+      		<trans-unit id="8">
+	        	<source>Forgotten Place Admin Password</source>
+	        	<target>Elfelejtett Hely Rendszergazda Jelszó</target>
+	       		
+      		</trans-unit>
+      		<trans-unit id="9">
+	        	<source>Forgotten Username</source>
+	        	<target>Elfelejtett Felhasználónév</target>
+	       		
+      		</trans-unit>
+      		<trans-unit id="10">
+	        	<source>Approved Place Claim in Getlokal</source>
+	        	<target>Jóváhagyott Hely Igényelés a Getlokalon</target>
+	       		
+      		</trans-unit>
+            <trans-unit id="11">
+                <source>Rejected Place Claim in Getlokal</source>
+                <target>Elutasított Hely Igényelés a Getlokalon</target>
+                
+            </trans-unit>
+		</body>
+	</file>
+</xliff>

@@ -1,0 +1,51 @@
+<?xml version="1.0" ?>
+<xliff version="1.0">
+        <file orginal="global" source-language="en_EN" datatype="plaintext">
+                <body>
+                <trans-unit>
+                        <source>Place Claim in Getlokal</source>
+                        <target>Baranje za administriranje na mesto na getlokal</target>
+                </trans-unit>
+                <trans-unit>
+                        <source>Welcome to Getlokal</source>
+                        <target>Добрeдојде на getlokal.mk</target>
+                </trans-unit>
+                <trans-unit>
+                        <source>Request through Getlokal</source>
+                        <target>Prashanje preku getlokal</target>
+                </trans-unit>
+                <trans-unit>
+                        <source>Claim Request</source>
+                        <target>Baranje za administriranje na mesto</target>
+                </trans-unit>
+                <trans-unit>
+                        <source>Forgotten Password</source>
+                        <target>Zaboravenа lozinka</target>
+                </trans-unit>
+                <trans-unit>
+                        <source>getlokal Account Activation</source>
+                        <target>Aktiviranje na profil na getlokal</target>
+                </trans-unit>
+                <trans-unit>
+                        <source>Change Email Confirmation</source>
+                        <target>Potvrda za promena na e-mail</target>
+                </trans-unit>
+                <trans-unit>
+                        <source>Forgotten Place Admin Password</source>
+                        <target>Zaboravena lozinka za mesto</target>
+                </trans-unit>
+                <trans-unit>
+                        <source>Forgotten Username</source>
+                        <target>Zaboraveno korisnicko ime</target>
+                </trans-unit>
+                <trans-unit>
+                        <source>Approved Place Claim in getlokal</source>
+                        <target>Odobreno baranje za administrator na mesto</target>
+                </trans-unit>
+                <trans-unit>
+                        <source>Rejected Place Claim in getlokal</source>
+                        <target>Odbieno baranje za administrator na mesto</target>
+                </trans-unit>
+                </body>
+        </file>
+</xliff>

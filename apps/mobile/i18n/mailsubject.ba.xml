@@ -1,0 +1,51 @@
+<?xml version="1.0" ?>
+<xliff version="1.0">
+	<file original="global" source-language="en" datatype="plaintext">
+		<body>
+      		<trans-unit id="1">
+	        	<source>Place Claim in Getlokal</source>
+	       		<target>Vlasništvo mjesta na Getlokalu</target>
+      		</trans-unit>
+      		<trans-unit id="2">
+	        	<source>Welcome to getlokal</source>
+	       		<target>Dobrodošli na Getlokal</target>
+      		</trans-unit>
+      		<trans-unit id="3">
+	        	<source>Request through getlokal</source>
+	       		<target>Zahtjev putem aplikacije Getlokal</target>
+      		</trans-unit>
+      		<trans-unit id="4">
+	        	<source>Claim Request</source>
+	       		<target>Zahtjev vlasništva</target>
+      		</trans-unit>
+      		<trans-unit id="5">
+	        	<source>Forgotten Password</source>
+	       		<target>Zaboravljena lozinka</target>
+      		</trans-unit>
+      		<trans-unit id="6">
+	        	<source>Getlokal Account Activation</source>
+	       		<target>Aktivacija naloga na Getlokalu</target>
+      		</trans-unit>
+      		<trans-unit id="7">
+	        	<source>Change Email Confirmation</source>
+	       		<target>Promijeni potvrdni e-mail</target>
+      		</trans-unit>
+      		<trans-unit id="8">
+	        	<source>Forgotten Place Admin Password</source>
+	       		<target>Zaboravljena lozinka za administratora mjesta</target>
+      		</trans-unit>
+      		<trans-unit id="9">
+	        	<source>Forgotten Username</source>
+	       		<target>Zaboravljeno korisničko ime</target>
+      		</trans-unit>
+      		<trans-unit id="10">
+	        	<source>Approved Place Claim in Getlokal</source>
+	       		<target>Odobreno vlasništvo mjesta na Getlokalu</target>
+      		</trans-unit>
+            <trans-unit id="11">
+                <source>Rejected Place Claim in Getlokal</source>
+                <target>Odbijeno vlasništvo mjesta na Getlokalu</target>
+            </trans-unit>
+		</body>
+	</file>
+</xliff>

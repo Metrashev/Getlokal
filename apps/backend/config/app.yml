@@ -1,0 +1,413 @@
+# You can find more information about this file on the symfony website:
+# http://www.symfony-project.org/reference/1_4/en/11-App
+
+# default values
+all:
+  sf_guard_plugin:
+    remember_key_expiration_age:  2592000   # 30 days in seconds
+    remember_cookie_name:         getlokal_user_cookie
+
+  sf_wp_admin:
+    site:                         GetLokal Backend
+    # correct config for login/logout routes
+    login_route:                  sfWpAdmin/login
+    logout_route:                 sfWpAdmin/logout
+
+    items:
+      Users:
+        Users:
+          module:     user_profile
+          action:     index
+          credentials: user_admin
+          parameters: []
+          alias:
+            - { module: user_profile, action: edit }
+            - { module: user_profile, action: new }
+            - { module: user_profile, action: create }
+            - { module: user_profile, action: update }
+            - { module: user_profile, action: stats }
+        User Permissions:
+          module:     sfGuardUser
+          action:     index
+          credentials: permission_admin
+          parameters: []
+          alias:
+            - { module: sfGuardUser, action: edit }
+            - { module: sfGuardUser, action: new }
+            - { module: sfGuardUser, action: create }
+            - { module: sfGuardUser, action: update }
+            - { module: sfGuardUser, action: stats }
+        Groups:
+          module:     sfGuardGroup
+          action:     index
+          credentials: permission_admin
+          parameters: []
+          alias:
+            - { module: sfGuardGroup, action: edit }
+            - { module: sfGuardGroup, action: new }
+            - { module: sfGuardGroup, action: create }
+            - { module: sfGuardGroup, action: update }
+            - { module: sfGuardGroup, action: stats }
+        Permissions:
+          module:     sfGuardPermission
+          action:     index
+          credentials: permission_admin
+          parameters: []
+          alias:
+            - { module: sfGuardPermission, action: edit }
+            - { module: sfGuardPermission, action: new }
+            - { module: sfGuardPermission, action: create }
+            - { module: sfGuardPermission, action: update }
+            - { module: sfGuardPermission, action: stats }
+      Companies:
+        Places:
+          module:     company
+          action:     index
+          credentials: company
+          parameters: []
+          alias:
+            - { module: company, action: images }
+            - { module: company, action: edit }
+            - { module: company, action: new }
+            - { module: company, action: create }
+            - { module: company, action: update }
+        Place Admin:
+          module:     PageAdmin
+          action:     index
+          credentials: page_admin
+          parameters: []
+          alias:
+            - { module: PageAdmin, action: edit }
+            - { module: PageAdmin, action: new }
+            - { module: PageAdmin, action: create }
+            - { module: PageAdmin, action: update }
+        CompanyStats:
+          module:     companystats
+          action:     index
+          credentials: stats
+          parameters: []
+        AddPlaceGame:
+          module:     addplacegame
+          action:     index
+          credentials: place_game
+          parameters: []
+      Slider items:
+        Slider:
+          module:     slider
+          action:     index
+          credentials: slider
+          parameters: []
+          alias:
+            - { module: slider, action: edit }
+            - { module: slider, action: new }
+            - { module: slider, action: create }
+            - { module: slider, action: update }
+        Mobile slider:
+          module:     mobile_news
+          action:     index
+          credentials: mobile_slider
+          parameters: []
+          alias:
+            - { module: mobile_news, action: edit }
+            - { module: mobile_news, action: new }
+            - { module: mobile_news, action: create }
+            - { module: mobile_news, action: update }
+        getWeekend:
+          module:     get_weekend
+          action:     index
+          credentials: get_weekend
+          parameters: []
+          alias:
+            - { module: get_weekend, action: edit }
+            - { module: get_weekend, action: new }
+            - { module: get_weekend, action: create }
+            - { module: get_weekend, action: update }
+      Manage:
+        Reviews:
+          module:     review
+          action:     index
+          credentials: review
+          parameters: []
+          alias:
+            - { module: review, action: edit }
+            - { module: review, action: new }
+            - { module: review, action: create }
+            - { module: review, action: update }
+        Events:
+          module:     event
+          action:     index
+          credentials: event
+          parameters: []
+          alias:
+            - { module: event, action: edit }
+            - { module: event, action: new }
+            - { module: event, action: create }
+            - { module: event, action: update }
+        Images:
+          module:     image
+          action:     index
+          credentials: image
+          parameters: []
+          alias:
+            - { module: image, action: edit }
+            - { module: image, action: new }
+            - { module: image, action: create }
+            - { module: image, action: update }
+        Sectors:
+          module:     sector
+          action:     index
+          credentials: sector
+          parameters: []
+          alias:
+            - { module: sector, action: edit }
+            - { module: sector, action: new }
+            - { module: sector, action: create }
+            - { module: sector, action: update }
+        Classifications:
+          module:     classification
+          action:     index
+          credentials: classification
+          parameters: []
+          alias:
+            - { module: classification, action: edit }
+            - { module: classification, action: new }
+            - { module: classification, action: create }
+            - { module: classification, action: update }
+        Static Pages:
+          module:     staticpage
+          action:     index
+          credentials: static_page
+          parameters: []
+          alias:
+            - { module: staticpage, action: edit }
+            - { module: staticpage, action: new }
+            - { module: staticpage, action: create }
+            - { module: staticpage, action: update }
+        WriteReviewGame:
+          module:     writereviewgame
+          action:     index
+          credentials: write_review_game
+          parameters: []
+        MailBgCampaign:
+          module:     mail_bg
+          action:     index
+          credentials: mail_bg_campaign_bg
+          parameters: []
+          alias:
+            - { module: mail_bg, action: new }
+            - { module: mail_bg, action: create }
+        Lists:
+          module:     lists
+          action:     index
+          credentials: list
+          parameters: []
+          alias:
+            - { module: lists, action: edit }
+            - { module: lists, action: new }
+            - { module: lists, action: create }
+            - { module: lists, action: update }
+        Articles:
+          module:     article
+          action:     index
+          credentials: article
+          parameters: []
+          alias:
+            - { module: article, action: edit }
+            - { module: article, action: new }
+            - { module: article, action: create }
+            - { module: article, action: update }
+        CategoryArticle:
+          module:     category_article
+          action:     index
+          credentials: category_article
+          parameters: []
+          alias:
+            - { module: category_article, action: edit }
+            - { module: category_article, action: new }
+            - { module: category_article, action: create }
+            - { module: category_article, action: update }
+            - { module: category_article, action: classification }
+        Event Categories:
+          module:     event_category
+          action:     index
+          credentials: event_category
+          parameters: []
+          alias:
+            - { module: event_category, action: edit }
+            - { module: event_category, action: new }
+            - { module: event_category, action: create }
+            - { module: event_category, action: update }
+            - { module: event_category, action: classification }
+        Offers:
+          module:     company_offer
+          action:     index
+          credentials: company_offer
+          parameters: []
+          alias: ~
+      Badges:
+        Badges:
+          module:       badge
+          action:       index
+          credentials:  badge
+          parameters:   []
+          alias:
+            - { module: badge, action: requirements }
+            - { module: badge, action: edit }
+            - { module: badge, action: new }
+            - { module: badge, action: create }
+            - { module: badge, action: update }
+      Newsletters:
+        Newsletter:
+          module:     newsletter
+          action:     index
+          credentials: newsletter
+          parameters: []
+          alias:
+            - { module: newsletter, action: edit }
+            - { module: newsletter, action: new }
+            - { module: newsletter, action: create }
+            - { module: newsletter, action: update }
+        NewsletterUser:
+          module:     newsletteruser
+          action:     index
+          credentials: newsletter_user
+          parameters: []
+          alias:
+            - { module: newsletteruser, action: edit }
+            - { module: newsletteruser, action: new }
+            - { module: newsletteruser, action: create }
+            - { module: newsletteruser, action: update }
+        Unregistered subscribers:
+          module:     unregistered_newsletter_user
+          action:     index
+          credentials: unregistered_newsletter_user
+          parameters: []
+          alias:
+            - { module: unregistered_newsletter_user, action: edit }
+            - { module: unregistered_newsletter_user, action: new }
+            - { module: unregistered_newsletter_user, action: create }
+            - { module: unregistered_newsletter_user, action: update }
+      Invites:
+        Invites:
+          module:     invited_user
+          action:     index
+          credentials: invited_user
+          parameters: []
+          alias:
+            - { module: invited_user, action: edit }
+            - { module: invited_user, action: new }
+            - { module: invited_user, action: create }
+            - { module: invited_user, action: update }
+      Mobile Logs:
+        Mobile Logs:
+          module:       mobile_log
+          action:       index
+          credentials:  permission_admin
+          parameters: []
+          alias: ~
+      Mobile:
+        Push Notifications:
+          module:       push_notification
+          action:       index
+          credentials:  permission_admin
+          parameters: []
+          alias: ~
+  log_actions:
+    company_show_category: 13
+    page_view: 2
+    weblink_clicked: 3
+    facelink_clicked: 4
+    send_email: 5
+    reviews_view: 6
+    map_big_view: 7
+    wtime_view: 8
+    detail_description_view: 9
+    pictures_view: 10
+    video_ad_visit: 11
+    video_ad_play: 12
+    company_show_search: 1
+
+  cultures:
+      en: English
+      bg: Български
+      ro: Română
+      mk: Македонски
+      sr: srpski
+      me: Црногорски
+      ru: Русский
+
+  cultures_en:
+      en: English
+      bg: Bulgarian
+      ro: Romanian
+      mk: Macedonian
+      sr: Serbian
+      fi: Finnish
+      ru: Russian
+      cs: Czech
+      sk: Slovak
+      hu: Hungarian
+      me: Montenegro
+      
+  countries:
+      bg: Bulgaria
+      ro: Romania
+      mk: Macedonia
+      rs: Serbia
+      fi: Finland
+      cz: Czech Republic
+      sk: Slovakia
+      hu: Hungary
+      pt: Portugal
+      me: Montenegro
+      ru: Russia
+
+  domain_to_culture:
+      BG: bg
+      RO: ro
+      MK: mk
+      RS: sr
+      FI: fi
+      RU: ru
+      CZ: cs
+      SK: sk
+      HU: hu
+      PT: pt
+      ME: me
+
+  .array:
+    getlokal_power_user: [4216,33329, 33330, 33331, 33332, 33334, 33335, 33336, 33337, 33339, 33340, 33341, 33342, 33343,34724,35785, 35786, 35787, 35788, 36435, 36436, 36437,36776, 76021, 76022, 76057, 83234, 89055, 89998, 116319, 123235]
+    culture_slugs: [ro, bg, en, mk, sr, fi, ru, cs, sk, hu, pt, me, ru]
+    domain_slugs: [bg, ro, mk, rs, fi, cz, sk, hu, pt, me, ru]
+    languages_bg: [bg, en]
+    languages_ro: [ro, en]
+    languages_mk: [mk, en]
+    languages_sr: [sr, en]
+    languages_fi: [fi, en, ru]
+    languages_cs: [cs, en, sk]
+    languages_sk: [sk, en, cs]
+    languages_hu: [hu, en]
+    languages_pt: [pt, en]
+    languages_me: [me, en]
+    languages_ru: [ru, en]
+
+  culturesEn:
+      en: English
+      bg: Bulgarian
+      ro: Romanian
+      mk: Macedonian
+      sr: Serbian
+      fi: Finnish
+      ru: Russian
+      cs: Czech
+      sk: Slovak
+      hu: Hungarian
+      me: Montenegrin
+
+  mail_chimp:
+    api_key_bg: 9eea22f71642b5c85cede05a477bcb08-us2
+    api_key_ro: fd7ed2c05a0dac492e1030070a028b7f-us4
+    api_key_mk: ''
+    list_name_bg: Обща комуникация
+    list_name_ro: Comunicare generală
+    list_name_mk: ''

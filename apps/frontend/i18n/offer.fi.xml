@@ -1,0 +1,172 @@
+<?xml version="1.0" ?>
+<xliff version="1.0">
+    <file orginal="global" source-language="en_EN" datatype="plaintext">
+        <body>   
+            <trans-unit>
+                <source>Offers</source>
+                <target>Tarjoukset</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Offer</source>
+                <target>Tarjous</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Create a Offer</source>
+                <target>Luo Tarjous</target>
+            </trans-unit>
+            <trans-unit>
+                <source>to</source>
+                <target>-</target>
+            </trans-unit>
+            <trans-unit>
+                <source>deactivate</source>
+                <target>Poista</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Current Offers</source>
+                <target>Voimassaolevat Tarjoukset</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Edit Offer</source>
+                <target>Muokkaa Tarjousta</target>
+            </trans-unit>
+            <trans-unit>
+                <source>activate</source>
+                <target>Aktivoi</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Order Voucher</source>
+                <target>Tilaa etuseteli</target>
+            </trans-unit>	     
+            <trans-unit>
+                <source>This offer is valid from</source>
+                <target>Tämä tarjous on voimassa</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Vouchers</source>
+                <target>Etusetelit</target>
+            </trans-unit>
+            <trans-unit>
+                <source>No vouchers have been ordered yet</source>
+                <target>Etuseteleitä ei ole vielä tilattu</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Offer Code</source>
+                <target>Tarjous Koodi</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Voucher Code</source>
+                <target>Etusetelin Koodi</target>
+            </trans-unit>
+            <trans-unit>
+                <source>activate</source>
+                <target>aktivoi</target>
+            </trans-unit>
+            <trans-unit>
+                <source>This offer is not active.</source>
+                <target>Tämä tarjous ei ole voimassa.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Vouchers issued</source>
+                <target>Myönnetyt etusetelit</target>
+            </trans-unit>
+            <!-- NEW -->
+            <trans-unit>
+                <source>Print</source>
+                <target>Printtaa</target>
+            </trans-unit>
+            <trans-unit>
+                <source><![CDATA[[0]No vouchers have been issued yet for this offer.|[1]1 voucher has been issued for this offer.|(1,+Inf]%count% vouchers have been issued for this offer.]]>
+                </source>
+                <target><![CDATA[0]Tälle tarjoukselle ei ole vielä myönnetty etuseteleitä.|[1]1 etuseteli on myönnetty tälle tarjoukselle.|(1,+Inf]%count% etuseteliä on myönnetty tälle tarjoukselle.]]>
+                </target>
+            </trans-unit>
+            <trans-unit>
+                <source>issued on</source>
+                <target>myönnetty</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Issued on</source>
+                <target>Myönnetty</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Expires on</source>
+                <target>Päättyy</target>
+            </trans-unit>
+            <!-- NEW -->
+            <trans-unit>
+                <source>There are no offers</source>
+                <target>Ei voimassaolevia tarjouksia</target>
+            </trans-unit>     
+            <trans-unit>
+                <source>Export to Excel</source>
+                <target>Siirrä Exceliin</target>
+            </trans-unit>
+            <trans-unit>
+                <source>You have already ordered the maximum number of vouchers</source>
+                <target>Olet jo tilannut enimmäismäärän etuseteleitä</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Number of Vouchers</source>
+                <target>Etusetelien Määrä</target>
+            </trans-unit>
+            <trans-unit>
+                <source>No more vouchers available for this offer</source>
+                <target>Tarjoukselle ei ole saatavissa etuseteleitä</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Get Free Voucher!</source>
+                <target>Hae ilmainen etuseteli!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>No messages</source>
+                <target>Ei viestejä</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Offer Drafts</source>
+                <target>Tarjous Luonnokset</target>
+            </trans-unit>
+            <trans-unit>
+                <source>preview</source>
+                <target>esikatselu</target>
+            </trans-unit>
+            <trans-unit>
+                <source>publish</source>
+                <target>julkaistu</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The offer was published successfully.</source>
+                <target>Tarjous on julkaistu onnistuneesti.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Congrats</source>
+                <target>Onnea</target>
+            </trans-unit>
+            <trans-unit>
+                <source>We just issued your voucher! It's saved in your Profile.</source>
+                <target>Olemme juuri myöntäneet sinun etusetelin ! Se on tallennettuna profiiliisi.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>View</source>
+                <target>Katso</target>
+            </trans-unit>
+            <trans-unit>
+                <source><![CDATA[[0]%time%|[1]1 day %time%|(1,+Inf]%days% days %time%]]></source>
+                <target><![CDATA[[0]%time%|[1]1 päivä %time%|(1,+Inf]%days% päivää %time%]]></target>
+            </trans-unit>
+
+
+            <!-- NEW DESIGN -->
+
+            <trans-unit>
+                <source>Tickets Available</source>
+                <target>Lippuja saatavilla</target>
+            </trans-unit>
+
+            <trans-unit>
+                <source>OFFERS IN</source>
+                <target>Tarjouksia</target>
+            </trans-unit>
+        </body>
+    </file>
+</xliff>

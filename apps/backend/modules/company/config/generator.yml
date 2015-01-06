@@ -1,0 +1,39 @@
+generator:
+  class: sfDoctrineGenerator
+  param:
+    model_class:           Company
+    theme:                 admin
+    non_verbose_templates: true
+    with_show:             false
+    singular:              ~
+    plural:                ~
+    route_prefix:          company
+    with_doctrine_route:   true
+    actions_base_class:    sfActions
+
+    config:
+      actions: ~
+      fields:
+        date_last_modified_by:      {label: Date Modified/RUPA, is_sortable: true}
+        is_modified:    {label: Is Modified/RUPA, is_sortable: true}
+        with_order:     {label: With Order?, is_sortable: true}
+        with_w_h:       {label: With W Hours?, is_sortable: true}
+        with_pics:      {label: With Pics?, is_sortable: true}
+        with_ans:       {label: With Replies?, is_sortable: true}
+      list:
+        title:         Places Management
+        display:       [ id, phone,city_id, classification_id, status, created_at ]
+        max_per_page:  15
+        sort:          [status, desc]
+        batch_actions: []
+        object_actions:
+          images:     { label: Images, action: images }
+          _edit:      ~
+          _delete:    ~
+          ppp:     { label: Create PPP Service, action: ppp }
+          deal:     { label: Create Deal Service, action: deal }
+      filter:
+        display:  [id, title, phone, first_name, last_name,city_id, sector_id, classification_id, status, updated_at, is_modified, bbp, with_order, with_w_h,with_pics,with_ans, date_last_modified_by, claim_status, created_at, with_reviews, referer, country]
+      form:    ~
+      edit:    ~
+      new:     ~

@@ -1,0 +1,1 @@
+<?php echo link_to($review->getCompany(), '/'.$review->getCompany()->getCountry()->getSlug().'/'. $review->getCompany()->getCity()->getSlug(). '/'. $review->getCompany()->getSlug(), 'target=_blank') ?>

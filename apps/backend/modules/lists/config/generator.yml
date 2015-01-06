@@ -1,0 +1,32 @@
+generator:
+  class: sfDoctrineGenerator
+  param:
+    model_class:           Lists
+    theme:                 admin
+    non_verbose_templates: true
+    with_show:             false
+    singular:              ~
+    plural:                ~
+    route_prefix:          lists
+    with_doctrine_route:   true
+    actions_base_class:    sfActions
+
+    config:
+      actions: ~
+      fields:  ~
+      list:
+        title: All Lists
+        display:       [ id, title, user_id, status, is_open,created_at,updated_at]
+        table_method:  getQueryForAdmin
+        max_per_page:  600
+        sort:          [ created_at, desc ]
+        batch_actions:
+          approve:     ~
+          disapprove:  ~
+          delete:  ~
+      filter:
+        display:  [id,title,first_name,last_name,company,city_id,created_at,updated_at]
+      form:
+        class: backendListsForm
+      edit:    ~
+      new:     ~

@@ -1,0 +1,1580 @@
+<?xml version="1.0" ?>
+<xliff version="1.0">
+    <file orginal="global" source-language="en_EN" datatype="plaintext">
+        <body>
+            <trans-unit>
+                <source>Your username should contain only alphanumeric characters, dash, dot or underscore.</source>
+                <target>Numele tău de utilizator trebuie să conţină numai caractere alfanumerice, linie, punct sau underscore</target>
+            </trans-unit>
+            <trans-unit>
+                <source>This field is required</source>
+                <target>Acest câmp este obligatoriu</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The email and/or password are invalid</source>
+                <target>şi/sau combinaţia e-mail/parolă esta invalidă</target>
+            </trans-unit>
+            <trans-unit>
+                <source>BULGARIA</source>
+                <target>BULGARIA</target>
+            </trans-unit>
+            <trans-unit>
+                <source>No Results found for %keyword% in %place%</source>
+                <target>Niciun rezultat găsit pentru %keyword% în %place%</target>
+            </trans-unit>
+            <trans-unit>
+                <source>If you want to search again for another location, please use the \'Where\' field to enter the right location. It is also possible to expand your search to cover the whole of %s</source>
+                <target>Dacă vrei să repeţi căutarea pentru altă localitate, foloseşte câmpul “Unde” pentru a introduce numele localităţii. Poţi căuta şi în toată %s</target>
+            </trans-unit>
+
+            <trans-unit>
+                <source>Send it to us</source>
+                <target>Trimite-ne datele sale</target>
+            </trans-unit>
+            <trans-unit>
+                <source>click here</source>
+                <target>click aici</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Resend an activation mail</source>
+                <target>Retrimite un e-mail de activare</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Password is mandatory</source>
+                <target>Parola este obligatorie</target>
+            </trans-unit>
+            <trans-unit>
+                <source> for </source>
+                <target> pentru </target>
+            </trans-unit>
+            <trans-unit>
+                <source>E-mail</source>
+                <target>E-mail</target>
+            </trans-unit>
+            <trans-unit>
+                <source>%s in %s</source>
+                <target>%s în %s</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Bulgaria</source>
+                <target>Bulgaria</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Your email was changed successfully.</source>
+                <target>E-mail-ul tău a fost modificat cu succes.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Reviews</source>
+                <target>Recomandări</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Lists</source>
+                <target>Liste</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Sign Up</source>
+                <target>Fă-ţi cont</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Login</source>
+                <target>Login</target>
+            </trans-unit>
+            <trans-unit>
+                <source>About Us</source>
+                <target>Despre noi</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Terms of Use</source>
+                <target>Termeni de utilizare</target>
+            </trans-unit>
+
+            <trans-unit>
+                <source>FAQ's</source>
+                <target>Întrebări frecvente</target>
+            </trans-unit>
+            <trans-unit>
+                <source>from</source>
+                <target>de la</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Report Abuse</source>
+                <target>Raportează abuz</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Blog</source>
+                <target>Blog</target>
+            </trans-unit>
+            <trans-unit>
+                <source>For Companies</source>
+                <target>Cont Business</target>
+            </trans-unit>
+            <trans-unit>
+                <source>My Vouchers</source>
+                <target>Voucherele mele</target>
+            </trans-unit>
+            <trans-unit>
+                <source>OR</source>
+                <target>SAU</target>
+            </trans-unit>
+            <trans-unit>
+                <source>or</source>
+                <target>sau</target>
+            </trans-unit>
+            <trans-unit>
+                <source>see more</source>
+                <target>vezi tot</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Register</source>
+                <target>Înregistrare</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Bulgaria</source>
+                <target>Bulgaria</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Romania</source>
+                <target>România</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Macedonia</source>
+                <target>Macedonia</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Serbia</source>
+                <target>Serbia</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Finland</source>
+                <target>Finlanda</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Hungary</source>
+                <target>Ungaria</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Montenegro</source>
+                <target>Muntenegru</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Events</source>
+                <target>Evenimente</target>
+            </trans-unit>
+            <trans-unit>
+                <source>remove</source>
+                <target>Şterge</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Search</source>
+                <target>Căutare</target>
+            </trans-unit>
+            <trans-unit>
+                <source>more info</source>
+                <target>mai multe informaţii</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Confirm deletion</source>
+                <target>Confirmă ştergerea</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Review was deleted successfully.</source>
+                <target>Recomandarea a fost ştearsă cu succes.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The offer was not saved. Please fill in all mandatory fields.</source>
+                <target>Oferta nu a fost salvată. Te rugăm să completezi toate câmpurile obligatorii.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Account Settings</source>
+                <target>Setări cont</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Personal Information</source>
+                <target>Informaţii personale</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Change Password</source>
+                <target>Schimbă parola</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Change Email</source>
+                <target>Schimbă e-mail</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The photo was deleted successfully.</source>
+                <target>Fotografia a fost ştearsă cu succes.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The classification was deleted successfully.</source>
+                <target>Clasificarea a fost ştearsă cu succes.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The profile picture was changed successfully.</source>
+                <target>Poza de profil a fost schimbată cu succes.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Photos</source>
+                <target>Fotografiile</target>
+            </trans-unit>
+            <trans-unit>
+                <source>unapproved</source>
+                <target>Neacceptate</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The photo was published successfully.</source>
+                <target>Fotografie publicată cu succes.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Your account changes were successfully saved.</source>
+                <target>Modificările contului tău au fost salvate cu succes.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>No results found.</source>
+                <target>Niciun rezultat găsit.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Your company information was saved successfully. It will be added to getlokal after it has been approved by an administrator.</source>
+                <target>Informaţiile companiei tale au fost salvate cu succes. Acestea vor fi adăugate la getlokal după ce au fost aprobate de către un administrator.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Settings</source>
+                <target>Setări</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Your password was changed successfully.</source>
+                <target>Parola ta a fost schimbată cu succes.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The classification information was saved successfully.</source>
+                <target>Informaţiile legate de clasificări au fost salvate cu succes.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Where</source>
+                <target>Unde</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Website</source>
+                <target>Site-ul</target>
+            </trans-unit>
+            <trans-unit id="12">
+                <source>Submit Review</source>
+                <target>Trimite recomandarea</target>
+            </trans-unit>
+            <trans-unit id="13">
+                <source>See Rates &amp; Reviews</source>
+                <target>Vedeti rate-urile &amp; Recomandări</target>
+            </trans-unit>
+            <trans-unit id="14">
+                <source>Your review was submitted successfully. It will be published after approval by a moderator.</source>
+                <target>Recomandarea ta a fost trimisă cu succes. Aceasta va fi publicată după aprobarea de către un moderator.</target>
+            </trans-unit>
+            <trans-unit id="15">
+                <source>Please agree to observe the Terms of Use of getlokal.ro</source>
+                <target>Te rugăm să citeşti şi să fii de acord cu Termenii de utilizare ai getlokal.ro.</target>
+            </trans-unit>
+            <trans-unit id="18">
+                <source>Write a Review</source>
+                <target>Scrie o recomandare</target>
+            </trans-unit>
+            <trans-unit id="34">
+                <source>more</source>
+                <target>mai mult</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Please write clearly, without using offensive or obscene language.</source>
+                <target><![CDATA[Te rugăm să scrii clar și fără a folosi un limbaj ofensator sau obscen.<br/> Suntem mari fani ai bunului simț. <span>☺</span>]]></target>
+            </trans-unit>
+            <trans-unit id="37">
+                <source>Review</source>
+                <target>Recomandare</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Users</source>
+                <target>Utilizatori</target>
+            </trans-unit>
+            <!--  NEW-  -->
+            <trans-unit>
+                <source>[0]No uploaded photos yet.|[1]1 uploaded photo|(1,+Inf]%count% uploaded photos</source>
+                <target>[0]Încă nu au fost uploadate fotografii.|[1]1 foto uploadată|(1,+Inf]%count% fotografii uploadate</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Leave Comment</source>
+                <target>Lasă un comentariu</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Company Admins</source>
+                <target>Administratori ai companiei</target>
+            </trans-unit>
+            <trans-unit>
+                <source>See Place Page</source>
+                <target>Vezi pagina locului</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Publish</source>
+                <target>Publică</target>
+            </trans-unit>
+            <trans-unit>
+                <source>We were unable to process your request. Place administration process failed.</source>
+                <target>Nu putem să răspundem cererii. Procesul de administrare a paginii a eşuat.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Change Username</source>
+                <target>Schimbă-ţi username-ul.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Your username was changed successfully.</source>
+                <target>Username-ul tău a fost schimbat cu succes.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The information you entered was saved successfully.</source>
+                <target>Informaţia pe care ai introdus-o a fost salvată cu succes.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Admin status changed successfully.</source>
+                <target>Statusul de admin a fost schimbat cu succes.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Invalid or inactive offer</source>
+                <target>Ofertă inactivă sau invalidă.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The offer is already active.</source>
+                <target>Oferta e deja activă.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Security Settings</source>
+                <target>Setări de securitate</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Profile Photo Gallery</source>
+                <target>Galerie foto de profil</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Send</source>
+                <target>Trimite</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The changes were saved successfully.</source>
+                <target>Modificările au fost salvate cu succes.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The detailed description was activated successfully.</source>
+                <target>Descrierea detaliată a fost activată cu succes.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Stop Administration</source>
+                <target>Stop administrării.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>English</source>
+                <target>Engleză</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The offer was deactivated successfully.</source>
+                <target>Oferta a fost dezactivată cu succes.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The offer was added successfully.</source>
+                <target>Oferta a fost adaugată cu succes.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The offer title and description (terms) are mandatory for at least one of the two language versions.</source>
+                <target>Titlul şi descrierea (termenii) ofertei sunt obligatorii pentru cel puţin una din versiunile de limbă.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Search in getlokal</source>
+                <target>Caută în getlokal</target>
+            </trans-unit>
+
+
+            <trans-unit>
+                <source>Do you know your city?</source>
+                <target>Îți cunoști orașul?</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Express your opinion and win badges on our site!</source>
+                <target>Spune-ți părerea și câștigă badge-uri pe site!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>getlokal with your place reviews, your shares, your likes and dislikes!</source>
+                <target>Hai în getlokal cu opinii despre locuri, share-uri, likes şi dislikes!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Be the first to find out about deals and discounts in the places you like!</source>
+                <target>Află primul de oferte și reduceri în locurile care-ți plac!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Engage with your customers!</source>
+                <target>Intră în dialog cu clienții!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Take your communication online - be social and active</source>
+                <target>Comunică transparent, fii social și activ în mediul online!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Take control of your advertising - no intermediates - you can update your profile at any moment, with deals and events!</source>
+                <target>Preia controlul asupra promovării - fără intermediari - postezi singur, la orice oră, oferte și evenimente!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Create a complete profile - photos, videos and text, opening hours and contact info!</source>
+                <target>Creează-ți profilul complet - foto, video, descrieri text în română și engleză, orar și date de contact!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Back to list</source>
+                <target>Înapoi la listă</target>
+            </trans-unit>
+            <trans-unit>
+                <source>see all</source>
+                <target>vezi tot</target>
+            </trans-unit>
+            <trans-unit>
+                <source>See more in</source>
+                <target>Vezi mai multe din</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Bussines</source>
+                <target>Bussines</target>
+            </trans-unit>
+            <trans-unit>
+                <source>We were unable to send a confirmation request to the email address that you provided. Please check the email you provided is correct.</source>
+                <target>Nu am putut trimite o cerere de confirmare la adresa pe care ne-ai furnizat-o. Te rugăm să verifici dacă adresa introdusă e corectă.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Your account has been activated. You can now log in using the email and password you provided at registration time.</source>
+                <target>Contul tău a fost activat. De acum, te poţi autentifica folosind adresa de email şi parola pe care le-ai furnizat în momentul înregistrării.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The new password was sent successfully to the email you provided.</source>
+                <target>Noua parolă a fost trimisă cu succes la adresa de e-mail introdusă.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Comments</source>
+                <target>Comentarii</target>
+            </trans-unit>
+            <trans-unit>
+                <source>read more...</source>
+                <target>citește mai mult...</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Read more...</source>
+                <target>Citește mai mult...</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Read more</source>
+                <target>Citeşte mai mult</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Top Reviews for %city%</source>
+                <target>Cele mai populare recomandări pentru %city%</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Top Places</source>
+                <target>Cele mai populare locuri</target>
+            </trans-unit>
+            <trans-unit>
+                <source>view all offers</source>
+                <target>vezi toate ofertele</target>
+            </trans-unit>
+            <trans-unit>
+                <source>by</source>
+                <target>de</target>
+            </trans-unit>
+            <trans-unit>
+                <source>VIP Places</source>
+                <target>Locuri VIP</target>
+            </trans-unit>
+            <trans-unit>
+                <source>hide</source>
+                <target>ascunde</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Top Review</source>
+                <target>Cea mai populară recomandare</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Your claim was submitted successfully!</source>
+                <target>Revendicarea ta a fost trimisă cu succes!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Thank you for your claim request!</source>
+                <target>Mulţumim pentru revendicare!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Your claim request was submitted and will be approved by an administrator. Once you have been approved, you will be able to manage the information about this company.</source>
+                <target>Revendicarea ta a fost trimisă şi va fi aprobată de un administrator. Odată cu această aprobare, vei putea sa administrezi informaţiile despre companie.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Map</source>
+                <target>Harta</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The event picture was changed successfully.</source>
+                <target>Fotografia evenimentului a fost modificată cu succes.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>set as event photo</source>
+                <target>setează ca fotografie de eveniment</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Event Photo Gallery</source>
+                <target>Galerie foto de evenimente</target>
+            </trans-unit>
+            <trans-unit>
+                <source>[0]0 reviews|[1]1 review|(1,+Inf]%count% reviews</source>
+                <target>[0]0 recomandări|[1]1 recomandare|(1,+Inf]%count% recomandări</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Your review about %s was changed successfully.</source>
+                <target>Recomandarea ta despre %s a fost modificată cu succes.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>reply</source>
+                <target>răspunde</target>
+            </trans-unit>
+            <trans-unit>
+                <source>edit</source>
+                <target>editează</target>
+            </trans-unit>
+            <trans-unit>
+                <source>delete</source>
+                <target>şterge</target>
+            </trans-unit>
+            <trans-unit>
+                <source>report</source>
+                <target>raportează</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Mon</source>
+                <target>Lun</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Tue</source>
+                <target>Mar</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Wed</source>
+                <target>Mie</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Thu</source>
+                <target>Joi</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Fri</source>
+                <target>Vin</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Sat</source>
+                <target>Sâm</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Sun</source>
+                <target>Dum</target>
+            </trans-unit>
+            <trans-unit>
+                <source>E.g. restaurant</source>
+                <target>ex: Restaurante</target>
+            </trans-unit>
+            <trans-unit>
+                <source>e.g. pizza, Starbucks</source>
+                <target>ex: pizza, Van Gogh pub</target>
+            </trans-unit>
+            <trans-unit>
+                <source>%name%'s Badges</source>
+                <target>%name%'s badges</target>
+            </trans-unit>
+            <trans-unit>
+                <source>There is no registered profile with this email address</source>
+                <target>Nu există nici un profil inregistrat cu această adresa de e-mail</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Facebook page of %s</source>
+                <target>Pagina de Facebook a %s</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Twitter page of %s</source>
+                <target>Contul de Twitter a %s</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Google+ page of %s</source>
+                <target>Contul de Google+ a %s</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Foursquare page of %s</source>
+                <target>Contul de Foursquare a %s</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Website of %s: %s</source>
+                <target>Website-ul %s: %s</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Your message was sent successfully.</source>
+                <target>Mesajul a fost trimis cu succes.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>E-mail is required.</source>
+                <target>Adresa de e-mail este necesară.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Your name is required.</source>
+                <target>Numele tău este necesar.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>This field is required. Please type your message.</source>
+                <target>Acest câmp este obligatoriu. Te rugăm să scrii mesajul.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The place details were saved successfully.</source>
+                <target>Detaliile locului au fost salvate cu succes</target>
+            </trans-unit>
+            <trans-unit>
+                <source><![CDATA[<span>Thank you for suggesting</span> <span>a new place!</span>]]></source>
+                <target><![CDATA[<span>Mulţumim pentru sugestia</span> <span>de loc!</span>]]></target>
+            </trans-unit>
+            <trans-unit>
+                <source>Request through getlokal</source>
+                <target>Întrebare prin getlokal</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Event was submitted successfully.</source>
+                <target>Evenimentul a fost trimis cu succes.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>By submitting this registration form, I agree to the %s of getlokal</source>
+                <target>Prin completarea formularului de inregistrare sunt de acord cu %s ale getlokal.ro</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The email message was not sent successfully.</source>
+                <target>Email-ul nu a fost trimis cu succes.</target>
+            </trans-unit>
+
+
+            <trans-unit>
+                <source>Vote</source>
+                <target>Vot</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Vote for this place</source>
+                <target>Votează pentru acest loc</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Skip</source>
+                <target>Sari peste</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Larger</source>
+                <target>Măreşte</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Smaller</source>
+                <target>Micşorează</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The username was sent successfully to your email.</source>
+                <target>Username-ul ţi-a fost trimis cu succes pe mail.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>In my capacity as parent/trustee I hereby declare that I agree with the %s and the %s</source>
+                <target>În calitate de părinte/tutore declar că sunt de acord cu %s si cu %s</target>
+            </trans-unit>
+            <trans-unit>
+                <source>If you are underage person, your parent/trustee must also declare his/her consent below</source>
+                <target>Dacă eşti minor, părintele/ tutorele trebuie să îşi dea consimţământul mai jos</target>
+            </trans-unit>
+            <trans-unit>
+                <source>If you are underage person, your parent/trustee must also declare his/her consent below</source>
+                <target>Dacă eşti minor, părintele/ tutorele trebuie să îşi dea consimţământul mai jos</target>
+            </trans-unit>
+            <trans-unit>
+                <source>In my capacity as parent/trustee I hereby declare that I agree with the Terms of Use and the Policy for Use and Protection of the Information on getlokal</source>
+                <target>În calitate de părinte/tutore declar că sunt de acord cu Termenii de Utilizare si cu Politica de folosire şi protecţie a informaţiei pe getlokal.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>You need to agree to the Terms of Use and the Policy for Use and Protection of the Information on Getlokal</source>
+                <target>E necesar să fii de acord cu Termenii de Utilizare şi cu Politica de folosire şi protecţie a informaţiei pe Getlokal </target>
+            </trans-unit>
+            <trans-unit>
+                <source>Policy for Use and Protection of the Information of Getlokal</source>
+                <target>Politica de folosire şi protecţie a informaţiei pe Getlokal</target>
+            </trans-unit>
+            <trans-unit>
+                <source>I agree with the %s and the %s</source>
+                <target>Sunt de acord cu %s și cu %s</target>
+            </trans-unit>
+            <trans-unit>
+                <source>I have the necessary representative powers and agree with the %s and the %s</source>
+                <target>Sunt reprezentant cu drepturi oficiale şi sunt de acord cu %s și cu %s</target>
+            </trans-unit>
+            <trans-unit>
+                <source>I agree with the %s of getlokal and the %s</source>
+                <target>Sunt de acord cu %s getlokal şi cu %s</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Forgotten password for %s</source>
+                <target>Parolă uitată pentru %s</target>
+            </trans-unit>
+            <trans-unit>
+                <source><![CDATA[General Terms & Conditions]]></source>
+                <target><![CDATA[Termeni şi condiţii generale]]></target>
+            </trans-unit>
+            <trans-unit>
+                <source>In order to protect the information associated with your business we have introduced some additional security requirements.</source>
+                <target>Pentru a proteja informaţiile asociate afacerii tale am introdus nişte elemente de securitate.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Create a username and password for each of the places you manage and keep this information secure.</source>
+                <target>Alege un username şi o parolă pentru fiecare din locurile pe care le reprezinţi, pentru a păstra informaţiile în siguranţă.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Use these login details every time you want to view or edit the information about the places you manage.</source>
+                <target>Foloseşte aceste date de login pentru a putea vizualiza sau edita informaţiile locurilor pe care le reprezinţi.</target>
+            </trans-unit>
+            <trans-unit>
+                <source> about the additional security requirements</source>
+                <target> despre cerinţele adiţionale de securitate</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Forgotten Password</source>
+                <target>Parola uitată</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Enter the CUI of your business</source>
+                <target>Introdu CUI-ul afacerii</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Create Username and Password</source>
+                <target>Alege-ți un username și o parolă</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Tomorrow</source>
+                <target>Astăzi</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Today</source>
+                <target>Mâine</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Comment</source>
+                <target>Comentariu</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Reply to Comment</source>
+                <target>Răspunde la comentariu</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Poor</source>
+                <target>Slab</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Average</source>
+                <target>Mediu</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Good</source>
+                <target>Bine</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Very good</source>
+                <target>Foarte bine</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Excellent</source>
+                <target>Excelent</target>
+            </trans-unit>
+            <trans-unit>
+                <source>There is no profile with this username</source>
+                <target>Nu exista un profil pentru acest username</target>
+            </trans-unit>
+            <trans-unit>
+                <source>An error ocurred while processing your request. Please try again later.</source>
+                <target>Eroare, te rugăm să încerci din nou.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The video was successfully uploaded.</source>
+                <target>Videoclipul a fost încărcat cu succes.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The video was deleted successfully.</source>
+                <target>Videoclipul a fost şters cu succes.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Leave getlokal</source>
+                <target>Părăsește getlokal</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Delete</source>
+                <target>Șterge</target>
+            </trans-unit>
+            <trans-unit>
+                <source>You get interesting information about all the places and events near you</source>
+                <target>Primești informații interesante despre toate locurile și evenimentele situate în apropiere</target>
+            </trans-unit>
+            <trans-unit>
+                <source>You have the opportunity to win fab prizes by participating in getlokal promotions</source>
+                <target>Ai șansa să câștigi super premii dacă participi la concursurile getlokal</target>
+            </trans-unit>
+            <trans-unit>
+                <source>If you want to leave the getlokal community, all of your reviews, photos, events and lists will be deleted!</source>
+                <target>Dacă vrei să părăsești comunitatea getlokal, toate opiniile tale, pozele, evenimentele și listele vor fi șterse.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Proceed to deletion of your getlokal account</source>
+                <target>Continuă cu ștergerea contului tău getlokal</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Here are three good reasons to keep your account:</source>
+                <target>Iată trei motive pentru care merită să-ți păstrezi contul</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Still want to delete your profile?</source>
+                <target>În continuare vrei să îți ștergi profilul?</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Your account was deleted</source>
+                <target>Contul tău a fost șters</target>
+            </trans-unit>
+            <trans-unit>
+                <source>We are sorry to see you go. We value all our users and would be grateful if you %s and let us know what we did wrong.</source>
+                <target>Ne pare rău că te-ai hotărât să pleci. Ne-am bucura %s și să ne spui ce te-a deranjat!</target>
+            </trans-unit>
+
+            <trans-unit>
+                <source>I agree to the %s and the %s</source>
+                <target>Sunt de acord cu %s și cu %s</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Policy for Use and Protection of the Information on the Getlokal Website</source>
+                <target>Politica de Folosire și Protecţie a Informației de pe website-ul Getlokal</target>
+            </trans-unit>
+            <trans-unit>
+                <source>I have the necessary representative powers and I agree to the %s and the %s</source>
+                <target>Am drepturile necesare de reprezentare şi sunt de acord cu %s și cu %s</target>
+            </trans-unit>
+            <trans-unit>
+                <source>%s for %s (%s)</source>
+                <target>%s pentru %s (%s)</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Search results for %s</source>
+                <target>Rezultatele căutării pentru %s</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The place you suggested was added to getlokal. It will be checked by a member of the getlokal team to ensure we have the right details and you will receive a confirmation email once it has been verified.</source>
+                <target>Locul pe care l-ai sugerat a fost adăugat pe getlokal. Va fi verificat de un membru al echipei noastre pentru a fi siguri că avem detaliile corecte.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>If you want to add %s, please log into your getlokal profile.</source>
+                <target>Dacă vrei să adaugi %s, te rugăm să te autentifici pe getlokal.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>places</source>
+                <target>un loc</target>
+            </trans-unit>
+            <trans-unit>
+                <source>reviews</source>
+                <target>o opinie</target>
+            </trans-unit>
+            <trans-unit>
+                <source>review</source>
+                <target>opinie</target>
+            </trans-unit>
+            <trans-unit>
+                <source>events</source>
+                <target>un eveniment</target>
+            </trans-unit>
+            <trans-unit>
+                <source>List was successfully created.</source>
+                <target>Lista a fost creată cu succes.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>List was deleted successfully.</source>
+                <target>Lista a fost ștearsă cu succes.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Your list was successfully updated!</source>
+                <target>Lista ta a fost actualizată cu succes</target>
+            </trans-unit>
+            <trans-unit>
+                <source>We couldn't find a place beginning with:</source>
+                <target>Nu am putut găsi un loc care începe cu:</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Closed</source>
+                <target>Închis</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Top Places in %city%</source>
+                <target>Cele mai bune locuri în %city%</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Top Review for %city%</source>
+                <target>Cea mai bună recomandare pentru %city%</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Recommended for %sector% in  %city%</source>
+                <target>%sector% - locuri recomandate în %city%</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Top Reviews for %sector% in %city%</source>
+                <target>Cele mai bune recomandări pentru %sector% în %city%</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Choose From:</source>
+                <target>Alege din:</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Top Review for %sector% in %city%</source>
+                <target>Cea mai bună recomandare pentru %sector% în %city%</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Sorry, the place you were looking for does no longer exist at this web address.</source>
+                <target>Ne pare rău, locul pe care-l cauți nu mai există la acest URL.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>You might find similar places if you browse through the places listed in getlokal!</source>
+                <target>Îți recomandăm să cauți prin locurile listate pe getlokal!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>On getlokal you can read recommendations written by people like you and write your own which will help you take more informed decisions! You can also make lists with useful places, add photos of places and win prizes in our campaigns!</source>
+                <target>Pe getlokal poți citi recomandări scrise de oameni ca tine și poți, la rândul tău, să recomanzi servicii, locuri și produse! Poți face liste cu locuri, poți adăuga fotografii și poți câștiga premii în campaniile getlokal!</target>
+            </trans-unit>
+            <trans-unit>
+                <source><![CDATA[Badge unlocked by <span> %s%s </span> of users]]></source>
+                <target><![CDATA[Badge deblocat de <span> %s%s </span> din useri.]]></target>
+            </trans-unit>
+            <trans-unit>
+                <source><![CDATA[Badge unlocked by <strong> %s%s </strong> of users]]></source>
+                <target><![CDATA[Badge deblocat de <strong> %s%s </strong> din useri.]]></target>
+            </trans-unit>
+            <trans-unit>
+                <source>Locations</source>
+                <target>Locaţii</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Show Places Nearby</source>
+                <target>Arată locuri în zona asta</target>
+            </trans-unit>
+            <trans-unit>
+                <source>[0]No uploaded cover photos yet.|[1]1 uploaded cover photo|(1,+Inf]%count% uploaded cover photos</source>
+                <target>[0]Nu ai uploadat un cover foto încă.|[1]1 cover foto uploaded|(1,+Inf]%count% cover fotos uploaded</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Cover Photo Gallery of %s</source>
+                <target>Galeria de cover foto a %s</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Photo Gallery of %s</source>
+                <target>Galeria foto a %s</target>
+            </trans-unit>
+            <trans-unit>
+                <source>No uploaded photos yet.</source>
+                <target>Nu ai urcat nicio fotografie încă.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>We encountered problem activating your account.</source>
+                <target>Am întâmpinat o problemă în activarea contului tău.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>If you wish us to send you again your activation mail, </source>
+                <target>Dacă vrei să-ţi trimitem din nou mailul de activare,  </target>
+            </trans-unit>
+            <trans-unit>
+                <source>Rate</source>
+                <target>Rate</target>
+            </trans-unit>
+            <trans-unit>
+                <source>set as cover photo</source>
+                <target>setează ca şi cover foto</target>
+            </trans-unit>
+            <trans-unit>
+                <source>You need to select a crop area in your image.</source>
+                <target>Trebuie sa selectezi o zonă pentru decupare în imaginea ta.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Preview</source>
+                <target>Previzualizare</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Your Photo</source>
+                <target>Fotografia ta</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Articles</source>
+                <target>Articole</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Confirm</source>
+                <target>Confirmă</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Followers</source>
+                <target>Followeri</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Following</source>
+                <target>Following</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Messages</source>
+                <target>Mesaje</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Follow</source>
+                <target>Follow</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Unfollow</source>
+                <target>Unfollow</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Send Message</source>
+                <target>Trimite mesaj</target>
+            </trans-unit>
+            <trans-unit>
+                <source>View Messages</source>
+                <target>Vezi mesaj</target>
+            </trans-unit>
+            <trans-unit>
+                <source>[0]No followers|[1]1 follower|(1,+Inf]%count% followers</source>
+                <target>[0]Niciun follower|[1]1 follower|(1,+Inf]%count% followeri</target>
+            </trans-unit>
+            <trans-unit>
+                <source>[0]No users or places being followed.|[1]1 followed.|(1,+Inf]%count% followed</source>
+                <target>[0]Nu urmăreşti niciun loc sau utilizator.|[1]1 followed|(1,+Inf]%count% followed</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Your message was sent successfully</source>
+                <target>Mesajul tău a fost trimis cu succes</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Contact Followers</source>
+                <target>Contactează followerii</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Select All</source>
+                <target>Select all</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Latest News</source>
+                <target>Ultimele ştiri</target>
+            </trans-unit>
+            <trans-unit>
+                <source>More Info</source>
+                <target>mai multe informaţii</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Options</source>
+                <target>Opţiuni</target>
+            </trans-unit>
+            <trans-unit>
+                <source>loading...</source>
+                <target>Se încarcă...</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Thank you for registering with getlokal!</source>
+                <target>Mulțumim că te-ai înregistrat pe getlokal!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Search for</source>
+                <target>Căutare</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Select Country</source>
+                <target>Alege țara</target>
+            </trans-unit>
+            <trans-unit>
+                <source>in</source>
+                <target>in</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Edit </source>
+                <target>Editează</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Contact Us</source>
+                <target>Contactează-ne</target>
+            </trans-unit>
+            <trans-unit>
+                <source>About getlokal</source>
+                <target>Despre getlokal</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Team</source>
+                <target>Echipă</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Timeline</source>
+                <target>Scurt istoric</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Contact form</source>
+                <target>Formular de contact</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Office Addresses</source>
+                <target>Adresă</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Rules of games</source>
+                <target>Regulamentul concursului</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Free</source>
+                <target>Gratuit</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Paid</source>
+                <target>Cu plată</target>
+            </trans-unit>
+            <trans-unit>
+                <source>You are already an administrator for this place and cannot write reviews for it but only reply to reviews by other users about your place.</source>
+                <target>Ești deja administratorul acestui loc, așa că nu poți scrie review-uri, ci doar răspunde celor deja existente postate de alți utilizatori.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Save</source>
+                <target>Salvează</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Embed</source>
+                <target>Embed</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Place Widget</source>
+                <target>Widget Loc</target>
+            </trans-unit>
+            <trans-unit>
+                <source>If you just want to grab this place details and show them on your blog or site, just customise the settings below and paste the code in your source file.</source>
+                <target>Dacă vrei să afișezi pe site-ul sau blogul tău informații despre acest loc, copiază codul de mai jos în sursa HTML acolo unde vrei să apară. Înainte de asta, poți personaliza fundalul (dark, light) sau lățimea.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Events Widget</source>
+                <target>Widget Evenimente</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Do you run a events related blog or website? You can take-away some fresh content from getlokal. Just customize the looks and content, grab the code and paste it in the source code where you want it to show.</source>
+                <target>Ai un blog sau site pe care vrei să afișezi cele mai tari evenimente din oraș? Poți obține evenimentele la zi cu acest widget. Personalizează fundalul, categoriile de evenimente care te intereseză și lățimea și apoi copiază codul in surca HTML acolo unde vrei să apară.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Please fill in all mandatory fields.</source>
+                <target>Te rugăm să completezi toate câmpurile obligatorii.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Deleting Review</source>
+                <target>Șterge review</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Are you sure you want to delete your review?</source>
+                <target>Ești sigur că vrei să ștergi acest review?</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Deleting Event</source>
+                <target>Șterge eveniment</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Deleting List</source>
+                <target>Șterge list</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Deleting Article</source>
+                <target>Șterge articol</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Are you sure you want to delete your event?</source>
+                <target>Ești sigur că vrei să ștergi acest eveniment?</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Are you sure you want to delete your article?</source>
+                <target>Ești sigur că vrei să ștergi acest articol?</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Are you sure you want to delete your list?</source>
+                <target>Ești sigur că vrei să ștergi această listă?</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Are you sure you want to approve </source>
+                <target>Ești sigur că vrei să aprobi </target>
+            </trans-unit>
+            <trans-unit>
+                <source>Are you sure you want to reject </source>
+                <target>Ești sigur că vrei să declini </target>
+            </trans-unit>
+            <trans-unit>
+                <source>Are you sure you want to deactivate </source>
+                <target>Ești sigur că vrei să dezactivezi contul </target>
+            </trans-unit>
+            <trans-unit>
+                <source>Are you sure you want to delete the current file?</source>
+                <target>Ești sigur/sigură că vrei să ștergi fișierul curent?</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Delete file</source>
+                <target>Șterge fișierul</target>
+            </trans-unit>
+            <trans-unit>
+                <source> as admin for </source>
+                <target> ca administrator </target>
+            </trans-unit>
+            <trans-unit>
+                <source>approve</source>
+                <target>aprobare</target>
+            </trans-unit>
+            <trans-unit>
+                <source>reject</source>
+                <target>refuză</target>
+            </trans-unit>
+            <trans-unit>
+                <source>yes</source>
+                <target>da</target>
+            </trans-unit>
+            <trans-unit>
+                <source>All sectors</source>
+                <target>Toate sectoarele</target>
+            </trans-unit>
+            <trans-unit>
+                <source>All locations</source>
+                <target>Toate orasele</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Add Place</source>
+                <target>Adaugă un loc</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Upload a new PDF file</source>
+                <target>încarcp un fișier nou tip PDF</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Menu</source>
+                <target>Meniu</target>
+            </trans-unit>  
+            <trans-unit>
+                <source>Prices</source>
+                <target>Prețuri</target>
+            </trans-unit>  
+            <trans-unit>
+                <source>Catalogue</source>
+                <target>Catalog</target>
+            </trans-unit>  
+            <trans-unit>
+                <source>Products</source>
+                <target>Produse</target>
+            </trans-unit>  
+            <trans-unit>
+                <source>Services</source>
+                <target>Servicii</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Sort by:</source>
+                <target>Ordonează după:</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Discount high to low</source>
+                <target>Ordonează descrescător</target>
+            </trans-unit> 
+            <trans-unit>
+                <source>Discount low to high</source>
+                <target>Ordonează crescător</target>
+            </trans-unit> 
+            <trans-unit>
+                <source>Latest</source>
+                <target>Recent</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Expiring soon</source>
+                <target>Expiră curent</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The current file has been successfully deleted.</source>
+                <target>Fișierul curent a fost șters cu success.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>See all in </source>
+                <target>Toate din </target>
+            </trans-unit>
+            <trans-unit>
+                <source>All categories</source>
+                <target>Toate categoriile</target>
+            </trans-unit>
+            <trans-unit>
+                <source>%what% in %where%</source>
+                <target>%what% în %where%</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Find places around you,</source>
+                <target>Cauta locuri pe langa tine,</target>
+            </trans-unit>
+            <trans-unit>
+                <source>download getlokal app.</source>
+                <target>Descarca aplicatia Getlokal.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Continue to the website</source>
+                <target>Nu acum, continua catre site-ul desktop</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Available on the</source>
+                <target>Din</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Get it on</source>
+                <target>Din</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Changes to "My Places"</source>
+                <target>Modificări nesalvate</target>
+            </trans-unit>
+            <trans-unit>
+                <source>You made some changes. What do you want to do with them?</source>
+                <target>Ai făcut niște modificări și nu le-ai salvat. Cum vrei să procedezi?</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Save</source>
+                <target>Salvează-le</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Continue without saving</source>
+                <target>Mai departe fără salvare</target>
+            </trans-unit>   
+            <trans-unit>
+                <source>%what% in %where%</source>
+                <target>%what% în %where%</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Log in/Register to link the places you added with your account!</source>
+                <target>Fă-ți cont/Login pentru a a primi credit pentru locurile adăugate.</target>
+            </trans-unit>
+    
+            <trans-unit>
+                <source>Login with Email</source>
+                <target>Fă-ți cont cu email-ul</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Login with Facebook</source>
+                <target>Fă-ți cont cu Facebook</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Login / Register</source>
+                <target>Login / Fă-ţi cont</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Not registered?</source>
+                <target>Încă nu ai un cont Getlokal?</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Enter your EIK/Bulstat</source>
+                <target>CUI de afaceri</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Thank you for sending your reservation request. Getlokal will forward it to the relevant person and they will be in touch with you shortly.</source>
+                <target>Mulțumim pentru cererea de rezervare. Am trimis-o mai departe și veți primi un răspuns cât se poate de rapid.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Your username should contain only alphanumeric characters, dash, dot or underscore</source>
+                <target>Numele tău de utilizator trebuie să conţină numai caractere alfanumerice, linie, punct sau underscore</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Getlokal is celebrating</source>
+                <target>Getlokal sărbătorește</target>
+            </trans-unit>
+            <trans-unit>
+                <source>the SUMMER!</source>
+                <target>VARA!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>1 review  = 1 chance to win</source>
+                <target>1 review = 1 șansă la premii</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Find your favourite places,</source>
+                <target>Găsește locurile tale preferate,</target>
+            </trans-unit>
+            <trans-unit>
+                <source>write a review, win a prize!</source>
+                <target>scrie un review, câștigă!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Search by keyword or by category:</source>
+                <target>Caută după cuvinte cheie sau în funcție de categorii:</target>
+            </trans-unit>
+            <trans-unit>
+                <source>* Important: Duplicated or uncensored reviews will be deleted</source>
+                <target>Important: review-urile duplicate sau cele care au un limbaj ofensator ori obscen vor fi descalificate. Suntem mari fani ai bunului simț :)</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Latest written reviews</source>
+                <target>Ultimele review-uri</target>
+            </trans-unit>
+            <trans-unit>
+                <source>CAMPAIGN ended Aug 27th. Winners will be announced Monday, Sept 1st.</source>
+                <target>CONCURSUL S-A TERMINAT pe 27 AUGUST. Câștigătorii vor fi anunțati luni, 1 septembrie.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Write and win!</source>
+                <target>Scrie un review și câștigă!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Congrats!</source>
+                <target>Felicitări!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>[0]|[1]You now have 1 change to win a prize|(1,+Inf]You now have %count% chances to win a prize</source>
+                <target>[0]|[1]Ai o șansă să câștigi un premiu|(1,+Inf]Ai %count% șanse să câștigi un premiu</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Carry on writing reviews - increase your chances for winning a prize and help others with our reviews</source>
+                <target>Continuă să postezi review-uri: îți cresc șansele să câștigi premii și îi ajuți pe alții să descopere locurile vizitate de tine.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Learn more about the game</source>
+                <target>Citește mai multe despre concurs</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Prizes</source>
+                <target>Premii</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Terms and conditions</source>
+                <target>Termeni și condiții</target>
+            </trans-unit>
+            <trans-unit>
+                <source> here</source>
+                <target> aici</target>
+            </trans-unit>
+            <trans-unit>
+                <source>HTC Desire 610</source>
+                <target>HTC Desire 610</target>
+            </trans-unit>
+            <trans-unit>
+                <source>HTC Battery Bar</source>
+                <target>Baterie externă HTC</target>
+            </trans-unit>
+            <trans-unit>
+                <source>HTC Battery Bar</source>
+                <target>Baterie externă HTC</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Write and win: 1 x HTC Desire 610 or 2 x HTC Battery Bar</source>
+                <target><![CDATA[Scrie și câștigă: un smartphone HTC Desire 610 <p style="line-height:0%;">sau două baterii externe HTC</p>]]></target>
+            </trans-unit>
+            <trans-unit>
+                <source>By writing a review you agree with</source>
+                <target>Prin participarea la concurs, ești</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Terms and conditions of the current game.</source>
+                <target>de acord cu Termenii și Condițiile.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Read more...</source>
+                <target>Citește mai multe</target>
+            </trans-unit>
+            <trans-unit>
+                <source><![CDATA[Prizes will receive the best written reviews, based on the discretion of our jury, therefore we expect to read about your emotions and honest reviews about the places you have visited. Every member of the jury will choose one winner who will win the prize. The Getlokal team will choose 3 reviews, that will be the finalists for the prize Samsung Galaxy S4. The review which receives the most votes from our fans on <a href="https://www.facebook.com/getlokal">Facebook</a>, will win the prize.]]></source>
+
+                <target><![CDATA[Juriul format din Getlokal si HTC va alege 3 cel mai bune review-uri. Te sfătuim să scrii review-uri oneste despre locuri pe care le-ai vizitat.  Cele 3 review-uri finaliste vor fi postate pe pagina noastră de <a href="https://www.facebook.com/getlokal.ro">Facebook</a>, iar review-ul cu cele mai multe voturi din partea prietenilor va câștiga telefonul HTC Desire 610 iar locurile 2 și 3 vor câștiga câte un HTC Battery Bar.]]></target>
+            </trans-unit>
+            <trans-unit>
+                <source>Jury</source>
+                <target>Juriu</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Thank you! If the place is claimed, we will sent your suggestions to the owner. If not, we will manually verify and update the details of the place.</source>
+                <target>Multumim! Dacă locul este revendicat o să trimitem propunerile tale către proprietar. Dacă nu, le vom verifica noi manual si vom actualiza datele locului.</target>
+            </trans-unit>
+
+
+            <!-- NEW DESIGN -->
+
+            <trans-unit>
+                <source>Add new</source>
+                <target>Adaugă</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Place</source>
+                <target>Loc</target>
+            </trans-unit>
+             <trans-unit>
+                <source>Install</source>
+                <target>Instalează</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Getlokal app</source>
+                <target>aplicația Getlokal</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Sponsored</source>
+                <target>Publicitate</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Advertise</source>
+                <target>Reclamă</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Scroll to top</source>
+                <target>Scroll în partea de sus a paginii</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Scroll to bottom</source>
+                <target>Scroll în josul paginii</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Categories</source>
+                <target>Caută categorie</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Leave Comment</source>
+                <target>Напиши коментар</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Your Getlokal</source>
+                <target>Getlokal e al tău</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Places</source>
+                <target>Locuri</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Planning a great night out looking for a recommended beauty salon, or a trendy bar - you will find everything you search in Getlokal</source>
+                <target>Fie că pui la cale o super ieșire în oraș sau cauți un bar trendy sau un salon de frumusețe recomandat - o să le găsești pe toate pe Getlokal</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Concerts, exhibitions, parties – Getlokal will show you when and where local events are happening</source>
+                <target>Concerte, expoziții, petreceri - Getlokal îți va arăta când și unde se întamplă tot ce contează</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Couldn't find the place you were looking for? Send it to us and we'll add it.</source>
+                <target>Nu poți găsi locul pe care îl cauți? Trimite-ne datele sale și îl vom adăuga.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Couldn't find the place you were looking for? %s and we'll add it.</source>
+                <target>Nu poți găsi locul pe care îl cauți? %s și îl vom adăuga.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Like and follow us</source>
+                <target>Like and Follow</target>
+            </trans-unit>
+
+            <trans-unit>
+                <source>[0]0 places|[1]1 place|(1,+Inf]%count% places</source>
+                <target>[0]0 Locuri|[1]1 Loc|(1,+Inf]%count% Locuri</target>
+            </trans-unit>
+
+            <trans-unit>
+                <source>were found in</source>
+                <target>au fost găsite în</target>
+            </trans-unit>
+
+            <trans-unit>
+                <source>for</source>
+                <target>pentru</target>
+            </trans-unit>
+
+            <trans-unit>
+                <source>Places in %city%</source>
+                <target>Locuri în %city%</target>
+            </trans-unit>
+            
+
+            
+        </body>
+    </file>
+</xliff>

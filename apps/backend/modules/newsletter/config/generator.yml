@@ -1,0 +1,28 @@
+generator:
+  class: sfDoctrineGenerator
+  param:
+    model_class:           Newsletter
+    theme:                 admin
+    non_verbose_templates: true
+    with_show:             false
+    singular:              ~
+    plural:                ~
+    route_prefix:          newsletter
+    with_doctrine_route:   true
+    actions_base_class:    sfActions
+
+    config:
+      actions: ~
+      fields:  ~
+      list:
+        table_method:  getQueryForAdmin
+        display:       [ id, is_active, name, country_id, user_group, created_at,updated_at]
+        object_actions:
+          _edit:      ~
+          _delete:    ~
+          package:     { label: Update Users, action: updateUsers }    
+      filter:   
+        display:  [is_active, mailchimp_group, user_group, created_at, updated_at]
+      form:    ~
+      edit:    ~
+      new:     ~

@@ -1,0 +1,51 @@
+<?xml version="1.0" ?>
+<xliff version="1.0">
+    <file orginal="global" source-language="en_EN" datatype="plaintext">
+        <body>
+            <trans-unit>
+                <source>a few seconds ago</source>
+                <target>пред неколку секунди</target>
+            </trans-unit>
+            <trans-unit>
+                <source>%s min ago</source>
+                <target>пред %s мин.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>%sh ago</source>
+                <target>пред %s с.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>over %s day ago</source>
+                <target> пред повеќе од еден ден</target>
+            </trans-unit>
+            <trans-unit>
+                <source>%s days ago</source>
+                <target>пред %s дена</target>
+            </trans-unit>
+            <trans-unit>
+                <source>over %s week ago</source>
+                <target>пред повеќе од %s недела</target>
+            </trans-unit>
+            <trans-unit>
+                <source>over %s weeks ago</source>
+                <target>пред повеќе од %s недели</target>
+            </trans-unit>
+            <trans-unit>
+                <source>over %s month ago</source>
+                <target>пред повеќе од %s месец</target>
+            </trans-unit>
+            <trans-unit>
+                <source>over %s months ago</source>
+                <target>пред повеќе од %s месеци</target>
+            </trans-unit>
+            <trans-unit>
+                <source>over %s year ago</source>
+                <target>пред повеќе од %s година</target>
+            </trans-unit>
+            <trans-unit>
+                <source>over %s years ago</source>
+                <target>пред повеќе од %s години</target>
+            </trans-unit>       
+        </body>
+    </file>
+</xliff>

@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<xliff version="1.0">
+    <file orginal="global" source-language="en_EN" datatype="plaintext">
+        <body>    
+            <trans-unit>
+                <source>Report content as</source>
+                <target>Prijavite sadržaj kao:</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Your e-mail:</source>
+                <target>Vaša email adresa:</target>
+            </trans-unit>	
+            <trans-unit>
+                <source>Your name:</source>
+                <target>Vaše ime:</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Your message:</source>
+                <target>Vaša poruka:</target>
+            </trans-unit>  
+        </body>
+    </file>
+</xliff>

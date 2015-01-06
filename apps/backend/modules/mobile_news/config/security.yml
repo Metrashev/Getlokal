@@ -1,0 +1,5 @@
+default:
+  is_secure: true
+  credentials: [[mobile_slider_bg, mobile_slider_ro, mobile_slider_sr, mobile_slider_mk, mobile_slider_fi]]
+logout:
+    is_secure: false

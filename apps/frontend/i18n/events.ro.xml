@@ -1,0 +1,366 @@
+<?xml version="1.0" ?>
+<xliff version="1.0">
+    <file orginal="global" source-language="en_EN" datatype="plaintext">
+        <body>
+            <trans-unit>
+                <source>New Event</source>
+                <target>Nou Eveniment</target>
+            </trans-unit>
+            <trans-unit>
+                <source>in</source>
+                <target>in</target>
+            </trans-unit>
+            <trans-unit>
+                <source>by</source>
+                <target>de</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Edit Event</source>
+                <target>Editare Eveniment</target>
+            </trans-unit>
+            <trans-unit>
+                <source>When</source>
+                <target>Cand</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Where</source>
+                <target>Unde</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Edit Event</source>
+                <target>Editare Eveniment</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Invite</source>
+                <target>Invita</target>
+            </trans-unit>
+            <trans-unit>
+                <source>created by</source>
+                <target>creat de</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Past Events</source>
+                <target>Trecute</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Events</source>
+                <target>Evenimente</target>
+            </trans-unit>
+            <trans-unit>
+                <source>to</source>
+                <target>spre</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Upcoming events</source>
+                <target>Evenimente viitoare</target>
+            </trans-unit>
+            <trans-unit>
+                <source>published by</source>
+                <target>publicat de către</target>
+            </trans-unit>
+            <trans-unit>
+                <source>No results found</source>
+                <target>Nu sunt găsite rezultate.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Event was submitted successfully.</source>
+                <target>Evenimentul a fost trimis cu succes.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>%s invited you to %s</source>
+                <target>%s te-a invitat la %s</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Add the venue for your event. If you don't know the venue, just add the town/city!</source>
+                <target>Locul unde are loc evenimentul. Dacă nu ști locul, adauga orașul!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Add a link to a website with more information about this event!</source>
+                <target>Link către pagina cu mai multe detalii despre acest eveniment!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Add a link to a website with information on how to buy a ticket, book a place or register for this event!</source>
+                <target>Link către pagina de unde se pot cumpăra bilete sau de unde se poate face o rezervare!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>My Events</source>
+                <target>Evenimentele mele</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Events in %s</source>
+                <target>Evenimente în %s</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Events with Tickets in %s</source>
+                <target>Evenimente cu bilete din %s</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Add Event</source>
+                <target>Adaugă eveniment</target>
+            </trans-unit>
+            <trans-unit>
+                <source>%s Past Events</source>
+                <target>Evenimente Trecute - %s</target>
+            </trans-unit>
+            <trans-unit>
+                <source>See All Past Events in Romania</source>
+                <target>Vezi toate evenimente din trecut din România</target>
+            </trans-unit>
+            <trans-unit>
+                <source>All Past Events</source>
+                <target>Toate Evenimente Trecute</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Free</source>
+                <target>Gratuit</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Up to 20 RON</source>
+                <target>până în 20 RON</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Up to 100 RON</source>
+                <target>până în 100 RON</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Up to 200 RON</source>
+                <target>până în 200 RON</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Over 200 RON</source>
+                <target>peste în 200 RON</target>
+            </trans-unit>
+
+
+            <trans-unit>
+                <source>Up to 10 RON</source>
+                <target>până în 10 RON</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Up to 50 RON</source>
+                <target>până în 50 RON</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Up to 100 RON</source>
+                <target>până în 100 RON</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Over 100 RON</source>
+                <target>peste în 100 RON</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Choose...</source>
+                <target>Alege...</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Select...</source>
+                <target>Alege...</target>
+            </trans-unit>
+            <trans-unit>
+                <source>More</source>
+                <target>Detalii</target>
+            </trans-unit>
+            <trans-unit>
+                <source>%s in %s</source>
+                <target>%s în %s</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Location</source>
+                <target>Locatie</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Date</source>
+                <target>Data</target>
+            </trans-unit>
+            <trans-unit>
+                <source>See More Events</source>
+                <target>Vezi mai multe evenimente</target>
+            </trans-unit>
+            <trans-unit>
+                <source>All categories</source>
+                <target>Toate categoriile</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Buy Now</source>
+                <target>Buy Now</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The event was not saved. Please fill in all mandatory fields.</source>
+                <target>Еveniment nu a fost salvat. Vă rugăm să completaţi toate câmpurile obligatorii.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The event title and terms are mandatory for at least one of the two language versions.</source>
+                <target>Titlul şi condiţiile еveniment sunt obligatorii în cel puţin una din cele două versiuni lingvistice.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>By Author</source>
+                <target>Ale Autorului evenimentului</target>
+            </trans-unit>
+            <trans-unit>
+                <source>By Attendees</source>
+                <target>Ale Participanților la eveniment</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Tickets Available</source>
+                <target>Cumpără bilete</target>
+            </trans-unit>
+            <trans-unit>
+                <source>PLACES NEARBY</source>
+                <target>Locuri în apropiere</target>
+            </trans-unit>
+            <trans-unit>
+                <source>You Can Also Visit</source>
+                <target>Poți să mai vizitezi</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Similar Events</source>
+                <target>Evenimente similare</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Attended Events</source>
+                <target>Va participa la</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Previous Day</source>
+                <target>Cu o zi înainte</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Next Day</source>
+                <target>Următoarea zi</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Sorry, we don't have any events just yet. Please help us by posting the events you know about and sharing them with us. Thank you!</source>
+                <target>Ne pare rau, nu am publicat evenimente momentan. Ne po?i ajuta! Posteaza singur evenimentele de care ai aflat, pentru a le promova ?i catre ceilal?i! Mul?umim.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Select Category</source>
+                <target>Alege Categoria</target>
+            </trans-unit>
+            <trans-unit>
+                <source>From</source>
+                <target>De la</target>
+            </trans-unit>
+            <trans-unit>
+                <source>To</source>
+                <target>până la</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Select Time</source>
+                <target>Selectați ora</target>
+            </trans-unit>
+            <trans-unit>
+                <source>by</source>
+                <target>de</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Select category</source>
+                <target>Selectați categoria</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Today</source>
+                <target>Azi</target>
+            </trans-unit>
+
+            <!-- NEW DESIGN -->
+
+            <trans-unit>
+                <source>Choose to see</source>
+                <target>Alege să vezi</target>
+            </trans-unit>
+
+            <trans-unit>
+                <source>Past Events</source>
+                <target>Trecute</target>
+            </trans-unit>
+
+            <trans-unit>
+                <source>Future Events</source>
+                <target>Viitoare</target>
+            </trans-unit>
+
+            <trans-unit>
+                <source>Today's events</source>
+                <target>Evenimentele de astăzi</target>
+            </trans-unit>
+
+            <trans-unit>
+                <source>Recommended Places</source>
+                <target>Locuri recomandate</target>
+            </trans-unit>
+
+            <trans-unit>
+                <source>Events in %s</source>
+                <target>Evenimente în %s</target>
+            </trans-unit>
+
+            <trans-unit>
+                <source>Share your review on Facebook</source>
+                <target>Publică pe Facebook recomandarea ta</target>
+            </trans-unit>
+
+            <trans-unit>
+                <source>RECOMMENDATIONS FOR EVENTS IN %s</source>
+                <target>Recomandări de Evenimente în %s</target>
+            </trans-unit>
+ 
+            <trans-unit>
+                <source>Incoming events</source>
+                <target>Viitoare</target>
+            </trans-unit>
+
+            <trans-unit>
+                <source>Past events</source>
+                <target>Trecute</target>
+            </trans-unit>
+            
+            <trans-unit>
+                <source>This event is created by</source>
+                <target>Acest eveniment este creat de</target>
+            </trans-unit>
+
+
+            <trans-unit>
+                <source>By author</source>
+                <target>Ale Autorului evenimentului</target>
+            </trans-unit>
+
+            <trans-unit>
+                <source>By Attenders</source>
+                <target>Ale Participanților la eveniment</target>
+            </trans-unit>
+
+            <trans-unit>
+                <source>More events from</source>
+                <target>Mai multe evenimente de la</target>
+            </trans-unit>
+
+            <trans-unit>
+                <source>Will Аttend</source>
+                <target>Voi participa</target>
+            </trans-unit>
+
+            <trans-unit>
+                <source>Attending</source>
+                <target>Participă</target>
+            </trans-unit>
+            
+
+            <trans-unit>
+                <source>Won't Attend</source>
+                <target>Nu voi participa</target>
+            </trans-unit>
+
+            <trans-unit>
+                <source>uploaded by: </source>
+                <target>Publicat de: </target>
+            </trans-unit>
+
+
+            <trans-unit>
+                <source>Buy Now</source>
+                <target>Buy Now</target>
+            </trans-unit>
+
+        </body>
+    </file>
+</xliff>

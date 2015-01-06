@@ -1,0 +1,5 @@
+
+all:
+    stylesheets: [-*, widget.css]
+    javascripts: [-*, jquery.js, widget.js]
+    layout: widget

@@ -1,0 +1,14 @@
+newSuccess:
+  javascripts: [tiny_mce/jquery.tinymce.js,tiny_mce/tiny_mce.js]
+  stylesheets: [ui-lightness/jquery-ui-1.8.16.custom.css]
+editSuccess:
+  stylesheets: [ui-lightness/jquery-ui-1.8.16.custom.css]
+  javascripts: [tiny_mce/jquery.tinymce.js, tiny_mce/tiny_mce.js, jquery.ui.dialog.js]
+recommendedSuccess:
+  javascripts: [jquery.jcarousel.js]
+  stylesheets: [events.css, select-menu/select2-pink.css, select-menu/select2-custom.css]
+indexSuccess:
+  stylesheets: [events.css, select-menu/select2-pink.css]
+showSuccess:
+ # javascripts: [jquery.sticky.js]
+  stylesheets: [events.css, select-menu/select2-pink.css, select-menu/select2-custom.css]

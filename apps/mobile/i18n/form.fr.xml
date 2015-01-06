@@ -1,0 +1,1257 @@
+<?xml version="1.0" ?><xliff version="1.0">
+  <file datatype="plaintext" original="global" source-language="en">
+    <body>
+      <trans-unit id="1">
+        <source>There is no user registered with the this email</source>
+        <target>Aucun utilisateur n'est enregistré à adresse email.</target>
+        
+      </trans-unit>
+      <trans-unit id="2">
+        <source>Day, month and year are mandatory fields</source>
+        <target>Le jour, mois et année sont des champs obligatoires.</target>
+        
+      </trans-unit>
+      <trans-unit id="3">
+        <source>Username &quot;%value%&quot; cannot be used</source>
+        <target>Le nom de l'utilisateur &quot;%value%&quot; ne peut pas être utilisé.</target>
+        
+      </trans-unit>
+      <trans-unit id="4">
+        <source>The username &quot;%value%&quot; contains characters that are not allowed</source>
+        <target>Le nom de l'utilisateur &quot;%value%&quot; contient des caractères non autorisés.</target>
+        
+      </trans-unit>
+      <trans-unit id="5">
+        <source>Username must contain at least %min_length% characters</source>
+        <target>Le nom de l'utilisateur doit contenir au minimum %max_length% caractères</target>
+        
+      </trans-unit>
+      <trans-unit id="6">
+        <source>Username cannot contain more than %max_length% characters.</source>
+        <target>Le nom de l'utilisateur ne peut pas contenir plus de %max_length% caractères.</target>
+        
+      </trans-unit>
+      <trans-unit id="7">
+        <source>Invalid email – your email is not in the correct format</source>
+        <target>Adresse email non valide – Le format de votre adresse email n'est pas correct.</target>
+        
+      </trans-unit>
+      <trans-unit id="8">
+        <source>&quot;%value%&quot; is too short.  The username should be at least 3 characters.</source>
+        <target>&quot;%value%&quot; est trop court. Le nom de l'utilisateur doit contenir au minimum 3 caractères.</target>
+        
+      </trans-unit>
+      <trans-unit id="9">
+        <source>Your password should be at least %min_length% characters long</source>
+        <target>Votre mot de passe doit contenir au minimum %min_length% caractères.</target>
+        
+      </trans-unit>
+      <trans-unit id="10">
+        <source>Your password cannot contain more than %max_length% characters</source>
+        <target>Votre mot de passe ne peut pas contenir plus de %max_length% caractères.</target>
+        
+      </trans-unit>
+      <trans-unit id="11">
+        <source>We will send the new password, to the email address you provided during registration</source>
+        <target>Nous vous enverrons le nouveau mot de passe à l'adresse e-mail que vous avez fourni lors de votre inscription.</target>
+        
+      </trans-unit>
+      <trans-unit id="12">
+        <source>The passwords do not match</source>
+        <target>Le mot de passe ne correspond pas</target>
+        
+      </trans-unit>
+      <trans-unit id="13">
+        <source>This email address has already been registered by another user</source>
+        <target>Cette adresse email est déjà enregistrée par un autre utilisateur.</target>
+        
+      </trans-unit>
+      <trans-unit id="14">
+        <source>This username is already in use</source>
+        <target>Ce nom d'utilisateur est déjà utilisé</target>
+        
+      </trans-unit>
+       <trans-unit id="15">
+        <source>This field is mandatory. Please start typing the name of your home location and select from the list.</source>
+        <target>Ce champ est obligatoire. Veuillez commencer par inscrit votre lieu de résidence puis choisir dans la liste.</target>
+        
+      </trans-unit>
+      <trans-unit id="16">
+        <source>You have entered the text incorrectly. Please try again.</source>
+        <target>Vous avez saisi le texte incorrectement. Veuillez essayez de nouveau.</target>
+        
+      </trans-unit>
+      <trans-unit id="17">
+        <source>Please retype your password.</source>
+        <target>Veuillez saisir  votre mot de passe de nouveau .</target>
+        
+      </trans-unit>
+	  <trans-unit id="18">
+        <source>Please retype your password.</source>
+        <target>Veuillez saisir de nouveau votre mot de passe de nouveau.</target>
+        
+      </trans-unit>
+      <trans-unit id="19">
+        <source>Email is required</source>
+        <target>L'adresse email est obligatoire</target>
+        
+      </trans-unit>
+      <trans-unit id="20">
+        <source>You must select a file to upload</source>
+        <target>Vous devez choisir un fichier à transférer</target>
+        
+      </trans-unit>
+      <trans-unit id="21">
+        <source>The file you submitted is not in a valid format. Please upload a JPG, GIF or PNG image file.</source>
+        <target>Le format du fichier que vous avez envoyé n'est pas valide. Veuillez envoyer un fichier JPG, GIF ou PNG.</target>
+        
+      </trans-unit>
+	  <trans-unit id="22">
+        <source>The file you submitted is not in a valid format. Please upload a JPG, GIF or PNG image file.</source>
+        <target>Le format du fichier que vous avez soumis n'est pas valide. Veuillez envoyez un fichier image au format JPG, GIF ou PNG.</target>
+        
+      </trans-unit>
+      <trans-unit id="23">
+        <source>File size limit is 4MB. Please reduce file size before submitting again.</source>
+        <target>La limite de taille du fichier est 4 MB. Veuillez réduire la taille du fichier.avant de le soumettre à nouveau.</target>
+        
+      </trans-unit>
+      <trans-unit id="24">
+        <source>File size limit is 2MB.Please reduce file size.</source>
+        <target>La limite de taille du fichier est 2 MB. Veuillez réduire la taille du fichier.</target>
+        
+      </trans-unit>
+      <trans-unit id="25">
+        <source>Caption &quot;%value%&quot; contains forbidden characters</source>
+        <target>La légende &quot;% value%&quot; contient des caractères non autorisés</target>
+        
+      </trans-unit>
+      <trans-unit id="26">
+        <source>Caption &quot;%value%&quot; contains forbidden words</source>
+        <target>La légende &quot;% value%&quot; contient des mots non autorisés</target>
+        
+      </trans-unit>
+      <trans-unit id="27">
+        <source>Type photo caption</source>
+        <target>Type de légende de photo</target>
+        
+      </trans-unit>
+	  <trans-unit id="28">
+        <source>Type photo caption</source>
+        <target>Type de légende de photo</target>
+        
+      </trans-unit>
+      <trans-unit id="29">
+        <source>Caption must contain at least %min_length% characters</source>
+        <target>La légende doit contenir au minimum %min_length% caractères.</target>
+        
+      </trans-unit>
+      <trans-unit id="30">
+        <source>The caption cannot contain more than %max_length% characters.</source>
+        <target>La légende ne peut pas contenir plus de %max_length% caractères.</target>
+        
+      </trans-unit>
+      <trans-unit id="31">
+        <source>The review cannot contain more than %max_length% characters. Shorten your review.</source>
+        <target>L'avis ne peut pas contenir plus de %max_length% caractères. Rédigez votre avis plus court.</target>
+        
+      </trans-unit>
+       <trans-unit id="32">
+        <source>The review must contain at least %min_length% characters</source>
+        <target>L'avis doit contenir au minimum %min_length% caractères.</target>
+        
+      </trans-unit>
+      <trans-unit id="33">
+        <source>The review contains characters that are not allowed</source>
+        <target>L'avis contient des caractères qui ne sont pas autorisés.</target>
+        
+      </trans-unit>
+      <trans-unit id="34">
+        <source>The review contains words that are not allowed</source>
+        <target>L'avis contient des mots qui ne sont pas autorisés.</target>
+        
+      </trans-unit>
+      <trans-unit id="35">
+        <source>The answer cannot contain more than %max_length% characters</source>
+        <target>La réponse ne peut pas contenir plus de %max_length% caractères.</target>
+        
+      </trans-unit>
+       <trans-unit id="36">
+        <source>The answer must contain at least %min_length% characters</source>
+        <target>La réponse doit contenir au minimum %min_length% caractères.</target>
+        
+      </trans-unit>
+       <trans-unit id="37">
+        <source>The review cannot contain more than %max_length% characters</source>
+        <target>L'avis ne peut pas contenir plus de %max_length% caractères.</target>
+        
+      </trans-unit>
+      <trans-unit id="38">
+        <source>the answer contains words that are not allowed</source>
+        <target>La réponse contient des caractères qui ne sont pas autorisés.</target>
+        
+      </trans-unit>
+      <trans-unit id="39">
+        <source>Type Review</source>
+        <target>Type d'avis</target>
+        
+      </trans-unit>
+      <trans-unit id="40">
+        <source>The caption must contain at least 3 characters</source>
+        <target>La légende doit contenir au minimum 3 caractères.</target>
+        
+      </trans-unit>
+      <trans-unit id="41">
+        <source>The caption cannot contain more than 255 characters</source>
+        <target>La légende ne peut pas contenir plus de 255 caractères.</target>
+        
+      </trans-unit>
+      <trans-unit id="42">
+        <source>The field is mandatory</source>
+        <target>Ce champ est obligatoire</target>
+        
+      </trans-unit>
+      <trans-unit id="43">
+        <source>Select Your Position</source>
+        <target>Sélectionner votre situation professionnelle</target>
+        
+      </trans-unit>
+      <trans-unit id="44">
+        <source>Invalid Phone Number</source>
+        <target>Numéro de téléphone incorrect</target>
+        
+      </trans-unit>
+      <trans-unit id="45">
+        <source>This field is mandatory. Select your town/city from the dropdown list.</source>
+        <target>Ce champ est obligatoire. Choisissez votre ville / localité dans la liste déroulante.</target>
+        
+      </trans-unit>
+      <trans-unit id="46">
+        <source>This field cannot contain more than %max_length% characters</source>
+        <target>Ce champ ne peut pas contenir plus de %max_length% caractères.</target>
+        
+      </trans-unit>
+      <trans-unit id="47">
+        <source>Select company type</source>
+        <target>Choisir le type de société</target>
+        
+      </trans-unit>
+      <trans-unit id="48">
+        <source>Select address type</source>
+        <target>Choisir le type d'adresse</target>
+        
+      </trans-unit>
+      <trans-unit id="49">
+        <source>Invalid Postcode</source>
+        <target>Code postal invalide</target>
+        
+      </trans-unit>
+      <trans-unit id="50">
+        <source>You must select Street and/or Nighbourhood</source>
+        <target>Vous devez choisir la rue et/ou le voisinnage</target>
+        
+      </trans-unit>
+      <trans-unit id="51">
+        <source>You must enter Street and/or Nighbourhood</source>
+        <target>Vous devez saisir la rue et/ou le quartier</target>
+        
+      </trans-unit>
+      <trans-unit id="52">
+        <source>You must enter Street Number and/or Entrance</source>
+        <target>Vous devez saisir la rue, le numéro et / ou l'entrée</target>
+        
+      </trans-unit>
+      <trans-unit id="53">
+        <source>You need to register a business account in order to manage you company's listing in getlokal.ro</source>
+        <target>Vous devez créer un compte professionnel afin de gérer le listing de votre société dans getlokal.ro</target>
+        
+      </trans-unit>
+       <trans-unit id="54">
+        <source>Log out of your user profile and register as a business</source>
+        <target>Déconnectez-vous de votre profil d'utilisateur et inscrivez-vous en tant que professionnel.</target>
+        
+      </trans-unit>
+      <trans-unit id="55">
+        <source>Only business users can claim companies!</source>
+        <target>Seuls les utilisateurs professionnels peuvent réclamer des sociétés !</target>
+        
+      </trans-unit>
+      <trans-unit id="56">
+        <source>Enter the URL of Your Blog</source>
+        <target>Entrez l'URL de votre blog</target>
+        
+      </trans-unit>
+      <trans-unit id="57">
+        <source>The field cannot contain more than %max_length% characters</source>
+        <target>Ce champ ne peut pas contenir plus de %max_length% caractères.</target>
+        
+      </trans-unit>
+      <trans-unit id="58">
+        <source>The field must contain at least %min_length% characters</source>
+        <target>Ce champ doit contenir au minimum %min_length% caractères.</target>
+        
+      </trans-unit>
+      <trans-unit id="59">
+        <source>Invalid format. E.g. http://www.getlokal.ro.</source>
+        <target>Format invalide. Par exemple http://www.getlokal.ro. </target>
+        
+      </trans-unit>
+      <trans-unit id="60">
+        <source>Invalid format. E.g. getlokal.ro!</source>
+        <target>Format invalide. Par exemple getlokal.ro !</target>
+        
+      </trans-unit>
+      <trans-unit id="61">
+        <source>Invalid format. E.g. http://blog.getlokal.ro.</source>
+        <target>Format invalide. Par exemple http://blog.getlokal.ro. </target>
+        
+      </trans-unit>
+      <trans-unit id="62">
+        <source>Invalid format. E.g. http://twitter.com/@getlokal.</source>
+        <target>Format invalide. Par exemple http://twitter.com/@getlokal. </target>
+        
+      </trans-unit>
+      <trans-unit id="63">
+        <source>Invalid format. E.g. http://www.facebook.com/#!/getlokal.</source>
+        <target>Format invalide. Par exemple http://www.facebook.com/#!/getlokal. </target>
+        
+      </trans-unit>
+      <trans-unit id="64">
+        <source>This field is not mandatory but if you fill it in it must contain at least %min_length% characters</source>
+        <target>Ce champ n'est pas obligatoire, mais si vous le remplissez, il doit contenir au minimum %min_length% caractères.</target>
+        
+      </trans-unit>
+      <trans-unit id="65">
+        <source>This field is not mandatory but if you fill it in itcannot contain more than %max_length% characters.</source>
+        <target>Ce champ n'est pas obligatoire, mais si vous le remplissez, il ne peut pas contenir plus de %max_length% caractères.</target>
+        
+      </trans-unit>
+      <trans-unit id="66">
+        <source>Select Your Position</source>
+        <target>Sélectionner votre situation porfessionnelle</target>
+        
+      </trans-unit>
+
+      <trans-unit id="67">
+        <source>Invalid format. E.g. http://www.facebook.com/getlokal.</source>
+        <target>Format invalide. Par exemple http://www.facebook.com/getlokal. </target>
+        
+      </trans-unit>
+      <trans-unit id="68">
+        <source>There was a problem changing your password. Please try again later.</source>
+        <target>Il y a eu un problème lors du changement de votre mot de passe. Veuillez réessayer plus tard.</target>
+        
+      </trans-unit>
+      <trans-unit id="69">
+        <source>Your password was changed successfully</source>
+        <target>Votre mot de passe a été changé avec succès.</target>
+        
+      </trans-unit>
+       <trans-unit id="70">
+        <source>The start date cannot be earlier than today</source>
+        <target>La date de début ne peut pas être antérieure à aujourd'hui</target>
+        
+      </trans-unit>
+      <trans-unit id="71">
+        <source>The start date of the second promo month cannot be earlier than the end date of the first</source>
+        <target>La date de début du deuxième mois de promo ne peut pas être antérieure à la date de fin du premier.</target>
+        
+      </trans-unit>
+       <trans-unit id="72">
+        <source>The start date of the third promo month cannot be earlier than the end date of the second</source>
+        <target>La date de début du troisième mois de promo ne peut pas être antérieure à la date de fin du deuxième.</target>
+        
+      </trans-unit>
+       <trans-unit id="73">
+        <source>The start date for the third period must not be later than 30 days before the end date of your advert</source>
+        <target>La date de début de la troisième période doit avoir lieu au plus tard 30 jours avant la date de fin de votre annonce.</target>
+        
+      </trans-unit>
+      <trans-unit id="74">
+        <source>The start date for the period must not be later than 30 days before the end date of your advert</source>
+        <target>La date de début de la période doit avoir lieu au plus tard 30 jours avant la date de fin de votre annonce.</target>
+        
+      </trans-unit>
+      <trans-unit id="75">
+        <source>Type an Answer</source>
+        <target>Taper une réponse</target>
+        
+      </trans-unit>
+      <trans-unit id="76">
+        <source>The Offer Title cannot be longer than %max_length% characters</source>
+        <target>Le titre de l'offre ne peut pas contenir plus de %max_length% caractères.</target>
+        
+      </trans-unit>
+      <trans-unit id="77">
+        <source>The maximum number of vouchers issued per user cannot exceed the total number of vouchers for the offer</source>
+        <target>Le nombre maximum de bons émis par utilisateur ne peut pas dépasser le nombre total de bons pour l'offre.</target>
+        
+      </trans-unit>
+      <trans-unit id="78">
+        <source>You cannot select a date earlier than today's</source>
+        <target>Vous ne pouvez pas choisir une date antérieure à aujourd'hui</target>
+        
+      </trans-unit>
+      <trans-unit id="79">
+        <source>Тhe end date of your offer cannot be later than the end date of your advert</source>
+        <target>La date de fin de votre offre ne peut pas être postérieure à la date de fin de votre annonce.</target>
+        
+      </trans-unit>
+      <trans-unit id="80">
+        <source>The offer end date cannot be earlier than the start date</source>
+        <target>La date de fin d'offre ne peut pas être antérieure à la date de début</target>
+        
+      </trans-unit>
+      <trans-unit id="81">
+        <source>The voucher valid to date cannot be earlier than the offer end date</source>
+        <target>La date de validité du bon ne peut pas être antérieure à la date de fin de l'offre.</target>
+        
+      </trans-unit>
+      <trans-unit id="82">
+        <source>Select date, month and year</source>
+        <target>Sélectionnez la date, le mois et l'année</target>
+        
+      </trans-unit>
+       <trans-unit id="83">
+        <source>The email address is not in a valid format</source>
+        <target>Le format de l'adresse e-mail n'est pas valide</target>
+        
+      </trans-unit>
+      <trans-unit id="84">
+        <source>An email is mandatory</source>
+        <target>L'e-mail est obligatoire</target>
+        
+      </trans-unit>
+      <trans-unit id="85">
+        <source>You need to agree to getlokal's Terms of Use to create a user account</source>
+        <target>Vous devez accepter les conditions d'utilisation de getlokal pour créer un compte utilisateur.</target>
+        
+      </trans-unit>
+       <trans-unit id="86">
+        <source>Location is mandatory. Start typing the name of your location and select from the list.</source>
+        <target>L'endroit est obligatoire. Commencez à saisir le nom de l'endroit puis sélectionnez dans la liste.</target>
+        
+      </trans-unit>
+      <trans-unit id="87">
+        <source>Password must be at least %min_length% characters</source>
+        <target>Le mot de passe doit comporter au moins %min_length% caractères</target>
+        
+      </trans-unit>
+      <trans-unit id="88">
+        <source>Password cannot be more than %min_length% characters</source>
+        <target>Le mot de passe ne peut pas comporter plus de %min_length% caractères</target>
+        
+      </trans-unit>
+      <trans-unit id="89">
+        <source>A username is mandatory</source>
+        <target>Le nom de l'utilisateur est obligatoire</target>
+        
+      </trans-unit>
+       <trans-unit id="90">
+        <source>Invalid unsubscribe code for </source>
+        <target>Code de désinscription invalide pour</target>
+        
+      </trans-unit>
+	  <trans-unit id="91">
+        <source>The passwords don't match</source>
+        <target>Les mots de passe ne correspondent pas</target>
+        
+      </trans-unit>
+
+	   <trans-unit id="92">
+        <source>Description must contain at least %min_length% characters</source>
+        <target>La description doit contenir au minimum %min_length% caractères.</target>
+        
+      </trans-unit>
+      <trans-unit id="93">
+        <source>The description cannot contain more than %max_length% characters.</source>
+        <target>La description ne peut pas contenir plus de %max_length% caractères.</target>
+        
+      </trans-unit>
+      <trans-unit id="94">
+        <source>Description &quot;%value%&quot; contains forbidden words</source>
+        <target>La description &quot;%value%&quot; contient des mots non autorisés.</target>
+        
+      </trans-unit>
+       <trans-unit id="95">
+        <source>The Offer Title must contain at least %min_length% characters</source>
+        <target>Le titre de l'offre doit contenir au minimum %min_length% caractères.</target>
+        
+      </trans-unit>
+      <trans-unit id="96">
+        <source>The Offer Title and Terms are mandatory for at least one of the two language versions.</source>
+        <target>Le titre et les conditions de l'offre sont obligatoires pour au moins l'une des deux langues.</target>
+        
+      </trans-unit>
+       <trans-unit id="97">
+        <source>The Newsletter Title cannot be longer than %max_length% characters</source>
+        <target>Le titre de la newsletter ne peut pas contenir plus de %max_length% caractères.</target>
+        
+      </trans-unit>
+      <trans-unit id="98">
+        <source>The Newsletter Title must contain at least %min_length% characters</source>
+        <target>Le titre de la newsletter doit contenir au minimum %min_length% caractères.</target>
+        
+      </trans-unit>
+      <trans-unit id="99">
+        <source>Please enter search criteria</source>
+        <target>Veuillez entrer les critères de recherche</target>
+        
+      </trans-unit>
+      <trans-unit id="100">
+        <source>Please correct search criteria</source>
+        <target>Veuillez  corriger les critères de recherche</target>
+        
+      </trans-unit>
+      <trans-unit id="101">
+        <source>Incorrect search term</source>
+        <target>Critère de recherche incorrect</target>
+        
+      </trans-unit>
+     <trans-unit id="102">
+        <source>Message must contain at least %min_length% characters</source>
+        <target>Le message doit contenir au minimum %min_length% caractères</target>
+        
+      </trans-unit>
+      <trans-unit id="103">
+        <source>The message cannot contain more than %max_length% characters.</source>
+        <target>Le message ne peut pas contenir plus de %max_length% caractères.</target>
+        
+      </trans-unit>
+       <trans-unit id="104">
+        <source>This email and unsubscribed key do not match</source>
+        <target>Cet e-mail ne correspond pas au désabonné.</target>
+        
+      </trans-unit>
+        <trans-unit id="105">
+        <source>Video Title must contain at least %min_length% characters</source>
+        <target>Le titre de la vidéo doit contenir au minimum %min_length% caractères.</target>
+        
+      </trans-unit>
+      <trans-unit id="106">
+        <source>The video title cannot contain more than %max_length% characters.</source>
+        <target>Le titre de la vidéo ne peut pas contenir plus de %max_length% caractères.</target>
+        
+      </trans-unit>
+       <trans-unit id="107">
+        <source>The email message was not sent successfully.</source>
+        <target>L'email n'a pas été envoyé.</target>
+        
+      </trans-unit>
+      <trans-unit id="108">
+        <source>This username has already been registered by another user</source>
+        <target>Ce nom d'utilisateur a déjà été enregistré par un autre utilisateur.</target>
+        
+      </trans-unit>
+       <trans-unit id="109">
+        <source>Тhe start date cannot be later than the end date of the event</source>
+        <target>La date de départ ne peut pas être postérieure à la date de fin</target>
+        
+      </trans-unit>
+      <trans-unit id="110">
+        <source>Please add location - city/town is required if venue not known!</source>
+        <target>Ajoutez un lieu. La ville est requise si vous ne connaissez pas l'adresse exacte !</target>
+        
+      </trans-unit>
+      <trans-unit id="111">
+        <source>Please enter the characters from the picture below to confirm you like parties!</source>
+        <target>Veuillez saisir les caractères de l'image ci-dessous pour confirmation !</target>
+        
+      </trans-unit>
+          <trans-unit id="112">
+        <source>Username</source>
+        <target>Nom d'utilisateur</target>
+        
+      </trans-unit>
+      <trans-unit id="113">
+        <source>Email</source>
+        <target>E-mail</target>
+        
+      </trans-unit>
+      <trans-unit id="114">
+        <source>Password</source>
+        <target>Mot de passe</target>
+        
+      </trans-unit>
+      <trans-unit id="115">
+        <source>Retype Your Password</source>
+        <target>Saisissez à nouveau votre mot de passe</target>
+        
+      </trans-unit>
+      <trans-unit id="116">
+        <source>Select Your City</source>
+        <target>Choisissez votre ville</target>
+        
+      </trans-unit>
+            <trans-unit id="117">
+        <source>Enter your Email address.</source>
+        <target>Saisissez votre adresse e-mail.</target>
+        
+      </trans-unit>
+      <trans-unit id="118">
+        <source>Name</source>
+        <target>Nom</target>
+        
+      </trans-unit>
+      <trans-unit id="119">
+        <source>Surname</source>
+        <target>Nom de famille</target>
+        
+      </trans-unit>
+      <trans-unit id="120">
+        <source>Profile Picture</source>
+        <target>Photo de profil</target>
+        
+      </trans-unit>
+      <trans-unit id="121">
+        <source>Delete current</source>
+        <target>Supprimer actuel</target>
+        
+      </trans-unit>
+      <trans-unit id="122">
+        <source>Date of Birth</source>
+        <target>Date de naissance</target>
+        
+      </trans-unit>
+      <trans-unit id="123">
+        <source>Gender</source>
+        <target>Genre</target>
+        
+      </trans-unit>
+      <trans-unit id="124">
+        <source>Location</source>
+        <target>Endroit</target>
+        
+      </trans-unit>
+           <trans-unit id="125">
+        <source>About me</source>
+        <target>À propos de moi</target>
+        
+      </trans-unit>
+      <trans-unit id="126">
+        <source>My Website</source>
+        <target>Mon site Internet</target>
+        
+      </trans-unit>
+      <trans-unit id="127">
+        <source>My Blog</source>
+        <target>Mon blog</target>
+        
+      </trans-unit>
+      <trans-unit id="128">
+        <source>My Facebook</source>
+        <target>Mon Facebook</target>
+        
+      </trans-unit>
+      <trans-unit id="129">
+        <source>My Google+</source>
+        <target>Mon Google+ </target>
+        
+      </trans-unit>
+
+      <trans-unit id="130">
+        <source>New Password</source>
+        <target>Nouveau mot de passe</target>
+        
+      </trans-unit>
+      <trans-unit id="131">
+        <source>Retype New Password</source>
+        <target>Retaper nouveau mot de passe</target>
+        
+      </trans-unit>
+      <trans-unit id="132">
+        <source>The field is required</source>
+        <target>Ce champ est obligatoire</target>
+        
+      </trans-unit>
+      <trans-unit id="133">
+        <source>Fields marked with a star are mandatory.</source>
+        <target>Les champs marqués avec une étoile sont obligatoires.</target>
+        
+      </trans-unit>
+            <trans-unit id="134">
+        <source>Owner</source>
+        <target>Propriétaire</target>
+        
+      </trans-unit>
+      <trans-unit id="135">
+        <source>Director</source>
+        <target>Directeur</target>
+        
+      </trans-unit>
+       <trans-unit id="136">
+        <source>Manager</source>
+        <target>Manager </target>
+        
+      </trans-unit>
+      <trans-unit id="137">
+        <source>Employee</source>
+        <target>Employé</target>
+        
+      </trans-unit>
+      <trans-unit id="138">
+        <source>Choose...</source>
+        <target>Choisir...</target>
+        
+      </trans-unit>
+      <trans-unit id="139">
+        <source>Other</source>
+        <target>Autre</target>
+        
+      </trans-unit>
+            <trans-unit id="140">
+        <source>My Facebook</source>
+        <target>Mon Facebook</target>
+        
+      </trans-unit>
+      <trans-unit id="141">
+        <source>My Тwitter</source>
+        <target>Mon Twitter</target>
+        
+      </trans-unit>
+            <trans-unit id="142">
+        <source>Current Password</source>
+        <target>Mot de passe actuel</target>
+        
+      </trans-unit>
+      <trans-unit id="143">
+        <source>Retype New Password</source>
+        <target>Ressaisir le nouveau mot de passe </target>
+        
+      </trans-unit>
+      <trans-unit id="144">
+        <source>Passwords don't match</source>
+        <target>Le mot passe ne correspond pas.</target>
+        
+      </trans-unit>
+      <trans-unit id="145">
+        <source>Your Password</source>
+        <target>Votre mot de passe</target>
+        
+      </trans-unit>
+       <trans-unit id="146">
+        <source>Male</source>
+        <target>Homme</target>
+        
+      </trans-unit>
+       <trans-unit id="147">
+        <source>Female</source>
+        <target>Femme</target>
+        
+      </trans-unit>
+      <trans-unit id="148">
+        <source>Position</source>
+        <target>Position</target>
+        
+      </trans-unit>
+      <trans-unit id="149">
+        <source>Phone</source>
+        <target>Téléphone</target>
+        
+      </trans-unit>
+       <trans-unit id="150">
+        <source>I declare that I am an authorized representative of the business.</source>
+        <target>Je déclare que je suis autorisé à représenter l'entreprise.</target>
+        
+      </trans-unit>
+      <trans-unit id="151">
+        <source>Enter the CUI of your business.</source>
+        <target>Entrez le CUI de votre entreprise.</target>
+        
+      </trans-unit>
+       <trans-unit id="152">
+        <source>Declare that you are an authorized representative of the business.</source>
+        <target>Déclarer que vous êtes autorisé à représenter l'entreprise.</target>
+        
+      </trans-unit>
+      <trans-unit id="153">
+        <source>Invalid CUI</source>
+        <target>CUI invalide</target>
+        
+      </trans-unit>
+      <trans-unit id="154">
+        <source>Company Name</source>
+        <target>Nom de la société</target>
+        
+      </trans-unit>
+      <trans-unit id="155">
+        <source>Company Type</source>
+        <target>Type de société</target>
+        
+      </trans-unit>
+       <trans-unit id="156">
+        <source>Company Name in Latin characters</source>
+        <target>Nom de la société en caractères latins</target>
+        
+      </trans-unit>
+       <trans-unit id="157">
+        <source>Address</source>
+        <target>Adresse</target>
+        
+      </trans-unit>
+       <trans-unit id="158">
+        <source>Classification</source>
+        <target>classification</target>
+        
+      </trans-unit>
+       <trans-unit id="159">
+        <source>City</source>
+        <target>Ville</target>
+        
+      </trans-unit>
+      <trans-unit id="160">
+        <source>Company Address</source>
+        <target>Nom de la société</target>
+        
+      </trans-unit>
+      <trans-unit id="161">
+        <source>Postcode</source>
+        <target>Code postal</target>
+        
+      </trans-unit>
+      <trans-unit id="162">
+        <source>Street</source>
+        <target>Rue</target>
+        
+      </trans-unit>
+      <trans-unit id="163">
+        <source>Number</source>
+        <target>Numéro</target>
+        
+      </trans-unit>
+      <trans-unit id="164">
+        <source>Neighbourhood</source>
+        <target>Voisinnage</target>
+        
+      </trans-unit>
+      <trans-unit id="165">
+        <source>Bl.</source>
+        <target>Bl.</target>
+        
+      </trans-unit>
+      <trans-unit id="166">
+        <source>Ent.</source>
+        <target>Ent. </target>
+        
+      </trans-unit>
+      <trans-unit id="167">
+        <source>Fl.</source>
+        <target>Fl. </target>
+        
+      </trans-unit>
+      <trans-unit id="168">
+        <source>Ap.</source>
+        <target>Ap. </target>
+        
+      </trans-unit>
+            <trans-unit id="169">
+        <source>Monday</source>
+        <target>Lundi</target>
+        
+      </trans-unit>
+      <trans-unit id="170">
+        <source>Tuesday</source>
+        <target>Mardi</target>
+        
+      </trans-unit>
+      <trans-unit id="171">
+        <source>Wednesday</source>
+        <target>Mercredi</target>
+        
+      </trans-unit>
+      <trans-unit id="172">
+        <source>Thursday</source>
+        <target>Jeudi</target>
+        
+      </trans-unit>
+      <trans-unit id="173">
+        <source>Friday</source>
+        <target>Vendredi</target>
+        
+      </trans-unit>
+      <trans-unit id="174">
+        <source>Saturday</source>
+        <target>Samedi</target>
+        
+      </trans-unit>
+      <trans-unit id="175">
+        <source>Sunday</source>
+        <target>Dimanche</target>
+        
+      </trans-unit>
+         <trans-unit id="176">
+        <source>Bulgarian</source>
+        <target>Bulgare</target>
+        
+      </trans-unit>
+      <trans-unit id="177">
+        <source>English</source>
+        <target>Anglais</target>
+        
+      </trans-unit>
+      <trans-unit id="178">
+        <source>Email:</source>
+        <target>Adresse email</target>
+        
+      </trans-unit>
+      <trans-unit id="179">
+        <source>Password:</source>
+        <target>Mot de passe :</target>
+        
+      </trans-unit>
+      <trans-unit id="180">
+        <source>Remember me</source>
+        <target>Se souvenir de moi</target>
+        
+      </trans-unit>
+      <trans-unit id="181">
+        <source>Description</source>
+        <target>Description </target>
+        
+      </trans-unit>
+      <trans-unit id="182">
+        <source>Category</source>
+        <target>Catégorie</target>
+        
+      </trans-unit>
+      <trans-unit id="183">
+        <source>Website</source>
+        <target>Site web</target>
+        
+      </trans-unit>
+      			<trans-unit id="184">
+        <source>You entered &quot;%value%&quot;. The security check picture contains %length% characters. Please try again.</source>
+        <target>Vous avez saisi &quot;% value%&quot;. L'image de contrôle de sécurité contient %length% caractères. Veuillez essayez de nouveau.</target>
+        
+      </trans-unit>
+            <trans-unit id="185">
+        <source>Security check. Enter the characters from the picture below</source>
+        <target>Contrôle de sécurité, Entrez les caractères de l'image ci-dessous.</target>
+        
+      </trans-unit>
+      <trans-unit id="186">
+        <source>Start Date</source>
+        <target>Date de début</target>
+        
+      </trans-unit>
+      <trans-unit id="187">
+        <source>Detailed Description</source>
+        <target>Description détaillée</target>
+        
+      </trans-unit>
+      <trans-unit id="188">
+        <source>Detailed Description (English)</source>
+        <target>Description détaillée (en anglais)</target>
+        
+      </trans-unit>
+      <trans-unit id="189">
+        <source>Offer Title</source>
+        <target>Titre de l'offre</target>
+        
+      </trans-unit>
+      <trans-unit id="190">
+        <source>Voucher</source>
+        <target>Bon</target>
+        
+      </trans-unit>
+      <trans-unit id="191">
+        <source>Voucher Valid From</source>
+        <target>Bon valable du</target>
+        
+      </trans-unit>
+      <trans-unit id="192">
+        <source>Voucher Valid To</source>
+        <target>Bon valable pour</target>
+        
+      </trans-unit>
+      <trans-unit id="193">
+        <source>Offer Active From</source>
+        <target>Offre active à partir de</target>
+        
+      </trans-unit>
+      <trans-unit id="194">
+        <source>Offer Active To</source>
+        <target>Offre active Pour</target>
+        
+      </trans-unit>
+      <trans-unit id="195">
+        <source>Maximum number of vouchers to be issued</source>
+        <target>Le nombre maximum de bons à émettre</target>
+        
+      </trans-unit>
+       <trans-unit id="196">
+        <source>Maximum number of vouchers to be issued per user</source>
+        <target>Le nombre maximum de bons à émettre par utilisateur</target>
+        
+      </trans-unit>
+      <trans-unit id="197">
+        <source>Offer Terms</source>
+        <target>Conditions de l'offre</target>
+        
+      </trans-unit>
+       <trans-unit id="198">
+        <source>Select a photo from your computer</source>
+        <target>Choisir une photo sur votre ordinateur</target>
+        
+      </trans-unit>
+      <trans-unit id="199">
+        <source>Caption</source>
+        <target>Légende</target>
+        
+      </trans-unit>
+      <trans-unit id="8">
+        <source>Please enter your Name and Surname</source>
+      </trans-unit>
+      <trans-unit id="9">
+        <source>Invalid email</source>
+      </trans-unit>
+      <trans-unit id="10">
+        <source>Please rate this company</source>
+      </trans-unit>
+      <trans-unit id="22">
+        <source>Please enter your email</source>
+      </trans-unit>
+      <trans-unit id="11">
+        <source>Invalid Rating</source>
+      </trans-unit>
+       <trans-unit id="15">
+        <source>Please agree to observe the Terms of Use of the Getlokal Website</source>
+    </trans-unit>
+    <trans-unit id="54">
+        <source>Choose if you want to recommend this company to a friend</source>
+      </trans-unit>
+       <trans-unit id="200">
+        <source>Name</source>
+        <target>Nom</target>
+        
+      </trans-unit>
+      <trans-unit id="201">
+        <source>Surname</source>
+        <target>Nom de famille</target>
+        
+      </trans-unit>
+      <trans-unit id="202">
+        <source>Enter your Email address.</source>
+        <target>Entrez votre adresse email</target>
+        
+      </trans-unit>
+       <trans-unit id="203">
+        <source>Your username should contain only alphanumeric characters, dash, dot or underscore and begin with a letter</source>
+        <target>Votre nom d'utilisateur ne doit contenir que des caractères alphanumériques, tiret, point ou underscore et doit commencer par une lettre.</target>
+        
+      </trans-unit>
+      <trans-unit id="204">
+        <source>Your account changes were successfully saved.</source>
+        <target>Les modifications apportées à votre compte ont bien été enregistrées.</target>
+        
+      </trans-unit>
+      <trans-unit id="205">
+        <source>Company Name or CUI</source>
+        <target>Nom de la société ou CUI</target>
+        
+      </trans-unit>
+       <trans-unit id="206">
+        <source>CUI (Cod Unic de Identificare)</source>
+        <target>CUI (Cod Unic de identificare)</target>
+        
+      </trans-unit>
+      <trans-unit id="207">
+        <source>Select file</source>
+        <target>Choisir un fichier</target>
+        
+      </trans-unit>
+      <trans-unit id="208">
+        <source>Invalid format. E.g. http://www.getlokal.ro.</source>
+        <target>Format invalide. Par exemple http://www.getlokal.ro. </target>
+        
+      </trans-unit>
+      <trans-unit id="209">
+        <source>Invalid format. E.g. getlokal.ro!</source>
+        <target>Format invalide. Par exemple getlokal.ro !</target>
+        
+      </trans-unit>
+      <trans-unit id="210">
+        <source>Invalid format. E.g. http://blog.getlokal.ro.</source>
+        <target>Format invalide. Par exemple http://blog.getlokal.ro. </target>
+        
+      </trans-unit>
+      <trans-unit id="211">
+        <source>Invalid format. E.g. http://twitter.com/@getlokal.</source>
+        <target>Format invalide. Par exemple http://twitter.com/@getlokal. </target>
+        
+      </trans-unit>
+      <trans-unit id="212">
+        <source>Invalid format. E.g. http://www.facebook.com/#!/getlokal.</source>
+        <target>Format invalide. Par exemple http://www.facebook.com/#!/getlokal. </target>
+        
+      </trans-unit>
+      <trans-unit id="213">
+        <source>Invalid format.</source>
+        <target>Format invalide.</target>
+        
+      </trans-unit>
+      <trans-unit id="214">
+        <source>Password is mandatory</source>
+        <target>Le mot de passe est obligatoire</target>
+        
+      </trans-unit>
+      <trans-unit id="215">
+        <source>The email and/or password are invalid</source>
+        <target>L'adresse email et/ou le mot de passe sont invalides</target>
+        
+      </trans-unit>
+      <trans-unit id="216">
+        <source>Incorrect Password</source>
+        <target>Mot de passe incorrect</target>
+        
+      </trans-unit>
+      <trans-unit id="217">
+        <source>When</source>
+        <target>Quand</target>
+        
+      </trans-unit>
+      <trans-unit id="218">
+        <source>End Date</source>
+        <target>Date de fin</target>
+        
+      </trans-unit>
+      <trans-unit id="219">
+        <source>City/Town</source>
+        <target>Ville / Localité</target>
+        
+      </trans-unit>
+      <trans-unit id="220">
+        <source>Venue name</source>
+        <target>Nom du lieu</target>
+        
+      </trans-unit>
+      <trans-unit id="221">
+        <source>More Info (add link)</source>
+        <target>Plus d'informations (ajouter un lien)</target>
+        
+      </trans-unit>
+      <trans-unit id="222">
+        <source>Buy ticket/book (add link)</source>
+        <target>Acheter un billet / carnet (ajouter un lien)</target>
+        
+      </trans-unit>
+      <trans-unit id="223">
+        <source>Event Type</source>
+        <target>Type d'événement</target>
+        
+      </trans-unit>
+      <trans-unit id="224">
+        <source>Price</source>
+        <target>Prix</target>
+        
+      </trans-unit>
+      <trans-unit id="225">
+        <source>Add Photo</source>
+        <target>Ajouter une photo</target>
+        
+      </trans-unit>
+      <trans-unit id="226">
+        <source>Event Name</source>
+        <target>Nom de l'événement</target>
+        
+      </trans-unit>
+      <trans-unit id="227">
+        <source>Event Description</source>
+        <target>Description de l'événement</target>
+        
+      </trans-unit>
+      <!-- NEw -->
+       <trans-unit id="228">
+        <source>Show to All</source>
+        <target>Montrer à tous</target>
+        
+      </trans-unit>
+      <trans-unit id="229">
+        <source>Choose... </source>
+        <target>Choisir...</target>
+        
+      </trans-unit>
+      <trans-unit id="230">
+        <source>Enter New Email</source>
+        <target>Saisissez un nouvel e-mail</target>
+        
+      </trans-unit>
+      <trans-unit id="231">
+        <source>Description</source>
+        <target>Description</target>
+        
+      </trans-unit>
+      <trans-unit id="232">
+        <source>Description (English)</source>
+        <target>Description (anglais)</target>
+        
+      </trans-unit>
+      <trans-unit id="233">
+        <source>Detailed Description (English)</source>
+        <target>Description détaillée (anglais)</target>
+        
+      </trans-unit>
+      <trans-unit id="234">
+        <source>Detailed Description</source>
+        <target>Description détaillée</target>
+        
+      </trans-unit>
+       <trans-unit id="235">
+        <source>VIP Position Start Date</source>
+        <target>Date de début de la position VIP</target>
+        
+      </trans-unit>
+      <trans-unit id="236">
+        <source>Message</source>
+        <target>Message</target>
+        
+      </trans-unit>
+      <trans-unit id="237">
+        <source>Please rate this company</source>
+        <target>Veuillez évaluer cette société</target>
+        
+      </trans-unit>
+      <trans-unit id="238">
+        <source>The username &quot;%value%&quot; is invalid.</source>
+        <target>Le nom d'utilisateur &quot;%value%&quot; n'est pas valide.</target>
+        
+      </trans-unit>
+      <trans-unit id="239">
+        <source>Username must contain at least %min_length% characters.</source>
+        <target>Le nom d'utilisateur doit contenir au moins %min_length% caractères.</target>
+        
+      </trans-unit>
+      <trans-unit id="240">
+        <source>The username and/or password you entered for %s are invalid or you don't have enough credentials</source>
+        <target>Le nom d'utilisateur et/ou le mot de passe saisis pour %s sont invalides ou vous n'avez pas les permissions</target>
+        
+      </trans-unit>
+       <trans-unit id="241">
+        <source>The username and/or password you entered are invalid or you don't have enough credentials</source>
+        <target>Le nom d'utilisateur et/ou le mot de passe saisis sont invalides ou vous n'avez pas les permissions</target>
+        
+      </trans-unit>
+       <trans-unit id="242">
+        <source><![CDATA[You need to agree to Getlokal Terms of Use & Privacy Policy]]></source>
+        <target>Vous devez accepter les conditions d'utilisation et de confidentialité de Getlokal</target>
+        
+      </trans-unit>
+      <trans-unit id="243">
+        <source>Start Time</source>
+        <target>Date de début</target>
+        
+     </trans-unit>
+
+      <trans-unit id="244">
+        <source>Place Name</source>
+        <target>Nom de l'endroit</target>
+        
+      </trans-unit>
+	  <trans-unit id="245">
+        <source>Place Name in English</source>
+        <target>Nom de l'endroit en anglais</target>
+        
+      </trans-unit>
+ </body>
+  </file>
+</xliff>

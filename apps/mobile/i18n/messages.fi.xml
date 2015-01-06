@@ -1,0 +1,377 @@
+<?xml version="1.0" ?><xliff version="1.0">
+  <file datatype="plaintext" original="global" source-language="en">
+    <body>
+     <trans-unit id="1">
+      <source>Mon</source>
+      <target>Ma</target>
+      
+    </trans-unit>
+     <trans-unit id="2">
+      <source>Tue</source>
+      <target>Ti</target>
+      
+    </trans-unit>
+     <trans-unit id="3">
+      <source>Wed</source>
+      <target>Ke</target>
+      
+    </trans-unit>
+     <trans-unit id="4">
+      <source>Thu</source>
+      <target>To</target>
+      
+    </trans-unit>
+     <trans-unit id="5">
+      <source>Fri</source>
+      <target>Pe</target>
+      
+    </trans-unit>
+     <trans-unit id="6">
+      <source>Sat</source>
+      <target>La</target>
+      
+    </trans-unit>
+     <trans-unit id="7">
+      <source>Sun</source>
+      <target>Su</target>
+      
+    </trans-unit>
+
+      <trans-unit id="8">
+        <source>Tomorrow</source>
+        <target>Huomenna</target>
+        
+      </trans-unit>
+      <trans-unit id="9">
+        <source>Today</source>
+        <target>Tänään</target>
+        
+      </trans-unit>
+      <trans-unit id="10">
+	  <source>January</source>
+	  <target>Tammikuu</target>
+        
+      </trans-unit>
+	  <trans-unit id="11">
+        <source>February</source>
+        <target>Helmikuu</target>
+        
+      </trans-unit>
+	  <trans-unit id="12">
+        <source>March</source>
+        <target>Maaliskuu</target>
+        
+      </trans-unit>
+	  <trans-unit id="13">
+        <source>April</source>
+        <target>Huhtikuu</target>
+        
+      </trans-unit>
+	  <trans-unit id="14">
+        <source>May</source>
+        <target>Toukokuu</target>
+        
+      </trans-unit>
+	  <trans-unit id="15">
+        <source>June</source>
+        <target>Kesäkuu</target>
+        
+      </trans-unit>
+	  <trans-unit id="16">
+        <source>July</source>
+        <target>Heinäkuu</target>
+        
+      </trans-unit>
+	   <trans-unit id="17">
+        <source>August</source>
+        <target>Elokuu</target>
+        
+      </trans-unit>
+	   <trans-unit id="18">
+        <source>September</source>
+        <target>Syyskuu</target>
+        
+      </trans-unit>
+	   <trans-unit id="19">
+        <source>October</source>
+        <target>Lokakuu</target>
+        
+      </trans-unit>
+	   <trans-unit id="20">
+        <source>November</source>
+        <target>Marraskuu</target>
+        
+      </trans-unit>
+	   <trans-unit id="21">
+        <source>December</source>
+        <target>Joulukuu</target>
+        
+      </trans-unit>
+
+    <trans-unit id="22">
+      <source>Monday</source>
+      <target>Maanantai</target>
+      
+    </trans-unit>
+    <trans-unit id="23">
+      <source>Tuesday</source>
+      <target>Tiistai</target>
+      
+    </trans-unit>
+    <trans-unit id="24">
+      <source>Wednesday</source>
+      <target>Keskiviikko</target>
+      
+    </trans-unit>
+    <trans-unit id="25">
+      <source>Thursday</source>
+      <target>Torstai</target>
+      
+    </trans-unit>
+    <trans-unit id="26">
+      <source>Friday</source>
+      <target>Perjantai</target>
+      
+    </trans-unit>
+    <trans-unit id="27">
+      <source>Saturday</source>
+      <target>Lauantai</target>
+      
+    </trans-unit>
+    <trans-unit id="28">
+      <source>Sunday</source>
+      <target>Sunnuntai</target>
+      
+    </trans-unit>
+
+    <trans-unit id="29">
+      <source>Free</source>
+      <target>Ilmainen</target>
+      
+    </trans-unit>
+    <trans-unit id="30">
+      <source>Up to 10 %s</source>
+      <target>Jopa 10 %s </target>
+      
+    </trans-unit>
+    <trans-unit id="31">
+      <source>Up to 50 %s</source>
+      <target>Jopa 50 %s </target>
+      
+    </trans-unit>
+    <trans-unit id="32">
+      <source>Up to 100 %s</source>
+      <target>Jopa 100 %s </target>
+      
+    </trans-unit>
+    <trans-unit id="33">
+      <source>Over 100 %s</source>
+      <target>Yli 100 %s </target>
+      
+    </trans-unit>
+
+    <trans-unit id="34">
+      <source>ATTEND</source>
+      <target>OSALLISTU</target>
+      
+    </trans-unit>
+     <trans-unit id="35">
+      <source>%d participants</source>
+      <target>%d osallistujaa</target>
+      
+    </trans-unit>
+
+
+     <trans-unit id="36">
+      <source>Reviews</source>
+      <target>Arvostelut</target>
+      
+    </trans-unit>
+
+    <trans-unit id="37">
+      <source>REVIEWS</source>
+      <target>ARVOSTELUT</target>
+      
+    </trans-unit>
+
+     <trans-unit id="38">
+      <source>Address</source>
+      <target>Osoite</target>
+      
+    </trans-unit>
+
+     <trans-unit id="39">
+      <source>Call</source>
+      <target>Soita</target>
+      
+    </trans-unit>
+
+    <trans-unit id="40">
+      <source>CALL</source>
+      <target>SOITA</target>
+      
+    </trans-unit>
+
+     <trans-unit id="41">
+      <source>Ticket: </source>
+      <target>Lippu:</target>
+      
+    </trans-unit>
+    <trans-unit id="42">
+      <source>Review</source>
+      <target>Arvostelu</target>
+      
+    </trans-unit>
+    <trans-unit id="43">
+      <source>Add Pic</source>
+      <target>Lisää kuva</target>
+      
+    </trans-unit>
+    <trans-unit id="44">
+      <source>Fave</source>
+      <target>Suosikki</target>
+      
+    </trans-unit>
+    <trans-unit id="45">
+      <source>Checked in at %s</source>
+      <target>Kirjautui sisään paikkaan %s </target>
+      
+    </trans-unit>
+    <trans-unit id="46">
+      <source>Closed</source>
+      <target>Suljettu</target>
+      
+    </trans-unit>
+
+    <trans-unit id="47">
+        <source>Events</source>
+        <target>Tapahtumat</target>
+        
+    </trans-unit>
+
+    <trans-unit id="48">
+        <source>EVENTS</source>
+        <target>TAPAHTUMAT</target>
+        
+    </trans-unit>
+
+    <trans-unit id="49">
+        <source>Check-in</source>
+        <target>Check-in</target>
+        
+    </trans-unit>
+	<trans-unit id="50">
+        <source>Save</source>
+        <target>Save</target>
+        
+    </trans-unit>
+	<trans-unit id="51">
+        <source>Unsave</source>
+        <target>Unsave</target>
+        
+    </trans-unit>
+	<trans-unit id="52">
+        <source>Distance</source>
+        <target>Etäisyys</target>
+        
+    </trans-unit>
+	<trans-unit id="53">
+        <source>km</source>
+        <target>km</target>
+        
+    </trans-unit>
+	<trans-unit id="54">
+        <source>review(s)</source>
+        <target>arvostelu(t)</target>
+        
+    </trans-unit>
+
+	<trans-unit id="55">
+        <source>ATMs</source>
+        <target>Pankkiautomaatit</target>
+        
+    </trans-unit>
+
+    <trans-unit id="56">
+       <source><![CDATA[[0]No reviews|[1]<span>1</span> review|(1,+Inf]<span>%count%</span> reviews]]></source>
+       <target>[0]Ei arvosteluja|[1]&lt;span&gt;1&lt;/span&gt; arvostelu|(1,+Inf]&lt;span&gt;%count%&lt;/span&gt; arvostelua</target>
+       
+    </trans-unit>
+    <trans-unit id="57">
+        <source>We are mobile</source>
+        <target>Olemme liikkuvia</target>
+        
+    </trans-unit>
+    <trans-unit id="58">
+        <source>Select Country</source>
+        <target>Valitse maa</target>
+        
+    </trans-unit>
+    <trans-unit id="59">
+      <source>Getlokal recommends</source>
+      <target>Getlokal suositteli</target>
+      
+    </trans-unit>
+    <trans-unit id="60">
+      <source>Places with Offers</source>
+      <target>Paikat, joissa tarjouksia</target>
+      
+    </trans-unit>
+    <trans-unit id="61">
+      <source>Voucher valid from</source>
+      <target>Kuponki voimassa alkaen</target>
+      
+    </trans-unit>
+    <trans-unit id="62">
+      <source> to </source>
+      <target> -</target>
+      
+    </trans-unit>
+
+    <trans-unit id="63">
+      <source>0 available</source>
+      <target>0 saatavilla</target>
+      
+    </trans-unit>
+    <trans-unit id="64">
+      <source>1 available</source>
+      <target>1 saatavilla</target>
+      
+    </trans-unit>
+    <trans-unit id="65">
+      <source> available</source>
+      <target>saatavilla</target>
+      
+    </trans-unit>
+
+    <trans-unit id="66">
+      <source>We were unable to issue your voucher. The offer is no longer active or you have already ordered the maximum number vouchers per user.</source>
+      <target>Emme pystyneet myöntämään kuponkiasi. Tarjous ei ole enää aktiivinen tai olet jo tilannut enimmäismäärän kuponkeja käyttäjää kohden.</target>
+      
+    </trans-unit>
+    <trans-unit id="67">
+      <source>OFFERS</source>
+      <target>TARJOUKSET</target>
+      
+    </trans-unit>
+    
+    <trans-unit id="68">
+      <source>Suggest an Edit</source>
+      <target>Ehdota muokkausta</target>
+      
+    </trans-unit>
+    
+    <trans-unit id="69">
+          <source>We are mobile</source>
+          <target>Getlokal-mobiili</target>
+          
+    </trans-unit>
+    
+    <trans-unit id="70">
+        <source>This place was added by</source>
+		<target>Tämä paikka on lisännyt</target>
+          
+    </trans-unit>
+ </body>
+  </file>
+</xliff>

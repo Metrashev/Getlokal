@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+<xliff version="1.0">
+    <file orginal="global" source-language="en_EN" datatype="plaintext">
+        <body>
+            <trans-unit id="1">
+                <source>404 ERROR</source> 
+                <target>ГРЕШКА 404</target> 
+            </trans-unit>
+            <trans-unit id="2">
+                <source>The server returned a 404 response!</source> 
+                <target>Серверот покажува грешка 404!</target> 
+            </trans-unit>
+            <trans-unit id="3">
+                <source>Here are some of the possible reasons</source> 
+                <target>Еве дел од можните причини</target> 
+            </trans-unit>
+            <trans-unit id="4">
+                <source>Did you type a URL i.e. website address?</source> 
+                <target>Внесовте ли URL (адреса на веб-страна)?</target> 
+            </trans-unit>
+            <trans-unit id="5">
+                <source>You may have typed the website address (URL) incorrectly. Please, check the spelling, capitalization, punctuation, etc.</source> 
+                <target>Можно е да сте ја напишале погрешно адресата на веб-страната (URL). Ве молиме проверете го правописот, големите букви, интерпункција и.т.н.</target> 
+            </trans-unit>
+            <trans-unit id="6">
+                <source>Did you follow a link to this page from another page in this site?</source> 
+                <target>Дали дојдовте на оваа страна од линк од друга страна на оваа веб-страна?</target> 
+            </trans-unit>
+            <trans-unit id="7">
+                <source>If you reached this page from another page in this site, please email us at info@getlokal.com so we can fix the problem.</source> 
+                <target>Ако сте дошле на оваа страна од друга страна на оваа веб-страна, Ве молиме испратете ни e-mail на info@getlokal.com, за да може да ја поправиме грешката.</target> 
+            </trans-unit>
+            <trans-unit id="8">
+                <source>Did you follow a link from another site?</source> 
+                <target>Дали дојдовте од линк од друга страна?</target> 
+            </trans-unit>
+            <trans-unit id="9">
+                <source>Links from other sites can sometimes be out-of-date or misspelled. Please email us at info@getlokal.com with information about the site from which you followed the link so we can try and contact the other site in order to fix the problem.</source> 
+                <target>Линкови од други страни може понекогаш да се со поминат рок или со погрешен правопис. Ве молиме испратете ни e-mail на info@getlokal.com со информации за страната за да пробаме да ја контактираме другата страна за да ја поправиме грешката.</target> 
+            </trans-unit>
+            <trans-unit id="10">
+                <source>404 ERROR - The page can't be found</source> 
+                <target>Грешка 404 – Страница не може да биде пронајдена</target> 
+            </trans-unit>
+        </body>
+    </file>
+</xliff>

@@ -1,0 +1,328 @@
+company_offer:
+  class: sfDoctrineRouteCollection
+  options:
+    model:                CompanyOffer
+    module:               company_offer
+    prefix_path:          /company_offer
+    column:               id
+    with_wildcard_routes: true
+
+setting:
+  class: sfDoctrineRouteCollection
+  options:
+    model:                Setting
+    module:               setting
+    prefix_path:          /setting
+    column:               id
+    with_wildcard_routes: true
+
+pilot_video_pilot:
+  class: sfDoctrineRouteCollection
+  options:
+    model:                PilotVideo
+    module:               pilot
+    prefix_path:          /pilot
+    column:               id
+    with_wildcard_routes: true
+
+pilot_video:
+  class: sfDoctrineRouteCollection
+  options:
+    model:                PilotVideo
+    module:               pilot_video
+    prefix_path:          /pilot_video
+    column:               id
+    with_wildcard_routes: true
+
+category_event_category:
+  class: sfDoctrineRouteCollection
+  options:
+    model:                Category
+    module:               event_category
+    prefix_path:          /event_category
+    column:               id
+    with_wildcard_routes: true
+
+mobile_log:
+  class: sfDoctrineRouteCollection
+  options:
+    model:                MobileLog
+    module:               mobile_log
+    prefix_path:          /mobile_log
+    column:               id
+    with_wildcard_routes: true
+
+city:
+  class: sfDoctrineRouteCollection
+  options:
+    model:                City
+    module:               city
+    prefix_path:          /city
+    column:               id
+    with_wildcard_routes: true
+
+invited_user:
+  class: sfDoctrineRouteCollection
+  options:
+    model:                InvitedUser
+    module:               invited_user
+    prefix_path:          /invited_user
+    column:               id
+    with_wildcard_routes: true
+
+unregistered_newsletter_user:
+  class: sfDoctrineRouteCollection
+  options:
+    model:                UnregisteredNewsletterUser
+    module:               unregistered_newsletter_user
+    prefix_path:          /unregistered_newsletter_user
+    column:               id
+    with_wildcard_routes: true
+
+category_article:
+  class: sfDoctrineRouteCollection
+  options:
+    model:                CategoryArticle
+    module:               category_article
+    prefix_path:          /category_article
+    column:               id
+    with_wildcard_routes: true
+
+article:
+  class: sfDoctrineRouteCollection
+  options:
+    model:                Article
+    module:               article
+    prefix_path:          /article
+    column:               id
+    with_wildcard_routes: true
+
+sector:
+  class: sfDoctrineRouteCollection
+  options:
+    model:                Sector
+    module:               sector
+    prefix_path:          /sector
+    column:               id
+    with_wildcard_routes: true
+
+ad_service_company:
+  class: sfDoctrineRouteCollection
+  options:
+    model:                AdServiceCompany
+    module:               paid_services
+    prefix_path:          /paid_services
+    column:               id
+    with_wildcard_routes: true
+
+ad_service:
+  class: sfDoctrineRouteCollection
+  options:
+    model:                AdService
+    module:               ad_service
+    prefix_path:          /ad_service
+    column:               id
+    with_wildcard_routes: true
+
+mail_bg_campaign:
+  class: sfDoctrineRouteCollection
+  options:
+    model:                MailBgCampaign
+    module:               mail_bg
+    prefix_path:          /mail_bg
+    column:               id
+    with_wildcard_routes: true
+
+user_profile_writereviewgame:
+  class: sfDoctrineRouteCollection
+  options:
+    model:                UserProfile
+    module:               writereviewgame
+    prefix_path:          /writereviewgame
+    column:               id
+    with_wildcard_routes: true
+
+get_weekend:
+  class: sfDoctrineRouteCollection
+  options:
+    model:                getWeekend
+    module:               get_weekend
+    prefix_path:          /get_weekend
+    column:               id
+    with_wildcard_routes: true
+
+user_profile_addplacegame:
+  class: sfDoctrineRouteCollection
+  options:
+    model:                UserProfile
+    module:               addplacegame
+    prefix_path:          /addplacegame
+    column:               id
+    with_wildcard_routes: true
+
+mobile_news:
+  class: sfDoctrineRouteCollection
+  options:
+    model:                MobileNews
+    module:               mobile_news
+    prefix_path:          /mobile_news
+    column:               id
+    with_wildcard_routes: true
+
+company_stats:
+  class: sfDoctrineRouteCollection
+  options:
+    model:                CompanyStats
+    module:               companystats
+    prefix_path:          /companystats
+    column:               id
+    with_wildcard_routes: true
+
+newsletter_user:
+  class: sfDoctrineRouteCollection
+  options:
+    model:                NewsletterUser
+    module:               newsletteruser
+    prefix_path:          /newsletteruser
+    column:               id
+    with_wildcard_routes: true
+
+newsletter:
+  class: sfDoctrineRouteCollection
+  options:
+    model:                Newsletter
+    module:               newsletter
+    prefix_path:          /newsletter
+    column:               id
+    with_wildcard_routes: true
+
+slider:
+  class: sfDoctrineRouteCollection
+  options:
+    model:                Slider
+    module:               slider
+    prefix_path:          /slider
+    column:               id
+    with_wildcard_routes: true
+
+image:
+  class: sfDoctrineRouteCollection
+  options:
+    model:                Image
+    module:               image
+    prefix_path:          /image
+    column:               id
+    with_wildcard_routes: true
+
+review:
+  class: sfDoctrineRouteCollection
+  options:
+    model:                Review
+    module:               review
+    prefix_path:          /review
+    column:               id
+    with_wildcard_routes: true
+
+event:
+  class: sfDoctrineRouteCollection
+  options:
+    model:                Event
+    module:               event
+    prefix_path:          /event
+    column:               id
+    with_wildcard_routes: true
+
+lists:
+  class: sfDoctrineRouteCollection
+  options:
+    model:                Lists
+    module:               lists
+    prefix_path:          /lists
+    column:               id
+    with_wildcard_routes: true
+
+
+
+static_page:
+  class: sfDoctrineRouteCollection
+  options:
+    model:                StaticPage
+    module:               staticpage
+    prefix_path:          /staticpage
+    column:               id
+    with_wildcard_routes: true
+
+page_admin:
+  class: sfDoctrineRouteCollection
+  options:
+    model:                PageAdmin
+    module:               PageAdmin
+    prefix_path:          /PageAdmin
+    column:               id
+    with_wildcard_routes: true
+
+classification:
+  class: sfDoctrineRouteCollection
+  options:
+    model:                Classification
+    module:               classification
+    prefix_path:          /classification
+    column:               id
+    with_wildcard_routes: true
+
+category:
+  class: sfDoctrineRouteCollection
+  options:
+    model:                Category
+    module:               category
+    prefix_path:          /category
+    column:               id
+    with_wildcard_routes: true
+
+user_profile:
+  class: sfDoctrineRouteCollection
+  options:
+    model:                UserProfile
+    module:               user_profile
+    prefix_path:          /user_profile
+    column:               id
+    with_wildcard_routes: true
+
+badge:
+  class: sfDoctrineRouteCollection
+  options:
+    model:                Badge
+    module:               badge
+    prefix_path:          /badge
+    column:               id
+    with_wildcard_routes: true
+
+company:
+  class: sfDoctrineRouteCollection
+  options:
+    model:                company
+    module:               company
+    prefix_path:          /company
+    column:               id
+    with_wildcard_routes: true
+
+
+# You can find more information about this file on the symfony website:
+# http://www.symfony-project.org/reference/1_4/en/10-Routing
+
+# default rules
+homepage:
+  url:   /
+  param: { module: company, action: index }
+
+# generic rules
+# please, remove them by adding more specific rules
+default_index:
+  url:   /:module
+  param: { action: index }
+
+default1:
+  url:   /:module/:id/:action
+  requirements:  {id: \d+}
+default:
+  url:   /:module/:action/*

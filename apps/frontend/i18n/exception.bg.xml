@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<xliff version="1.0">
+    <file orginal="global" source-language="en_EN" datatype="plaintext">
+        <body>
+            <trans-unit>
+                <source>Top Review for %sector% in %city%</source>
+                <target>Топ ревю за %sector% във %city%</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Recommended for %sector% in  %city%</source>
+                <target>Препоръчани за %sector% във %city%</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Top Reviews for %sector% in %city%</source>
+                <target>Топ ревюта за %sector% във %city%</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Top Places in %city%</source>
+                <target>Toп места в %city%</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Events in %s</source>
+                <target>Събития във %s</target>
+            </trans-unit>
+            <trans-unit>
+                <source>See all in </source>
+                <target>Виж всички във </target>
+            </trans-unit>
+        </body>
+    </file>
+</xliff>

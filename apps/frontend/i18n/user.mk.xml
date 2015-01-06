@@ -1,0 +1,388 @@
+<?xml version="1.0" ?>
+<xliff version="1.0">
+    <file orginal="global" source-language="en_EN" datatype="plaintext">
+        <body>
+            <trans-unit>
+                <source>Hi</source>
+                <target>Здраво</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Hello</source>
+                <target>Здраво</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Profile</source>
+                <target>Профил</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Dashboard</source>
+                <target>Контролна табла</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Log Out</source>
+                <target>Одјави се</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Sign in</source>
+                <target>Најави се</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Forgot Password?</source>
+                <target>Заборавена лозинка?</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Home</source>
+                <target>Почетна страна</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Send</source>
+                <target>Испрати</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Email</source>
+                <target>E-mail</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Password</source>
+                <target>Лозинка</target>
+            </trans-unit>
+            <trans-unit>
+                <source>I agree with the</source>
+                <target>Се согласувам со</target>
+            </trans-unit>
+            <trans-unit>
+                <source>I agree with %s</source>
+                <target>Се согласувам со %s</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Name</source>
+                <target>Име</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Surname</source>
+                <target>Презиме</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Gender</source>
+                <target>Пол</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Location</source>
+                <target>Населено место</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Location</source>
+                <target>Населено место</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Write a few words about yourself –interests, hobbies, what you like to write about. The words have to be comma separated, e.g. 'restaurants, bars, theatre, bungee jumping, travelling'</source>
+                <target>Напишете неколку зборови за себе си – интереси, хоби, за што сакате да пишувате. Зборовите мора да бидат одделени со запирка, на пример. ‘ресторани, барови. Театар, скокање со банџи, патување’</target>
+            </trans-unit>
+            <trans-unit>
+                <source>I agree to receive messages from getlokal and/or their partners.</source>
+                <target>Се согласувам да примам пораки од getlokal и/или нивните технички партнери.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Registration</source>
+                <target>Регистрирај се</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Password Change</source>
+                <target>Промени лозинка</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Invite a friend</source>
+                <target>Покани пријател</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Your friends</source>
+                <target>Ваши пријатели</target>
+            </trans-unit>
+            <trans-unit>
+                <source>[0]No reviews|[1]1 review|(1,+Inf]%count% reviews</source>
+                <target>[0]Нема препораки|[1]1 препорака|(1,+Inf]%count% препораки</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Settings</source>
+                <target>Подесувања</target>
+            </trans-unit>
+            <trans-unit>
+                <source>here</source>
+                <target>тука</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Sign Up</source>
+                <target>Регистрирај се</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Illegal</source>
+                <target>Нелегално</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Offensive</source>
+                <target>Навреда</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Copyright</source>
+                <target>Авторско право</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Incorrect</source>
+                <target>Неточно</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Email Address</source>
+                <target>Е-поштенска адреса</target>
+            </trans-unit>
+            <trans-unit>
+                <source>My Places</source>
+                <target>Мои места</target>
+            </trans-unit>
+            <trans-unit>
+                <source>View Profile</source>
+                <target>Видете профил</target>
+            </trans-unit>
+            <trans-unit>
+                <source>is from</source>
+                <target>е од</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Forgotten Password</source>
+                <target>Забравена лозинка</target>
+            </trans-unit>
+            <trans-unit>
+                <source>I want to receive newsletters</source>
+                <target>I want to receive newsletters</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Login as %s</source>
+                <target>Најави се како %s</target>
+            </trans-unit>
+            <trans-unit>
+                <source>contact us</source>
+                <target>контактирајте не</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Policy for Use and Protection of the Information on the Getlokal Website</source>
+                <target>Политиката за користење и заштита на информациите на веб страната на Getlokal</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Admin Status 'Rejected'</source>
+                <target>Админ статус 'Одбиен'</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Admin Status 'Pending'</source>
+                <target>Админ статус "Чека одобрување"</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Admin Status 'Approved'</source>
+                <target>Админ статус "Одобрен"</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Login as %s and Create an Event</source>
+                <target>Наjави се како %s и додади настан</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Login as %s and Create an Event</source>
+                <target>Наjави се како %s и направи листа</target>
+            </trans-unit>
+            <trans-unit>
+                <source>General Communication</source>
+                <target>Генерална комуникација</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Community newsletters</source>
+                <target>Забавни новости</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Weekly newsletter</source>
+                <target>Неделни новости</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Business newsletters</source>
+                <target>Бизнис вести</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Games and promotions</source>
+                <target>Игри и промоции</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Send Your Invite via e-mail</source>
+                <target>Испрати ја твојата покана преку е-меил</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Message</source>
+                <target>Забелешка</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Via e-mail</source>
+                <target>Преку е-меил</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Via Gmail / Yahoo!</source>
+                <target>Преку Gmail / Yahoo!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Via Gmail or Yahoo Mail</source>
+                <target>Преку Gmail или Yahoo Mail</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Via Facebook</source>
+                <target>Преку Facebook</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Invite a Friend</source>
+                <target>Покани пријател</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Invite Your Friends</source>
+                <target>Покани ги твоите пријатели</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Send Your Invite via Gmail or Yahoo!</source>
+                <target>Испрати ја твојата покана преку Gmail или Yahoo!</target>
+            </trans-unit>
+            <trans-unit>
+                <source><![CDATA[Send Your Invite via <a href="?invite_choice=gmail" title="Gmail"><img src="/images/logos/gmail.png"></a> or <a href="?invite_choice=yahoo" title="Yahoo"><img src="/images/logos/yahoo.png"></a>]]></source>
+                <target><![CDATA[Испрати ја твојата покана преку <a href="?invite_choice=gmail" title="Gmail"><img src="/images/logos/gmail.png"></a> или <a href="?invite_choice=yahoo" title="Yahoo"><img src="/images/logos/yahoo.png"></a>]]></target>
+            </trans-unit>
+            <trans-unit>
+                <source><![CDATA[Send Your Invite via <img src="/images/logos/gmail.png"> or <img src="/images/logos/yahoo.png">]]></source>
+                <target><![CDATA[Испрати ја твојата покана преку <img src="/images/logos/gmail.png"> или <img src="/images/logos/yahoo.png">]]></target>
+            </trans-unit>
+            <trans-unit>
+                <source>Via Gmail or Yahoo</source>
+                <target>Преку Gmail или Yahoo!</target>
+            </trans-unit>
+            <trans-unit>
+                <source><![CDATA[Send Your Invite via <img src="/images/gui/facebook.png">]]></source>
+                <target><![CDATA[Испрати ја твојата покана преку <img src="/images/gui/facebook.png">]]></target>
+            </trans-unit>
+            <trans-unit>
+                <source>Via Facebook</source>
+                <target>Преку Facebook!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Back</source>
+                <target>Назад</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Login</source>
+                <target>Најави се</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Send another invite?</source>
+                <target>Сакаш да испратиш друга покана?</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Send Your Invite via Facebook</source>
+                <target>Испрати ја твојата покана преку Facebook</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Invite</source>
+                <target>Покани</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Invited</source>
+                <target>Поканет</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Your invite was sent successfully!</source>
+                <target>Твојата покана е успешно испратена!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The friend list is empty!</source>
+                <target>Листата на пријатели е празна!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Your e-mail list is empty!</source>
+                <target>Твојата листа со е-меил адреси е празна!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Wrong e-mail address or/and password!</source>
+                <target>Погрешна е-меил адреса и/или лозинка!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>You entered a wrong e-mail address format!</source>
+                <target>Внесе погрешен формат на е-меил адреса!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Email Address</source>
+                <target>Е-поштенска адреса</target>
+            </trans-unit>
+            <trans-unit>
+                <source>E-mail password</source>
+                <target>Е-меил лозинка</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Email list</source>
+                <target>Листа на е-меил адреси</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Discover getlokal!</source>
+                <target>Го знаеш ли GetLokal?</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Join me on getlokal and discover what other people like you and I think about restaurants, pubs, cafes and other interesting places in their local area.</source>
+                <target>Придружи ми се на GetLokal и дознај што другите луѓе како мене и тебе мислат за ресторани, пабови, кафе барови и други интересни места во нивната околина.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>To join getlokal click on this link:</source>
+                <target>За да се приклучиш на getlokal кликни на овој линк:</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Country</source>
+                <target>Држава</target>
+            </trans-unit>
+            <trans-unit>
+                <source>User with same %s e-mail address is already registered!</source>
+                <target>User with same %s e-mail address is already registered!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>There are no reviews</source>
+                <target>Нема препораки.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>You can use your</source>
+                <target>Можеш да го искористиш</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Facebook account to register</source>
+                <target>и твојот Facebook профил за да се регистрираш</target>
+            </trans-unit>
+            <trans-unit>
+                <source>in getlokal.com</source>
+                <target>на getlokal.mk</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Facebook account to log in</source>
+                <target>и твојот Facebook профил за да се најавиш</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Followers</source>
+                <target>Следбеници</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Congrats - you are our newest registered user. Now you can tell everyone about the great places only you know!</source>
+                <target>Честитки – ти си нашиот најнов регистриран корисник. Сега можеш да ги споделиш со другите сите добри места кои ги знаеш!</target>
+            </trans-unit>
+            <trans-unit>
+                <source><![CDATA[<p class="part_one"><span class="greet">Congrats</span> you are our newest registered user.</p><p class="part_two"> Now you can tell everyone about the great places only you know!</p>]]></source>
+                <target><![CDATA[<p class="part_one"><span class="greet">Честитки</span> ти си нашиот најнов регистриран корисник.</p><p class="part_two"> Сега можеш да ги споделиш со другите сите добри места кои ги знаеш!</p>]]></target>
+            </trans-unit>
+            <trans-unit>
+                <source><![CDATA[<p class="part_one"><span class="greet">Congrats</span> you are our newest registered user.</p><p class="part_two"> Now you can finish claiming your place and update the information about it!</p>]]></source>
+                <target><![CDATA[<p class="part_one"><span class="greet">Честитки!</span> Ти си нашиот најнов регистриран корисник.</p><p class="part_two"> Сега можеш да продолжиш со преземањето на администрација на твоето место и да ги ажурираш информации за истото!</p>]]></target>
+            </trans-unit>
+            <trans-unit>
+                <source>Welcome to getlokal.com</source>
+                <target>Добредојде на getlokal.mk</target>
+            </trans-unit>
+
+            <trans-unit>
+                <source>Sign in via Facebook</source>
+                <target>Најави се со Facebook</target>
+            </trans-unit>
+        </body>
+    </file>
+</xliff>

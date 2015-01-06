@@ -1,0 +1,1021 @@
+<?xml version="1.0" ?>
+<xliff version="1.0">
+  <file original="global" source-language="en" datatype="plaintext">
+    <body>
+      <trans-unit id="1">
+        <source>There is no user registered with the this email</source>
+        <target>Enginn skráður notandi finnst undir þessu netfangi.</target>
+      </trans-unit>
+      <trans-unit id="2">
+        <source>Day, month and year are mandatory fields</source>
+        <target>Dagur, mánuður og ár eru nauðsynlegir reitir.</target>
+      </trans-unit>
+      <trans-unit id="3">
+        <source>Username "%value%" cannot be used</source>
+        <target>Notendanafnið „%value%“ getur ekki verið notað.</target>
+      </trans-unit>
+      <trans-unit id="4">
+        <source>The username "%value%" contains characters that are not allowed</source>
+        <target>Notendanafnið „%value%“ inniheldur óheimila stafi.</target>
+      </trans-unit>
+      <trans-unit id="5">
+        <source>Username must contain at least %min_length% characters</source>
+        <target>Notendanafnið verður að vera að minnsta kosti %min_length% stafa langt.</target>
+      </trans-unit>
+      <trans-unit id="6">
+        <source>Username cannot contain more than %max_length% characters.</source>
+        <target>Notendanafnið má ekki vera fleiri en %max_length% stafa langt.</target>
+      </trans-unit>
+      <trans-unit id="7">
+        <source>Invalid email – your email is not in the correct format</source>
+        <target>Ógilt netfang - netfangið þitt er í vitlausu sniði.</target>
+      </trans-unit>
+      <trans-unit id="8">
+        <source>"%value%" is too short.  The username should be at least 3 characters.</source>
+        <target>„%value%“ er of stutt. Notendanafnið verður að vera að minnsta kosti 3 stafa langt.</target>
+      </trans-unit>
+      <trans-unit id="9">
+        <source>Your password should be at least %min_length% characters long</source>
+        <target>Lykilorðið þitt verður að minnsta kosti %min_length% stafa langt.</target>
+      </trans-unit>
+      <trans-unit id="10">
+        <source>Your password cannot contain more than %max_length% characters</source>
+        <target>Lykilorðið má ekki vera fleiri en %max_length% stafa langt.</target>
+      </trans-unit>
+      <trans-unit id="11">
+        <source>We will send the new password, to the email address you provided during registration</source>
+        <target>Við sendum nýja lykilorðið þitt til netfangsins sem þú gafst upp við skráningu.</target>
+      </trans-unit>
+      <trans-unit id="12">
+        <source>The passwords do not match</source>
+        <target>Lykilorðin eru ekki eins.</target>
+      </trans-unit>
+      <trans-unit id="13">
+        <source>This email address has already been registered by another user</source>
+        <target>Þetta netfnag hefur þegar verið skráð af öðrum notanda.</target>
+      </trans-unit>
+      <trans-unit id="14">
+        <source>This username is already in use</source>
+        <target>Þetta notendanafn er þegar í notkun.</target>
+      </trans-unit>
+       <trans-unit id="15">
+        <source>This field is mandatory. Please start typing the name of your home location and select from the list.</source>
+        <target>Þessi reitur er nauðsynlegur. Byrjaðu að slá inn heitið á heimastaðsetningu þinni og veldu hana úr listanum.</target>
+      </trans-unit>
+      <trans-unit id="16">
+        <source>You have entered the text incorrectly. Please try again.</source>
+        <target>Þú hefur slegið textann inn rangt. Vinsamlega reyndu aftur.</target>
+      </trans-unit>
+      <trans-unit id="17">
+        <source>Please retype your password.</source>
+        <target>Skrifaðu lykilorðið þitt aftur.</target>
+      </trans-unit>
+	  <trans-unit id="18">
+        <source>Please retype your password.</source>
+        <target>Skrifaðu lykilorðið þitt aftur.</target>
+      </trans-unit>
+      <trans-unit id="19">
+        <source>Email is required</source>
+        <target>Netfang vantar.</target>
+      </trans-unit>
+      <trans-unit id="20">
+        <source>You must select a file to upload</source>
+        <target>Þú verður að velja skrá til að hlaða inn.</target>
+      </trans-unit>
+      <trans-unit id="21">
+        <source>The file you submitted is not in a valid format. Please upload a JPG, GIF or PNG image file.</source>
+        <target>Skráin sem þú hlóðst inn er ekki í gildu sniði. Vinsamlega hladdu inn mynd í JPG-, GIF- eða PNG-sniði.</target>
+      </trans-unit>
+	  <trans-unit id="22">
+        <source>The file you submitted is not in a valid format. Please upload a JPG, GIF or PNG image file.</source>
+        <target>Skráin sem þú hlóðst inn er ekki í gildu sniði. Vinsamlega hladdu inn mynd í JPG-, GIF- eða PNG-sniði.</target>
+      </trans-unit>
+      <trans-unit id="23">
+        <source>File size limit is 4MB. Please reduce file size before submitting again.</source>
+        <target>Takmarkið á skrárstærð er 4MB. Minnkaðu stærð skránnar og reyndu aftur.</target>
+      </trans-unit>
+      <trans-unit id="24">
+        <source>File size limit is 2MB.Please reduce file size.</source>
+        <target>akmarkið á skrárstærð er 2MB. Minnkaðu stærð skránnar og reyndu aftur.</target>
+      </trans-unit>
+      <trans-unit id="25">
+        <source>Caption "%value%" contains forbidden characters</source>
+        <target>Myndatextinn „%value%“ inniheldur ógilda stafi.</target>
+      </trans-unit>
+      <trans-unit id="26">
+        <source>Caption "%value%" contains forbidden words</source>
+        <target>Myndatextinn „%value%“ inniheldur bönnuð orð.</target>
+      </trans-unit>
+      <trans-unit id="27">
+        <source>Type photo caption</source>
+        <target>Slá inn myndatexta</target>
+      </trans-unit>
+	  <trans-unit id="28">
+        <source>Type photo caption</source>
+        <target>Slá inn myndatexta</target>
+      </trans-unit>
+      <trans-unit id="29">
+        <source>Caption must contain at least %min_length% characters</source>
+        <target>Myndatextinn verður að vera að minnsta kosti %min_length% stafa langt.</target>
+      </trans-unit>
+      <trans-unit id="30">
+        <source>The caption cannot contain more than %max_length% characters.</source>
+        <target>Myndatextinn má ekki vera fleiri en %max_length% stafa langt.</target>
+      </trans-unit>
+      <trans-unit id="31">
+        <source>The review cannot contain more than %max_length% characters. Shorten your review.</source>
+        <target>Gagnrýnin má ekki vera fleiri en %max_length% stafa löng. Styttu gagnrýni þína.</target>
+      </trans-unit>
+       <trans-unit id="32">
+        <source>The review must contain at least %min_length% characters</source>
+        <target>Gagnrýnin verður að vera að minnsta kosti %min_length% stafa löng.</target>
+      </trans-unit>
+      <trans-unit id="33">
+        <source>The review contains characters that are not allowed</source>
+        <target>Gagnrýnin inniheldur óheimila stafi.</target>
+      </trans-unit>
+      <trans-unit id="34">
+        <source>The review contains words that are not allowed</source>
+        <target>Gagnrýnin inniheldur bönnuð orð.</target>
+      </trans-unit>
+      <trans-unit id="35">
+        <source>The answer cannot contain more than %max_length% characters</source>
+        <target>Svarið má ekki vera fleiri en %max_length% stafa langt.</target>
+      </trans-unit>
+       <trans-unit id="36">
+        <source>The answer must contain at least %min_length% characters</source>
+        <target>Svarið verður að vera að minnsta kosti %min_length% stafa langt.</target>
+      </trans-unit>
+       <trans-unit id="37">
+        <source>The review cannot contain more than %max_length% characters</source>
+        <target>Gagnrýnin má ekki vera fleiri en %max_length% stafa löng.</target>
+      </trans-unit>
+      <trans-unit id="38">
+        <source>the answer contains words that are not allowed</source>
+        <target>Svarið inniheldur bönnuð orð.</target>
+      </trans-unit>
+      <trans-unit id="39">
+        <source>Type Review</source>
+        <target>Slá inn gagnrýni</target>
+      </trans-unit>
+      <trans-unit id="40">
+        <source>The caption must contain at least 3 characters</source>
+        <target>Myndatextinn verður að vera að minnsta kosti 3 stafa langur.</target>
+      </trans-unit>
+      <trans-unit id="41">
+        <source>The caption cannot contain more than 255 characters</source>
+        <target>Myndatextinn má ekki vera fleiri en 255 stafa langur.</target>
+      </trans-unit>
+      <trans-unit id="42">
+        <source>The field is mandatory</source>
+        <target>Verður að fylla út þennan reit.</target>
+      </trans-unit>
+      <trans-unit id="43">
+        <source>Select Your Position</source>
+        <target>Þín staðsetning</target>
+      </trans-unit>
+      <trans-unit id="44">
+        <source>Invalid Phone Number</source>
+        <target>Ógilt símanúmer</target>
+      </trans-unit>
+      <trans-unit id="45">
+        <source>This field is mandatory. Select your town/city from the dropdown list.</source>
+        <target>Verður að fylla út þennan reit. Veldu þína borg/bæ úr vallistanum.</target>
+      </trans-unit>
+      <trans-unit id="46">
+        <source>This field cannot contain more than %max_length% characters</source>
+        <target>Þessi reitur má ekki innihalda fleiri en %max_length% stafi.</target>
+      </trans-unit>
+      <trans-unit id="47">
+        <source>Select company type</source>
+        <target>Veldu tegund fyrirtækis</target>
+      </trans-unit>
+      <trans-unit id="48">
+        <source>Select address type</source>
+        <target>Veldu tegund heimilisfangs</target>
+      </trans-unit>
+      <trans-unit id="49">
+        <source>Invalid Postcode</source>
+        <target>Ógilt póstnúmer</target>
+      </trans-unit>
+      <trans-unit id="50">
+        <source>You must select Street and/or Nighbourhood</source>
+        <target>Þú verður að velja götu og/eða hverfi</target>
+      </trans-unit>
+      <trans-unit id="51">
+        <source>You must enter Street and/or Nighbourhood</source>
+        <target>Þú verður að gefa upp götu og/eða hverfi</target>
+      </trans-unit>
+      <trans-unit id="52">
+        <source>You must enter Street Number and/or Entrance</source>
+        <target>Þú verður að gefa upp götu- og/eða inngangsnúmer</target>
+      </trans-unit>
+      <trans-unit id="53">
+        <source>You need to register a business account in order to manage you company's listing in getlokal.ro</source>
+        <target>Þú verður að skrá fyrirtækisaðgang til að stjórna skráningu þína fyrirtækis á getlokal.ro </target>
+      </trans-unit>
+       <trans-unit id="54">
+        <source>Log out of your user profile and register as a business</source>
+        <target>Skrá út af notendaprófilnum þínum og skrá aðgang sem fyrirtæki</target>
+      </trans-unit>
+      <trans-unit id="55">
+        <source>Only business users can claim companies!</source>
+        <target>Eingöngu fyrirtækjanotendur geta heimt fyrirtæki!</target>
+      </trans-unit>
+      <trans-unit id="56">
+        <source>Enter the URL of Your Blog</source>
+        <target>Slá inn slóðina að blogginu þínu</target>
+      </trans-unit>
+      <trans-unit id="57">
+        <source>The field cannot contain more than %max_length% characters</source>
+        <target>Reiturinn má ekki innihalda fleiri en %max_length% stafi.</target>
+      </trans-unit>
+      <trans-unit id="58">
+        <source>The field must contain at least %min_length% characters</source>
+        <target>Reiturinn verður að innihalda að minnsta kosti %min_length% stafi.</target>
+      </trans-unit>
+      <trans-unit id="59">
+        <source>Invalid format. E.g. http://www.getlokal.ro.</source>
+        <target>Ógilt snið. T.d.: http://www.getlokal.ro.</target>
+      </trans-unit>
+      <trans-unit id="60">
+        <source>Invalid format. E.g. getlokal.ro!</source>
+        <target>Ógilt snið. T.d.: Ex: getlokal.ro!</target>
+      </trans-unit>
+      <trans-unit id="61">
+        <source>Invalid format. E.g. http://blog.getlokal.ro.</source>
+        <target>Ógilt snið. T.d.: http://blog.getlokal.ro.</target>
+      </trans-unit>
+      <trans-unit id="62">
+        <source>Invalid format. E.g. http://twitter.com/@getlokal.</source>
+        <target>Ógilt snið. T.d.: http://twitter.com/@getlokal</target>
+      </trans-unit>
+      <trans-unit id="63">
+        <source>Invalid format. E.g. http://www.facebook.com/#!/getlokal.</source>
+        <target>Ógilt snið. T.d.: http://www.facebook.com/#!/getlokal.</target>
+      </trans-unit>
+      <trans-unit id="64">
+        <source>This field is not mandatory but if you fill it in it must contain at least %min_length% characters</source>
+        <target>Ekki verður að fylla út þennan reit, en ef þú fyllir hann út þá verður hann að innihalda að minnsta kosti %min_length% stafi.</target>
+      </trans-unit>
+      <trans-unit id="65">
+        <source>This field is not mandatory but if you fill it in itcannot contain more than %max_length% characters.</source>
+        <target>Ekki verður að fylla út þennan reit, en ef þú fyllir hann út þá má hann ekki innihalda fleiri en %max_length% stafi.</target>
+      </trans-unit>
+      <trans-unit id="66">
+        <source>Select Your Position</source>
+        <target>Veldu staðsetningu þína</target>
+      </trans-unit>
+
+      <trans-unit id="67">
+        <source>Invalid format. E.g. http://www.facebook.com/getlokal.</source>
+        <target>Ógilt snið. T.d.: http://www.facebook.com/getlokal.</target>
+      </trans-unit>
+      <trans-unit id="68">
+        <source>There was a problem changing your password. Please try again later.</source>
+        <target>Villa kom upp við að breyta lykilorðini þínu. Vinsamlega reyndu aftur síðar.</target>
+      </trans-unit>
+      <trans-unit id="69">
+        <source>Your password was changed successfully</source>
+        <target>Lykilorðinu þínu hefur verið breytt.</target>
+      </trans-unit>
+       <trans-unit id="70">
+        <source>The start date cannot be earlier than today</source>
+        <target>Byrjunardagsetningin má ekki vera fyrir daginn í dag.</target>
+      </trans-unit>
+      <trans-unit id="71">
+        <source>The start date of the second promo month cannot be earlier than the end date of the first</source>
+        <target>Byrjunardagsetning annars herferðarmánaðarins má ekki vera fyrir endadagsetingu þess fyrsta.</target>
+      </trans-unit>
+       <trans-unit id="72">
+        <source>The start date of the third promo month cannot be earlier than the end date of the second</source>
+        <target>Byrjunardagsetning þriðja herferðarmánaðarins má ekki vera fyrir endadagsetingu annars.</target>
+      </trans-unit>
+       <trans-unit id="73">
+        <source>The start date for the third period must not be later than 30 days before the end date of your advert</source>
+        <target>Byrjunardagsetning þriðja tímabilsins má ekki vera fleiri en 30 dögum eftir endadagsetningu auglýsingarinnar þinnar.</target>
+      </trans-unit>
+      <trans-unit id="74">
+        <source>The start date for the period must not be later than 30 days before the end date of your advert</source>
+        <target>Byrjunardagsetning tímabilsins má ekki vera fleiri en 30 dögum eftir endadagsetningu auglýsingarinnar þinnar.</target>
+      </trans-unit>
+      <trans-unit id="75">
+        <source>Skriv in ditt svar.</source>
+        <target>Slá inn svarið þitt.</target>
+      </trans-unit>
+      <trans-unit id="76">
+        <source>The Offer Title cannot be longer than %max_length% characters</source>
+        <target>Titill tilboðsins má ekki vera fleiri en %max_length% stafa langur.</target>
+      </trans-unit>
+      <trans-unit id="77">
+        <source>The maximum number of vouchers issued per user cannot exceed the total number of vouchers for the offer</source>
+        <target>Hámarksfjöldi útgefinna afsláttarmiða má ekki vera fleiri en heildarfjöldi miða fyrir tilboðið.</target>
+      </trans-unit>
+      <trans-unit id="78">
+        <source>You cannot select a date earlier than today's</source>
+        <target>Þú mátt ekki velja dagsetningu fyrir daginn í dag.</target>
+      </trans-unit>
+      <trans-unit id="79">
+        <source>Тhe end date of your offer cannot be later than the end date of your advert</source>
+        <target>Endadagsetning tilboðsins þíns má ekki vera eftir endadagsetningu auglýsingarinnar þinnar.</target>
+      </trans-unit>
+      <trans-unit id="80">
+        <source>The offer end date cannot be earlier than the start date</source>
+        <target>Endadagsetning tilboðsins má ekki vera fyrir byrjunardagsetningu þess. </target>
+      </trans-unit>
+      <trans-unit id="81">
+        <source>The voucher valid to date cannot be earlier than the offer end date</source>
+        <target>Gildistími afsláttarmiðans má ekki vera runnið út fyrir endadagsetningu tilboðsins.</target>
+      </trans-unit>
+      <trans-unit id="82">
+        <source>Select date, month and year</source>
+        <target>Veldu dag, mánuð og ár.</target>
+      </trans-unit>
+       <trans-unit id="83">
+        <source>The email address is not in a valid format</source>
+        <target>Netfangið er ekki í gildu sniði.</target>
+      </trans-unit>
+      <trans-unit id="84">
+        <source>An email is mandatory</source>
+        <target>Verður að gefa upp netfang.</target>
+      </trans-unit>
+      <trans-unit id="85">
+        <source>You need to agree to getlokal's Terms of Use to create a user account</source>
+        <target>Þú verður að samþykkja notkunarskilmála getlokal til að stofna notendaaðgang.</target>
+      </trans-unit>
+       <trans-unit id="86">
+        <source>Location is mandatory. Start typing the name of your location and select from the list.</source>
+        <target>Verður að gefa upp staðsetningu. Byrjaðu að skrifa heiti staðsetningarinnar og veldu úr listanum.</target>
+      </trans-unit>
+      <trans-unit id="87">
+        <source>Password must be at least %min_length% characters</source>
+        <target>Lykilorðið verður að vera að minnsta kosti %min_length% stafa langt.</target>
+      </trans-unit>
+      <trans-unit id="88">
+        <source>Password cannot be more than %min_length% characters</source>
+        <target>Lykilorðið má ekki vera fleiri en %min_length% stafa langt.</target>
+      </trans-unit>
+      <trans-unit id="89">
+        <source>A username is mandatory</source>
+        <target>Verður að gefa upp notendanafn.</target>
+      </trans-unit>
+       <trans-unit id="90">
+        <source>Invalid unsubscribe code for </source>
+        <target>Ógildur áskriftaruppsagnarkóði fyrir </target>
+      </trans-unit>
+	  <trans-unit id="91">
+        <source>The passwords don't match</source>
+        <target>Lösenorden stämmer ej överens.</target>
+      </trans-unit>
+
+	   <trans-unit id="92">
+        <source>Description must contain at least %min_length% characters</source>
+        <target>Lýsingin verður að innihalda að minnsta kosti %min_length% stafi.</target>
+      </trans-unit>
+      <trans-unit id="93">
+        <source>The description cannot contain more than %max_length% characters.</source>
+        <target>Lýsingin má ekki innihalda fleiri en %max_length% stafi.</target>
+      </trans-unit>
+      <trans-unit id="94">
+        <source>Description "%value%" contains forbidden words</source>
+        <target>Lýsingin „%value%“ inniheldur bönnuð orð.</target>
+      </trans-unit>
+       <trans-unit id="95">
+        <source>The Offer Title must contain at least %min_length% characters</source>
+        <target>Titill tilboðsins verður að vera að minnsta kosti %min_length% stafa langur.</target>
+      </trans-unit>
+      <trans-unit id="96">
+        <source>The Offer Title and Terms are mandatory for at least one of the two language versions.</source>
+       <target>Verður að gefa upp titil og skilmála tilboðsins fyrir að minnsta kosti eina tungumálaútgáfanna tveggja.</target>
+      </trans-unit>
+       <trans-unit id="97">
+        <source>The Newsletter Title cannot be longer than %max_length% characters</source>
+        <target>Titill fréttabréfsins má ekki vera fleiri en %max_length% stafa langur.</target>
+      </trans-unit>
+      <trans-unit id="98">
+        <source>The Newsletter Title must contain at least %min_length% characters</source>
+        <target>Titill fréttabréfsins verður að vera að minnsta kosti %min_length% stafa langur.</target>
+      </trans-unit>
+      <trans-unit id="99">
+        <source>Please enter search criteria</source>
+        <target>Vinsamlega sláðu inn leitarorð.</target>
+      </trans-unit>
+      <trans-unit id="100">
+        <source>Please correct search criteria</source>
+        <target>Vinsamlega leiðréttu leitarorð.</target>
+      </trans-unit>
+      <trans-unit id="101">
+        <source>Incorrect search term</source>
+        <target>Vitlaust leitarorð.</target>
+      </trans-unit>
+     <trans-unit id="102">
+        <source>Message must contain at least %min_length% characters</source>
+        <target>Skilaboðin verða að innihalda að minnsta kosti %min_length% stafi.</target>
+      </trans-unit>
+      <trans-unit id="103">
+        <source>The message cannot contain more than %max_length% characters.</source>
+        <target>Skilaboðin mega ekki innihalda fleiri en %max_length% stafi.</target>
+      </trans-unit>
+       <trans-unit id="104">
+        <source>This email and unsubscribed key do not match</source>
+        <target>Þetta netfang passar ekki við uppsagnarkóðann.</target>
+      </trans-unit>
+        <trans-unit id="105">
+        <source>Video Title must contain at least %min_length% characters</source>
+        <target>Titill myndbandsins verður að innihalda að minnsta kosti %min_length% stafi.</target>
+      </trans-unit>
+      <trans-unit id="106">
+        <source>The video title cannot contain more than %max_length% characters.</source>
+        <target>Titill myndbandsins má ekki innihalda fleiri en %max_length% stafi.</target>
+      </trans-unit>
+       <trans-unit id="107">
+        <source>The email message was not sent successfully.</source>
+        <target>Það tókst ekki að senda tölvupóstinn.</target>
+      </trans-unit>
+      <trans-unit id="108">
+        <source>This username has already been registered by another user</source>
+        <target>Þetta notendanafn hefur þegar verið skráð af öðrum notanda.</target>
+      </trans-unit>
+       <trans-unit id="109">
+        <source>Тhe start date cannot be later than the end date of the event</source>
+        <target>Byrjunardagsetningin má ekki verið eftir endadagsetningu viðburðarins.</target>
+      </trans-unit>
+      <trans-unit id="110">
+        <source>Please add location - city/town is required if venue not known!</source>
+        <target>Vinsamlega bættu staðsetningu við – verður að fylla út borg eða bæ ef staðurinn er ekki þekktur!</target>
+      </trans-unit>
+      <trans-unit id="111">
+        <source>Please enter the characters from the picture below to confirm you like parties!</source>
+        <target>Vinsamlega sláðu inn stafina á myndinni hér fyrir neðan til að staðfesta að þér finnst gott að djamma!</target>
+      </trans-unit>
+          <trans-unit id="112">
+        <source>Username</source>
+        <target>Notendanafn</target>
+      </trans-unit>
+      <trans-unit id="113">
+        <source>Email</source>
+        <target>Netfang</target>
+      </trans-unit>
+      <trans-unit id="114">
+        <source>Password</source>
+        <target>Lykilorð</target>
+      </trans-unit>
+      <trans-unit id="115">
+        <source>Retype Your Password</source>
+        <target>Sláðu inn lykilorðið þitt aftur</target>
+      </trans-unit>
+      <trans-unit id="116">
+        <source>Select Your City</source>
+        <target>Veldu þína borg</target>
+      </trans-unit>
+            <trans-unit id="117">
+        <source>Enter your Email address.</source>
+        <target>Sláðu inn netfangið þitt.</target>
+      </trans-unit>
+      <trans-unit id="118">
+        <source>Name</source>
+        <target>Fornafn</target>
+      </trans-unit>
+      <trans-unit id="119">
+        <source>Surname</source>
+        <target>Eftirnafn</target>
+      </trans-unit>
+      <trans-unit id="120">
+        <source>Profile Picture</source>
+        <target>Prófílmynd</target>
+      </trans-unit>
+      <trans-unit id="121">
+        <source>Delete current</source>
+        <target>Eyða núverandi</target>
+      </trans-unit>
+      <trans-unit id="122">
+        <source>Date of Birth</source>
+        <target>Fæðingardagur</target>
+      </trans-unit>
+      <trans-unit id="123">
+        <source>Gender</source>
+        <target>Kyn</target>
+      </trans-unit>
+      <trans-unit id="124">
+        <source>Location</source>
+        <target>Staðsetning</target>
+      </trans-unit>
+           <trans-unit id="125">
+        <source>About me</source>
+        <target>Um mig</target>
+      </trans-unit>
+      <trans-unit id="126">
+        <source>My Website</source>
+        <target>Vefsíðan mín</target>
+      </trans-unit>
+      <trans-unit id="127">
+        <source>My Blog</source>
+        <target>Bloggið mitt</target>
+      </trans-unit>
+      <trans-unit id="128">
+        <source>My Facebook</source>
+        <target>Facebook-síðan mín</target>
+      </trans-unit>
+      <trans-unit id="129">
+        <source>My Google+</source>
+        <target>Google+-síðan mín</target>
+      </trans-unit>
+
+      <trans-unit id="130">
+        <source>New Password</source>
+        <target>Nýtt lykilorð</target>
+      </trans-unit>
+      <trans-unit id="131">
+        <source>Retype New Password</source>
+        <target>Sláðu inn lykilorðið þitt aftur.</target>
+      </trans-unit>
+      <trans-unit id="132">
+        <source>The field is required</source>
+        <target>Verður að fylla út þennan reit.</target>
+      </trans-unit>
+      <trans-unit id="133">
+        <source>Fields marked with a star are mandatory.</source>
+        <target>Verður að fylla út stjörnumerkta reiti.</target>
+      </trans-unit>
+            <trans-unit id="134">
+        <source>Owner</source>
+        <target>Eigandi</target>
+      </trans-unit>
+      <trans-unit id="135">
+        <source>Director</source>
+        <target>Forstjóri</target>
+      </trans-unit>
+       <trans-unit id="136">
+        <source>Manager</source>
+        <target>Stjóri</target>
+      </trans-unit>
+      <trans-unit id="137">
+        <source>Employee</source>
+        <target>Starfsmaður</target>
+      </trans-unit>
+      <trans-unit id="138">
+        <source>Choose...</source>
+        <target>Veldu…</target>
+      </trans-unit>
+      <trans-unit id="139">
+        <source>Other</source>
+        <target>Annað</target>
+      </trans-unit>
+            <trans-unit id="140">
+        <source>My Facebook</source>
+        <target>Facebook-síðan mín</target>
+      </trans-unit>
+      <trans-unit id="141">
+        <source>My Тwitter</source>
+        <target>Twitter-síðan mín</target>
+      </trans-unit>
+            <trans-unit id="142">
+        <source>Current Password</source>
+        <target>Núverandi lykilorð</target>
+      </trans-unit>
+      <trans-unit id="143">
+        <source>Retype New Password</source>
+        <target>Sláðu nýja lykilorðið inn aftur</target>
+      </trans-unit>
+      <trans-unit id="144">
+        <source>Passwords don't match</source>
+        <target>Lykilorðin eru ekki eins</target>
+      </trans-unit>
+      <trans-unit id="145">
+        <source>Your Password</source>
+        <target>Lykilorðið þitt</target>
+      </trans-unit>
+       <trans-unit id="146">
+        <source>Male</source>
+        <target>Karl</target>
+      </trans-unit>
+       <trans-unit id="147">
+        <source>Female</source>
+        <target>Kona</target>
+      </trans-unit>
+      <trans-unit id="148">
+        <source>Position</source>
+        <target>Staðsetning</target>
+      </trans-unit>
+      <trans-unit id="149">
+        <source>Phone</source>
+        <target>Símanúmer</target>
+      </trans-unit>
+       <trans-unit id="150">
+        <source>I declare that I am an authorized representative of the business.</source>
+        <target>Ég staðfesti að ég er viðurkenndur fulltrúi fyrir fyrirtækið.</target>
+      </trans-unit>
+      <trans-unit id="151">
+        <source>Enter the CUI of your business.</source>
+        <target>Sláðu inn CUI fyrirtækisins þíns.</target>
+      </trans-unit>
+       <trans-unit id="152">
+        <source>Declare that you are an authorized representative of the business.</source>
+        <target>Staðfestu að þú ert viðurkenndur fulltrúi fyrir fyrirtækið</target>
+      </trans-unit>
+      <trans-unit id="153">
+        <source>Invalid CUI</source>
+        <target>Ógilt CUI</target>
+      </trans-unit>
+      <trans-unit id="154">
+        <source>Company Name</source>
+        <target>Heiti fyrirtækisins</target>
+      </trans-unit>
+      <trans-unit id="155">
+        <source>Company Type</source>
+        <target>Tegund fyrirtækis</target>
+      </trans-unit>
+       <trans-unit id="156">
+        <source>Company Name in Latin characters</source>
+        <target>Heiti fyrirtækis í latneskum stöfum</target>
+      </trans-unit>
+       <trans-unit id="157">
+        <source>Address</source>
+        <target>Heimilsfang</target>
+      </trans-unit>
+       <trans-unit id="158">
+        <source>Classification</source>
+        <target>Flokkun</target>
+      </trans-unit>
+       <trans-unit id="159">
+        <source>City</source>
+        <target>Staður</target>
+      </trans-unit>
+      <trans-unit id="160">
+        <source>Company Address</source>
+        <target>Heimilsfang fyrirtækisins</target>
+      </trans-unit>
+      <trans-unit id="161">
+        <source>Postcode</source>
+        <target>Póstnúmer</target>
+      </trans-unit>
+      <trans-unit id="162">
+        <source>Street</source>
+        <target>Gata</target>
+      </trans-unit>
+      <trans-unit id="163">
+        <source>Number</source>
+        <target>Götunúmer</target>
+      </trans-unit>
+      <trans-unit id="164">
+        <source>Neighbourhood</source>
+        <target>Hverfi</target>
+      </trans-unit>
+      <trans-unit id="165">
+        <source>Bl.</source>
+        <target>Bl.</target>
+      </trans-unit>
+      <trans-unit id="166">
+        <source>Ent.</source>
+        <target>Ent.</target>
+      </trans-unit>
+      <trans-unit id="167">
+        <source>Fl.</source>
+        <target>Fl.</target>
+      </trans-unit>
+      <trans-unit id="168">
+        <source>Ap.</source>
+        <target>Ap.</target>
+      </trans-unit>
+            <trans-unit id="169">
+        <source>Monday</source>
+        <target>mánudagur</target>
+      </trans-unit>
+      <trans-unit id="170">
+        <source>Tuesday</source>
+        <target>þriðjuadaugr</target>
+      </trans-unit>
+      <trans-unit id="171">
+        <source>Wednesday</source>
+        <target>miðvikudagur</target>
+      </trans-unit>
+      <trans-unit id="172">
+        <source>Thursday</source>
+        <target>fimmtudagur</target>
+      </trans-unit>
+      <trans-unit id="173">
+        <source>Friday</source>
+        <target>föstudagur</target>
+      </trans-unit>
+      <trans-unit id="174">
+        <source>Saturday</source>
+        <target>laugardagur</target>
+      </trans-unit>
+      <trans-unit id="175">
+        <source>Sunday</source>
+        <target>sunnudagur</target>
+      </trans-unit>
+         <trans-unit id="176">
+        <source>Bulgarian</source>
+        <target>búlgaríska</target>
+      </trans-unit>
+      <trans-unit id="177">
+        <source>English</source>
+        <target>enska</target>
+      </trans-unit>
+      <trans-unit id="178">
+        <source>Email:</source>
+        <target>Netfang:</target>
+      </trans-unit>
+      <trans-unit id="179">
+        <source>Password:</source>
+        <target>Lykilorð:</target>
+      </trans-unit>
+      <trans-unit id="180">
+        <source>Remember me</source>
+        <target>Muna eftir mér</target>
+      </trans-unit>
+      <trans-unit id="181">
+        <source>Description</source>
+        <target>Lýsing</target>
+      </trans-unit>
+      <trans-unit id="182">
+        <source>Category</source>
+        <target>Flokkur</target>
+      </trans-unit>
+      <trans-unit id="183">
+        <source>Website</source>
+        <target>Vefsíða</target>
+      </trans-unit>
+      			<trans-unit id="184">
+        <source>You entered "%value%". The security check picture contains %length% characters. Please try again.</source>
+        <target>Þú sláðir inn „%value%“. Öryggismyndin inniheldur %length% stafi. Reyndu aftur.</target>
+      </trans-unit>
+            <trans-unit id="185">
+        <source>Security check. Enter the characters from the picture below</source>
+        <target>Öryggisathugun. Sláðu inn stafina á myndinni hér fyrir neðan.</target>
+      </trans-unit>
+      <trans-unit id="186">
+        <source>Start Date</source>
+        <target>Byrjunardagsetning</target>
+      </trans-unit>
+      <trans-unit id="187">
+        <source>Detailed Description</source>
+        <target>Ítarleg lýsing</target>
+      </trans-unit>
+      <trans-unit id="188">
+        <source>Detailed Description (English)</source>
+        <target>Ítarleg lýsing (enska)</target>
+      </trans-unit>
+      <trans-unit id="189">
+        <source>Offer Title</source>
+        <target>Titill tilboðsins</target>
+      </trans-unit>
+      <trans-unit id="190">
+        <source>Voucher</source>
+        <target>Afsláttarmiði</target>
+      </trans-unit>
+      <trans-unit id="191">
+        <source>Voucher Valid From</source>
+        <target>Afsláttarmiði gildur frá</target>
+      </trans-unit>
+      <trans-unit id="192">
+        <source>Voucher Valid To</source>
+        <target>Afsláttarmiði gildur til</target>
+      </trans-unit>
+      <trans-unit id="193">
+        <source>Offer Active From</source>
+        <target>Tilboð virkt frá</target>
+      </trans-unit>
+      <trans-unit id="194">
+        <source>Offer Active To</source>
+        <target>Tilboð virkt til</target>
+      </trans-unit>
+      <trans-unit id="195">
+        <source>Maximum number of vouchers to be issued</source>
+        <target>Hámarksfjöldi miða til að gefa út</target>
+      </trans-unit>
+       <trans-unit id="196">
+        <source>Maximum number of vouchers to be issued per user</source>
+        <target>Hámarksfjöldi miða til að gefa út á notanda</target>
+      </trans-unit>
+      <trans-unit id="197">
+        <source>Offer Terms</source>
+        <target>Skilmálar tilboðsins</target>
+      </trans-unit>
+       <trans-unit id="198">
+        <source>Select a photo from your computer</source>
+        <target>Veldu mynd úr tölvunni þinni</target>
+      </trans-unit>
+      <trans-unit id="199">
+        <source>Caption</source>
+        <target>Myndatexti</target>
+      </trans-unit>
+      <trans-unit id="8">
+        <source>Please enter your Name and Surname</source>
+        <target>Sláðu inn for- og eftirnafnið</target>
+      </trans-unit>
+      <trans-unit id="9">
+        <source>Invalid email</source>
+        <target>Ógilt netfang</target>
+      </trans-unit>
+      <trans-unit id="10">
+        <source>Please rate this company</source>
+        <target>Vinsamlega mettu þetta fyrirtæki</target>
+      </trans-unit>
+      <trans-unit id="22">
+        <source>Please enter your email</source>
+        <target>Sláðu inn netfangið þitt</target>
+      </trans-unit>
+      <trans-unit id="11">
+        <source>Invalid Rating</source>
+        <target>Ógilt mat</target>
+      </trans-unit>
+       <trans-unit id="15">
+        <source>Please agree to observe the Terms of Use of the Getlokal Website</source>
+        <target>Vinsamlega samþykktu notkunarskilmála vefsíðunnar Getlokal</target>
+    </trans-unit>
+    <trans-unit id="54">
+        <source>Choose if you want to recommend this company to a friend</source>
+        <target>Veldu ef þú vilt mælið með þessu fyrirtæki fyrir vin</target>
+      </trans-unit>
+       <trans-unit id="200">
+        <source>Name</source>
+        <target>Fornafn</target>
+      </trans-unit>
+      <trans-unit id="201">
+        <source>Surname</source>
+        <target>Eftirnafn</target>
+      </trans-unit>
+      <trans-unit id="202">
+        <source>Enter your Email address.</source>
+        <target>Sláðu inn netfangið þitt</target>
+      </trans-unit>
+       <trans-unit id="203">
+        <source>Your username should contain only alphanumeric characters, dash, dot or underscore and begin with a letter</source>
+        <target>Notendanafnið þitt má aðeins innihalda eingöngu bók- og tölustafi, bandstrik, punkta eða undirstrik og verður á byrja á bókstafi.</target>
+      </trans-unit>
+      <trans-unit id="204">
+        <source>Your account changes were successfully saved.</source>
+        <target>Það tókst að vista breytingar á aðganginum þínum.</target>
+      </trans-unit>
+      <trans-unit id="205">
+        <source>Company Name or CUI</source>
+        <target>Heiti fyrirtækis eða CUI</target>
+      </trans-unit>
+       <trans-unit id="206">
+        <source>CUI (Cod Unic de Identificare)</source>
+        <target>CUI (Cod Unic de Identificare)</target>
+      </trans-unit>
+      <trans-unit id="207">
+        <source>Select file</source>
+        <target>Veldu skrá</target>
+      </trans-unit>
+      <trans-unit id="208">
+        <source>Invalid format. E.g. http://www.getlokal.ro.</source>
+        <target>Ógilt snið, t.d. http://www.getlokal.ro.</target>
+      </trans-unit>
+      <trans-unit id="209">
+        <source>Invalid format. E.g. getlokal.ro!</source>
+        <target>Ógilt snið, t.d.: getlokal.ro!</target>
+      </trans-unit>
+      <trans-unit id="210">
+        <source>Invalid format. E.g. http://blog.getlokal.ro.</source>
+        <target>Ógilt snið, t.d.: http://blog.getlokal.ro.</target>
+      </trans-unit>
+      <trans-unit id="211">
+        <source>Invalid format. E.g. http://twitter.com/@getlokal.</source>
+        <target>Ógilt snið, t.d.: http://twitter.com/@getlokal</target>
+      </trans-unit>
+      <trans-unit id="212">
+        <source>Invalid format. E.g. http://www.facebook.com/#!/getlokal.</source>
+        <target>Ógilt snið, t.d.: http://www.facebook.com/#!/getlokal.</target>
+      </trans-unit>
+      <trans-unit id="213">
+        <source>Invalid format.</source>
+        <target>Ógilt snið.</target>
+      </trans-unit>
+      <trans-unit id="214">
+        <source>Password is mandatory</source>
+        <target>Verður að gefa upp lykilorð.</target>
+      </trans-unit>
+      <trans-unit id="215">
+        <source>The email and/or password are invalid</source>
+        <target>Netfangið og/eða lykilorðið er ógilt.</target>
+      </trans-unit>
+      <trans-unit id="216">
+        <source>Incorrect Password</source>
+        <target>Rangt lykilorð.</target>
+      </trans-unit>
+      <trans-unit id="217">
+        <source>When</source>
+        <target>Hvenær</target>
+      </trans-unit>
+      <trans-unit id="218">
+        <source>End Date</source>
+        <target>Endadagsetning</target>
+      </trans-unit>
+      <trans-unit id="219">
+        <source>City/Town</source>
+        <target>Staður</target>
+      </trans-unit>
+      <trans-unit id="220">
+        <source>Venue name</source>
+        <target>Heiti staðarins</target>
+      </trans-unit>
+      <trans-unit id="221">
+        <source>More Info (add link)</source>
+        <target>Nánari upplýsingar (bæta við tengli)</target>
+      </trans-unit>
+      <trans-unit id="222">
+        <source>Buy ticket/book (add link)</source>
+        <target>Kaupa miða/hefti (bæta við tengli)</target>
+      </trans-unit>
+      <trans-unit id="223">
+        <source>Event Type</source>
+        <target>Tegund viðburðar</target>
+      </trans-unit>
+      <trans-unit id="224">
+        <source>Price</source>
+        <target>Verð</target>
+      </trans-unit>
+      <trans-unit id="225">
+        <source>Add Photo</source>
+        <target>Bæta við mynd</target>
+      </trans-unit>
+      <trans-unit id="226">
+        <source>Event Name</source>
+        <target>Heiti viðburðarins</target>
+      </trans-unit>
+      <trans-unit id="227">
+        <source>Description of event</source>
+        <target>Lýsing á viðburðinum</target>
+      </trans-unit>
+      <!-- NEw -->
+       <trans-unit id="228">
+        <source>Show to All</source>
+        <target>Sýna fyrir allt</target>
+      </trans-unit>
+      <trans-unit id="229">
+        <source>Choose... </source>
+        <target>Veldu…</target>
+      </trans-unit>
+      <trans-unit id="230">
+        <source>Enter New Email</source>
+        <target>Nýtt netfang</target>
+      </trans-unit>
+      <trans-unit id="231">
+        <source>Description</source>
+        <target>Lýsing</target>
+      </trans-unit>
+      <trans-unit id="232">
+        <source>Description (English)</source>
+        <target>Lýsing (engelska)</target>
+      </trans-unit>
+      <trans-unit id="233">
+        <source>Detailed Description (English)</source>
+        <target>Ítarleg lýsing (enska)</target>
+      </trans-unit>
+      <trans-unit id="234">
+        <source>Detailed Description</source>
+        <target>Ítarleg lýsing</target>
+      </trans-unit>
+       <trans-unit id="235">
+        <source>VIP Position Start Date</source>
+        <target>Byrjunardagsetning VIP-staðar</target>
+      </trans-unit>
+      <trans-unit id="236">
+        <source>Message</source>
+        <target>Skilaboð</target>
+      </trans-unit>
+      <trans-unit id="237">
+        <source>Please rate this company</source>
+        <target>Vinsamlega mettu þetta fyrirtæki.</target>
+      </trans-unit>
+      <trans-unit id="238">
+        <source>The username "%value%" is invalid.</source>
+        <target>Notendanafnið „%value%“ er ógilt.</target>
+      </trans-unit>
+      <trans-unit id="239">
+        <source>Username must contain at least %min_length% characters.</source>
+        <target>Notendanafnið verður að innihalda að minnsta kosti %min_length% stafi.</target>
+      </trans-unit>
+      <trans-unit id="240">
+        <source>The username and/or password you entered for %s are invalid or you don't have enough credentials</source>
+        <target>Notendanafnið og/eða lykilorðið sem þú gafst upp fyrir %s er ógilt, eða skortir þig burðir.</target>
+      </trans-unit>
+       <trans-unit id="241">
+        <source>The username and/or password you entered are invalid or you don't have enough credentials</source>
+        <target>Notendanafnið og/eða lykilorðið sem þú gafst upp er ógilt, eða skortir þig burðir.</target>
+      </trans-unit>
+       <trans-unit id="242">
+        <source><![CDATA[You need to agree to Getlokal Terms of Use & Privacy Policy]]></source>
+        <target><![CDATA[Þú þarft að samþykkja notkunarskilmála og persónuverndarstefnu Getlokal]]></target>
+      </trans-unit>
+      <trans-unit id="243">
+        <source>Start Time</source>
+        <target>Byrjunartími</target>
+     </trans-unit>
+
+      <trans-unit id="244">
+        <source>Place Name</source>
+        <target>Staðarheiti</target>
+      </trans-unit>
+	  <trans-unit id="245">
+        <source>Place Name in English</source>
+        <target>Staðarheiti á ensku</target>
+      </trans-unit>
+
+ </body>
+  </file>
+</xliff>

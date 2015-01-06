@@ -1,0 +1,1 @@
+<?php echo link_to( $review->getUserProfile(),'/'. $sf_user->getCulture().'/profile/'. $review->getUserProfile()->getSfGuardUser()->getUserName(), 'target=_blank') ?>

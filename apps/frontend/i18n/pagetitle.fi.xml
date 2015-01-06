@@ -1,0 +1,91 @@
+<?xml version="1.0" ?>
+<xliff version="1.0">
+    <file orginal="global" source-language="en_EN" datatype="plaintext">
+        <body>
+            <trans-unit>
+                <source>Create new account</source>
+                <target>Luo uusi tili</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Account Activation</source>
+                <target>Tilin aktivointi</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Resend activation email</source>
+                <target>Lähetä uudelleen aktivointi sähköposti</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Forgotten Password</source>
+                <target>Unohtuiko salasana</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Offers</source>
+                <target>Diilit</target>
+            </trans-unit>
+            <trans-unit>
+                <source>%s in %s</source>
+                <target>%s in %s</target>
+            </trans-unit>
+            <trans-unit>
+                <source>New Offer</source>
+                <target>Uusi tarjous</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Going Out, Leisure, Health and Beauty, Shopping</source>
+                <target>Menossa ulos, Vapaa-aika, kauneus ja terveys, shoppailu</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Communication Settings</source>
+                <target>Viestintä asetukset</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Select a classification</source>
+                <target>Valitse luokittelu</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Add Company</source>
+                <target>Lisää Yritys</target>
+            </trans-unit>
+            <trans-unit>
+                <source>%s in getlokal - addresses, telephones, working hours and user reviews for %s in %s, %s</source>
+                <target>%s getlokalissa - osoitteet, puhelinnumerot, aukioloajat ja käyttäjä arviot paikoista %s in %s, %s</target>
+            </trans-unit>
+            <trans-unit>
+                <source>%s in getlokal - addresses, telephones, working hours and user reviews for %s in %s</source>
+                <target>%s %s getlokalissa - osoitteet, puhelinnumerot, aukioloajat ja käyttäjä arviot paikoista %s in %s, %s</target>
+            </trans-unit>
+            <trans-unit>
+                <source>%s in %s - information in getlokal: see address, telephone, working hours, photos and user reviews for %s, %s</source>
+                <target>%s  %s - informaatiota getlokaissa: katso osoitteet, puhelinnumerot, aukioloajat, kuvia ja käyttäjä-arvioita paikoista %s, %s.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>%s, %s - reviews and ratings from customers</source>
+                <target>%s, %s - arvioita ja arvosteluja muilta käyttäjiltä</target>
+            </trans-unit>
+            <trans-unit>
+                <source>%s, %s - detailed information</source>
+                <target>%s, %s - yksityiskohtaiset tiedot</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Find up-to-date reviews, comments and ratings of customer for %s in %s. Add your own review!</source>
+                <target>Löydä uusimmat arvostelut, kommentit ja arviot asiakkailta %s in %s. Lisää oma arvostelusi!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>%s - getlokal user</source>
+                <target>%s - getlokal käyttäjä</target>
+            </trans-unit>
+            <trans-unit>
+                <source>See information for %s and all their reviews in getlokal!</source>
+                <target>Löydä infoa %s ja kaikki arvostelut getlokalissa!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Followers</source>
+                <target>Seuraajat</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Following</source>
+                <target>Seurataan</target>
+            </trans-unit>
+        </body>
+    </file>
+</xliff>

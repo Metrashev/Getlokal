@@ -1,0 +1,81 @@
+<?xml version="1.0" ?>
+<xliff version="1.0">
+    <file orginal="global" source-language="en_EN" datatype="plaintext">
+        <body>    
+            <trans-unit>
+                <source>Status updates</source>
+                <target>Обновяване на статуса</target>
+            </trans-unit>
+            <trans-unit>
+                <source>shared</source>
+                <target>сподели</target>
+            </trans-unit>
+            <trans-unit>
+                <source>[0]You can link your|[1]You can link your</source>
+                <target>[0]Може да свържете и вашите|[1]Може да свържете и вашият</target>
+            </trans-unit>
+            <trans-unit>
+                <source>accounts too.</source>
+                <target>профили.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>account too.</source>
+                <target>профил.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>and</source>
+                <target>и</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Your status can`t be saved!</source>
+                <target>Статусът ви не може да бъде запазен!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Your status was published successfully!</source>
+                <target>Статусът ви беше успешно подновен!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Delete</source>
+                <target>Изтрий</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Post</source>
+                <target>Публикувай</target>
+            </trans-unit>
+            <trans-unit>
+                <source><![CDATA[You can link your <strong>Facebook</strong>, <strong>Twitter</strong> and <strong>Google+</strong> accounts too.]]></source>
+                <target><![CDATA[Може да свържете <strong>Facebook</strong>, <strong>Twitter</strong> и <strong>Google+</strong> профилите си.]]></target>
+            </trans-unit>
+            <trans-unit>
+                <source><![CDATA[Link now your <strong>Facebook</strong> page with getlokal.]]></source>
+                <target><![CDATA[Може да свържете своя <strong>Facebook</strong> профил.]]></target>
+            </trans-unit>
+            <trans-unit>
+                <source><![CDATA[Broadcast this on your <strong>Facebook</strong> page.]]></source>
+                <target><![CDATA[TRANSLATE THIS]]></target>
+            </trans-unit>
+            <trans-unit>
+                <source>Your status update was deleted from getlokal. However it cannot be deleted from the other sites it was published on. In order to do so you will need to log into each of your other accounts where the status was published and delete it manually.</source>
+                <target>Статусът ви беше изтрит от getlokal, но не може да бъде изтрит от другите сайтове, в които е публикуван. За да го изтриете и от там е необходимо да влезете във всеки един от профилите си, в които статусът е споделен и да го изтриете ръчно от тях.</target>
+            </trans-unit>
+
+            <trans-unit>
+                <source>This update will also be posted on your Facebook page</source>
+                <target>Този статус ще бъде публикуван и на вашата Facebook страница</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Events</source>
+                <target>Събития</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Offers</source>
+                <target>Оферти</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Please, type event name here...</source>
+                <target>Моля въведете име на събитие...</target>
+            </trans-unit>
+
+        </body>
+    </file>
+</xliff>

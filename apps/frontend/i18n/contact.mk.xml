@@ -1,0 +1,238 @@
+<?xml version="1.0" ?>
+<xliff version="1.0">
+    <file orginal="global" source-language="en_EN" datatype="plaintext">
+        <body>
+            <trans-unit>
+                <source>Contacts</source>
+                <target>Контакти</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Address:</source>
+                <target>Адреса:</target>
+            </trans-unit>
+            <trans-unit>
+                <source>3 Dr. Hr. Stambolski str.</source>
+                <target>ул. Д-р Хр. Стамболски 3</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Sofia 1463</source>
+                <target>Софија 1463</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Map:</source>
+                <target>Мапа:</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Telephone Numbers:</source>
+                <target>Телефони:</target>
+            </trans-unit>
+            <trans-unit>
+                <source>National Phone Number:</source>
+                <target>Позивен број на државата:</target>
+            </trans-unit>
+            <trans-unit>
+                <source>at the price of a local call for the whole country</source>
+                <target>за цена на локален повик за целата држава</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Company Listing Enquiries:</source>
+                <target>Барања за листинг на фирмата:</target>
+            </trans-unit>
+            <trans-unit>
+                <source>General Enquiries:</source>
+                <target>Општи барања:</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Fax:</source>
+                <target>Факс:</target>
+            </trans-unit>
+            <trans-unit>
+                <source>If you want to send us an email, please fill the form bellow:</source>
+                <target>Ако сакате да ни испратите е-пошта, Ве молиме пополете ја формата подолу:</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Your e-mail:</source>
+                <target>Вашата е-пошта:</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Your name:</source>
+                <target>Вашето име:</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Your phone:</source>
+                <target>Вашиот телефон:</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Your message:</source>
+                <target>Вашата порака:</target>
+            </trans-unit>
+            <trans-unit>
+                <source>en</source>
+                <target>мк</target>
+            </trans-unit>
+            <trans-unit>
+                <source>E-mail is required.</source>
+                <target>Ве молиме пополнете ја Вашата е-пошта.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Your name is required.</source>
+                <target>Ве молиме пополнете го Вашето име.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>This field is required. Please type your message.</source>
+                <target>Ве молиме пополнете го полето за порака.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>If you don't want to receive getlokal' %s please fill in the required information.</source>
+                <target>Ако не сакате да добивате %s на getlokal пополнете ги потребните информации.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Your message was sent successfully.</source>
+                <target>Вашата порака беше успешно пратена.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Report content as</source>
+                <target>Пријавете ја содржината:</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Company Name:</source>
+                <target>Име на фирмата:</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Company Address:</source>
+                <target>Адреса на фирмата:</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Company Phone:</source>
+                <target>Телефон на фирмата:</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Business type:</source>
+                <target>Тип на дејност:</target>
+            </trans-unit>
+            <trans-unit>
+                <source>e.g. Hairdressers or Italian restaurant etc.</source>
+                <target>на пр. Фризерски салон или Италијански ресторан и.т.н.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>In order to publish accurate data we would like to receive as much detail about the address as possible. The city/town name is mandatory.</source>
+                <target>За да може да објавуваме точни податоци би сакале да добиеме што повеќе информации за адресата. Името на населеното место е задолжително.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Company Website address:</source>
+                <target>Веб-сајт на фирмата:</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Company Email address:</source>
+                <target>Е-пошта на фирмата:</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Contact person in the company:</source>
+                <target>Лице за контакт во фирмата:</target>
+            </trans-unit>
+            <trans-unit>
+                <source>If you haven’t found the company or place you were looking for, please fill in the information below and send it to us so we can include it in getlokal.com. If you are the owner or representative of a business and haven’t been able to find it on our site, please</source>
+                <target>Ако не сте ја пронашле фирмата или местото кое сте го барале, Ве молиме пополнете ги информациите подолу и пратете ни ги за да може да ги вклучиме во getlokal.com. Ако сте сопственик или претставник на фирма и не сте ја нашле на нашата страна, Ве молиме</target>
+            </trans-unit>
+            <trans-unit>
+                <source>register a business account</source>
+                <target>регистрирајте профил за фирма</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Choose...</source>
+                <target>Изберете...</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Select...</source>
+                <target>Изберете...</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Illegal</source>
+                <target>Нелегално</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Offensive</source>
+                <target>Навредлиов</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Copyright</source>
+                <target>Авторски права</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Incorrect</source>
+                <target>Погрешно</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Other</source>
+                <target>Друго</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Facebook Page:</source>
+                <target>Facebook страница:</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Twitter Page:</source>
+                <target>Twitter страница:</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Terms of Use</source>
+                <target>Услови за користење</target>
+            </trans-unit>
+
+            <trans-unit>
+                <source>Legal Info</source>
+                <target>Законски информации</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Legal</source>
+                <target>Законски информации</target>
+            </trans-unit>
+            <trans-unit>
+                <source>bul. Sv. Kliment Ohridski br. 53-1/3</source>
+                <target>бул. Св. Климент Охридски 53-1/3 </target>
+            </trans-unit>
+      
+            <trans-unit>
+                <source>1000 Skopje, Macedonia</source>
+                <target>1000 Скопје, Македонија</target>
+            </trans-unit>
+      
+            <trans-unit>
+                <source>tel.</source>
+                <target>тел.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Privacy Policy</source>
+                <target>Политика на приватност</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Rules of games</source>
+                <target>Rules of games</target>
+            </trans-unit>
+            <trans-unit>
+                <source>bul. Partizanski odredi. 42/2</source>
+                <target>бул. Партизански Одреди 42/2</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Telephone:</source>
+                <target>Телефон:</target>
+            </trans-unit>  
+            <trans-unit>
+                <source>getlokal Macedonia</source>
+                <target>getlokal Македонија</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Change city</source>
+                <target>Промени град</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Choose... </source>
+                <target>Одбери... </target>
+            </trans-unit>    
+            <trans-unit>
+                <source>Additional Information</source>
+                <target>Дополнителна информација</target>
+            </trans-unit>
+        </body>
+    </file>
+</xliff>

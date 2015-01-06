@@ -1,0 +1,1 @@
+<?php include_partial('offer/preview_voucher', array('user'=>$user, 'voucher' => $voucher));?>

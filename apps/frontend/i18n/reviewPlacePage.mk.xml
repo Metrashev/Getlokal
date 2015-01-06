@@ -1,0 +1,143 @@
+<?xml version="1.0" ?>
+<xliff version="1.0">
+	<file orginal="global" source-language="en_EN" datatype="plaintext">
+		<body>
+			<trans-unit>
+	        	<source>Every review wins!</source>
+	        	<target>Секоја препорака добива!</target>
+      		</trans-unit>
+      		<trans-unit>
+	        	<source>Getlokal.mk wants your reviews! New challenge every week!</source>
+	        	<target>Getlokal.mk ги сака вашите препораки! Нов предизвик секоја недела!</target>
+      		</trans-unit>
+      		<trans-unit>
+	        	<source>This weeks challenge</source>
+	        	<target>Тема на оваа недела</target>
+      		</trans-unit>
+      		<trans-unit>
+	        	<source><![CDATA[Share your opinion about %s and <br />take a part in the draw for <br /><span class="pink">the main prize</span>!]]></source>
+	        	<target><![CDATA[Сподели го твоето мислење за %s и <br />учествувај во извлекувањето <br /><span class="pink">за главната награда</span>!]]></target>
+      		</trans-unit>
+      		<trans-unit>
+	        	<source>any place</source>
+	        	<target>било кое место</target>
+      		</trans-unit>
+      		<trans-unit>
+	        	<source>Start here!</source>
+	        	<target>Започни тука!</target>
+      		</trans-unit>
+      		<trans-unit>
+	        	<source>Prizes:</source>
+	        	<target>Награди:</target>
+      		</trans-unit>
+      		<trans-unit>
+	        	<source>Everyone wins</source>
+	        	<target>Секој добива</target>
+      		</trans-unit>
+      		<trans-unit>
+      			<source><![CDATA[The Big Prize is a weekend for two at Aurora Resort & Spa - Berovo]]></source>
+      			<target><![CDATA[Главната награда е викенд за двајца во Аурора Ресорт & Спа - Берово]]></target>
+      		</trans-unit>
+      		<trans-unit>
+      			<source><![CDATA[Hi there,<br/><br/>The big moment has come - one of you is the winner of a weekend for two at Aurora Resort & Spa - Berovo!<br/><br/>We gathered all participants from %s to %s and the winner is...... %s]]></source>
+      			<target><![CDATA[Здраво,<br/><br/>Дојде големиот момент! Еден од вас е избраниот добитник на викенд за двајца во Аурора Ресорт & Спа - Берово!<br/><br/>Ги собравме сите учесници од %s до %s и од нив, по случаен избор го извлековме среќниот добитник, а тоа е...... %s]]></target>
+      		</trans-unit>
+      		<trans-unit>
+      			<source><![CDATA[Congratulations %s!<br/><br/>Thank you all for playing! Please make sure you check out for our next games here and in %s!]]></source>
+      			<target><![CDATA[Честито %s!<br/><br/>Ви благодариме на сите кои учествувавте! Следете не тука и на %s за наредните наградни натпревари!]]></target>
+      		</trans-unit>
+      		<trans-unit>
+	        	<source>Weekly prize – a coffee at %s</source>
+	        	<target>Награда на неделата е кафе во кафе бар %s</target>
+      		</trans-unit>
+      		<trans-unit>
+	        	<source>Timeless cafe</source>
+	        	<target>Тајмлес</target>
+      		</trans-unit>
+      		<trans-unit>
+	        	<source>Every review wins a juice at %s</source>
+	        	<target>Секоја препорака добива сок во %s</target>
+      		</trans-unit>
+      		<trans-unit>
+	        	<source>Cocktail Bar K2</source>
+	        	<target>Коктел Бар К2</target>
+      		</trans-unit>
+      		<trans-unit>
+	        	<source>Three Steps to Prizes</source>
+	        	<target>Три чекори до наградата!</target>
+      		</trans-unit>
+      		<trans-unit>
+	        	<source>In the search box find the place you want to write about</source>
+	        	<target>Во делот за пребарување најдете го местото за кое сакате да напишете препорака.</target>
+      		</trans-unit>
+      		<trans-unit>
+	        	<source>Register in getlokal.mk. It will only take a minute!</source>
+	        	<target>Регистрирајте се на getlokal.mk. Ќе ви одземе само една минута!</target>
+      		</trans-unit>
+      		<trans-unit>
+	        	<source>Submit your review!</source>
+	        	<target>Напишете ја вашата препорака!</target>
+      		</trans-unit>
+      		<trans-unit>
+	        	<source>Congratulations! You just registered in the draw for the Big Prize!</source>
+	        	<target>Честитки! Штотуку се номиниравте и ги зголемивте шансите за добивање на големата главна награда!</target>
+      		</trans-unit>
+      		<trans-unit>
+	        	<source>Rules of the Game:</source>
+	        	<target>Правила за играта:</target>
+      		</trans-unit>
+      		<trans-unit>
+	        	<source>In the fourth week of the contest, all users who wrote a review are competing for the Big Prize.</source>
+	        	<target>Во четвртата недела од започнувањето на натпревар, сите корисници кои напишале препораки се натпреваруваат за главната награда.</target>
+      		</trans-unit>
+      		<trans-unit>
+	        	<source>The users that will write more reviews, have a bigger chance to win the draw for the Big Prize</source>
+	        	<target>Корисниците кои ќе напишат повеќе препораки имаат поголеми шанси во извлекувањето за главната награда.</target>
+      		</trans-unit>
+      		<trans-unit>
+	        	<source>The reviews for the fourth week can be written in any category of places on GetLokal.mk</source>
+	        	<target>Препораките во четвртата недела се пишуваат за било која категорија на места во GetLokal.mk</target>
+      		</trans-unit>
+      		<trans-unit>
+	        	<source>The winner will receive an e-mail with detailed information about the prize.</source>
+	        	<target>Добитникот на наградата ќе добие подетални информации за истата преку е-мејл.</target>
+      		</trans-unit>
+      		<trans-unit>
+	        	<source>No obscene and offensive language, please.</source>
+	        	<target>Ве молиме, препораките да ги напишете на македонски јазик, читко, без користење на навредлив и вулгарен јазик.</target>
+      		</trans-unit>
+      		<trans-unit>
+	        	<source>If the place you would like to write about does not have a profile with us, please %s</source>
+	        	<target>Доколку местото за кое сакате да оставите препорака нема профил на нашата веб страна, пишете ни %s.</target>
+      		</trans-unit>
+      		<trans-unit>
+      			<source>tell us</source>
+      			<target>тука</target>
+      		</trans-unit>
+      		<trans-unit>
+	        	<source>The contest runs from 24th of September to 21st of October 2012.</source>
+	        	<target>Натпреварот започнува на 24 септември 2012 и трае до 21 октомври 2012.</target>
+      		</trans-unit>
+      		<trans-unit>
+	        	<source>Weekly prize</source>
+	        	<target>Награда на неделата</target>
+      		</trans-unit>
+      		<trans-unit>
+	        	<source>Cafes</source>
+	        	<target>Кафулиња</target>
+      		</trans-unit>
+      		<trans-unit>
+	        	<source>Every review wins a macchiato at %s</source>
+	        	<target>Секоја препорака добива макијато во %s</target>
+      		</trans-unit>
+      		<trans-unit>
+	        	<source>T-Club</source>
+	        	<target>Т-Клуб</target>
+      		</trans-unit>
+      		<trans-unit>
+	        	<source>Sport and Fitness</source>
+	        	<target>Спорт и фитнес</target>
+      		</trans-unit>
+		</body>
+	</file>
+</xliff>

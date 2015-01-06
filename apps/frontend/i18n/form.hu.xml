@@ -1,0 +1,1308 @@
+<?xml version="1.0" ?>
+<xliff version="1.0">
+    <file orginal="global" source-language="en_EN" datatype="plaintext">
+        <body>
+            <trans-unit>
+                <source>Day, month and year are mandatory fields</source>
+                <target>Nap, hónap és év mezo kitöltése kötelezo</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Username "%value%" cannot be used</source>
+                <target>A "%value%" felhasználo név nem alkalmazható</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The username "%value%" contains characters that are not allowed</source>
+                <target>a "%value%" felhasználo név tilos szimbolumokat tartalmaz</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Username must contain at least %min_length% characters</source>
+                <target>A felhasználo névnek legalább %min_length% szimbolumot kell tartalmaznia</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Username cannot contain more than %max_length% characters.</source>
+                <target>A felhasználo név nem tartalmazhat többet %max_length% szimbolumnál</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Invalid email – your email is not in the correct format</source>
+                <target>Hibás e-mail cím – az e-mail cím nem a helyes formátumban van</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Your password should be at least %min_length% characters long</source>
+                <target>A jelszónak legalább  %min_length% szimbolumot kell tartalmaznia</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Your password cannot contain more than %max_length% characters</source>
+                <target>A jelszó nem tartalmazhat több mint %max_length% szimbolumot</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The passwords do not match</source>
+                <target>A bevezetett jelszavak nem egyeznek</target>
+            </trans-unit>
+            <trans-unit>
+                <source>This email address has already been registered by another user</source>
+                <target>Már van felhasználó a bevezetett e-mail-lel</target>
+            </trans-unit>
+            <trans-unit>
+                <source>This field is mandatory. Please start typing the name of your home location and select from the list.</source>
+                <target>A mezo kitöltése kötelezo. Kezdd begépelni a lakóhelyed nevét és válassz a listából.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>You have entered the text incorrectly. Please try again.</source>
+                <target>A bevezetett szimbolumok és a kép szimbolumai nem egyeznek. Probálj meg újból.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Email is required</source>
+                <target>Az e-mail kötelezo.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The file you submitted is not in a valid format. Please upload a JPG, GIF or PNG image file.</source>
+                <target>A választott file formátuma érvénytelen.  Töltsön fel JPG, GIF vagy PNG file-t.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The file you submitted is not in a valid format. Please upload a JPG, GIF or PNG image file.</source>
+                <target>A választott file formátuma érvénytelen.  Töltsön fel JPG, GIF vagy PNG file-t.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>File size limit is 4MB.Please reduce file size before submitting again.</source>
+                <target>A file maximális nagysága 4MB. Kérem rövidítse a file-t feltöltés elött.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>File size limit is 2MB.Please reduce file size.</source>
+                <target>A file maximális nagysága  2MB</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The review cannot contain more than %max_length% characters. Shorten your review.</source>
+                <target>A megjegyzés nem tartalmazhat többet  %max_length% szimbolumnál. Rövidítse a megjegyzését.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The review must contain at least %min_length% characters</source>
+                <target>A megjegyzésnek legalább  %min_length% szimbolumot kell tartalmaznia</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The answer must contain at least %min_length% characters</source>
+                <target>A válasznak legalább %min_length% szimbolumot kell tartalmaznia</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The review cannot contain more than %max_length% characters</source>
+                <target>A megjegyzés nem tartalmazhat több mint %max_length% szimbolumot</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Type Review</source>
+                <target>Vezess be megjegyzést, kérlek! %</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The field is mandatory</source>
+                <target>A mezo kitöltése kötelezo</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Select Your Position</source>
+                <target>Mutasd meg mi az állásod</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Invalid Phone Number</source>
+                <target>Érvénytelen telefonszám</target>
+            </trans-unit>
+            <trans-unit>
+                <source>This field cannot contain more than %max_length% characters</source>
+                <target>A mezo nem tartalmazhat több mint  %max_length% szimbolumot</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Select company type</source>
+                <target>Jelölje meg a cég típusát</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The field cannot contain more than %max_length% characters</source>
+                <target>A mezo nem tartalmazhat több mint  %max_length% szimbolumot</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The field must contain at least %min_length% characters</source>
+                <target>A mezonek legalább  %min_length% szimbolumot kell tartalmaznia</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Invalid format. E.g. http://www.getlokal.com</source>
+                <target>Érvénytelen formátum. Például: http://www.getlokal.com</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Invalid format. E.g. http://blog.getlokal.com</source>
+                <target>Érvénytelen formátum. Például: http://blog.getlokal.com</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Invalid format. E.g. http://twitter.com/@getlokal</source>
+                <target>Érvénytelen formátum. Például: http://twitter.com/@getlokal</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Invalid format. E.g. http://www.facebook.com/#!/getlokal</source>
+                <target>Érvénytelen formátum. Például: http://www.facebook.com/#!/getlokal</target>
+            </trans-unit>
+            <trans-unit>
+                <source>This field is not mandatory but if you fill it in it must contain at least %min_length% characters</source>
+                <target>A mezo nem kötelezo, de ha kitöltöd, legalább %min_length% szimbolumot kell tartalmaznia</target>
+            </trans-unit>
+            <trans-unit>
+                <source>This field is not mandatory but if you fill it in it cannot contain more than %max_length% characters.</source>
+                <target>A mezo nem kötelezo, de ha kitöltöd,legföljebb %max_length% szimbolumot tartalmazhat</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Select Your Position</source>
+                <target>Válasszon állást</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Company validation email was not sent successfully. Company registration failed. Please try again.</source>
+                <target>A cég érvényesítésérol szóló é-mail-t nem sikerült elküldeni. A regisztráció folyamata félbeszakadt. Kérem probálja meg újra.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The new password was sent successfully to the email you provided.</source>
+                <target>Az új jelszó sikeresen lett elküldve a bevezetett é-mail-címre</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Invalid format. E.g. http://www.facebook.com/getlokal</source>
+                <target>Érvénytelen formátum. Például: http://www.facebook.com/getlokal</target>
+            </trans-unit>
+            <trans-unit>
+                <source>There was a problem changing your password. Please try again later.</source>
+                <target>Probléma lépett fel a jelszócserénél. Kérem probálja meg késobb</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The start date cannot be earlier than today</source>
+                <target>A kezdeti dátum nem lehet korábbi mint a mai</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The start date of the second promo month cannot be earlier than the end date of the first</source>
+                <target>A második promoszakasz kezdeti dátuma nem lehet korábbi mint az elso szakasz végdátuma</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The start date of the third promo month cannot be earlier than the end date of the second</source>
+                <target>A harmadik promoszakasz kezdeti dátuma nem lehet korábbi mint az második promoszakasz végdátuma</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The start date for the third period must not be later than 30 days before the end date of your advert</source>
+                <target>A harmadik promoszakasz kezdeti dátuma nem lehet késöbbi mint 30 nappal a reklám végso dátuma</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The start date for the period must not be later than 30 days before the end date of your advert</source>
+                <target>A harmadik promoszakasz kezdeti dátuma nem lehet késöbbi mint 30 nappal a reklám végso dátuma</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Type an Answer</source>
+                <target>Vezess be választ</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The Offer Title cannot be longer than %max_length% characters</source>
+                <target>Az ajánlat címe nem tartalmazhat több mint %max_length% szimbolumot</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Offer Title</source>
+                <target>Az ajánlat címe</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Offer Details</source>
+                <target>Ajánlatrészletek</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The maximum number of vouchers issued per user cannot exceed the total number of vouchers for the offer</source>
+                <target>A kiadott utalványok száma felhasználónak nem lehet több mint az utalványok összszáma az ajánlatban</target>
+            </trans-unit>
+            <trans-unit>
+                <source>You cannot select a date earlier than today's</source>
+                <target>Kérem válasszon dátumot nem korabbi mint a mai.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>?he end date of your offer cannot be later than the end date of your advert</source>
+                <target>Az ajánlata végdátuma nem lehet késöbbi a reklám végdátumánál</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The offer end date cannot be earlier than the start date</source>
+                <target>Az ajánlat végdátuma nem lehet korábbi a kezdeti dátumnál</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The voucher valid to date cannot be earlier than the offer end date</source>
+                <target>Az utalványok érvényeségének végdátuma nem lehet korábbi magának az ajánlat végdátumánál</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Select date, month and year</source>
+                <target>Válasszon dátumot, hónapot és évet</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The email address is not in a valid format</source>
+                <target>Az e-mail-cím formátuma érvénytelen</target>
+            </trans-unit>
+            <trans-unit>
+                <source>An email is mandatory</source>
+                <target>Az e-mail kötelezo</target>
+            </trans-unit>
+            <trans-unit>
+                <source>You need to agree to the Terms of Use and the Policy for Use and Protection of the Information on Getlokal</source>
+                <target>El kell fogadnia a Getlokal Felhasználoi feltételeit és Információ használatára és védelmére vonatkozó szabályáit</target>
+            </trans-unit>
+            <trans-unit>
+                <source>You need to agree to Getlokal's Terms of Use to create a user account</source>
+                <target>Felhasználoi profil létrehozásához el kell fogadnod a Getlokal Felhasználoi feltételeit.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Location is mandatory. Start typing the name of your location and select from the list.</source>
+                <target>A mezo kitöltése kötelezo.Kezdd el begépelni a lakóhelyed nevét és válassz a listából</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Password must be at least %min_length% characters</source>
+                <target>A jelszónak legalább  %min_length% szimbolumot kell tartalmaznia</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Password cannot be more than %min_length% characters</source>
+                <target>A jelszó nem tartalmazhat több mint  %max_length% szimbolumot</target>
+            </trans-unit>
+            <trans-unit>
+                <source>A username is mandatory</source>
+                <target>A felhasználoi név kötelezo</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Invalid unsubscribe code for </source>
+                <target>Hibás törlési kód -ból </target>
+            </trans-unit>
+            <trans-unit>
+                <source>The passwords don't match</source>
+                <target>A jelszavak nem egyeznek</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Description must contain at least %min_length% characters</source>
+                <target>A leírásnak legalább %min_length% szimbolumot kell tartalmaznia</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The description cannot contain more than %max_length% characters.</source>
+                <target>A leírás nem tartalmazhat több mint  %max_length% szimbolumot</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Description "%value%" contains forbidden words</source>
+                <target>A "%value%" leírás tilos szavakat</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The Offer Title must contain at least %min_length% characters</source>
+                <target>Az ajánlat címnek legalább %min_length% szimbolumot kell tartalmaznia</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The Offer Title and Terms are mandatory for at least one of the two language versions.</source>
+                <target>Az ajánlat címe és feltételei a két nyelvi verziónak legalább az egyikében kötelezo.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The Newsletter Title cannot be longer than %max_length% characters</source>
+                <target>A hírlevél címe nem lehet hosszabb mint %min_length% szimbolum</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The Newsletter Title must contain at least %min_length% characters</source>
+                <target> A hírlevél címének legalább %min_length% szimbolumot kell tartalmaznia</target>
+            </trans-unit>
+
+            <trans-unit>
+                <source>Please enter search criteria</source>
+                <target>Kérem vezessen be böngészési kritériumot</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Please correct search criteria</source>
+                <target>Kérem javítsa meg a böngészési kritériumot</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Incorrect search term</source>
+                <target>Kérem vezessen be új böngészési kritériumot</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Message must contain at least %min_length% characters</source>
+                <target>Az üzenetnek legalább %min_length% szimbolumot kell tartalmaznia</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The message cannot contain more than %max_length% characters.</source>
+                <target>Az üzenet nem tartalmazhat több mint  %max_length% szimbolumot</target>
+            </trans-unit>
+            <trans-unit>
+                <source>This email and unsubscribed key do not match</source>
+                <target>Az e-mail nem egyezik a törlési kulccsal</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Video Title must contain at least %min_length% characters</source>
+                <target>A Video címének legalább %min_length% szimbolumot kell tartalmaznia</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The video title cannot contain more than %max_length% characters.</source>
+                <target>A video címe nem tartalmazhat több mint %max_length% ???????</target>
+            </trans-unit>
+
+            <trans-unit>
+                <source>You need to agree to getlokal's Terms of Use to create a business account</source>
+                <target>Felhasználoi profil létrehozására szükséges elfogadni a getlokal Felhsználoi feltételeivel.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>This username has already been registered by another user</source>
+                <target>Már van regisztrált felhasználó a bevezetett felhasználoi névvel.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>?he start date cannot be later than the end date of the event</source>
+                <target>A kezdeti dátum nem lehet késobbi mint az esemény végdátuma.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Abuse type is required.</source>
+                <target>A szabalytalanság mezo kötelezo.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The message contains forbidden words</source>
+                <target>Az üzenet tilos szavakat tartalmaz</target>
+            </trans-unit>
+            <trans-unit>
+                <source>An invite was already sent to this email address</source>
+                <target>Már van elküldött meghívó erre az e-mail címre</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Please add location - city/town is required if venue not known!</source>
+                <target>Kérem, adja meg az esemény helyét - a lakóhely kötelezo, ha nem is tudja a rendezvény konkrét helyének az  elnevezését!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Business type is required!</source>
+                <target>A cégtevékenység típusa kötelezo!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>This field is required. Please type company address!</source>
+                <target>A mezo kitöltése kötelezo. Kérem vezesse be a cég címét!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Company name is required!</source>
+                <target>A cég neve kötelezo.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Username</source>
+                <target>Felhasználoi név</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Email</source>
+                <target>E-mail?????</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Password</source>
+                <target>Jelszó</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Retype Your Password</source>
+                <target>Ismételd meg a jelszót</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Select Your City</source>
+                <target>Válaszd meg a városodat</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Name</source>
+                <target>Keresztnév</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Surname</source>
+                <target>Családi név</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Date of Birth</source>
+                <target>Szóletési dátum</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Gender</source>
+                <target>Nem</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Location</source>
+                <target>Város/falu</target>
+            </trans-unit>
+            <trans-unit>
+                <source>About me</source>
+                <target>Magamról</target>
+            </trans-unit>
+            <trans-unit>
+                <source>My Website</source>
+                <target>A honlapom</target>
+            </trans-unit>
+            <trans-unit>
+                <source>My Blog</source>
+                <target>A blogom</target>
+            </trans-unit>
+            <trans-unit>
+                <source>My Facebook</source>
+                <target>A Facebook-om</target>
+            </trans-unit>
+            <trans-unit>
+                <source>My Google+</source>
+                <target>A Google+-om</target>
+            </trans-unit>
+            <trans-unit>
+                <source>My Twitter</source>
+                <target>A Twitter-em</target>
+            </trans-unit>
+            <trans-unit>
+                <source>New Password</source>
+                <target>Új jelszó</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Retype New Password</source>
+                <target>Ismételd meg az új jelszót</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The field is required</source>
+                <target>A mezo kitöltése kötelezo</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Fields marked with a star are mandatory.</source>
+                <target>Csillaggal jelölt mezok kitöltése kötelezo.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Owner</source>
+                <target>Tulajdonos</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Director</source>
+                <target>Igazgató</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Manager</source>
+                <target>Menedzser</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Employee</source>
+                <target>Alkalmazott</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Choose...</source>
+                <target>Válassz...</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Other</source>
+                <target>Más</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Male</source>
+                <target>Férfi</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Female</source>
+                <target>No</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Position</source>
+                <target>Állás</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Phone</source>
+                <target>Telefon</target>
+            </trans-unit>
+            <trans-unit>
+                <source>I declare that I am an authorized representative of the business.</source>
+                <target>Állítom, hogy a cég felhatalmazott képviseloje vagyok.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Enter the Bulstat of your business.</source>
+                <target>Vezesse be a cég adószámát.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Declare that you are an authorized representative of the business.</source>
+                <target>Állítsa, hogy Ön a cég felhatalmazott képviseloje.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Invalid Bulstat</source>
+                <target>Téves adószám</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Company Name</source>
+                <target>A cég neve</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Company Type</source>
+                <target>A cég típusa</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Company Name in Latin</source>
+                <target>A cég neve latin betukkel</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Address</source>
+                <target>Cím</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Classification</source>
+                <target>Besorolás</target>
+            </trans-unit>
+            <trans-unit>
+                <source>City</source>
+                <target>Város</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Company Address</source>
+                <target>A cég neve</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Contact Information</source>
+                <target>Elérhetoség</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Working Hours</source>
+                <target>Munkaido</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Bulstat</source>
+                <target>Adószám</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Postcode</source>
+                <target>Írányító szám</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Street</source>
+                <target>Utca</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Number</source>
+                <target>Szám</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Neighbourhood</source>
+                <target>Kerület</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Bl.</source>
+                <target>Háztömb</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Ent.</source>
+                <target>Bejárat</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Fl.</source>
+                <target>Em.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Ap.</source>
+                <target>Lakás</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Monday</source>
+                <target>Hétfo</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Tuesday</source>
+                <target>Kedd</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Wednesday</source>
+                <target>Szerda</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Thursday</source>
+                <target>Csütörtök</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Friday</source>
+                <target>Péntek</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Saturday</source>
+                <target>Szombat6</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Sunday</source>
+                <target>Vasárnap</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Bulgarian</source>
+                <target>Bolgár</target>
+            </trans-unit>
+            <trans-unit>
+                <source>English</source>
+                <target>Angol</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Password:</source>
+                <target>Jelszó:</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Remember me</source>
+                <target>Emlékezz rám</target>
+            </trans-unit>
+            <trans-unit>
+                <source>E-mail:</source>
+                <target>E-mail:</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Description</source>
+                <target>Leírás</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Category</source>
+                <target>Kategória</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Website</source>
+                <target>Honlap</target>
+            </trans-unit>
+            <trans-unit>
+                <source>You entered "%value%". The security check picture contains %length% characters. Please try again.</source>
+                <target>"%value%" vezetett be. A spamelleni védelemnek  %length% szimbolumot kell tartalmaznia. Probáljon meg újra.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Security check. Enter the characters from the picture below</source>
+                <target>Spamvédelem. Vezesse be a szimbolumokat a képbol, ami a lejebb levo mezoben van</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Start Date</source>
+                <target>Kezdeti dátum</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Detailed Description</source>
+                <target>Részletes leírás</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Detailed Description (English)</source>
+                <target>Részletes leírás (Angolul)</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Select a photo from your computer</source>
+                <target>Válssz képet a számítógépedbol</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Voucher</source>
+                <target>Utalvány</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Voucher Valid From</source>
+                <target>Az utalvány ...-tól érvérnyes</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Voucher Valid To</source>
+                <target>Az utalvány ...-ig érvérnyes</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Offer Active From</source>
+                <target>Az ajánlat aktiv ...-tól</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Offer Active To</source>
+                <target>Az ajánlat aktiv ...-ig</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Maximum number of vouchers to be issued</source>
+                <target>Utalványok maximum</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Maximum number of vouchers to be issued per user</source>
+                <target>Maxim,um utalványok per fogyasztó</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Offer Terms</source>
+                <target>Ajánlat feltételei</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Caption</source>
+                <target>Leírás</target>
+            </trans-unit>
+            <trans-unit id="8">
+                <source>Please enter your Name and Surname</source>
+                <target>Kérem vezessen be kereszt és családi nevet</target>
+            </trans-unit>
+            <trans-unit id="9">
+                <source>Invalid email</source>
+                <target>Hibás e-mail-cím</target>
+            </trans-unit>
+            <trans-unit id="10">
+                <source>Please rate this company</source>
+                <target>Kérem, értékelje ezt a céget!</target>
+            </trans-unit>
+            <trans-unit id="22">
+                <source>Please enter your email</source>
+                <target>Kérem, vezesse be az e-mail-ét</target>
+            </trans-unit>
+            <trans-unit id="11">
+                <source>Invalid Rating</source>
+                <target>Érvénytelen értékelés</target>
+            </trans-unit>
+            <trans-unit id="19">
+                <source>Please enter a valid email</source>
+                <target>Kérem vezessen be helyes e-mailt</target>
+            </trans-unit>
+            <trans-unit id="15">
+                <source>Please agree to observe the Terms of Use of Getlokal.com</source>
+                <target>Kérem fogadja el a Getlokal Felhasználoi feltételeit.</target>
+            </trans-unit>
+            <trans-unit id="54">
+                <source>Choose if you want to recommend this company to a friend</source>
+                <target>Válassz, ha barátnak fogod ajánlani</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Your account changes were successfully saved.</source>
+                <target>A profilod sikeresen lett megváltoztatva.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Enter a few words about yourself separated by comma</source>
+                <target>Írjál pár szót magadról, vesszovel elkülönítve </target>
+            </trans-unit>
+            <trans-unit>
+                <source>Current Password</source>
+                <target>Jelenlegi jelszó</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Company Name or Bulstat</source>
+                <target>Cég neve vagy adószám</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Enter the CUI of your business.</source>
+                <target>Vezessd be az üzleted CUI (Cod Unic de Identificare)-ját.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Choose... </source>
+                <target>Válassz...</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Enter New Email</source>
+                <target>Vezess be új e-mail-t</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Description</source>
+                <target>Leírás</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Description (English)</source>
+                <target>Leírás (Angolul)</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Detailed Description</source>
+                <target>Részletes leírás</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Detailed Description (English)</source>
+                <target>Részletes leírás(Angolul)</target>
+            </trans-unit>
+            <trans-unit>
+                <source>When</source>
+                <target>Mikor</target>
+            </trans-unit>
+            <trans-unit>
+                <source>End Date</source>
+                <target>Végdátum</target>
+            </trans-unit>
+            <trans-unit>
+                <source>City/Town</source>
+                <target>Város/falu</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Venue name</source>
+                <target>A lakóhely neve</target>
+            </trans-unit>
+            <trans-unit>
+                <source>More Info (add link)</source>
+                <target>Kiegészíto információ (adj hozzá linket)</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Buy ticket/book (add link)</source>
+                <target>Vegyél/foglalj jegyet (adj hozzá linket)</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Price</source>
+                <target>Ár</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Event Type</source>
+                <target>Esemény típus</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Add Photo</source>
+                <target>Adj hozzá képet</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Event Name</source>
+                <target>Esemény neve</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Event Description</source>
+                <target>Esemény leírása</target>
+            </trans-unit>
+            <!-- NEw -->
+            <trans-unit>
+                <source>VIP Position Start Date</source>
+                <target>VIP pozició kezdo dátuma</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Select file</source>
+                <target>Válassz file-t</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Invalid format. E.g. http://www.getlokal.com</source>
+                <target>Érvénytelen formátum. Például: http://www.getlokal.com</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Invalid format. E.g. getlokal.com!</source>
+                <target>Érvénytelen formátum. Például: getlokal.com!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Invalid format. E.g. http://blog.getlokal.com</source>
+                <target>Érvénytelen formátum. Például: http://blog.getlokal.com</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Invalid format. E.g. http://twitter.com/@getlokal</source>
+                <target>Érvénytelen formátum. Például: http://twitter.com/@getlokal</target>
+            </trans-unit>
+
+            <trans-unit>
+                <source>Invalid format. E.g. @getlokal</source>
+                <target>Érvénytelen formátum. Például: @getlokal</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Invalid format. E.g. https://plus.google.com/</source>
+                <target>Érvénytelen formátum. Például: https://plus.google.com/</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Invalid format. E.g. https://foursquare.com/</source>
+                <target>Érvénytelen formátum. Például: https://foursquare.com/</target>
+            </trans-unit>
+
+            <trans-unit>
+                <source>Invalid format. E.g. http://www.facebook.com/#!/getlokal</source>
+                <target>Érvénytelen formátum. Például: http://www.facebook.com/#!/getlokal</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Invalid format.</source>
+                <target>Érvénytelen formátum.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Password is mandatory</source>
+                <target>A jelszó kötelezo</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The email and/or password are invalid</source>
+                <target>Az e-mail és/vagy a jelszó érvénytelen</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Incorrect Password</source>
+                <target>Hibás jelszó</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Message</source>
+                <target>Üzenet</target>
+            </trans-unit>
+            <trans-unit>
+                <source>E-mail is required.</source>
+                <target>Kérem töltse ki az e-mail-ét.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Your name is required.</source>
+                <target>Kérem töltse ki a nevét.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>This field is required. Please type your message.</source>
+                <target>Kérem töltse ki az üzenet mezot.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Please rate this company</source>
+                <target>Kérem értékelje ezt a céget</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Poster size</source>
+                <target>A poszter mérete</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The username "%value%" is invalid.</source>
+                <target>A "%value%" felhasználoi név nem érvényes.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Username must contain at least %min_length% characters.</source>
+                <target>A felhasználoi névnek legalább %min_length% szimbolumot kell tartalmaznia.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Start Time</source>
+                <target>Kewzdo óra</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Place Name</source>
+                <target>Hely neve</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Place/business name</source>
+                <target>Hely neve</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Place Name in English</source>
+                <target>Hely neve angolul</target>
+            </trans-unit>
+            <trans-unit>
+                <source>in English</source>
+                <target>neve angolul</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The place name in English has to be written with Latin characters</source>
+                <target>A hely neve angolul latin szimbolumokkal kell megírni</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Telephone/Website/FB page</source>
+                <target>Telefon/Website/FB page</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Open List</source>
+                <target>Nyított lista</target>
+            </trans-unit>
+            <trans-unit>
+                <source>List Name</source>
+                <target>Lista neve</target>
+            </trans-unit>
+            <trans-unit>
+                <source>List Description</source>
+                <target>Lista leírása</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Invalid phone number. The correct format to use is 023456789 or for mobile phones 0888888888. Add only the local area code for landlines. Only add digits – any other characters or spaces between characters are not allowed.</source>
+                <target>Nem érvényes telefonszám. A helyes formátum vezetékes telefon esetén példaul 023456789 vagy mobil telefon esetén 0888888888. Vezetékes telefon esetén add hozzá a lakóhely hívószámát. Csak számjegyet szabad használni - minden más fajta szimbolum és üres hely köztük nnincs engedélyezve és hibaüzenetet kapsz. </target>
+            </trans-unit>
+            <trans-unit>
+                <source>Google+ Page</source>
+                <target>Google+ oldal</target>
+            </trans-unit>
+            <!-- Articles -->
+            <trans-unit>
+                <source>Article Title</source>
+                <target>A cik címe</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Article Content</source>
+                <target>A cik tartalma</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Slug</source>
+                <target>Slug</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Meta Keywords</source>
+                <target>Meta kulcsszavak</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Quotation</source>
+                <target>Idézet</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Image (recommended 600x278 pxls)</source>
+                <target>Kép (javasolt méret 600x278 pixel)</target>
+            </trans-unit>
+            <trans-unit>
+                <source>(recommended 600x278 pxls)</source>
+                <target>(javasolt méret 600x278 pixel)</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Image Descrption</source>
+                <target>Képleírás</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Meta Description</source>
+                <target>Meta leírás</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Image Source</source>
+                <target>A kép forrása</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Status</source>
+                <target>Statusz</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Approved</source>
+                <target>Jóváhagyott</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Pending</source>
+                <target>Függoben levo</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Rejected</source>
+                <target>Visszautasított</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The maximum number of vouchers cannot be lower than the total number of vouchers already issued</source>
+                <target>Az utalványok legnagyobb száma nem lehet kisebb az eddig kiadott összes utalványszámnál.</target>
+            </trans-unit>
+
+            <!-- End Articles -->
+
+            <trans-unit>
+                <source>This field is mandatory. Please select your country name from the list.</source>
+                <target>Ez a mezo kötelezo. Válasszd az országod nevét a listából.</target>
+            </trans-unit>
+
+            <trans-unit>
+                <source>Country</source>
+                <target>Ország</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Please select followers</source>
+                <target>Válassz követoket</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Additional Address Details</source>
+                <target>Kiegészíto cím adatok</target>
+            </trans-unit>
+            <trans-unit>
+                <source>List</source>
+                <target>Lista</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The Offer can be active for a maximum period of 30 days.</source>
+                <target>Az ajánlat aktiv lehet maximum 30 napig.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The offer start date can not be later than %s</source>
+                <target>Az ajánlat kezdo dátuma nem lehet késobbi mint %s</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The offer end date can not be later than %s</source>
+                <target>Az ajánlat végso dátuma nem lehet késobbi mint %s</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The offer end date can not be later than</source>
+                <target>Az ajánlat végso dátuma nem lehet késobbi mint</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Invalid Date.</source>
+                <target>Érvénytelen dátum.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Caption </source>
+                <target>Leírás</target>
+            </trans-unit>
+            <trans-unit>
+                <source>When you publish an Offer please give details of its terms, timing and content e.g. "Get 20% off a weekend for two in hotel X. The offer is valid only for the period between 20.08 and 27.08. The discount applies to advanced bookings only.</source>
+                <target>Amikor ajánlatot tesz közzé írja meg pontosan és világosan a feltételeket, idotartamot és az ajánlat tartalmát. Például: Vegyen kétszemélyes hétvéget X szállóban 20%-os árengedménnyel. Az ajánlat csak Aug. 20 és 27 között érvérnyes. Árengedmény csak elozetes helyfoglalás esetén.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>When you publish an Offer please give details of its terms, timing and content e.g. "Get 20% off a weekend for two in hotel X. The offer is valid only for the period between 20.08 and 27.08. The discount applies to advanced bookings only.</source>
+                <target>Amikor ajánlatot tesz közzé írja meg pontosan és világosan a feltételeket, idotartamot és az ajánlat tartalmát. Például: Vegyen kétszemélyes hétvéget X szállóban 20%-os árengedménnyel. Az ajánlat csak Aug. 20 és 27 között érvérnyes. Árengedmény csak elozetes helyfoglalás esetén.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Publish</source>
+                <target>Tedd közzé</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Save Draft</source>
+                <target>Ments le piszkozatot</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Offer Description</source>
+                <target>Ajánlat leírása</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Number of vouchers per user cannot exceed 99.</source>
+                <target>Az utalványok száma per fogyasztó nem lehet több mint 99.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>[0]No vouchers have been issued yet for this offer.|[1]1 voucher has been issued for this offer.|(1,+Inf]%count% vouchers have been issued for this offer.</source>
+                <target>[0]Még mindig nincs kiadva utalvány erre az ajánlatra.|[1]1 utalvány van kiadva erre az ajánlatra.|(1,+Inf]%count% utalvány van kiadva erre az ajánlatra.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Directions to place:</source>
+                <target>Kiegészíto írányítások:</target>
+            </trans-unit>
+            <trans-unit>
+                <source>More address info</source>
+                <target>Kiegésyíto címinformáció</target>
+            </trans-unit>           
+            <trans-unit>
+                <source>Main Offer Benefit</source>
+                <target>Az ajánlat fo haszna</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Discount</source>
+                <target>Árengedmény</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Discount: </source>
+                <target>Árengedmény: </target>
+            </trans-unit>
+            <trans-unit>
+                <source>discount</source>
+                <target>árengedmény</target>
+            </trans-unit>
+            <trans-unit>
+                <source>% discount</source>
+                <target>% árengedmény</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Text</source>
+                <target>Szöveg</target>
+            </trans-unit>
+            <trans-unit>
+                <source>New price</source>
+                <target>Új ár</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Old price</source>
+                <target>Régi ár</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The price must be equal to or greater than 1.</source>
+                <target>Az árnak 1-gyél egyenlo vagy annál magasabbnak kell lennie.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The old price must be greater than the new price.</source>
+                <target>A régi ár magasabbnak kell lennie az új árnál.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The discount cannot be lower than 1%</source>
+                <target>Az árengedméy nem lehet kisebb 1%-nál.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The discount cannot be higher than 99%</source>
+                <target>Az árengedmény nem haladhat 99%-ot</target>
+            </trans-unit>
+            <trans-unit>
+                <source>This text must contain at least %s characters.</source>
+                <target>A szövegnek legalább  %s szimbolumot kell tartalmaznia.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>This text must contain at most %s characters.</source>
+                <target>A szöveg legfeljebb  %s szimbolumot tartalmazhat.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Time left to get it:</source>
+                <target>Az ajánlat lejár ... után:</target>                
+            </trans-unit>
+            <trans-unit>
+                <source>Use this voucher between:</source>
+                <target>Ay utalvány ... és ... között érvényes:</target>
+            </trans-unit>
+            <trans-unit>
+                <source>You save: </source>
+                <target>Takarítasz meg: </target>
+            </trans-unit>
+            <trans-unit>
+                <source> characters left</source>
+                <target> maradó szimbolum</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Post offer in English</source>
+                <target>Tedd közzé az ajánlatot angolul</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Not available</source>
+                <target>Lejárt ajánlat</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Expiring soon</source>
+                <target>Hamarosan lejár</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Download the voucher for this offer now and pay when you use it in the place.</source>
+                <target>Vegyél utalványt erre az ajánlatra és fizess, amikor használod helyben.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Choose an offer, download the voucher now and pay when you use it in the place.</source>
+                <target>Válassz ajánlatot, vegyél utalványt és fizess, amikor használod helyben.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Have a business and want to include your offers?</source>
+                <target>Üzleted van és be akarod kapcsolni az ajánlataidat?</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Create one now - click </source>
+                <target>Hozz létre ajánlatot most - kattints </target>
+            </trans-unit>
+            <trans-unit>
+                <source>here</source>
+                <target>ide</target>
+            </trans-unit>
+            <trans-unit>
+                <source>You can only use alphanumeric characters and ? ( ) [ ] { } %</source>
+                <target>A megengedett szimbolumok csak számok, betuk és  ? ( ) [ ] { } %</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Current file</source>
+                <target>Aktuális csatolt file</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Accepts pdf files only</source>
+                <target>Csak PDF formátumú file-okat tölthet fel.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Select the area from the image that you want to appear in your Offer</source>
+                <target>Válasszon a kép részéletét amelyet mutatni akar az ajánlatában</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Clear image</source>
+                <target>Töröld a képet</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Image Preview</source>
+                <target>Kép áttekintése</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Offer image</source>
+                <target>Ajánlat képe</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Scheduled publish</source>
+                <target>Scheduled publish</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Author</source>
+                <target>Szerzo</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The CAPTCHA you entered is incorrect. Please try again!</source>
+                <target>A beírt karaktersor helytelen, próbáld újra!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Report a Problem</source>
+                <target>Probléma Jelentése</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Is closed or out of business</source>
+                <target>Zárva van vagy nincs többet üzleti tevékenysége</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Is a duplicate</source>
+                <target>Egy másolat</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Has moved</source>
+                <target>Elköltözött</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Wrong phone number</source>
+                <target>Telefonszám helytelen</target>
+            </trans-unit>
+
+            <trans-unit>
+                <source>Additional Information</source>
+                <target>Kiegészíto információ</target>
+            </trans-unit>
+
+
+            <!-- NEW DESIGN -->
+            <trans-unit>
+                <source>Don't have an account?</source>
+                <target>Nincs még fiókja?</target>
+            </trans-unit>
+
+            <trans-unit>
+                <source>LOG IN</source>
+                <target>Belépés</target>
+            </trans-unit>
+
+            <trans-unit>
+                <source>Required</source>
+                <target>Kötelező</target>
+            </trans-unit>
+
+
+            <trans-unit>
+                <source>Article info</source>
+                <target>Cikkről információ</target>
+            </trans-unit>
+
+            <trans-unit>
+                <source>Uploading images</source>
+                <target>Képek feltöltése</target>
+            </trans-unit>
+
+            <trans-unit>
+                <source><![CDATA[LIKE AND SHARE US ON <span>FACEBOOK</span>]]></source>
+                <target><![CDATA[Kedvelje és ossza meg <span>Facebook-on</span>]]></target>
+            </trans-unit>
+            <trans-unit>
+                <source>The file you submitted is not in a valid format. Please upload a PDF file</source>
+                <target>A választott file formátuma érvénytelen.  Töltsön fel PDF file-t</target>
+            </trans-unit>
+
+        </body>
+    </file>
+</xliff>

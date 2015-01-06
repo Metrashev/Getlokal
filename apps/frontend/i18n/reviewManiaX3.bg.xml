@@ -1,0 +1,95 @@
+<?xml version="1.0" ?>
+<xliff version="1.0">
+	<file orginal="global" source-language="en_EN" datatype="plaintext">
+		<body>
+      		<trans-unit>
+	        	<source>%s means that you can win three cool prizes.</source>
+	        	<target>%s означава, че има 3 страхотни награди, които да спечелиш!</target>
+      		</trans-unit>
+      		<trans-unit>
+	        	<source>ReviewMania x3 is for those who love to write about their own experience.</source>
+	        	<target>ReviewMania X3 е игра за тези, които обичат да пишат за своите преживявания и впечатления.</target>
+      		</trans-unit>
+      		<trans-unit>
+	        	<source>Every week two of all participants will win one prize, kindly provided by our  great sponsors. At the end, one of all wins the big prize!</source>
+	        	<target>Всяка седмица двама участници ще бъдат изтегляни в томболата и ще спечелят по една награда, предоставена любезно от готините ни спонсори. На финала един от всички участвали ще спечели голямата награда!</target>
+      		</trans-unit>
+      		<trans-unit>
+	        	<source>ReviewMania prizes</source>
+	        	<target>ReviewMania награди</target>
+      		</trans-unit>
+      		<trans-unit>
+	        	<source>%s present the very cool and trendy Skullcandy headphones. You can pick male or female design!</source>
+	        	<target>%s ще ти подарят ултра модерни и готини слушалки Skullcandy. Mожеш да си избереш дамски или мъжки модел!</target>
+      		</trans-unit>
+      		<trans-unit>
+	        	<source>Contrabanda stores</source>
+	        	<target>Магазини Contrabanda</target>
+      		</trans-unit>
+      		<trans-unit>
+	        	<source>%s have a great idea for you, that will help you amaze all you friends and relatives! Win 30 customised calendars with your pictures for 2013!</source>
+	        	<target>%s са измислили чудесна награда, с която да шашнеш всички приятели и роднини! Спечели 30 календара с твои снимки за 2013 година!</target>
+      		</trans-unit>
+      		<trans-unit>
+	        	<source>On %s one of all participants will win the big prize %s!</source>
+	        	<target>На %s един от всички участвали печели голямата награда – %s!</target>
+      		</trans-unit>
+      		<trans-unit>
+	        	<source>20 December</source>
+	        	<target>20 декември</target>
+      		</trans-unit>
+      		<trans-unit>
+	        	<source>Nikon Coolpix L810</source>
+	        	<target>фотоапарат Nikon Coolpix L810</target>
+      		</trans-unit>
+      		<trans-unit>
+	        	<source>Of course, everything good comes with a little effort!</source>
+	        	<target>Разбира се, всичко хубаво идва с малко усилие</target>
+      		</trans-unit>
+      		<trans-unit>
+	        	<source>Here is how to play:</source>
+	        	<target>Ето и как да участваш:</target>
+      		</trans-unit>
+      		<trans-unit>
+	        	<source>Access the app and choose your city.</source>
+	        	<target>Стартирай играта и избери своя град.</target>
+      		</trans-unit>
+      		<trans-unit>
+	        	<source>If the chosen classifications are too many for your taste, just turn off some of them.</source>
+	        	<target>Aко избраните класификации са ти много, просто изключи някои от тях</target>
+      		</trans-unit>
+      		<trans-unit>
+	        	<source>The app generates places in the chosen classification, in your city that you need to write reviews about.</source>
+	        	<target>Играта генерира места, за които трябва да напишеш ревюта, за да участваш.</target>
+      		</trans-unit>
+      		<trans-unit>
+	        	<source>Write reviews about places you know and in case you haven't been to one of those generated - click on [x] to refresh and load a new place. When you have completed writing 3 reviews, you will automatically win a chance to the weekly draw and also a chance to the big prize of the campaign!</source>
+	        	<target>Пиши ревюта за места, които познаваш и в случай, че не попадаш на тях кликни, за да заредиш ново място. За всеки 3 ревюта, автоматично  получаваш шанс да спечелиш седмичните награди от %s и %s и разбира се Голямата Награда.</target>
+      		</trans-unit>
+      		<trans-unit>
+	        	<source>You can write as many reviews as you like during a week - you will win more chances this way. The prizes may vary from a week to another so keep an eye on %s and don't miss out the %s to be informed about changes in the prizes and the winners annoucements!</source>
+	        	<target>Можеш да пишеш колкото ревюта поискаш през цялата седмица и така ще си осигуриш повече шансове за наградите! Преглеждай нашата %s страница и не пропусках нашия %s, за да се информираш за всичко около играта %s.</target>
+      		</trans-unit>
+      		<trans-unit>
+	        	<source>The getlokal reviews are written by regular people, not professional text editors. We are relying on you authentic point of view and real experiences. We are checking every review and if we notice your content being copy-pasted from the web, you will loose all the chances acumulated by that point.</source>
+	        	<target>%s: Ревютата в getlokal се пишат от обикновени хора, не от професионални редактори. Ние разчитаме на твоята уникална гледна точка и на реален опит. Проверяваме всяко написано мнение и ако забележим нередности като copy–paste текст, ще изгубиш всички шансове, които конкретните ревюта ти дават.</target>
+      		</trans-unit>
+      		<trans-unit>
+	        	<source>Write about everything you care about - as a consumer - did you like the music? was the service fast? what particulary detail would you recommend to a friend? is there something you didn't like in the bar, pub, restaurant or coffee shop?</source>
+	        	<target>Пиши за всичко, което те интересува като потребител  – харесва ли ти музиката? Било ли е бързо обслужването? Какво конкретно в мястото би препоръчал на приятел? Има ли нещо, което не ти харесва в този бар, кръчма, ресторант, магазин или кафене?</target>
+      		</trans-unit>
+      		<trans-unit>
+	        	<source>Play here</source>
+	        	<target>Влез в играта</target>
+      		</trans-unit>
+      		<trans-unit>
+      			<source>ReviewMania x3 rules</source>
+      			<target>Правила ReviewMania x3</target>
+      		</trans-unit>
+      		<trans-unit>
+      			<source>Wish you luck x 3!</source>
+      			<target>Желаем ти успех х 3!</target>
+      		</trans-unit>
+		</body>
+	</file>
+</xliff>

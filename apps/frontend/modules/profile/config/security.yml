@@ -1,0 +1,6 @@
+vouchers:
+  is_secure: true
+deleteReview:
+  is_secure: true
+messages:
+  is_secure: true

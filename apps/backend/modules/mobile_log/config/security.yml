@@ -1,0 +1,5 @@
+default:
+  is_secure: true
+  credentials: [[permission_admin_bg, permission_admin_ro, permission_admin_sr, permission_admin_mk, permission_admin_fi]]
+logout:
+    is_secure: false

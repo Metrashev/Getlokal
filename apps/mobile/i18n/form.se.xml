@@ -1,0 +1,1021 @@
+﻿<?xml version="1.0" ?>
+<xliff version="1.0">
+  <file original="global" source-language="en" datatype="plaintext">
+    <body>
+      <trans-unit id="1">
+        <source>There is no user registered with the this email</source>
+        <target>Det finns ingen registrerad användare med denna e-mailadress</target>
+      </trans-unit>
+      <trans-unit id="2">
+        <source>Day, month and year are mandatory fields</source>
+        <target>Dag, månad och år är obligatoriska fält</target>
+      </trans-unit>
+      <trans-unit id="3">
+        <source>Username "%value%" cannot be used</source>
+        <target>Användarnamnet "%value%" är inte tillgängligt</target>
+      </trans-unit>
+      <trans-unit id="4">
+        <source>The username "%value%" contains characters that are not allowed</source>
+        <target>Användarnamnet "%value%" innehåller otillåtna tecken</target>
+      </trans-unit>
+      <trans-unit id="5">
+        <source>Username must contain at least %min_length% characters</source>
+        <target>Användarnamnet måste bestå av minst %min_length% tecken</target>
+      </trans-unit>
+      <trans-unit id="6">
+        <source>Username cannot contain more than %max_length% characters.</source>
+        <target>Användarnamnet får inte innehålla fler än %max_length% tecken</target>
+      </trans-unit>
+      <trans-unit id="7">
+        <source>Invalid email – your email is not in the correct format</source>
+        <target>Ogiltig e-mailadress - din e-mailadress är i fel format</target>
+      </trans-unit>
+      <trans-unit id="8">
+        <source>"%value%" is too short.  The username should be at least 3 characters.</source>
+        <target>"%value%" är för kort. Användarnamnet måste bestå av minst 3 tecken.</target>
+      </trans-unit>
+      <trans-unit id="9">
+        <source>Your password should be at least %min_length% characters long</source>
+        <target>Ditt lösenord måste bestå av minst 3 tecken.</target>
+      </trans-unit>
+      <trans-unit id="10">
+        <source>Your password cannot contain more than %max_length% characters</source>
+        <target>Ditt lösenord får inte innehålla fler än %max_length% tecken</target>
+      </trans-unit>
+      <trans-unit id="11">
+        <source>We will send the new password, to the email address you provided during registration</source>
+        <target>Vi skickar ditt nya lösenord till e-mailadressen du uppgav vid registreringen.</target>
+      </trans-unit>
+      <trans-unit id="12">
+        <source>The passwords do not match</source>
+        <target>Lösenorden stämmer inte överens. </target>
+      </trans-unit>
+      <trans-unit id="13">
+        <source>This email address has already been registered by another user</source>
+        <target>Denna e-mailadress har redan registrerats av en annan användare. </target>
+      </trans-unit>
+      <trans-unit id="14">
+        <source>This username is already in use</source>
+        <target>Detta användarnamn är redan i bruk.</target>
+      </trans-unit>
+       <trans-unit id="15">
+        <source>This field is mandatory. Please start typing the name of your home location and select from the list.</source>
+        <target>Detta fält är obligatoriskt. Börja skriva in namnet på din hemort och välj från listan.</target>
+      </trans-unit>
+      <trans-unit id="16">
+        <source>You have entered the text incorrectly. Please try again.</source>
+        <target>Du har skrivit in texten på ett felaktigt sätt. Var god försök igen.</target>
+      </trans-unit>
+      <trans-unit id="17">
+        <source>Please retype your password.</source>
+        <target>Skriv ditt lösenord igen.</target>
+      </trans-unit>
+	  <trans-unit id="18">
+        <source>Please retype your password.</source>
+        <target>Skriv ditt lösenord igen.</target>
+      </trans-unit>
+      <trans-unit id="19">
+        <source>Email is required</source>
+        <target>E-mailadress behövs.</target>
+      </trans-unit>
+      <trans-unit id="20">
+        <source>You must select a file to upload</source>
+        <target>Du måste välja en fil att ladda upp</target>
+      </trans-unit>
+      <trans-unit id="21">
+        <source>The file you submitted is not in a valid format. Please upload a JPG, GIF or PNG image file.</source>
+        <target>Filen du laddat upp är inte av godkänt format. Var god ladda upp en JPG, GIF- eller PNG-fil.</target>
+      </trans-unit>
+	  <trans-unit id="22">
+        <source>The file you submitted is not in a valid format. Please upload a JPG, GIF or PNG image file.</source>
+        <target>Filen du laddat upp är inte av godkänt format. Var god ladda upp en JPG, GIF- eller PNG-fil.</target>
+      </trans-unit>
+      <trans-unit id="23">
+        <source>File size limit is 4MB. Please reduce file size before submitting again.</source>
+        <target>Storleksbegränsningen för filer är 4MB. Reducera filstorleken och ladda upp igen.</target>
+      </trans-unit>
+      <trans-unit id="24">
+        <source>File size limit is 2MB.Please reduce file size.</source>
+        <target>Storleksbegränsningen för filer är 2MB. Reducera filstorleken och ladda upp igen.</target>
+      </trans-unit>
+      <trans-unit id="25">
+        <source>Caption "%value%" contains forbidden characters</source>
+        <target>Bildtexten "%value%" innehåller otillåtna tecken.</target>
+      </trans-unit>
+      <trans-unit id="26">
+        <source>Caption "%value%" contains forbidden words</source>
+        <target>Caption "%value%" innehåller otillåtna ord</target>
+      </trans-unit>
+      <trans-unit id="27">
+        <source>Type photo caption</source>
+        <target>Skriv bildtext</target>
+      </trans-unit>
+	  <trans-unit id="28">
+        <source>Type photo caption</source>
+        <target>Skriv bildtext</target>
+      </trans-unit>
+      <trans-unit id="29">
+        <source>Caption must contain at least %min_length% characters</source>
+        <target>Bildtexten måste bestå av minst %min_length% tecken</target>
+      </trans-unit>
+      <trans-unit id="30">
+        <source>The caption cannot contain more than %max_length% characters.</source>
+        <target>Bildtexten får ej innehålla fler än %max_length% tecken.</target>
+      </trans-unit>
+      <trans-unit id="31">
+        <source>The review cannot contain more than %max_length% characters. Shorten your review.</source>
+        <target>Omdömet får ej innehålla fler än %max_length% tecken.</target>
+      </trans-unit>
+       <trans-unit id="32">
+        <source>The review must contain at least %min_length% characters</source>
+        <target>Omdömet måste bestå av minst %min_length% tecken.</target>
+      </trans-unit>
+      <trans-unit id="33">
+        <source>The review contains characters that are not allowed</source>
+        <target>Omdömet innehåller ej tillåtna tecken.</target>
+      </trans-unit>
+      <trans-unit id="34">
+        <source>The review contains words that are not allowed</source>
+        <target>Omdömet innehåller ej tillåtna ord.</target>
+      </trans-unit>
+      <trans-unit id="35">
+        <source>The answer cannot contain more than %max_length% characters</source>
+        <target>Svaret får ej bestå av fler än %max_length% tecken</target>
+      </trans-unit>
+       <trans-unit id="36">
+        <source>The answer must contain at least %min_length% characters</source>
+        <target>Svaret måste innehålla minst %min_length% tecken</target>
+      </trans-unit>
+       <trans-unit id="37">
+        <source>The review cannot contain more than %max_length% characters</source>
+        <target>Omdömet får ej innehålla fler än %max_length% tecken</target>
+      </trans-unit>
+      <trans-unit id="38">
+        <source>the answer contains words that are not allowed</source>
+        <target>Svaret innehåller ej tillåtna ord.</target>
+      </trans-unit>
+      <trans-unit id="39">
+        <source>Type Review</source>
+        <target>Skriv omdömestext</target>
+      </trans-unit>
+      <trans-unit id="40">
+        <source>The caption must contain at least 3 characters</source>
+        <target>Bildtexten måste bestå av minst 3 tecken.</target>
+      </trans-unit>
+      <trans-unit id="41">
+        <source>The caption cannot contain more than 255 characters</source>
+        <target>Bildtexten får ej innehålla fler än 255 tecken.</target>
+      </trans-unit>
+      <trans-unit id="42">
+        <source>The field is mandatory</source>
+        <target>Detta fält är obligatoriskt.</target>
+      </trans-unit>
+      <trans-unit id="43">
+        <source>Select Your Position</source>
+        <target>Din plats</target>
+      </trans-unit>
+      <trans-unit id="44">
+        <source>Invalid Phone Number</source>
+        <target>Ogiltigt telefonnummer</target>
+      </trans-unit>
+      <trans-unit id="45">
+        <source>This field is mandatory. Select your town/city from the dropdown list.</source>
+        <target>Detta fält är obligatoriskt. Välj din hemort i rullgardinsmenyn.</target>
+      </trans-unit>
+      <trans-unit id="46">
+        <source>This field cannot contain more than %max_length% characters</source>
+        <target>Detta fält får ej innehålla fler än %max_length% tecken.</target>
+      </trans-unit>
+      <trans-unit id="47">
+        <source>Select company type</source>
+        <target>Välj typ av företag</target>
+      </trans-unit>
+      <trans-unit id="48">
+        <source>Select address type</source>
+        <target>Välj typ av adress</target>
+      </trans-unit>
+      <trans-unit id="49">
+        <source>Invalid Postcode</source>
+        <target>Ogiltigt postnummer</target>
+      </trans-unit>
+      <trans-unit id="50">
+        <source>You must select Street and/or Nighbourhood</source>
+        <target>Du måste välja gata eller område</target>
+      </trans-unit>
+      <trans-unit id="51">
+        <source>You must enter Street and/or Nighbourhood</source>
+        <target>Du måste angenamnet på gatan eller området</target>
+      </trans-unit>
+      <trans-unit id="52">
+        <source>You must enter Street Number and/or Entrance</source>
+        <target>Du mste ange gatu- eller portnummer</target>
+      </trans-unit>
+      <trans-unit id="53">
+        <source>You need to register a business account in order to manage you company's listing in getlokal.ro</source>
+        <target>Du måste registrera ett företagskonto för att administrera dina företagsuppgifter i getlokal.ro </target>
+      </trans-unit>
+       <trans-unit id="54">
+        <source>Log out of your user profile and register as a business</source>
+        <target>Logga ut från din profil och registrera som företag</target>
+      </trans-unit>
+      <trans-unit id="55">
+        <source>Only business users can claim companies!</source>
+        <target>Bara företagsanvändare kan göra anspråk på företag!</target>
+      </trans-unit>
+      <trans-unit id="56">
+        <source>Enter the URL of Your Blog</source>
+        <target>Ange din bloggadress</target>
+      </trans-unit>
+      <trans-unit id="57">
+        <source>The field cannot contain more than %max_length% characters</source>
+        <target>Fältet får ej innehålla fler än %max_length% tecken.</target>
+      </trans-unit>
+      <trans-unit id="58">
+        <source>The field must contain at least %min_length% characters</source>
+        <target>Fältet måste innehålla fler än %min_length% tecken.</target>
+      </trans-unit>
+      <trans-unit id="59">
+        <source>Invalid format. E.g. http://www.getlokal.ro.</source>
+        <target>Ogiltigt format. Ex: http://www.getlokal.ro.</target>
+      </trans-unit>
+      <trans-unit id="60">
+        <source>Invalid format. E.g. getlokal.ro!</source>
+        <target>Ogiltigt format. Ex: getlokal.ro!</target>
+      </trans-unit>
+      <trans-unit id="61">
+        <source>Invalid format. E.g. http://blog.getlokal.ro.</source>
+        <target>Ogiltigt format. Ex: http://blog.getlokal.ro.</target>
+      </trans-unit>
+      <trans-unit id="62">
+        <source>Invalid format. E.g. http://twitter.com/@getlokal.</source>
+        <target>Ogiltigt format. Ex: http://twitter.com/@getlokal</target>
+      </trans-unit>
+      <trans-unit id="63">
+        <source>Invalid format. E.g. http://www.facebook.com/#!/getlokal.</source>
+        <target>Ogiltigt format. Ex: http://www.facebook.com/#!/getlokal.</target>
+      </trans-unit>
+      <trans-unit id="64">
+        <source>This field is not mandatory but if you fill it in it must contain at least %min_length% characters</source>
+        <target>Detta fält är inte obligatoriskt, men om du fyller i information måste texten bestå av minst %min_length% tecken.</target>
+      </trans-unit>
+      <trans-unit id="65">
+        <source>This field is not mandatory but if you fill it in itcannot contain more than %max_length% characters.</source>
+        <target>Detta fält är inte obligatoriskt, men om du fyller i information får texten ej bestå av fler än %max_length% tecken.</target>
+      </trans-unit>
+      <trans-unit id="66">
+        <source>Select Your Position</source>
+        <target>Välj din plats</target>
+      </trans-unit>
+
+      <trans-unit id="67">
+        <source>Invalid format. E.g. http://www.facebook.com/getlokal.</source>
+        <target>Ogiltigt format. Ex: http://www.facebook.com/getlokal.</target>
+      </trans-unit>
+      <trans-unit id="68">
+        <source>There was a problem changing your password. Please try again later.</source>
+        <target>Ett problem uppstod vid byte av ditt lösenord. Försök igen senare.</target>
+      </trans-unit>
+      <trans-unit id="69">
+        <source>Your password was changed successfully</source>
+        <target>Ditt lösenord har ändrats.</target>
+      </trans-unit>
+       <trans-unit id="70">
+        <source>The start date cannot be earlier than today</source>
+        <target>Startdatum får ej vara tidigare än dagens datum.</target>
+      </trans-unit>
+      <trans-unit id="71">
+        <source>The start date of the second promo month cannot be earlier than the end date of the first</source>
+        <target>Startdatum för andra kampanjmånaden får ej vara tidigare än slutdatum för första månaden.</target>
+      </trans-unit>
+       <trans-unit id="72">
+        <source>The start date of the third promo month cannot be earlier than the end date of the second</source>
+        <target>Startdatum för tredje kampnjmånaden får ej vara tidigare än slutdatum för andra månaden.</target>
+      </trans-unit>
+       <trans-unit id="73">
+        <source>The start date for the third period must not be later than 30 days before the end date of your advert</source>
+        <target>Startdatum för den tredje perioden får inte vara mer än 30 dagar efter slutdatum för din annons.</target>
+      </trans-unit>
+      <trans-unit id="74">
+        <source>The start date for the period must not be later than 30 days before the end date of your advert</source>
+        <target>Startdatum för perioden får ej vara senare än 30 dagar efter slutdatum för din annons.</target>
+      </trans-unit>
+      <trans-unit id="75">
+        <source>Skriv in ditt svar.</source>
+        <target>Skriv in ditt svar.</target>
+      </trans-unit>
+      <trans-unit id="76">
+        <source>The Offer Title cannot be longer than %max_length% characters</source>
+        <target>Titeln för erbjudandet får ej bestå av fler än %max_length% tecken.</target>
+      </trans-unit>
+      <trans-unit id="77">
+        <source>The maximum number of vouchers issued per user cannot exceed the total number of vouchers for the offer</source>
+        <target>Maxantalet värdecheckar per användare får ej överstiga det totala antalet värdecheckar för erbjudandet</target>
+      </trans-unit>
+      <trans-unit id="78">
+        <source>You cannot select a date earlier than today's</source>
+        <target>Du kan ej välja ett datum tidigare än dagens datum.</target>
+      </trans-unit>
+      <trans-unit id="79">
+        <source>Тhe end date of your offer cannot be later than the end date of your advert</source>
+        <target>Slutdatum för ditt erbjudande får inte vara senare än slutdatum för din annons.</target>
+      </trans-unit>
+      <trans-unit id="80">
+        <source>The offer end date cannot be earlier than the start date</source>
+        <target>Slutdatum för erbjudandet får ej vara tidigare än startdatumet. </target>
+      </trans-unit>
+      <trans-unit id="81">
+        <source>The voucher valid to date cannot be earlier than the offer end date</source>
+        <target>Utgångsdatum för värdechecken kan ej vara tidigare än erbjudandets slutdatum</target>
+      </trans-unit>
+      <trans-unit id="82">
+        <source>Select date, month and year</source>
+        <target>Välj dag, månad och år.</target>
+      </trans-unit>
+       <trans-unit id="83">
+        <source>The email address is not in a valid format</source>
+        <target>E-mailadressen är av ogiltigt format.</target>
+      </trans-unit>
+      <trans-unit id="84">
+        <source>An email is mandatory</source>
+        <target>E-mailadress är obligatorisk.</target>
+      </trans-unit>
+      <trans-unit id="85">
+        <source>You need to agree to getlokal's Terms of Use to create a user account</source>
+        <target>Du måste godkänna getlokals användarvillkor för att skapa ett användarkonto.</target>
+      </trans-unit>
+       <trans-unit id="86">
+        <source>Location is mandatory. Start typing the name of your location and select from the list.</source>
+        <target>Plats är obligatorisk. Börja skriva namnet på din ort och välj från listan.</target>
+      </trans-unit>
+      <trans-unit id="87">
+        <source>Password must be at least %min_length% characters</source>
+        <target>Lösenordet måste bestå av minst %min_length% tecken</target>
+      </trans-unit>
+      <trans-unit id="88">
+        <source>Password cannot be more than %min_length% characters</source>
+        <target>Lösenordet får ej bestå av färre än %min_length% tecken</target>
+      </trans-unit>
+      <trans-unit id="89">
+        <source>A username is mandatory</source>
+        <target>Användarnamn är obligatoriskt.</target>
+      </trans-unit>
+       <trans-unit id="90">
+        <source>Invalid unsubscribe code for </source>
+        <target>Ogiltig avanmälningskod för</target>
+      </trans-unit>
+	  <trans-unit id="91">
+        <source>The passwords don't match</source>
+        <target>Lösenorden stämmer ej överens.</target>
+      </trans-unit>
+
+	   <trans-unit id="92">
+        <source>Description must contain at least %min_length% characters</source>
+        <target>Beskrivningen måste bestå av minst %min_length% tecken.</target>
+      </trans-unit>
+      <trans-unit id="93">
+        <source>The description cannot contain more than %max_length% characters.</source>
+        <target>Beskrivningen får ej innehålla fler än %max_length% tecken.</target>
+      </trans-unit>
+      <trans-unit id="94">
+        <source>Description "%value%" contains forbidden words</source>
+        <target>Beskrivningen "%value%" innehåller förbjudna ord.</target>
+      </trans-unit>
+       <trans-unit id="95">
+        <source>The Offer Title must contain at least %min_length% characters</source>
+        <target>Erbjudandets titel måste innehålla minst %min_length_characters</target>
+      </trans-unit>
+      <trans-unit id="96">
+        <source>The Offer Title and Terms are mandatory for at least one of the two language versions.</source>
+       <target>Erbjudandets titel och villkor är obligatoriska för åtminstone en av de två språkversionerna.</target>
+      </trans-unit>
+       <trans-unit id="97">
+        <source>The Newsletter Title cannot be longer than %max_length% characters</source>
+        <target>Nyhetsbrevet får ej bestå av fler än %max_length% tecken.</target>
+      </trans-unit>
+      <trans-unit id="98">
+        <source>The Newsletter Title must contain at least %min_length% characters</source>
+        <target>Nyhetsbrevets titel måste bestå av minst %min_length% tecken.</target>
+      </trans-unit>
+      <trans-unit id="99">
+        <source>Please enter search criteria</source>
+        <target>Var god ange söktermer.</target>
+      </trans-unit>
+      <trans-unit id="100">
+        <source>Please correct search criteria</source>
+        <target>Var god  korrigera söktermer.</target>
+      </trans-unit>
+      <trans-unit id="101">
+        <source>Incorrect search term</source>
+        <target>Fel sökterm.</target>
+      </trans-unit>
+     <trans-unit id="102">
+        <source>Message must contain at least %min_length% characters</source>
+        <target>Meddelandet måste innehålla minst %min_length% tecken.</target>
+      </trans-unit>
+      <trans-unit id="103">
+        <source>The message cannot contain more than %max_length% characters.</source>
+        <target>Meddelandet får ej innehålla fler än %max_length% tecken.</target>
+      </trans-unit>
+       <trans-unit id="104">
+        <source>This email and unsubscribed key do not match</source>
+        <target>Denna e-mailadress matchar inte avanmälningsnyckeln</target>
+      </trans-unit>
+        <trans-unit id="105">
+        <source>Video Title must contain at least %min_length% characters</source>
+        <target>Videotiteln måste innehålla minst %min_length% tecken</target>
+      </trans-unit>
+      <trans-unit id="106">
+        <source>The video title cannot contain more than %max_length% characters.</source>
+        <target>Videotiteln får ej innehålla fler än %max_length% tecken</target>
+      </trans-unit>
+       <trans-unit id="107">
+        <source>The email message was not sent successfully.</source>
+        <target>Detta e-mail skickades inte korrekt.</target>
+      </trans-unit>
+      <trans-unit id="108">
+        <source>This username has already been registered by another user</source>
+        <target>Detta användarnamn har redan registrerats av en annan användare. </target>
+      </trans-unit>
+       <trans-unit id="109">
+        <source>Тhe start date cannot be later than the end date of the event</source>
+        <target>Startdatum får ej vara senare än evenemangets datum.</target>
+      </trans-unit>
+      <trans-unit id="110">
+        <source>Please add location - city/town is required if venue not known!</source>
+        <target>Var god ange plats - ortnamn krävs om exakt plats inte är känd</target>
+      </trans-unit>
+      <trans-unit id="111">
+        <source>Please enter the characters from the picture below to confirm you like parties!</source>
+        <target>Var god skriv in tecknen från bilden nedan för att bekräfta att du gillar fester!</target>
+      </trans-unit>
+          <trans-unit id="112">
+        <source>Username</source>
+        <target>Användarnamn</target>
+      </trans-unit>
+      <trans-unit id="113">
+        <source>Email</source>
+        <target>E-mailadress</target>
+      </trans-unit>
+      <trans-unit id="114">
+        <source>Password</source>
+        <target>Lösenord</target>
+      </trans-unit>
+      <trans-unit id="115">
+        <source>Retype Your Password</source>
+        <target>Skriv ditt lösenord igen</target>
+      </trans-unit>
+      <trans-unit id="116">
+        <source>Select Your City</source>
+        <target>Välj ort</target>
+      </trans-unit>
+            <trans-unit id="117">
+        <source>Enter your Email address.</source>
+        <target>Ange e-mailadress</target>
+      </trans-unit>
+      <trans-unit id="118">
+        <source>Name</source>
+        <target>Förnamn</target>
+      </trans-unit>
+      <trans-unit id="119">
+        <source>Surname</source>
+        <target>Efternamn</target>
+      </trans-unit>
+      <trans-unit id="120">
+        <source>Profile Picture</source>
+        <target>Profilbild</target>
+      </trans-unit>
+      <trans-unit id="121">
+        <source>Delete current</source>
+        <target>Radera nuvarande</target>
+      </trans-unit>
+      <trans-unit id="122">
+        <source>Date of Birth</source>
+        <target>Födelsedatum</target>
+      </trans-unit>
+      <trans-unit id="123">
+        <source>Gender</source>
+        <target>Kön</target>
+      </trans-unit>
+      <trans-unit id="124">
+        <source>Location</source>
+        <target>Plats</target>
+      </trans-unit>
+           <trans-unit id="125">
+        <source>About me</source>
+        <target>Om mig</target>
+      </trans-unit>
+      <trans-unit id="126">
+        <source>My Website</source>
+        <target>Min websida</target>
+      </trans-unit>
+      <trans-unit id="127">
+        <source>My Blog</source>
+        <target>Min blogg</target>
+      </trans-unit>
+      <trans-unit id="128">
+        <source>My Facebook</source>
+        <target>Min Facebook-sida</target>
+      </trans-unit>
+      <trans-unit id="129">
+        <source>My Google+</source>
+        <target>Min Google+-sida</target>
+      </trans-unit>
+
+      <trans-unit id="130">
+        <source>New Password</source>
+        <target>Nytt lösenord</target>
+      </trans-unit>
+      <trans-unit id="131">
+        <source>Retype New Password</source>
+        <target>Skriv ditt nya lösenord igen</target>
+      </trans-unit>
+      <trans-unit id="132">
+        <source>The field is required</source>
+        <target>Detta fält är obligatoriskt.</target>
+      </trans-unit>
+      <trans-unit id="133">
+        <source>Fields marked with a star are mandatory.</source>
+        <target>Fält markerade med en asterisk är obligatoriska.</target>
+      </trans-unit>
+            <trans-unit id="134">
+        <source>Owner</source>
+        <target>Ägare</target>
+      </trans-unit>
+      <trans-unit id="135">
+        <source>Director</source>
+        <target>Direktör</target>
+      </trans-unit>
+       <trans-unit id="136">
+        <source>Manager</source>
+        <target>Chef</target>
+      </trans-unit>
+      <trans-unit id="137">
+        <source>Employee</source>
+        <target>Anställd</target>
+      </trans-unit>
+      <trans-unit id="138">
+        <source>Choose...</source>
+        <target>Välj...</target>
+      </trans-unit>
+      <trans-unit id="139">
+        <source>Other</source>
+        <target>Övrigt</target>
+      </trans-unit>
+            <trans-unit id="140">
+        <source>My Facebook</source>
+        <target>Min Facebook-sida</target>
+      </trans-unit>
+      <trans-unit id="141">
+        <source>My Тwitter</source>
+        <target>Min Twitter-sida</target>
+      </trans-unit>
+            <trans-unit id="142">
+        <source>Current Password</source>
+        <target>Nuvarande lösenord</target>
+      </trans-unit>
+      <trans-unit id="143">
+        <source>Retype New Password</source>
+        <target>Skriv nytt lösenord igen</target>
+      </trans-unit>
+      <trans-unit id="144">
+        <source>Passwords don't match</source>
+        <target>Lösenorden stämmer ej överens</target>
+      </trans-unit>
+      <trans-unit id="145">
+        <source>Your Password</source>
+        <target>Ditt lösenord</target>
+      </trans-unit>
+       <trans-unit id="146">
+        <source>Male</source>
+        <target>Man</target>
+      </trans-unit>
+       <trans-unit id="147">
+        <source>Female</source>
+        <target>Kvinna</target>
+      </trans-unit>
+      <trans-unit id="148">
+        <source>Position</source>
+        <target>Plats</target>
+      </trans-unit>
+      <trans-unit id="149">
+        <source>Phone</source>
+        <target>Telefonnummer</target>
+      </trans-unit>
+       <trans-unit id="150">
+        <source>I declare that I am an authorized representative of the business.</source>
+        <target>Jag bekräftar att jag är en auktoriserad representant för företaget.</target>
+      </trans-unit>
+      <trans-unit id="151">
+        <source>Enter the CUI of your business.</source>
+        <target>Ange CUI för ditt företag.</target>
+      </trans-unit>
+       <trans-unit id="152">
+        <source>Declare that you are an authorized representative of the business.</source>
+        <target>Bekräfta att du är en auktoriserad representant för företaget</target>
+      </trans-unit>
+      <trans-unit id="153">
+        <source>Invalid CUI</source>
+        <target>Ogiltigt CUI</target>
+      </trans-unit>
+      <trans-unit id="154">
+        <source>Company Name</source>
+        <target>Företagets namn</target>
+      </trans-unit>
+      <trans-unit id="155">
+        <source>Company Type</source>
+        <target>Företagstyp</target>
+      </trans-unit>
+       <trans-unit id="156">
+        <source>Company Name in Latin characters</source>
+        <target>Företagets namn med latinska bokstäver</target>
+      </trans-unit>
+       <trans-unit id="157">
+        <source>Address</source>
+        <target>Adress</target>
+      </trans-unit>
+       <trans-unit id="158">
+        <source>Classification</source>
+        <target>Klassificering</target>
+      </trans-unit>
+       <trans-unit id="159">
+        <source>City</source>
+        <target>Ort</target>
+      </trans-unit>
+      <trans-unit id="160">
+        <source>Company Address</source>
+        <target>Företagsadress</target>
+      </trans-unit>
+      <trans-unit id="161">
+        <source>Postcode</source>
+        <target>Postnummer</target>
+      </trans-unit>
+      <trans-unit id="162">
+        <source>Street</source>
+        <target>Gata</target>
+      </trans-unit>
+      <trans-unit id="163">
+        <source>Number</source>
+        <target>Gatunummer</target>
+      </trans-unit>
+      <trans-unit id="164">
+        <source>Neighbourhood</source>
+        <target>Område</target>
+      </trans-unit>
+      <trans-unit id="165">
+        <source>Bl.</source>
+        <target>Bl.</target>
+      </trans-unit>
+      <trans-unit id="166">
+        <source>Ent.</source>
+        <target>Ent.</target>
+      </trans-unit>
+      <trans-unit id="167">
+        <source>Fl.</source>
+        <target>Fl.</target>
+      </trans-unit>
+      <trans-unit id="168">
+        <source>Ap.</source>
+        <target>Ap.</target>
+      </trans-unit>
+            <trans-unit id="169">
+        <source>Monday</source>
+        <target>Måndag</target>
+      </trans-unit>
+      <trans-unit id="170">
+        <source>Tuesday</source>
+        <target>Tisdag</target>
+      </trans-unit>
+      <trans-unit id="171">
+        <source>Wednesday</source>
+        <target>Onsdag</target>
+      </trans-unit>
+      <trans-unit id="172">
+        <source>Thursday</source>
+        <target>Torsdag</target>
+      </trans-unit>
+      <trans-unit id="173">
+        <source>Friday</source>
+        <target>Fredag</target>
+      </trans-unit>
+      <trans-unit id="174">
+        <source>Saturday</source>
+        <target>Lördag</target>
+      </trans-unit>
+      <trans-unit id="175">
+        <source>Sunday</source>
+        <target>Söndag</target>
+      </trans-unit>
+         <trans-unit id="176">
+        <source>Bulgarian</source>
+        <target>Bulgariska</target>
+      </trans-unit>
+      <trans-unit id="177">
+        <source>English</source>
+        <target>Engelska</target>
+      </trans-unit>
+      <trans-unit id="178">
+        <source>Email:</source>
+        <target>E-mailadress</target>
+      </trans-unit>
+      <trans-unit id="179">
+        <source>Password:</source>
+        <target>Lösenord:</target>
+      </trans-unit>
+      <trans-unit id="180">
+        <source>Remember me</source>
+        <target>Kom ihåg mig</target>
+      </trans-unit>
+      <trans-unit id="181">
+        <source>Description</source>
+        <target>Beskrivning</target>
+      </trans-unit>
+      <trans-unit id="182">
+        <source>Category</source>
+        <target>Kategori</target>
+      </trans-unit>
+      <trans-unit id="183">
+        <source>Website</source>
+        <target>Websida</target>
+      </trans-unit>
+      			<trans-unit id="184">
+        <source>You entered "%value%". The security check picture contains %length% characters. Please try again.</source>
+        <target>Du angav "%value%". Säkerhetsbilden innehåller %length% tecken. Försök igen.</target>
+      </trans-unit>
+            <trans-unit id="185">
+        <source>Security check. Enter the characters from the picture below</source>
+        <target>Säkerhetskontroll. Skriv in tecknen från bilden nedan.</target>
+      </trans-unit>
+      <trans-unit id="186">
+        <source>Start Date</source>
+        <target>Startdatum</target>
+      </trans-unit>
+      <trans-unit id="187">
+        <source>Detailed Description</source>
+        <target>Detaljerad beskrivning</target>
+      </trans-unit>
+      <trans-unit id="188">
+        <source>Detailed Description (English)</source>
+        <target>Detaljerad beskrivning (engelska)</target>
+      </trans-unit>
+      <trans-unit id="189">
+        <source>Offer Title</source>
+        <target>Titel på erbjudandet</target>
+      </trans-unit>
+      <trans-unit id="190">
+        <source>Voucher</source>
+        <target>Värdecheck</target>
+      </trans-unit>
+      <trans-unit id="191">
+        <source>Voucher Valid From</source>
+        <target>Värdecheck giltig fr.o.m</target>
+      </trans-unit>
+      <trans-unit id="192">
+        <source>Voucher Valid To</source>
+        <target>Värdecheck giltig t.o.m</target>
+      </trans-unit>
+      <trans-unit id="193">
+        <source>Offer Active From</source>
+        <target>Erbjudandet är aktivt fr.o.m</target>
+      </trans-unit>
+      <trans-unit id="194">
+        <source>Offer Active To</source>
+        <target>Erbjudandet är aktivt t.o.m</target>
+      </trans-unit>
+      <trans-unit id="195">
+        <source>Maximum number of vouchers to be issued</source>
+        <target>Max antal värdecheckar som skall utfärdas</target>
+      </trans-unit>
+       <trans-unit id="196">
+        <source>Maximum number of vouchers to be issued per user</source>
+        <target>Max antal värdecheckar som utfärdas per användare</target>
+      </trans-unit>
+      <trans-unit id="197">
+        <source>Offer Terms</source>
+        <target>Erbjudandevillkor</target>
+      </trans-unit>
+       <trans-unit id="198">
+        <source>Select a photo from your computer</source>
+        <target>Välj en bild från din dator</target>
+      </trans-unit>
+      <trans-unit id="199">
+        <source>Caption</source>
+        <target>Bildtext</target>
+      </trans-unit>
+      <trans-unit id="8">
+        <source>Please enter your Name and Surname</source>
+        <target>Ange för- och efternamn</target>
+      </trans-unit>
+      <trans-unit id="9">
+        <source>Invalid email</source>
+        <target>Ogiltig e-mailadress</target>
+      </trans-unit>
+      <trans-unit id="10">
+        <source>Please rate this company</source>
+        <target>Var god betygsätt företaget</target>
+      </trans-unit>
+      <trans-unit id="22">
+        <source>Please enter your email</source>
+        <target>Ange din e-mailadress</target>
+      </trans-unit>
+      <trans-unit id="11">
+        <source>Invalid Rating</source>
+        <target>Ogiltigt omdöme</target>
+      </trans-unit>
+       <trans-unit id="15">
+        <source>Please agree to observe the Terms of Use of the Getlokal Website</source>
+        <target>Var god godkänn användarvillkoren för Getlokals websida</target>
+    </trans-unit>
+    <trans-unit id="54">
+        <source>Choose if you want to recommend this company to a friend</source>
+        <target>Välj om du vill rekommendera detta företag för en vän</target>
+      </trans-unit>
+       <trans-unit id="200">
+        <source>Name</source>
+        <target>Förnamn</target>
+      </trans-unit>
+      <trans-unit id="201">
+        <source>Surname</source>
+        <target>Efternamn</target>
+      </trans-unit>
+      <trans-unit id="202">
+        <source>Enter your Email address.</source>
+        <target>Ange din e-mailadress</target>
+      </trans-unit>
+       <trans-unit id="203">
+        <source>Your username should contain only alphanumeric characters, dash, dot or underscore and begin with a letter</source>
+        <target>Ditt användarnamn kan bara innehålla alfanumeriska tecken, bindestreck, punkt eller understreck och måste starta med en bokstav</target>
+      </trans-unit>
+      <trans-unit id="204">
+        <source>Your account changes were successfully saved.</source>
+        <target>Ändringarna på ditt konto har sparats korrekt. </target>
+      </trans-unit>
+      <trans-unit id="205">
+        <source>Company Name or CUI</source>
+        <target>Företageets namn eller CUI</target>
+      </trans-unit>
+       <trans-unit id="206">
+        <source>CUI (Cod Unic de Identificare)</source>
+        <target>CUI (Cod Unic de Identificare)</target>
+      </trans-unit>
+      <trans-unit id="207">
+        <source>Select file</source>
+        <target>Välj fil</target>
+      </trans-unit>
+      <trans-unit id="208">
+        <source>Invalid format. E.g. http://www.getlokal.ro.</source>
+        <target>Ogiltig http://www.getlokal.ro.</target>
+      </trans-unit>
+      <trans-unit id="209">
+        <source>Invalid format. E.g. getlokal.ro!</source>
+        <target>Ogiltigt format, ex: getlokal.ro!</target>
+      </trans-unit>
+      <trans-unit id="210">
+        <source>Invalid format. E.g. http://blog.getlokal.ro.</source>
+        <target>Ogiltigt format, ex: http://blog.getlokal.ro.</target>
+      </trans-unit>
+      <trans-unit id="211">
+        <source>Invalid format. E.g. http://twitter.com/@getlokal.</source>
+        <target>Ogiltigt format, ex: http://twitter.com/@getlokal</target>
+      </trans-unit>
+      <trans-unit id="212">
+        <source>Invalid format. E.g. http://www.facebook.com/#!/getlokal.</source>
+        <target>Ogiltigt format, ex: http://www.facebook.com/#!/getlokal.</target>
+      </trans-unit>
+      <trans-unit id="213">
+        <source>Invalid format.</source>
+        <target>Ogiltigt format.</target>
+      </trans-unit>
+      <trans-unit id="214">
+        <source>Password is mandatory</source>
+        <target>Lösenord är obligatoriskt.</target>
+      </trans-unit>
+      <trans-unit id="215">
+        <source>The email and/or password are invalid</source>
+        <target>E-mailadress och / eller lösenord är ogiltig(t)</target>
+      </trans-unit>
+      <trans-unit id="216">
+        <source>Incorrect Password</source>
+        <target>Ogiltigt lösenord.</target>
+      </trans-unit>
+      <trans-unit id="217">
+        <source>When</source>
+        <target>När</target>
+      </trans-unit>
+      <trans-unit id="218">
+        <source>End Date</source>
+        <target>Slutdatum</target>
+      </trans-unit>
+      <trans-unit id="219">
+        <source>City/Town</source>
+        <target>Ort</target>
+      </trans-unit>
+      <trans-unit id="220">
+        <source>Venue name</source>
+        <target>Plats</target>
+      </trans-unit>
+      <trans-unit id="221">
+        <source>More Info (add link)</source>
+        <target>Mer information (lägg till länk)</target>
+      </trans-unit>
+      <trans-unit id="222">
+        <source>Buy ticket/book (add link)</source>
+        <target>Köp biljett / häfte (lägg till länk)</target>
+      </trans-unit>
+      <trans-unit id="223">
+        <source>Event Type</source>
+        <target>Evenemangstyp</target>
+      </trans-unit>
+      <trans-unit id="224">
+        <source>Price</source>
+        <target>Pris</target>
+      </trans-unit>
+      <trans-unit id="225">
+        <source>Add Photo</source>
+        <target>Lägg till bild</target>
+      </trans-unit>
+      <trans-unit id="226">
+        <source>Event Name</source>
+        <target>Evenemangets namn</target>
+      </trans-unit>
+      <trans-unit id="227">
+        <source>Description of event</source>
+        <target>Beskrivning av evenemanget</target>
+      </trans-unit>
+      <!-- NEw -->
+       <trans-unit id="228">
+        <source>Show to All</source>
+        <target>Visa för alla</target>
+      </trans-unit>
+      <trans-unit id="229">
+        <source>Choose... </source>
+        <target>Välj...</target>
+      </trans-unit>
+      <trans-unit id="230">
+        <source>Enter New Email</source>
+        <target>Nytt e-mail</target>
+      </trans-unit>
+      <trans-unit id="231">
+        <source>Description</source>
+        <target>Beskrivning</target>
+      </trans-unit>
+      <trans-unit id="232">
+        <source>Description (English)</source>
+        <target>Beskrivning (engelska)</target>
+      </trans-unit>
+      <trans-unit id="233">
+        <source>Detailed Description (English)</source>
+        <target>Detaljerad beskrivning (engelska)</target>
+      </trans-unit>
+      <trans-unit id="234">
+        <source>Detailed Description</source>
+        <target>Detaljerad beskrivning</target>
+      </trans-unit>
+       <trans-unit id="235">
+        <source>VIP Position Start Date</source>
+        <target>VIP-plats startdatum</target>
+      </trans-unit>
+      <trans-unit id="236">
+        <source>Message</source>
+        <target>Meddelande</target>
+      </trans-unit>
+      <trans-unit id="237">
+        <source>Please rate this company</source>
+        <target>Betygsätt detta företag.</target>
+      </trans-unit>
+      <trans-unit id="238">
+        <source>The username "%value%" is invalid.</source>
+        <target>Användarnamnet "%value%" är ogiltigt.</target>
+      </trans-unit>
+      <trans-unit id="239">
+        <source>Username must contain at least %min_length% characters.</source>
+        <target>Användarnamnet måste bestå av minst %min_length% tecken.</target>
+      </trans-unit>
+      <trans-unit id="240">
+        <source>The username and/or password you entered for %s are invalid or you don't have enough credentials</source>
+        <target>Användarnamnet och / eller lösenordet du angett för %s är ogiltig(t), eller så saknar du nödvändiga kreditiv</target>
+      </trans-unit>
+       <trans-unit id="241">
+        <source>The username and/or password you entered are invalid or you don't have enough credentials</source>
+        <target>Användarnamnet och / eller lösenordet du angett är ogiltig(t), eller så saknar du nödvändiga kreditiv</target>
+      </trans-unit>
+       <trans-unit id="242">
+        <source><![CDATA[You need to agree to Getlokal Terms of Use & Privacy Policy]]></source>
+        <target><![CDATA[Du måste godkänna Getlokals användarvillkor och sekretesspolicy]]></target>
+      </trans-unit>
+      <trans-unit id="243">
+        <source>Start Time</source>
+        <target>Starttid</target>
+     </trans-unit>
+
+      <trans-unit id="244">
+        <source>Place Name</source>
+        <target>Platsnamn</target>
+      </trans-unit>
+	  <trans-unit id="245">
+        <source>Place Name in English</source>
+        <target>Platsnamn på engelska</target>
+      </trans-unit>
+
+ </body>
+  </file>
+</xliff>

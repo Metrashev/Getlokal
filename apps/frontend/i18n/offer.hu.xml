@@ -1,0 +1,177 @@
+<?xml version="1.0" ?>
+<xliff version="1.0">
+    <file orginal="global" source-language="en_EN" datatype="plaintext">
+        <body>    
+            <trans-unit>
+                <source>Offers</source>
+                <target>Ajánlatok</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Offer</source>
+                <target>Ajánlat</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Create an Offer</source>
+                <target>Adj hozzá ajánlatot</target>
+            </trans-unit>
+            <trans-unit>
+                <source>to</source>
+                <target>-hoz</target>
+            </trans-unit>
+            <trans-unit>
+                <source>deactivate</source>
+                <target>kapcsold ki</target>
+            </trans-unit>     
+            <trans-unit>
+                <source>Current Offers</source>
+                <target>Aktuális ajánlatok</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Edit Offer</source>
+                <target>Ajánlat szerkesztése</target>
+            </trans-unit>
+            <trans-unit>
+                <source>activate</source>
+                <target>aktivizálj</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Order Voucher</source>
+                <target>Vegyél utalványt</target>
+            </trans-unit>
+            <trans-unit>
+                <source>This offer is valid from</source>
+                <target>Az ajánlat .....-tól érvényes</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Vouchers</source>
+                <target>Utalványok</target>
+            </trans-unit>
+            <trans-unit>
+                <source>No vouchers have been ordered yet</source>
+                <target>Még mindig nem rendelt utalványt</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Offer Code</source>
+                <target>Ajánlat kódja</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Voucher Code</source>
+                <target>Utalvány kódja</target>
+            </trans-unit>
+            <trans-unit>
+                <source>activate</source>
+                <target>aktivizálj</target>
+            </trans-unit>
+            <trans-unit>
+                <source>This offer is not active.</source>
+                <target>A választott ajánlat nem aktiv.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Vouchers issued</source>
+                <target>Kibocsátott utalvány</target>
+            </trans-unit>
+            <!-- NEW -->
+            <trans-unit>
+                <source>Print</source>
+                <target>Nyomtatás</target>
+            </trans-unit>
+            <trans-unit>
+                <source><![CDATA[[0]No vouchers have been issued yet for this offer.|[1]1 voucher has been issued for this offer.|(1,+Inf]%count% vouchers have been issued for this offer.]]>
+                </source>
+                <target><![CDATA[0]Még nincs kibocsátott utalvány erre az ajánlatra.|[1]1 kibocsátott utalvány erre az ajánlatra.|(1,+Inf]%count% utalvány van kibocsátva erre az ajánlatra.]]>
+                </target>
+            </trans-unit>
+            <trans-unit>
+                <source>issued on</source>
+                <target>kibocsátott ...-án</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Issued on</source>
+                <target>Kibocsátott ...-án</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Expires on</source>
+                <target>Lejár ...-án</target>
+            </trans-unit>    
+            <!-- NEW -->
+            <trans-unit>
+                <source>There are no offers</source>
+                <target>Nincsenek ajánlatok</target>
+            </trans-unit>      
+            <trans-unit>
+                <source>Export to Excel</source>
+                <target>Exporrtálás Excel-be</target>
+            </trans-unit>
+            <trans-unit>
+                <source>You have already ordered the maximum number of vouchers</source>
+                <target>Már a maximális utalványszámot rendelted.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Number of Vouchers</source>
+                <target>Utalványszám</target>
+            </trans-unit>
+            <trans-unit>
+                <source>No more vouchers available for this offer</source>
+                <target>Az erre az ajánlatra érvényes utalvány már elkelt</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Get Voucher!</source>
+                <target>Vegyél utalványt!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>No messages</source>
+                <target>Nincs üzenet</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Offer Drafts</source>
+                <target>Ajánlat Piszkozat</target>
+            </trans-unit>
+            <trans-unit>
+                <source>preview</source>
+                <target>elonézet</target>
+            </trans-unit>
+            <trans-unit>
+                <source>publish</source>
+                <target>tedd közzé</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The offer was published successfully.</source>
+                <target>Az ajánlat sikeresen lett közzétéve.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Congrats</source>
+                <target>Üdvözöljük</target>
+            </trans-unit>
+            <trans-unit>
+                <source>We just issued your voucher! It's saved in your Profile.</source>
+                <target>Már van utalványod! Le volt mentve a profilodban.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>View</source>
+                <target>Nézzd meg</target>
+            </trans-unit>
+            <trans-unit>
+                <source>[1]1 offer for %company%|(1,+Inf]%count% offers for %company%</source>
+                <target>[1]1 ajánlat %company%-ra|(1,+Inf]%count% ajánlatok%company%-ra</target>
+            </trans-unit>
+            <trans-unit>
+                <source><![CDATA[[0]%time%|[1]1 day %time%|(1,+Inf]%days% days %time%]]></source>
+                <target><![CDATA[[0]%time%|[1]1 nappal %time%|(1,+Inf]%days% nappal %time%]]></target>
+            </trans-unit>
+
+            <!-- NEW DESIGN -->
+
+            <trans-unit>
+                <source>Tickets Available</source>
+                <target>Jegyek kaphatótak</target>
+            </trans-unit>
+
+            <trans-unit>
+                <source>OFFERS IN</source>
+                <target>Ajánlatok</target>
+            </trans-unit>
+            
+        </body>
+    </file>
+</xliff>
+

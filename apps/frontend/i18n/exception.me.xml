@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<xliff version="1.0">
+    <file orginal="global" source-language="en_EN" datatype="plaintext">
+        <body>
+            <trans-unit>
+                <source>Top Review for %sector% in %city%</source>
+                <target>Top preporuka za %sector% u %city%</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Recommended for %sector% in  %city%</source>
+                <target>preporučeno za %sector% u %city%</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Top Reviews for %sector% in %city%</source>
+                <target>top preporuke za %sector% u %city%</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Top Places in %city%</source>
+                <target>Top mjesta/firme za %city%</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Events in %s</source>
+                <target>Događaji u %s</target>
+            </trans-unit>
+        </body>
+    </file>
+</xliff>

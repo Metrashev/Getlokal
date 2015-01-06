@@ -1,0 +1,28 @@
+generator:
+  class: sfDoctrineGenerator
+  param:
+    model_class:           CompanyStats
+    theme:                 admin
+    non_verbose_templates: true
+    with_show:             false
+    singular:              ~
+    plural:                ~
+    route_prefix:          company_stats
+    with_doctrine_route:   true
+    actions_base_class:    sfActions
+
+    config:
+      actions: ~
+      fields:
+        company_id:           {label: Company Name, is_sortable: true}
+        company_city:      {label: Company City, is_sortable: true}
+      list:
+        table_method:  getQueryForCompanyStats
+        actions: { } 
+        object_actions:   { }   
+        batch_actions:   { } 
+      filter:  
+        display: [id, action, company, company_city, company_id, month]
+      form:    ~
+      edit:    ~
+      new:     ~

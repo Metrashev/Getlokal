@@ -1,0 +1,63 @@
+<?xml version="1.0" ?>
+<xliff version="1.0">
+    <file orginal="global" source-language="en_EN" datatype="plaintext">
+        <body>
+            <trans-unit>
+                <source>a few seconds ago</source>
+                <target>преди няколко секунди</target>
+            </trans-unit>
+            <trans-unit>
+                <source>%s min ago</source>
+                <target>преди %s мин.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>[1]1 hour ago|(1,+Inf]%count% hours ago</source>
+                <target>[1]преди 1 час|(1,+Inf]преди %count% часа</target>
+            </trans-unit>
+            <trans-unit>
+                <source>[1]1 munite ago|(1,+Inf]%count% munites ago</source>
+                <target>[1]преди 1 мин.|(1,+Inf]преди %count% мин.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>%sh ago</source>
+                <target>преди %s ч.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>over %s day ago</source>
+                <target>преди повече от ден</target>
+            </trans-unit>
+            <trans-unit>
+                <source>%s days ago</source>
+                <target>преди %s дни</target>
+            </trans-unit>
+            <trans-unit>
+                <source>[1]1 day ago|(1,+Inf]%count% days ago</source>
+                <target>[1]преди 1 ден|(1,+Inf]преди %count% дни</target>
+            </trans-unit>     
+            <trans-unit>
+                <source>over %s week ago</source>
+                <target>преди повече от %s седмицa</target>
+            </trans-unit>
+            <trans-unit>
+                <source>over %s weeks ago</source>
+                <target>преди повече от %s седмици</target>
+            </trans-unit>
+            <trans-unit>
+                <source>over %s month ago</source>
+                <target>преди повече от %s месец</target>
+            </trans-unit>
+            <trans-unit>
+                <source>over %s months ago</source>
+                <target>преди повече от %s месеца</target>
+            </trans-unit>
+            <trans-unit>
+                <source>over %s year ago</source>
+                <target>преди повече от %s годинa</target>
+            </trans-unit>
+            <trans-unit>
+                <source>over %s years ago</source>
+                <target>преди повече от %s години</target>
+            </trans-unit>       
+        </body>
+    </file>
+</xliff>

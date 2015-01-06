@@ -1,0 +1,123 @@
+<?xml version="1.0" ?>
+<xliff version="1.0">
+    <file orginal="global" source-language="en_EN" datatype="plaintext">
+        <body>
+            <trans-unit>
+                <source>%s published a review for %s.</source>
+                <target>%s je objavila preporuku za mjesto/firmu %s.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>%s published a photo for %s.</source>
+                <target>%s je objavila sliku za mjesto/firmu %s.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>%s is now following %s.</source>
+                <target>%s prati korisnika/mjesto/firmu %s.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>%s changed their profile photo.</source>
+                <target>%s je promijenila sliku profila.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>%s changed their profile photo.</source>
+                <target>Firma %s je promijenila sliku profila.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>%s created a %s.</source>
+                <target>%s je kreirala %s.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>List</source>
+                <target>Lista</target>
+            </trans-unit>
+            <trans-unit>
+                <source>%s published a Comment for %s.</source>
+                <target>%s je objavila komenatar za mjesto/firmu %s.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>%s just published a new %s.</source>
+                <target>je objavila %s.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Offer</source>
+                <target>Ponuda</target>
+            </trans-unit>
+            <trans-unit>
+                <source>%s just changed their name.</source>
+                <target>Mjesto/Firma %s je promijenila naziv.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>%s just changed their phone number.</source>
+                <target>Mjesto/Firma %s je promijenila broj telefona.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>%s just changed their email address.</source>
+                <target>Mjesto/Firma %s je promijenila email adresu.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>%s just updated their profile info.</source>
+                <target>Mjesto/Firma %s je ažurirala informacije na profilu.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>%s updated their place description.</source>
+                <target>Mjesto/Firma %s je ažurirala svoj opis.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>%s just changed their working hours.</source>
+                <target>Mjesto/Firma %s je promijenila radno vrijeme.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>%s just changed their address.</source>
+                <target>Mjesto/Firma %s je promijenila adresu.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>%s created an %s.</source>
+                <target>%s je kreirala %s.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Event</source>
+                <target>Događaj</target>
+            </trans-unit>      		
+            <trans-unit>
+                <source>%s just changed their Google+ page.</source>
+                <target>Mjesto/Firma %s je promijenila svoju Google+ stranicu.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>%s just changed their Facebook page.</source>
+                <target>Mjesto/Firma %s je promijenila svoju Facebook stranicu.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>%s just changed their Twitter.</source>
+                <target>Mjesto/Firma %s je promijenila Twitter stranicu.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>%s was added to a %s.</source>
+                <target>Mjesto/Firma %s je dodata u %s.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>%s is now following you</source>
+                <target>Mjesto/Firma %s te prati</target>
+            </trans-unit>
+            <trans-unit>
+                <source>This list is created by</source>
+                <target>Ovu listu je napravila</target>
+            </trans-unit>
+            <trans-unit>
+                <source>This user (%s) was already invited.</source>
+                <target>Korisnik (%s) je već pozvana.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>You just unlocked the %s badge</source>
+                <target>Upravo ste otključali %s bedževa</target>
+            </trans-unit>
+            <trans-unit>
+                <source>No messages</source>
+                <target>Nema poruka</target>
+            </trans-unit> 
+            <trans-unit>
+                <source>No notifications</source>
+                <target>Nema obavještenja</target>
+            </trans-unit> 
+        </body>
+    </file>
+</xliff>

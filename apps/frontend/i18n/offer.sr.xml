@@ -1,0 +1,186 @@
+<?xml version="1.0" ?>
+<xliff version="1.0">
+    <file orginal="global" source-language="en_EN" datatype="plaintext">
+        <body>    
+            <trans-unit>
+                <source>Offers</source>
+                <target>Ponude</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Offer</source>
+                <target>Ponuda</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Create an Offer</source>
+                <target>Napravite ponudu</target>
+            </trans-unit>
+            <trans-unit>
+                <source>deactivate</source>
+                <target>otkaži ponudu</target>
+            </trans-unit>      
+            <trans-unit>
+                <source>Current Offers</source>
+                <target>Trenutne ponude</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Edit Offer</source>
+                <target>Uredite ponudu</target>
+            </trans-unit>
+            <trans-unit>
+                <source>activate</source>
+                <target>aktivirajte</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Order Voucher</source>
+                <target>Poručite vaučer</target>
+            </trans-unit>
+            <trans-unit>
+                <source>This offer is valid from</source>
+                <target>Ova ponuda važi od</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Vouchers</source>
+                <target>Vaučeri</target>
+            </trans-unit>
+            <trans-unit>
+                <source>No vouchers have been ordered yet</source>
+                <target>Nijedan vaučer nije poručen do sada</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Offer Code</source>
+                <target>Kod vaučera</target>
+            </trans-unit>
+            <trans-unit>
+                <source>preview</source>
+                <target>pregledaj</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Offer Drafts</source>
+                <target>Neobjavljene ponude</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Voucher Code</source>
+                <target>Kod vaučera</target>
+            </trans-unit>
+            <trans-unit>
+                <source>activate</source>
+                <target>aktivirajte</target>
+            </trans-unit>    
+            <trans-unit>
+                <source>This offer is not active.</source>
+                <target>Ova ponuda nije aktivna.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Vouchers issued</source>
+                <target>Izdati vaučeri</target>
+            </trans-unit>           
+            <!-- NEW -->
+            <trans-unit>
+                <source>Print</source>
+                <target>Štampajte</target>
+            </trans-unit>
+            <trans-unit>
+                <source>[0]No vouchers have been issued yet for this offer.|[1]1 voucher has been issued for this offer.|(1,+Inf]%count% vouchers have been issued for this offer.</source>
+                <target>[0]Za ovu ponudu još uvek nisu izdati vaučeri.|[1]1 vaučer je izdat za ovu ponudu.|(1,+Inf]%count% vaučera je izdato za ovu ponudu.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>issued on</source>
+                <target>izdate</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Issued on</source>
+                <target>Izdate</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Expires on</source>
+                <target>Ističe</target>
+            </trans-unit>
+            <!-- NEW -->
+            <trans-unit>
+                <source>There are no offers</source>
+                <target>Nema ponuda</target>
+            </trans-unit>      
+            <trans-unit>
+                <source>Export to Excel</source>
+                <target>Eksportujte u Excel</target>
+            </trans-unit>
+            <trans-unit>
+                <source>No more vouchers available for this offer</source>
+                <target>Nema više raspoloživih vaučera za ovu ponudu</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Please select followers</source>
+                <target>Izaberi pratioce</target>
+            </trans-unit>
+            <trans-unit>
+                <source>You have already ordered the maximum number of vouchers</source>
+                <target>Već ste naručili maksimalni broj vaučera</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Number of Vouchers</source>
+                <target>Broj vaučera</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Get Voucher!</source>
+                <target>Uzmi besplatan vaučer!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>No messages</source>
+                <target>Nema poruka</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Save Draft and Preview</source>
+                <target>Sačuvaj i pregledaj plan</target>
+            </trans-unit>
+            <trans-unit>
+                <source>publish</source>
+                <target>objavi</target>
+            </trans-unit>
+            <trans-unit>
+                <source>to</source>
+                <target>do</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The offer was published successfully.</source>
+                <target>Ponuda je uspešno objavljena.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Ordered </source>
+                <target>Poručeno </target>
+            </trans-unit>
+            <trans-unit>
+                <source>Congrats</source>
+                <target>Čestitamo</target>
+            </trans-unit>
+            <trans-unit>
+                <source>We just issued your voucher! It's saved in your Profile.</source>
+                <target>Upravo smo ti izdali vaučer! Sačuvan je na tvom profilu.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>View</source>
+                <target>Prikaži</target>
+            </trans-unit>
+            <trans-unit>
+                <source>[1]1 offer for %company%|(1,+Inf]%count% offers for %company%</source>
+                <target>[1]ponuda: 1 za %company%|(1,+Inf]ponude: %count% za %company%</target>
+            </trans-unit>
+            <trans-unit>
+                <source><![CDATA[[0]%time%|[1]1 day %time%|(1,+Inf]%days% days %time%]]></source>
+                <target><![CDATA[[0]%time%|[1]1 dan %time%|(1,+Inf]%days% dana %time%]]></target>
+            </trans-unit>
+            <!-- NEW DESIGN -->
+
+            <trans-unit>
+                <source>Tickets Available</source>
+                <target>Ulaznice dostupne</target>
+            </trans-unit>
+
+            <trans-unit>
+                <source>OFFERS IN</source>
+                <target>Ponude u</target>
+            </trans-unit>
+            
+
+        </body>
+    </file>
+</xliff>

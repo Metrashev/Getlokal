@@ -1,0 +1,4 @@
+placePhotoSuccess:
+  layout: layout_crop
+  javascripts: [Jcrop.js]
+  stylesheets: [jcrop.css]

@@ -1,0 +1,27 @@
+generator:
+  class: sfDoctrineGenerator
+  param:
+    model_class:           CategoryArticle
+    theme:                 admin
+    non_verbose_templates: true
+    with_show:             false
+    singular:              ~
+    plural:                ~
+    route_prefix:          category_article
+    with_doctrine_route:   true
+    actions_base_class:    sfActions
+
+    config:
+      actions: ~
+      fields:  ~
+      list:
+        display:       [ id, title, status]
+        object_actions:
+          classification: { action: classification }
+          _edit:   ~
+          _delete: ~
+      filter:
+        display:  [status, classification_list]
+      form:    ~
+      edit:    ~
+      new:     ~

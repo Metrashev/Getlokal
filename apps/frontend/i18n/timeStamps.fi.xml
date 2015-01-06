@@ -1,0 +1,63 @@
+<?xml version="1.0" ?>
+<xliff version="1.0">
+    <file orginal="global" source-language="en_EN" datatype="plaintext">
+        <body>
+            <trans-unit>
+                <source>a few seconds ago</source>
+                <target>muutama sekunti sitten</target>
+            </trans-unit>
+            <trans-unit>
+                <source>%s min ago</source>
+                <target>%s minuuttia sitten</target>
+            </trans-unit>
+            <trans-unit>
+                <source>[1]1 hour ago|(1,+Inf]%count% hours ago</source>
+                <target>[1]1 tunti sitten|(1,+Inf]tuntia %count% sitten</target>
+            </trans-unit>
+            <trans-unit>
+                <source>[1]1 munite ago|(1,+Inf]%count% munites ago</source>
+                <target>[1]1 minuuttia sitten|(1,+Inf]minuuttia %count% sitten</target>
+            </trans-unit>
+            <trans-unit>
+                <source>%sh ago</source>
+                <target>%s sitten</target>
+            </trans-unit>
+            <trans-unit>
+                <source>over %s day ago</source>
+                <target>yli vuorokausi sitten</target>
+            </trans-unit>
+            <trans-unit>
+                <source>%s days ago</source>
+                <target>%s päivää sitten</target>
+            </trans-unit>
+            <trans-unit>
+                <source>[1]1 day ago|(1,+Inf]%count% days ago</source>
+                <target>[1]1 päivä sitten|(1,+Inf]päivää %count% sitten</target>
+            </trans-unit>     
+            <trans-unit>
+                <source>over %s week ago</source>
+                <target>yli %s viikkoa sitten</target>
+            </trans-unit>
+            <trans-unit>
+                <source>over %s weeks ago</source>
+                <target>yli %s viikkoa sitten</target>
+            </trans-unit>
+            <trans-unit>
+                <source>over %s month ago</source>
+                <target>yli%s kuukautta sitten</target>
+            </trans-unit>
+            <trans-unit>
+                <source>over %s months ago</source>
+                <target>yli %s kuukautta sitten</target>
+            </trans-unit>
+            <trans-unit>
+                <source>over %s year ago</source>
+                <target>yli %s vuotta sitten</target>
+            </trans-unit>
+            <trans-unit>
+                <source>over %s years ago</source>
+                <target>yli %s vuotta sitten</target>
+            </trans-unit>        
+        </body>
+    </file>
+</xliff>

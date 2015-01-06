@@ -1,0 +1,61 @@
+<?xml version="1.0" ?><xliff version="1.0">
+	<file datatype="plaintext" original="global" source-language="en">
+		<body>
+      		<trans-unit id="1">
+	        	<source>Place Claim in Getlokal</source>
+	        	<target>revendique l'endroit sur Getlokal</target>
+	       		
+      		</trans-unit>
+      		<trans-unit id="2">
+	        	<source>Welcome to getlokal</source>
+	        	<target>Bienvenue à Getlokal </target>
+	       		
+      		</trans-unit>
+      		<trans-unit id="3">
+	        	<source>Request through getlokal</source>
+	        	<target>Demander via  Getlokal</target>
+	       		
+      		</trans-unit>
+      		<trans-unit id="4">
+	        	<source>Claim Request</source>
+	        	<target>revendique un endroit</target>
+	       		
+      		</trans-unit>
+      		<trans-unit id="5">
+	        	<source>Forgotten Password</source>
+	        	<target>Mot de passe oublié</target>
+	       		
+      		</trans-unit>
+      		<trans-unit id="6">
+	        	<source>Getlokal Account Activation</source>
+	        	<target>Activation du compte Getlokal</target>
+	       		
+      		</trans-unit>
+      		<trans-unit id="7">
+	        	<source>Change Email Confirmation</source>
+	        	<target>Confirmation du changement d'adresse email.</target>
+	       		
+      		</trans-unit>
+      		<trans-unit id="8">
+	        	<source>Forgotten Place Admin Password</source>
+	        	<target>Mot de passe Place Admin oublié</target>
+	       		
+      		</trans-unit>
+      		<trans-unit id="9">
+	        	<source>Forgotten Username</source>
+	        	<target>Nom d'utilisateur oublié</target>
+	       		
+      		</trans-unit>
+      		<trans-unit id="10">
+	        	<source>Approved Place Claim in Getlokal</source>
+	        	<target>Endroit revendiqué avec succès dans Getlokal</target>
+	       		
+      		</trans-unit>
+            <trans-unit id="11">
+                <source>Rejected Place Claim in Getlokal</source>
+                <target> Rejet du lieu revendiqué dans Getlokal</target>
+                
+            </trans-unit>
+		</body>
+	</file>
+</xliff>

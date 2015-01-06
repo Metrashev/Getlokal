@@ -1,0 +1,84 @@
+# You can find more information about this file on the symfony website:
+# http://www.symfony-project.org/reference/1_4/en/11-App
+
+# default values
+all:
+  server:
+    # static_url:     http://www.getlokal.com
+    # enable_static:  true
+
+  search:
+    host:           127.0.0.1
+    port:           9306
+    
+  culture_native:
+      en: English
+      bg: Български
+      ro: Română
+      mk: Македонски
+      sr: Srpski
+      fi: Suomi
+      ru: Русский
+      cs: Czech
+      sk: Slovak
+      hu: Magyar
+      pt: Portuguese
+
+    
+  cultures_en:
+      en: English
+      bg: Bulgarian
+      ro: Romanian
+      mk: Macedonian
+      sr: Serbian
+      fi: Finnish
+      ru: Russian
+      cs: Czech
+      sk: Slovak
+      hu: Hungarian
+      pt: Portuguese
+
+  countries:
+      bg: Bulgaria
+      ro: Romania
+      mk: Macedonia
+      rs: Serbia
+      fi: Finland
+      cz: Czech Republic
+      sk: Slovakia
+      hu: Hungary
+      pt: Portugal
+      
+  domain_to_culture:
+      RO: ro
+      BG: bg
+      MK: mk
+      RS: sr
+      FI: fi
+      RU: ru
+      CZ: cs
+      SK: sk
+      HU: hu
+      PT: pt
+
+  .array:
+    culture_slugs: [ro, bg, en, mk, sr, fi, ru, cs, sk, hu, pt]
+    domain_slugs: [bg, ro, mk, rs, fi, cz, sk, hu, pt]
+    domain_slugs_old: [bg, ro, mk, rs]
+    languages_bg: [bg, en]
+    languages_ro: [ro, en]
+    languages_mk: [mk, en]
+    languages_sr: [sr, en]
+    languages_fi: [fi, en, ru]
+    languages_cs: [cs, en, sk]
+    languages_sk: [sk, en, cs]
+    languages_hu: [hu, en]
+    languages_pt: [pt, en]
+
+  mail_chimp:
+    api_key_bg: 9eea22f71642b5c85cede05a477bcb08-us2
+    api_key_ro: fd7ed2c05a0dac492e1030070a028b7f-us4
+    api_key_mk: ''
+    list_name_bg: Обща комуникация
+    list_name_ro: Comunicare generală
+    list_name_mk: ''

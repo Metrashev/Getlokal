@@ -1,0 +1,8 @@
+indexSuccess:
+   stylesheets: [carousel.css]
+categorySuccess:
+   stylesheets: [carousel.css]
+businessSuccess:
+  stylesheets: [business.css]
+error404Success:
+  has_layout: false

@@ -1,0 +1,111 @@
+<?xml version="1.0" ?>
+<xliff version="1.0">
+    <file orginal="global" source-language="en_EN" datatype="plaintext">
+        <body> 
+            <trans-unit>
+                <source>%s published a review for %s.</source>
+                <target>%s artikkeli julkaistu %s.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>%s published a photo for %s.</source>
+                <target>%s kuva julkaistu %s.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>%s is now following %s.</source>
+                <target>%s seuraa nyt %s.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>%s changed their profile photo.</source>
+                <target>%s vaihtoi profiilikuvansa.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>%s created a %s.</source>
+                <target>%s loi %s.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>List</source>
+                <target>Lista</target>
+            </trans-unit>
+            <trans-unit>
+                <source>%s published a Comment for %s.</source>
+                <target>%s julkaisi kommentin %s.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>%s just published a new %s.</source>
+                <target>%s julkaisi uuden %s.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Offer</source>
+                <target>Diili</target>
+            </trans-unit>
+            <trans-unit>
+                <source>%s just changed their name.</source>
+                <target>%s muuttivat nimensä.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>%s just changed their phone number.</source>
+                <target>%s muuttivat puhelin numeronsa.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>%s just changed their email address.</source>
+                <target>%s muuttivat sähköpostiosoitteensa.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>%s just updated their profile info.</source>
+                <target>%s päivittivät profiiliaan.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>%s updated their place description.</source>
+                <target>%s päivittivät paikkatietojaan.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>%s just changed their working hours.</source>
+                <target>%s muuttivat aukioloaikojaan.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>%s just changed their address.</source>
+                <target>%s muuttivat osoitettaan.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>%s created an %s.</source>
+                <target>%s loivat %s.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Event</source>
+                <target>Tapahtuma</target>
+            </trans-unit>      		
+            <trans-unit>
+                <source>%s just changed their Google+ page.</source>
+                <target>%s päivittivät Google+ sivujaan</target>
+            </trans-unit>
+            <trans-unit>
+                <source>%s just changed their Facebook page.</source>
+                <target>%s päivittivät Facebook sivujaan.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>%s just changed their Twitter.</source>
+                <target>%s päivittivät Twitter sivujaan.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>%s was added to a %s.</source>
+                <target>%s lisättiin %s.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>%s is now following you</source>
+                <target>%s seuraa nyt sinua</target>
+            </trans-unit> 
+            <trans-unit>
+                <source>You just unlocked the %s badge</source>
+                <target>avasit juuri %s</target>
+            </trans-unit>
+            <trans-unit>
+                <source>No messages</source>
+                <target>Ei viestejä</target>
+            </trans-unit> 
+            <trans-unit>
+                <source>No notifications</source>
+                <target>Ei ilmoituksia</target>
+            </trans-unit> 
+        </body>
+    </file>
+</xliff>

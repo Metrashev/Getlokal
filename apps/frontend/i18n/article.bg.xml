@@ -1,0 +1,124 @@
+<?xml version="1.0" ?>
+<xliff version="1.0">
+    <file orginal="global" source-language="en_EN" datatype="plaintext">
+        <body>
+            <trans-unit>
+                <source>Related Places</source>
+                <target>Свързани Места</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Related Lists</source>
+                <target>Свързани Списъци</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Related Events</source>	
+                <target>Свързани Събития</target>
+            </trans-unit>
+            <trans-unit>
+                <source>From Moderator</source>
+                <target>От модератора</target>
+            </trans-unit>
+            <trans-unit>
+                <source>From Author</source>
+                <target>От автора</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Article Photo Gallery</source>
+                <target>Фото галерия за статията</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Related Events</source>
+                <target>Свързани Събития</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Related Lists</source>
+                <target>Свързани Списъци</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Related Articles</source>
+                <target>Свързани Статии</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Related Places</source>
+                <target>Свързани Места</target>
+            </trans-unit>
+            <trans-unit>
+                <source>SEO</source>
+                <target>SEO</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Create an Article</source>
+                <target>Създай статия</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Edit Article</source>
+                <target>Редактирай статия</target>
+            </trans-unit>
+            <trans-unit>
+                <source>New Article</source>
+                <target>Създай статия</target>
+            </trans-unit>
+			
+            <trans-unit>
+                <source>Copy this code and position it where you want the quotation to appear in the text!</source>
+                <target>Копирай този код и го позиционирай там, където искаш да се покаже цитата в текста!</target>
+            </trans-unit>
+		
+            <trans-unit>
+                <source>If you want to show an image in the article text, copy the code to the right of this image and paste it where you want it to appear in the 'Article Content' field.</source>
+                <target>Ако искаш да вмъкнеш снимка в текста на статията, копирай кода вдясно на изображението. След това го сложи в тази част на текста, в полето "Съдържание на статията', където искаш да се показва.</target>
+            </trans-unit>
+			
+            <trans-unit>
+                <source>Back to 'Articles'</source>
+                <target>Обратно към 'Статии'</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Source</source>
+                <target>Източник</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Go to Article</source>
+                <target>Виж статията</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The article was not saved. Please fill in all mandatory fields.</source>
+                <target>Статията не беше запазена. Моля, попълни всички задължителни полета.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The atricle title and content are mandatory for at least one of the two language versions.</source>
+                <target>Заглавието и съдържанието на статията са задължителни поне на една от двете езикови версии.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Categories</source>
+                <target>Категории</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Edit Source</source>
+                <target>Редактирай източника</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Edit Description</source>
+                <target>Редактирай описанието</target>
+            </trans-unit>
+            
+            <trans-unit>
+                <source>This article is created by</source>
+                <target>Тази статия е създадена от</target>
+            </trans-unit> 
+            <trans-unit>
+                <source>Choose</source>
+                <target>Избирам</target>
+            </trans-unit>
+            <trans-unit>
+                <source>More articles from</source>
+                <target>Още статии от</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Select Category</source>
+                <target>Изберете Категория</target>
+            </trans-unit>
+
+        </body>
+    </file>	 
+</xliff>

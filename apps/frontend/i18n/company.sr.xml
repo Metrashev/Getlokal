@@ -1,0 +1,1261 @@
+<?xml version="1.0" ?>
+<xliff version="1.0">
+    <file orginal="global" source-language="en_EN" datatype="plaintext">
+        <body>
+            <trans-unit>
+                <source>Create Business Account</source>
+                <target>Otvorite poslovni nalog</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Position</source>
+                <target>Funkcija</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Phone</source>
+                <target>Тelefon</target>
+            </trans-unit>
+            <trans-unit>
+                <source>I declare that I am an authorized representative of the business.</source>
+                <target>Izjavljujem da sam ovlašćeni predstavnik firme.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>I declare that this is the valid Bulstat of the business.</source>
+                <target>Izjavljujem da je ovo validan PIB firme.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Declare that this is the valid Bulstat of the business.</source>
+                <target>Potvrdite da je ovo validan PIB firme.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The Bulstat you entered doesn't match your company data. Please check again and tick the box next to "I declare that this is the valid Bulstat of the business."</source>
+                <target>PIB koji ste uneli se ne podudara sa podacima Vaše firme. Molimo proverite ponovo i označite polje pored teksta "Izjavljujem da je ovo validan PIB firme."</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Enter the Bulstat of your business.</source>
+                <target>Unesite PIB Vaše firme</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Declare that you are an authorized representative of the business.</source>
+                <target>Potvrdite da ste ovlašćni predstavnik firme.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Invalid Bulstat</source>
+                <target>Nevalidan PIB</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Detailed Business Information</source>
+                <target>Detaljne informacije o firmi</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Business Information</source>
+                <target>Informacije o firmi</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Profile of %s %s</source>
+                <target>Profil %s %s</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Only users or people authorized by the business can add pictures.</source>
+                <target>Pravo dodavanja fotografija imaju registrovani korisnici i osobe ovlašćene od strane firme.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Name</source>
+                <target>Ime</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Address</source>
+                <target>Adresa</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Classification</source>
+                <target>Delatnost</target>
+            </trans-unit>
+            <trans-unit>
+                <source>All</source>
+                <target>Sve</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Approved</source>
+                <target>Odobreno</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Approved</source>
+                <target>Odobreno</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Awaiting Approval</source>
+                <target>Odobrenje na čekanju</target>
+            </trans-unit>
+
+            <trans-unit>
+                <source>Rejected</source>
+                <target>Odbijeno</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Pending registration</source>
+                <target>Registracija na čekanju</target>
+            </trans-unit>
+            <trans-unit>
+                <source>My Business</source>
+                <target>Moja firma</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The Business' Bulstat is mandatory</source>
+                <target>PIB firme je obavezan</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Invalid Password</source>
+                <target>Netačna lozinka</target>
+            </trans-unit>
+            <trans-unit>
+                <source>An authorized representative of the Business has already contacted getlokal</source>
+                <target>Ovlašćena osoba iz ove firme je već kontaktirala getlokal</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Continue registration process</source>
+                <target>Nastavite proces registracije</target>
+            </trans-unit>
+            
+            <trans-unit>
+                <source>Working hours and business description</source>
+                <target>Radno vreme  i opis firme</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Company Name</source>
+                <target>Naziv firme</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Company Type</source>
+                <target>Tip firme</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Company Name in Latin</source>
+                <target>Име на фирмата на латиница</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Address</source>
+                <target>Adresa</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Classification</source>
+                <target>Delatnost</target>
+            </trans-unit>
+            <trans-unit>
+                <source>City</source>
+                <target>Grad</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Company Address</source>
+                <target>Adresa firme</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Contact Information</source>
+                <target>Kontakt informacije</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Working Hours</source>
+                <target>Radno vreme</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Is this your business? Claim it!</source>
+                <target>Da li je ovo vaša firma?</target>
+            </trans-unit>
+            <trans-unit>
+                <source>From</source>
+                <target>Od</target>
+            </trans-unit>
+            <trans-unit>
+                <source>To</source>
+                <target>Do</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Please</source>
+                <target>Molimo</target>
+            </trans-unit>
+            <trans-unit>
+                <source>finish the registration</source>
+                <target>završite registraciju</target>
+            </trans-unit>
+            <trans-unit>
+                <source> if you want your business claim to be approved so you can gain access to more features of getlokal website.</source>
+                <target>, ukoliko želite da preuzmete profil svoje firme kako biste imali pristup svim servisima sajta getlokal.</target>
+            </trans-unit>
+            <trans-unit>
+                <source> with </source>
+                <target>, sa </target>
+            </trans-unit>
+            <trans-unit>
+                <source>Answer from </source>
+                <target>Odgovor od </target>
+            </trans-unit>
+            <trans-unit>
+                <source>representative of </source>
+                <target>predstavnik </target>
+            </trans-unit>
+            <trans-unit>
+                <source>Bulstat</source>
+                <target>PIB</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Company Type</source>
+                <target>Tip firme</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Postcode</source>
+                <target>Poštanski broj</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Street</source>
+                <target>Ulica</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Number</source>
+                <target>Broj</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Neighbourhood</source>
+                <target>Kraj</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Bl.</source>
+                <target>Bul.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Ent.</source>
+                <target>Ulaz</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Fl.</source>
+                <target>Sp.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Ap.</source>
+                <target>St.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Monday</source>
+                <target>Ponedeljak</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Tuesday</source>
+                <target>Utorak</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Wednesday</source>
+                <target>Sreda</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Thursday</source>
+                <target>Četvrtak</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Friday</source>
+                <target>Petak</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Saturday</source>
+                <target>Subota</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Sunday</source>
+                <target>Nedelja</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Serbian</source>
+                <target>Srpski</target>
+            </trans-unit>
+            <trans-unit>
+                <source>English</source>
+                <target>Engleski</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Closed</source>
+                <target>Zatvoreno</target>
+            </trans-unit>
+            <trans-unit>
+                <source>%s Working Hours</source>
+                <target>%s Radno vreme </target>
+            </trans-unit>
+            <trans-unit>
+                <source>See my full review in my blog »</source>
+                <target>Pogledajte celu preporuku u blogu »</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Add Company</source>
+                <target>Dodaj firmu</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Click %s to add new company.</source>
+                <target>Kliknite %s, da biste dodali firmu.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Find your company in getlokal</source>
+                <target>Pronađi svoju firmu na getlokal</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Get Business Card</source>
+                <target>Uzmite vizit kartu</target>
+            </trans-unit>
+            <trans-unit>
+                <source>This company was claimed already. Please contact us at info@getlokal.com for more information.</source>
+                <target>Profil ove firme je već preuzet. Kontaktirajte nas na serbia@getlokal.com za više informacija.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Non Stop</source>
+                <target>Non stop</target>
+            </trans-unit>
+            <trans-unit>
+                <source>%s, address %s, phone %s, %s, %s</source>
+                <target>%s, adresa %s, telefon %s, %s, %s</target>
+            </trans-unit>
+            <trans-unit>
+                <source>If you have been to %s in %s, leave your rating and review or photo to help other users searching in %s.</source>
+                <target>Ako znate nešto o radu firme %s - %s, napišite preporuku i ocenite je, ili okačite fotografije kako biste pomogli ostalim korisnicima koji pretražuju u delatnosti %s.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>You can find %s at %s, telephone %s.</source>
+                <target>%s možete pronaći na adresi %s i kontaktirati putem broja telefona %s.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>If you are a representative of %s, %s and manage this information. It's free and easy and %s.</source>
+                <target>Ako ste Vi ovlašćeni predstavnik %s za %s i ažurirajte ga. Veoma je jednostavno i za to Vam je potrebno %s.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>claim it</source>
+                <target>preuzmite profil</target>
+            </trans-unit>
+            <trans-unit>
+                <source>just a few steps away</source>
+                <target>još nekoliko koraka</target>
+            </trans-unit>
+            <trans-unit>
+                <source>%s, address: %s, phone: %s, in %s.If you are the owner of %s claim your business and fill in the relevant information about it.</source>
+                <target>%s, adresa: %s, telefon: %s, u %s. Ako ste Vi vlasnik %s, preuzmite profil firme i unesite tačne informacije.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>phone: </source>
+                <target>telefn: </target>
+            </trans-unit>
+            <trans-unit>
+                <source>address: </source>
+                <target>adresa: </target>
+            </trans-unit>
+            <trans-unit>
+                <source>You can use this widget to include information about the place in your blog or site. It contains company name, photo, number of reviews, address, telephone and rating of the place and it will appear when the user goes over the company name with the mouse.</source>
+                <target>Ovaj dodatak možete koristiti kako biste informacije o firmi prikazali na Vašem blogu ili sajtu. Ovaj dodatak sadrži naziv firme, fotografiju, broj preporuka, adresu, telefon i rejting koji će se pojaviti kada korisnik mišem pređe preko naziva firme.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Go to the HTML editor in your blog post</source>
+                <target>Idite u HTML editor na vašem blogu</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Copy the code below and insert it in your post. The code contains the company name with capital letters. You can change it if you want.</source>
+                <target>Kopirajte kod i ubacite ga u svoj tekst. Kod sadrži naziv firme ispisan velikim slovima. Moćete ga promeniti ukoliko želite.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>More info</source>
+                <target>Više informacija</target>
+            </trans-unit>
+            <trans-unit>
+                <source>More info for company %s</source>
+                <target>Više informacija o firmi %s</target>
+            </trans-unit>
+            <trans-unit>
+                <source>up to 250 characters</source>
+                <target>do 250 karaktera</target>
+            </trans-unit>
+            <trans-unit>
+                <source>up to 5000 characters</source>
+                <target>do 5000 karaktera</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Add More Classifications</source>
+                <target>Dodajte još delatnosti</target>
+            </trans-unit>
+            <trans-unit>
+                <source>You are editing %s</source>
+                <target>Ažurirate %s</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Add</source>
+                <target>Dodaj</target>
+            </trans-unit>
+            <trans-unit>
+                <source>General Information</source>
+                <target>Osnovne informacije</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Select Classification</source>
+                <target>Izaberite delatnost</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Selected Classifications</source>
+                <target>Izaberite delatnosti</target>
+            </trans-unit>
+            <trans-unit>
+                <source>delete</source>
+                <target>Obrišite</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Classifications</source>
+                <target>Delatnosti</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Photos</source>
+                <target>Fotografije</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Select a photo from your computer</source>
+                <target>Izaberite fotografiju sa Vašeg računara</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Upload</source>
+                <target>Objavite</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Add Photo</source>
+                <target>Dodaj fotografiju</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Add a Photo</source>
+                <target>Objavi fotografiju</target>
+            </trans-unit>
+
+            <trans-unit>
+                <source>use as logo</source>
+                <target>postavite logo</target>
+            </trans-unit>
+            <trans-unit>
+                <source>%s's information was saved successfully. If you want to change it, click %s.</source>
+                <target>Informacije o firmi %s su uspešno sačuvane. Ukoliko želite da ih promenite kliknite %s.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>here</source>
+                <target>ovde</target>
+            </trans-unit>
+
+            <trans-unit>
+                <source>VIP Position</source>
+                <target>VIP pozicija</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Video</source>
+                <target>Video</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The classification information for %s was saved successfully.</source>
+                <target>Informacije o delatnosti za firmu %s uspešno su sačuvane.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>set as profile photo</source>
+                <target>Postavite za sliku profila</target>
+            </trans-unit>
+            <trans-unit>
+                <source>set as profile photo</source>
+                <target>postavite za profil sliku </target>
+            </trans-unit>
+            <trans-unit>
+                <source> Save </source>
+                <target> Sačuvajte </target>
+            </trans-unit>
+            <trans-unit>
+                <source>Your company will appear in the VIP Positions module for 3 months (90 days) between the live and end dates of your advert. You can change the automatically set dates by using the controls below. You can choose a different start date for each one-month period. The start date for the third period must not be later than 30 days before the end date of your advert.</source>
+                <target>Vaša firma će se prikazivati na VIP poziciji u periodu od 3 meseca (90 dana) između datuma početka i kraja vašeg oglasa. Možete promeniti automatski podešene datume koristeći kontrole ispod. Možete promeniti datum početka za svaki jednomesečni period (ima ih tri). Datum početka trećeg perioda mora biti najkasnije 30 dana pre datuma isteka oglasa. </target>
+            </trans-unit>
+            <trans-unit>
+                <source>Start Date - Promo Month 1</source>
+                <target>Datum početka - prvi promotivni mesec</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Start Date - Promo Month 2</source>
+                <target>Datum početka - drugi promotivni mesec</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Start Date - Promo Month 3</source>
+                <target>Datum početka - treći promotivni mesec</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Your company will appear in the VIP Positions module for 1 month (30 days) between the live and end dates of your advert. You can change the automatically set date by using the controls below.</source>
+                <target>Vaša firma će se prikazivati na VIP poziciji u periodu od 3 meseca (90 dana) između datuma početka i kraja vašeg oglasa. Možete promeniti automatski podešene datume koristeći kontrole ispod.</target>
+            </trans-unit>
+            <trans-unit>
+                <source><![CDATA[All fields marked with <span>*</span> are mandatory]]></source>
+                <target><![CDATA[Sva polja označena sa <span>*</span> su obavezna]]></target>
+            </trans-unit>
+            <trans-unit>
+                <source>Browse photos from your computer and enter caption. The caption must contain between 3 and 155 characters.</source>
+                <target>Uvezite fotografije sa svog računara i upišite opis. Opis fotografije mora sadržati od 3 do 155 karaktera. </target>
+            </trans-unit>
+            <trans-unit>
+                <source>Your company is already appearing in the VIP Positions module according to the dates you selected.</source>
+                <target>Vaša firma se već prikazuje na VIP poziciji shodno datumima koje ste definisali.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Stats for </source>
+                <target>Statistika za </target>
+            </trans-unit>
+            <trans-unit>
+                <source>Stats</source>
+                <target>Statistika</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Views in search</source>
+                <target>Broj prikaza u pretrazi</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Company Page Visits</source>
+                <target>Broj prikaza profila firme</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Detailed Description Views</source>
+                <target>Broj prikaza detaljnog opisa</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Visits to Review Page</source>
+                <target>Broj prikaza stranice sa preporukama</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Detailed Map Views</source>
+                <target>Broj prikaza detaljne mape</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Visits to Gallery page</source>
+                <target>Broj prikaza Galerije</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Working Hours Views</source>
+                <target>Prikaz radnog vremena</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Clicks to Facebook page</source>
+                <target>Broj klikova ka Facebook stranici</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Number of times videos played</source>
+                <target>Broj video prikaza</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Clicks to Foursquare page</source>
+                <target>Idi na Foursquare stranicu</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Clicks to Twitter page</source>
+                <target>Idi na Twitter stranicu</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Clicks to Google+ page</source>
+                <target>Idi na Google+ stranicu</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Clicks to Yellow Pages page</source>
+                <target>Idi na Yellow Pages stranicu</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Sent Emails</source>
+                <target>Poslate email poruke</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Send Email</source>
+                <target>Pošalji email</target>
+            </trans-unit>
+            <trans-unit>
+                <source>send email to %s</source>
+                <target>pošalji email na %s</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The email message was sent successfully to %s.</source>
+                <target>Poruka je uspešno poslata na email adresu %s</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Registered Company Name</source>
+                <target>Zvaničan naziv firme</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Clicks to website</source>
+                <target>Kliknite ka veb sajtu</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Upload Video</source>
+                <target>Postavite video</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Please enter content in the field.</source>
+                <target>Unesite sadržaj u polje.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Video Title</source>
+                <target>Naziv videa</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Video Description</source>
+                <target>Opis videa</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Your video is being uploaded. Please do not close this page and wait until the process of uploading has completed and you have seen a confirmation message. If you close the page the process will be interrupted and your video will not be successfully uploaded!</source>
+                <target>Vaš video je u procesu postavljanja. Molimo vas da sačekate da se proces postavljanja završi i da se prikaše poruka sa potvrdom.Nemojte zatvarati stranicu kako bi proces postavljanja videa bio uspešan.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The video was successfully uploaded and will be published after it has been approved by a moderator.</source>
+                <target>Video je uspešno postavljen i biće objavljen nakon provere od strane moderatora.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The title of the video must contain between 8 and 99 characters</source>
+                <target>Naziv videa mora sadržati najmanje 8 i najviše 99 karaktera.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The description of the video must contain between 20 and 240 characters</source>
+                <target>Opis videa mora sadržati između 20 i 240 karaktera.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>File Title</source>
+                <target>Naziv fajla</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Description</source>
+                <target>Opis</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Please select a video for uploading!</source>
+                <target>Molimo Vas odaberite video koji želite da postavite.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Select file</source>
+                <target>Odaberite fajl</target>
+            </trans-unit>
+            <trans-unit>
+                <source>You tried to upload a file that is not in the allowed format for video files. Please upload a video file.</source>
+                <target>Fajl koji pokušavate da postavite nije u odgovarajućem formatu. Molimo vas da odaberete video fajl.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Inappropriate review submitted for </source>
+                <target>Preporuka je neprikladna </target>
+            </trans-unit>
+            <trans-unit>
+                <source>The caption of your photo of %s was not saved. The caption must contain between 3 and 155 characters.</source>
+                <target>Opis fotografije %s nije sačuvan.Opis mora sadržati između 3 i 155 karaktera.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>edit caption</source>
+                <target>uredite opis</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Profile photo</source>
+                <target>Fotografija profila</target>
+            </trans-unit>
+            <trans-unit>
+                <source>awaiting approval</source>
+                <target>čeka se odobrenje</target>
+            </trans-unit>
+            <trans-unit>
+                <source>from</source>
+                <target>Ponuda od</target>
+            </trans-unit>
+            <trans-unit>
+                <source>If you want to add a classification you need to select from the list. Start typing the classification name or a keyword and we'll suggest a list of classifications for you to choose from.</source>
+                <target>Da biste dodali delatnost morate je odabrati iz liste. Počnite da unosite naziv ili ključnu reč i biće vam predloženi rezultati u listi od kojih možete odabrati željenu delatnost.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Your changes were not saved. Please fill in the information correctly.</source>
+                <target>Promene koje ste uneli nisu sačuvane. Molimo vas da informacije unesete pravilno.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Select Your City</source>
+                <target>Odaberite Grad</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Security check. Enter the characters from the picture below!</source>
+                <target>Sigurnosna provera. Unesite tekst sa slike ispod!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Choose a video file from your computer and enter information in the mandatory fields below.</source>
+                <target>Odaberite video fajl sa vašeg računara i popunite obavezna polja ispod.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Please enter information in the mandatory fields below.</source>
+                <target>Molimo unesite informacije u obavezna polja ispod.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Location is mandatory. Start typing the name of your location and select from the list.</source>
+                <target>Lokacija je obavezna. Počnite da upisujete naziv i selektujte lokaciju iz liste.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>You need to agree to getlokal's Terms of Use</source>
+                <target>Potrebno je da prihvatite getlokal uslove korišćenja.</target>
+            </trans-unit>
+            <!-- NEW -->
+            <trans-unit>
+                <source>Videos</source>
+                <target>Video</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Edit</source>
+                <target>Uredite</target>
+            </trans-unit>
+            <trans-unit>
+                <source>[1]My company |(1,+Inf] My companies</source>
+                <target>[1]Moja firma |(1,+Inf] Moje firme</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Message</source>
+                <target>Poruka</target>
+            </trans-unit>
+            <trans-unit>
+                <source>from</source>
+                <target>od</target>
+            </trans-unit>
+            <trans-unit>
+                <source>to</source>
+                <target>za</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Companies</source>
+                <target>Firme</target>
+            </trans-unit>
+            <trans-unit>
+                <source>classification: </source>
+                <target>Delatnost: </target>
+            </trans-unit>
+            <trans-unit>
+                <source>bl. </source>
+                <target>bul. </target>
+            </trans-unit>
+            <trans-unit>
+                <source>ent. </source>
+                <target>ulaz </target>
+            </trans-unit>
+            <trans-unit>
+                <source>fl. </source>
+                <target>sp. </target>
+            </trans-unit>
+            <trans-unit>
+                <source>ap. </source>
+                <target>st. </target>
+            </trans-unit>
+            <trans-unit>
+                <source>Find My Company</source>
+                <target>Pronađi firmu</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Claim Your Company</source>
+                <target>Preuzmite profil svoje firme</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Company Information</source>
+                <target>Informacije o firmi</target>
+            </trans-unit>
+            <trans-unit>
+                <source>edit</source>
+                <target>uredi</target>
+            </trans-unit>
+            <!-- NEW -->
+            <trans-unit>
+                <source>Place Administration</source>
+                <target>Administracija mesta</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Company</source>
+                <target>Firma</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Is this your business?</source>
+                <target>Da li je ovo vaša firma?</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Claim it!</source>
+                <target>Preuzmite profil!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Take control of your online reputation and talk to your customers.</source>
+                <target>Preuzmite kontrolu nad vašom on-line reputacijom i započnite komuniciju sa svojim klijentima.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Rating</source>
+                <target>Rejting</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Communication</source>
+                <target>Komunikacija</target>
+            </trans-unit>
+
+            <trans-unit>
+                <source>Place Information</source>
+                <target>Informacije o mestu</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Place Information</source>
+                <target>Informacije o mestu</target>
+            </trans-unit>
+            <trans-unit>
+                <source>See Place Page</source>
+                <target>Stranica mesta</target>
+            </trans-unit>
+
+            <trans-unit>
+                <source>Add a place</source>
+                <target>Dodaj firmu/mesto</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Add a new place and make getlokal better for you and other people in your area.</source>
+                <target>Dodajte novo mesto i učinite getlokal boljim za sebe i ljude oko vas.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Start typing the place name</source>
+                <target>Počnite da upisujete naziv mesta</target>
+            </trans-unit>
+            <trans-unit>
+                <source>You need to complete this field</source>
+                <target>Morate dovršiti ovo polje</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Congrats on adding the place! Do you know any more details about it?</source>
+                <target>Da li imate još informacija o njemu?</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Do you know any more details about it?</source>
+                <target>Da li imate još informacija o njemu?</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Place Name in English</source>
+                <target>Naziv mesta na Engleskom</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Place Email Address</source>
+                <target>Email adresa mesta</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Additional Address Details</source>
+                <target>Dodatne informacije u vezi adrese</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Building, floor, apt, zip</source>
+                <target>Zgrada, sprat, stan, poštanski broj</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Any notes for getlokal editors that might speed up the approval process?</source>
+                <target>Da li imate neku napomenu za urednike kako bi ubrzali proces odobrenja?</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Are you (representing) the place owner?</source>
+                <target>Da li ste Vi vlasnik ili predstavnik vlasnika mesta?</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Let's link the place with its other online profiles!</source>
+                <target>Povežimo mesto sa njegovim ostalim on-line profilima!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Enter the exact place website URL!</source>
+                <target>Unesite tačnu veb adresu mesta.!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>in Google</source>
+                <target>na Google</target>
+            </trans-unit>
+            <trans-unit>
+                <source>More Info</source>
+                <target>Još informacija</target>
+            </trans-unit>
+
+            <trans-unit>
+                <source>If you type in the address – street name and number - the position of the market showing where the place is will change. If the positioning doesn’t seem correct you can move the marker. This will not change the address you’ve already written.</source>
+                <target>Ukoliko unesete naziv adrese - lokaciju pozicija markera na mapi će se promenuiti. Ukoliko pozicija markera nije dobra možete ga pomerati kako biste označili lokaciju tačno. Ovaj postupak neće promeniti naziv lokacije koji ste več uneli.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Start typing the place type e.g. ‘restaurant’ or ‘hairdressers’ and select the most appropriate category for the place you’re adding</source>
+                <target>Počnite da unosite tip mesta (npr. restoran, frizer...) i odaberite delatnost koja najviše odgovara mestu koje unosite.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The correct format to use is 023456789 or for mobile phones 0888888888. Add only the local area code for landlines. Only add digits – any other characters or spaces between characters are not allowed.</source>
+                <target>Format koji je ispravan i koji trebate koristiti je 0112456789 ili za mobilne telefone 063636363. Koristite samo cifre pri unošenju brojeva telefona. </target>
+            </trans-unit>
+            <trans-unit>
+                <source>Select dates for your offer</source>
+                <target>Izaberi datum za vašu ponudu</target>
+            </trans-unit>
+            <trans-unit>
+                <source>This page has been claimed by the Place Owner.</source>
+                <target>Ovaj profil je verifikovan i preuzet od strane zvaničnog predstavnika firme.</target>
+            </trans-unit>
+
+            <trans-unit>
+                <source>set as logo</source>
+                <target>Postavite kao logo</target>
+            </trans-unit>
+            <trans-unit>
+                <source>I would like to receive:</source>
+                <target>Želim da primam sledeća obaveštenja:</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Cover Photo</source>
+                <target>Naslovna fotografija</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Аdd Cover Photo</source>
+                <target>Dodaj naslovnu fotografiju</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Cover Photos</source>
+                <target>Naslovne fotografije</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Back to 'Photos'</source>
+                <target>nazad na 'Fotografije'</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Crop</source>
+                <target>Crop</target>
+            </trans-unit>
+            <trans-unit>
+                <source><![CDATA[The cover image is 975x300 pixels so if your photo is big enough our advise is to crop a part of it that’s exactly the same size. Just click on the image, stretch the crop area until it reaches the maximum size (975x300) and if necessary drag on the part of the image you wish to crop. Then click on the ‘Crop’ button. Your cover image will change immediately. <p>If your image is smaller than 975x300 pixels you can crop part of it which will be displayed on the page surrounded by black background. Again the maximum width of the crop area cannot be bigger than 975 and the maximum height more than 300 pixels. The crop area cannot be dragged outside the boundaries of your image.]]></source>
+                <target><![CDATA[Naslovna slika je 975x300 piksela,tako da ako je vaša slika prevelika naš predlog je da je isečete, smanjite (crop) tako da njen deo bude tačno ove veličine.. samo kliknite na sliku, razvucite deo za isecanje do veličine (975x300) i ako je potrebno prevucite deo koji želite da isešete.. Onda pritisnite ‘Crop’. vača naslovna slika će se automatski promeniti. <p>Ukoliko je Vaša slika manja od 975x300 piksela mozete iseći(crop) samo njen deo dok će pozadina ostati crna. Maksimalna širina isečka ne sme biti veća od 975 piksela tj., maksimalna visina ne sme biti veća od 300 piksela. Površina za isecanje ne sme se razvlačiti van granica vače fotografije.]]></target>
+            </trans-unit>
+            <trans-unit>
+                <source><![CDATA[The cover photo template is <strong>975x300 px</strong>. For best results, we recommend that you upload pictures of that size.]]></source>
+                <target><![CDATA[Šablon za naslovnu fotografiju je <strong>975x300 px</strong>. Za najbolje rezultate predlažemo da dodate sliku ove veličine.]]></target>
+            </trans-unit>
+            <trans-unit>
+                <source>Upload your photo here, crop it if necessary and then save it.</source>
+                <target>Dodajte fotografiju ovde, uredite (isecite - crop) ukoliko je potrebno i sačuvajte je.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Before saving this image as a cover photo, we recommend that you crop it to the size of the cover photo template (975x300 px) in order to obtain best results.</source>
+                <target>Pre nego što sačuvate ovu fotografiju kao naslovnu, preporučujemo da je isečete (crop) na veličinu 975x300px da biste imali najbolje rezultate.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>How to do that:</source>
+                <target>Kako da to uradite:</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Click on the image</source>
+                <target>Kliknite na fotografiju.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>You can drag the selection to a different part of the photo.</source>
+                <target>Selektovani deo (crop isečak) možete pomerati po drugim delovima fotografije.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>If the selected area is smaller than 975x300 px, your image will be centered on the cover photo template surrounded by a black background.</source>
+                <target>Ukoliko je selektovani deo manji od 975x300px, Vaša fotografija će biti postavljena u centralnom delu naslovne fotografije okružena crnom pozadinom.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>set as profile photo</source>
+                <target>postavi kao sliku profila</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Add new classification</source>
+                <target>Dodaj novu delatnost</target>
+            </trans-unit>
+            <trans-unit>
+                <source>This place was successfully added to the list!</source>
+                <target>Mesto je uspešno dodato na listu!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Thank you for  reporting!</source>
+                <target>Hvala što ste prijavili zloupotrebu!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>More address info</source>
+                <target>Više informacija o adresi</target>
+            </trans-unit>
+            <trans-unit>
+                <source>You can add up to 5 classifications!</source>
+                <target>Možeš  dodati do  5 delatnosti!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>You can add up to 3 telephone numbers!</source>
+                <target>Možeš dodati do 3 telefona!</target>
+            </trans-unit>
+            <trans-unit>
+                <source><![CDATA[<span class="regular">Start typing the </span><span class="highlight">place address</span> <span class="regular"> and a marker will be placed on the map.</span>]]></source>
+                <target><![CDATA[<span class="regular">Počni da unosiš  </span><span class="highlight">adresu</span> <span class="regular"> marker će biti postavljen na mapi.</span>]]></target>
+            </trans-unit>
+            <trans-unit>
+                <source><![CDATA[<span class="regular">If you do not know the address, just</span><span class="highlight"> drag the marker</span><span class="regular"> to where you know the place is and</span><span class="highlight"> we will get the address</span><span class="regular"> details.</span>]]></source>
+                <target><![CDATA[<span class="regular">Ukoliko ne znaš tačnu adresu  a znaš ge se firma/mesto nalazi na mapi, </span><span class="highlight"> pomeri marker </span><span class="regular"> na tu lokaciju, </span><span class="highlight"> a mi ćemo  obezbediti detalje adrese.</span>]]></target>
+            </trans-unit>
+            <trans-unit>
+                <source><![CDATA[<span class="regular">You positioned the marker</span><span class="highlight"> to where the place is. If the details we filled in based on the location are not correct</span><span class="regular"> you can change the address in the form.</span>]]></source>
+                <target><![CDATA[<span class="regular">Marker je postavljen </span><span class="highlight"> na poziciju gde se firma  /mesto nalazi. Ukoliko podaci koje smo mi  uneli nisu tačni,</span><span class="regular"> možeš uneti novu adresu.</span>]]></target>
+            </trans-unit>
+            <trans-unit>
+                <source><![CDATA[<span class="highlight">If the marker is not in the right location</span><span class="regular"> on the map you can move it. We</span><span class="highlight"> will not change the address details</span><span class="regular"> in the form.</span>]]></source>
+                <target><![CDATA[Ukoliko<span class="highlight"> marker na mapi nije na dobroj poziciji</span><span class="regular"> možeš ga pomerati. Mi </span><span class="highlight"> nećemo promeniti unete podatke o adresi</span><span class="regular"> firme/mesta.</span>]]></target>
+            </trans-unit>
+            <trans-unit>
+                <source>There is missing info and/or errors. Please check again!</source>
+                <target>Informacije su nepotpune ili pogrešne. Molimo, pokušaj ponovo!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>%s Yellow Pages profile</source>
+                <target>%s Yellow Pages profil</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Number of outdoor seats:</source>
+                <target>Broj sedišta na otvorenom:</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Number of indoor seats:</source>
+                <target>Broj sedišta u zatvorenom:</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Choose features</source>
+                <target>Izaberi opcije</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Clear</source>
+                <target>Obriši</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Free</source>
+                <target>Besplatno</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Paid</source>
+                <target>Plaćeno</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Menu</source>
+                <target>Meni</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Prices</source>
+                <target>Cene</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Catalogue</source>
+                <target>Katalog</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Products</source>
+                <target>Proizvodi</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Services</source>
+                <target>Servisi</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Official page</source>
+                <target>Zvanična stranica</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Added Places</source>
+                <target>Dodato mesta</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Reservation</source>
+                <target>Rezervacija</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Send</source>
+                <target>Послати</target>
+            </trans-unit>
+            <trans-unit>
+                <source>John Doe</source>
+                <target>Petar Petrović</target>
+            </trans-unit>
+            <trans-unit>
+                <source>This place was added by</source>
+                <target>Ovo mesto je dodao korisnik</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Suggest an Edit</source>
+                <target>Predloži izmenu</target>
+            </trans-unit>
+
+            <trans-unit>
+                <source>Address and location</source>
+                <target>ADRESA I LOKACIJA</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Are you the owner?</source>
+                <target>DA LI OVO VAŠA FIRMA/MESTO?</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Social networks</source>
+                <target>DRUŠTVENE MREŽE</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Thank you</source>
+                <target>HVALA</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Add more places</source>
+                <target>DODAJ JOŠ MESTA/FIRMI</target>
+            </trans-unit>
+            <trans-unit>
+                <source>See place profile</source>
+                <target>POGLEDAJ PROFIL</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Be the first one to add a photo, write a review or create an event for </source>
+                <target>Dodaj fotografiju, napiši preporuku ili objavi događaj za </target>
+            </trans-unit>
+            <trans-unit>
+                <source>You can now find </source>
+                <target>SADA MOŽEČ PRONAĆI </target>
+            </trans-unit>
+            <trans-unit>
+                <source> in Getlokal!</source>
+                <target> NA GETLOKAL</target>
+            </trans-unit>
+            <trans-unit>
+                <source>e.g. Paris or London</source>
+                <target>npr. Paris ili London</target>
+            </trans-unit>
+            <trans-unit>
+                <source>e.g. Any Road</source>
+                <target>npr. Balsha </target>
+            </trans-unit>
+            <trans-unit>
+                <source>Name in your local language</source>
+                <target>Navedi jezik koji se koristi u tvom mestu</target>
+            </trans-unit>
+            <trans-unit>
+                <source>If you like Getlokal and want it in your country - let us know! Want to be part of a growing team of people passionate about all things local?</source>
+                <target>Ako ti se sviđa Getlokal i želiš ga u svojoj zemlji obavesti nas! Želiš da budeš deo tima ljudi strastvenih za lokalnim mestima?</target>
+            </trans-unit>
+
+            <!-- NEW DESIGN -->
+
+            <trans-unit>
+                <source>Claim it</source>
+                <target>Preuzmi</target>
+            </trans-unit>
+
+            <trans-unit>
+                <source>Information</source>
+                <target>Informacije</target>
+            </trans-unit>
+
+
+            <trans-unit>
+                <source>Write a Review</source>
+                <target>Napiši preporuku</target>
+            </trans-unit>
+
+            <trans-unit>
+                <source>Add to List</source>
+                <target>Dodaj na listu</target>
+            </trans-unit>
+
+            <trans-unit>
+                <source>Powerful tools to get your Business on the Getlokal map!</source>
+                <target>Moćne alatke za postavljanje tvoje firme na Getlokal mapu!</target>
+            </trans-unit>
+            
+            <!-- <trans-unit>
+                <source>Learn more</source>
+                <target>Научи повече</target>
+            </trans-unit> -->
+
+
+            <trans-unit>
+                <source>SHARE</source>
+                <target>Šeruj</target>
+            </trans-unit>
+
+
+            <trans-unit>
+                <source>Activity in Getlokal</source>
+                <target>Aktivnosti na Getlokal</target>
+            </trans-unit>
+
+            <trans-unit>
+                <source>SIMILAR PLACES</source>
+                <target>SLIČNA MESTA</target>
+            </trans-unit>
+            <trans-unit>
+                <source>SHOW MORE</source>
+                <target>Prikaži još</target>
+            </trans-unit>
+
+             <trans-unit>
+                <source>SHOW LESS</source>
+                <target>Prikaži manje</target>
+            </trans-unit>
+
+            <trans-unit>
+                <source>Rate</source>
+                <target>Oceni</target>
+            </trans-unit>
+            
+            <trans-unit>
+                <source>REVIEWS FOR SIMILAR PLACES</source>
+                <target>PREPORUKE ZA SLIČNA MESTA</target>
+            </trans-unit>
+
+            <trans-unit>
+                <source>Take control of your online reputation and talk to your customers</source>
+                <target>Preuzmi kontrolu nad svojom online reputacijom i komuniciraj sa klijentima</target>
+            </trans-unit>
+
+
+            <trans-unit>
+                <source>Region and Language</source>
+                <target>Region i jezik</target>
+            </trans-unit>
+
+            <trans-unit>
+                <source>SOCIAL</source>
+                <target>SOCIAL</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Learn more</source>
+                <target>Saznaj više</target>
+            </trans-unit>
+
+            <trans-unit>
+                <source>Add Classification</source>
+                <target>Dodaj delatnost</target>
+            </trans-unit>
+
+            <trans-unit>
+                <source>Click to add a new place</source>
+                <target>Klikni da dodaš novo mesto</target>
+            </trans-unit>
+
+            <trans-unit>
+                <source>Click to search in area</source>
+                <target>Klikni da pretražiš okolinu</target>
+            </trans-unit>
+
+            <trans-unit>
+                <source>Location details</source>
+                <target>Detalji lokacije</target>
+            </trans-unit>
+
+
+
+            <trans-unit>
+                <source><![CDATA[[0]<span>0</span> lists|[1]<span>1</span> list|(1,+Inf]<span>%count%</span> lists]]></source>
+                <target><![CDATA[[0]<span>0</span> liste|[1]<span>1</span> lista|(1,+Inf]<span>%count%</span> liste]]></target>
+            </trans-unit>
+
+            <trans-unit>
+                <source><![CDATA[[0]<span>0</span> reviews|[1]<span>1</span> review|(1,+Inf]<span>%count%</span> reviews]]></source>
+                <target><![CDATA[[0]<span>0</span> Preporuke|[1]<span>1</span> Preporuka|(1,+Inf]<span>%count%</span> Preporuke]]></target>
+            </trans-unit>
+
+
+            <trans-unit>
+                <source><![CDATA[[0]<span>0</span> articles|[1]<span>1</span> article|(1,+Inf]<span>%count%</span> articles]]></source>
+                <target><![CDATA[[0]<span>0</span> Članci|[1]<span>1</span> Članak|(1,+Inf]<span>%count%</span> Članci]]></target>
+            </trans-unit>
+
+            <trans-unit>
+                <source><![CDATA[[0]<span>0</span> events|[1]<span>1</span> event|(1,+Inf]<span>%count%</span> events]]></source>
+                <target><![CDATA[[0]<span>0</span> Događaji|[1]<span>1</span> Događaj|(1,+Inf]<span>%count%</span> Događaji]]></target>
+            </trans-unit>
+
+            <trans-unit>
+                <source>Is this place easy to find? Add directions if necessary.</source>
+                <target>Da li je lako pronaći ovu firmu/mesto? Dodaj uputstvo ukoliko je potrebno.</target>
+            </trans-unit>
+
+            <trans-unit>
+                <source>I would like to receive Getlokal's Business Newsletter and Notifications.</source>
+                <target>Želim da primam getlokal poslovne vesti i obaveštenja.</target>
+            </trans-unit>
+
+        </body>
+    </file>
+</xliff>

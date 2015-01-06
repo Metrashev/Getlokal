@@ -1,0 +1,17 @@
+newSuccess:
+  javascripts: [tiny_mce/jquery.tinymce.js,tiny_mce/tiny_mce.js, offers.all.js, Jcrop.js]
+  stylesheets: [/css/ui-lightness/jquery-ui-1.8.16.custom.css, jcrop.css]
+
+editSuccess:
+  javascripts: [tiny_mce/jquery.tinymce.js,tiny_mce/tiny_mce.js, offers.all.js, Jcrop.js]
+  stylesheets: [/css/ui-lightness/jquery-ui-1.8.16.custom.css, jcrop.css]
+
+voucherSuccess:
+  stylesheets: [print.css: { media: print }]
+
+indexSuccess:
+  javascripts: [jquery.1.11.js, jquery-ui.js, map.js, offers.all.js, jquery.shuffle.min.js, offers.sorting.js,  header.footer.js]
+  stylesheets: [offers.css, select-menu/select2-green.css]
+
+showSuccess:
+  stylesheets: [ui-lightness/jquery-ui-1.8.16.custom.css]

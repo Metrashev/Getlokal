@@ -1,0 +1,234 @@
+<?xml version="1.0" ?>
+<xliff version="1.0">
+    <file orginal="global" source-language="en_EN" datatype="plaintext">
+        <body>
+            <trans-unit>
+                <source>We were unable to send you a new password.</source> 
+                <target>Не можевме да Ви испратиме лозинка.</target> 
+            </trans-unit>
+            <trans-unit>
+                <source>There is no registered profile with this email address</source> 
+                <target>Нема регистриран профил со оваа е-поштенска адреса</target> 
+            </trans-unit>
+            <trans-unit>
+                <source>Unable to find user to activate</source> 
+                <target>Не може да се најде корисник за да се активира</target> 
+            </trans-unit>
+            <trans-unit>
+                <source>Related account has already been activated</source> 
+                <target>Сличен профил веќе е активиран</target> 
+            </trans-unit>
+            <trans-unit>
+                <source>An error ocurred while trying to activate your account.</source> 
+                <target>Се случи грешка при активирање на Вашиот профил. Процесот заврши неуспешно.</target> 
+            </trans-unit>
+            <trans-unit>
+                <source>Day, month and year are mandatory fields</source> 
+                <target>Ден, месец и година се задолжителни полиња</target> 
+            </trans-unit>
+            <trans-unit>
+                <source>Username "%value%" cannot be used</source> 
+                <target>Корисничкото име "%value%" не може да се искористи</target> 
+            </trans-unit>
+            <trans-unit>
+                <source>The username "%value%" contains characters that are not allowed</source> 
+                <target>Корисничкото име "%value%" содржи забранети симболи</target> 
+            </trans-unit>
+            <trans-unit>
+                <source>Username must contain at least %min_length% characters</source> 
+                <target>Корисничкото име мора да содржи најмалку %min_length% симболи</target> 
+            </trans-unit>
+            <trans-unit>
+                <source>Username cannot contain more than %max_length% characters.</source> 
+                <target>Корисничкото име не може да содржи повеќе од %max_length% симболи</target> 
+            </trans-unit>
+            <trans-unit>
+                <source>Invalid email – your email is not in the correct format</source> 
+                <target>Погрешна е-поштенска адреса – Вашата е-поштенска адреса е во погрешна форма</target> 
+            </trans-unit>
+            <trans-unit>
+                <source>"%value%" is too short. The username should be at least 3 characters.</source> 
+                <target>"%value%" е прекратко. Корисничкото име треба да има најмалку 3 симболи.</target> 
+            </trans-unit>
+            <trans-unit>
+                <source>Your password should be at least %min_length% characters long</source> 
+                <target>Вашата лозинка треба да содржи најмалку %min_length% симболи</target> 
+            </trans-unit>
+            <trans-unit>
+                <source>Your password cannot contain more than %max_length% characters</source> 
+                <target>Вашата лозинка не може да содржи повеќе од %max_length% симболи</target> 
+            </trans-unit>
+            <trans-unit>
+                <source>The passwords do not match</source> 
+                <target>Лозинките не се совпаѓаат</target> 
+            </trans-unit>
+            <trans-unit>
+                <source>This email address has already been registered by another user</source> 
+                <target>Оваа е-поштенска адреса е веќе регистрирана од друг корисник</target> 
+            </trans-unit>
+            <trans-unit>
+                <source>This field is mandatory. Please start typing the name of your home location and select from the list.</source> 
+                <target>Ова поле е задолжително. Ве молиме почнете да го пишувате име од Вашата локација и одберете од листата.</target> 
+            </trans-unit>
+            <trans-unit>
+                <source>You have entered the text incorrectly. Please try again.</source> 
+                <target>Погрешно го внесовте текстот. Ве молиме обидете се повторно.</target> 
+            </trans-unit>
+            <trans-unit>
+                <source>Email is required</source> 
+                <target>E-mail е задолжителен</target> 
+            </trans-unit>
+            <trans-unit>
+                <source>You must select a file to upload</source> 
+                <target>Мора да изберете фајл за прикачување</target> 
+            </trans-unit>
+            <trans-unit>
+                <source>The file you submitted is not in a valid format. Please upload a JPG, GIF or PNG image file.</source> 
+                <target>Фајлот кој го доставивте е во погрешен формат. Ве молиме прикачете JPG, GIF или PNG слика.</target> 
+            </trans-unit>
+            <trans-unit>
+                <source>The file you submitted is not in a valid format. Please upload a JPG, GIF or PNG image file.</source> 
+                <target>Фајлот кој го доставивте е во погрешен формат. Ве молиме прикачете JPG, GIF или PNG слика.</target> 
+            </trans-unit>
+            <trans-unit>
+                <source>File size limit is 4MB.Please reduce file size before submitting again.</source> 
+                <target>Лимитот за големина на фајлот е 4MB. Ве молиме намалете ја големината на фајлот пред да го поднесете повторно.</target> 
+            </trans-unit>
+            <trans-unit>
+                <source>File size limit is 2MB.Please reduce file size.</source> 
+                <target>Лимитот за големина на фајлот е 2MB. Ве молиме намалете ја големината на фајлот.</target> 
+            </trans-unit>
+            <trans-unit>
+                <source>The review cannot contain more than %max_length% characters. Shorten your review.</source> 
+                <target>Препораката не може да содржи повеќе од %max_length% симболи. Скратете ја Вашата препорака.</target> 
+            </trans-unit>
+            <trans-unit>
+                <source>The review must contain at least %min_length% characters</source> 
+                <target>Препораката мора да содржи најмалку %min_length% симболи</target> 
+            </trans-unit>
+            <trans-unit>
+                <source>The answer must contain at least %min_length% characters</source> 
+                <target>Одговорот мора да содржи најмалку %min_length% симболи</target> 
+            </trans-unit>
+            <trans-unit>
+                <source>The review cannot contain more than %max_length% characters</source> 
+                <target>Препораката не може да содржи повеќе од %max_length% симболи</target> 
+            </trans-unit>
+            <trans-unit>
+                <source>Type Review</source> 
+                <target>Напишете препорака</target> 
+            </trans-unit>
+            <trans-unit>
+                <source>The field is mandatory</source> 
+                <target>Полето е задолжително</target> 
+            </trans-unit>
+            <trans-unit>
+                <source>Select Your Position</source> 
+                <target>Одберете ја Вашата позиција</target> 
+            </trans-unit>
+            <trans-unit>
+                <source>Invalid Phone Number</source> 
+                <target>Погрешен телефонски број</target> 
+            </trans-unit>
+            <trans-unit>
+                <source>This field cannot contain more than %max_length% characters</source> 
+                <target>Ова поле не може да содржи повеќе од %max_length% симболи</target> 
+            </trans-unit>
+            <trans-unit>
+                <source>Select company type</source> 
+                <target>Изберете тип на фирмата</target> 
+            </trans-unit>
+            <trans-unit>
+                <source>The field cannot contain more than %max_length% characters</source> 
+                <target>Полето не може да содржи повеќе %max_length% симболи</target> 
+            </trans-unit>
+            <trans-unit>
+                <source>The field must contain at least %min_length% characters</source> 
+                <target>Полето мора содржи најмалку %min_length% симболи</target> 
+            </trans-unit>
+            <trans-unit>
+                <source>Invalid format. E.g. http://www.getlokal.com</source> 
+                <target>Погрешен формат. На пример: http://www.getlokal.com</target> 
+            </trans-unit>
+            <trans-unit>
+                <source>Invalid format. E.g. http://blog.getlokal.com</source> 
+                <target>Погрешен формат. На пример: http://blog.getlokal.com</target> 
+            </trans-unit>
+            <trans-unit>
+                <source>Invalid format. E.g. http://twitter.com/@getlokal</source> 
+                <target>Погрешен формат. На пример: http://twitter.com/@getlokal</target> 
+            </trans-unit>
+            <trans-unit>
+                <source>Invalid format. E.g. http://www.facebook.com/#!/getlokal</source> 
+                <target>Погрешен формат. На пример: http://www.facebook.com/#!/getlokal</target> 
+            </trans-unit>
+            <trans-unit>
+                <source>Select Your Position</source> 
+                <target>Изберете ја Вашата позиција</target> 
+            </trans-unit>
+            <trans-unit>
+                <source>The new password was sent successfully to the email you provided.</source> 
+                <target>Новата лозинка не беше успешно испратена на е-поштенската адреса што ја внесовте</target> 
+            </trans-unit>
+            <trans-unit>
+                <source>Invalid format. E.g. http://www.facebook.com/getlokal</source> 
+                <target>Погрешен формат. На пример: http://www.facebook.com/getlokal</target> 
+            </trans-unit>
+            <trans-unit>
+                <source>Type an Answer</source>
+                <target>Внесете одговор</target>
+            </trans-unit>
+
+            <trans-unit>
+                <source>The maximum number of vouchers issued per user cannot exceed the total number of vouchers for the offer</source> 
+                <target>Максималниот број на издадени ваучери по корисник не смее да биде поголем од целокупниот број на ваучери за понудата</target> 
+            </trans-unit>
+            <trans-unit>
+                <source>The offer end date cannot be earlier than the start date</source> 
+                <target>Крајниот датум на понудата не смее да биде порано од почетниот датум</target> 
+            </trans-unit>
+            <trans-unit>
+                <source>The voucher valid to date cannot be earlier than the offer end date</source> 
+                <target>Валидноста на ваучерот не смее да биде порано од крајниот датум на понудата</target> 
+            </trans-unit>
+            <trans-unit>
+                <source>Description must contain at least %min_length% characters</source> 
+                <target>Описот мора да содржи најмалку %min_length% симболи</target> 
+            </trans-unit>
+            <trans-unit>
+                <source>The description cannot contain more than %max_length% characters.</source> 
+                <target>Описот не смее да содржи повеќе од %max_length% симболи</target> 
+            </trans-unit>
+            <trans-unit>
+                <source>Description "%value%" contains forbidden words</source> 
+                <target>Описот "%value%" содржи забранети зборови</target> 
+            </trans-unit>
+            <trans-unit>
+                <source>The video title cannot contain more than %max_length% characters.</source> 
+                <target>Насловот на видеото не може да содржи повеќе од %max_length% симболи</target> 
+            </trans-unit>
+            <trans-unit>
+                <source>The email message was not sent successfully.</source> 
+                <target>E-mail-от не е испратен.</target> 
+            </trans-unit>
+            <trans-unit>
+                <source>An error ocurred while processing your request. Please try again later.</source> 
+                <target>Се случи грешка додека се процесираше Вашето барање. Ве молиме обидете се повторно</target> 
+            </trans-unit>
+            <trans-unit>
+                <source>This username has already been registered by another user</source> 
+                <target>Ова корисничко име е веќе регистрирано од друг корисник.</target> 
+            </trans-unit>
+            <trans-unit>
+                <source>Abuse type is required.</source> 
+                <target>Полето за тип на злоупотреба е задолжително.</target> 
+            </trans-unit>
+  
+            <trans-unit>
+                <source>This field is mandatory. Please select your country name from the list.</source>
+                <target>Ова поле е задолжително. Избери ја твојата држава од листата.</target>
+            </trans-unit>      
+
+        </body>
+    </file>
+</xliff>

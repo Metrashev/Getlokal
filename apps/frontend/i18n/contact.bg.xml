@@ -1,0 +1,201 @@
+<?xml version="1.0" ?>
+<xliff version="1.0">
+    <file orginal="global" source-language="en_EN" datatype="plaintext">
+        <body>
+            <trans-unit>
+                <source>Contacts</source>
+                <target>Контакти</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Address:</source>
+                <target>Адрес:</target>
+            </trans-unit>
+            <trans-unit>
+                <source>1 Balsha Street</source>
+                <target>ул. Балша 1</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Sofia 1408</source>
+                <target>София 1408</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Map:</source>
+                <target>Карта:</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Telephone Numbers:</source>
+                <target>Телефони:</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Telephone:</source>
+                <target>Телефон:</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Company Listing Enquiries:</source>
+                <target>За вписване на фирма:</target>
+            </trans-unit>
+            <trans-unit>
+                <source>General Enquiries:</source>
+                <target>Общи запитвания:</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Fax:</source>
+                <target>Факс:</target>
+            </trans-unit>
+            <trans-unit>
+                <source>If you want to send us an email, please fill the form bellow:</source>
+                <target>Ако искате да ни изпратите имейл, моля попълнете този формуляр:</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Your e-mail:</source>
+                <target>Вашият е-mail:</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Your name:</source>
+                <target>Вашето име:</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Your phone:</source>
+                <target>Вашият телефон:</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Your message:</source>
+                <target>Вашето съобщение:</target>
+            </trans-unit>
+            <trans-unit>
+                <source>en</source>
+                <target>bg</target>
+            </trans-unit>
+            <trans-unit>
+                <source>E-mail is required.</source>
+                <target>Моля попълнете вашия имейл.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Your name is required.</source>
+                <target>Моля попълнете вашето име.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>This field is required. Please type your message.</source>
+                <target>Моля попълнете полето за съобщение.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>If you don't want to receive getlokal' %s please fill in the required information.</source>
+                <target>Ако не желаеш да получаваш %s на getlokal попълни необходимата инфомация.</target>
+            </trans-unit>
+            <!-- NEW -->
+            <trans-unit>
+                <source>Your message was sent successfully.</source>
+                <target>Съобщението беше изпратено успешно.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Report content as</source>
+                <target>Тип нередност:</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Company Name:</source>
+                <target>Име на фирмата:</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Company Address:</source>
+                <target>Адрес на фирмата:</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Company Phone:</source>
+                <target>Телефон на фирмата:</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Business type:</source>
+                <target>Вид дейност:</target>
+            </trans-unit>
+            <trans-unit>
+                <source>e.g. Hairdressers or Italian restaurant etc.</source>
+                <target>напр. Фризьорски салон или Италиански ресторант и т.н.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>In order to publish accurate data we would like to receive as much detail about the address as possible. The city/town name is mandatory.</source>
+                <target>За да може да публикуваме коректни данни е добре да получим максимално точна информация за адреса. Името на населеното място е задължително.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Company Website address:</source>
+                <target>Уебсайт на фирмата:</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Company Email address:</source>
+                <target>Имейл на фирмата:</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Contact person in the company:</source>
+                <target>Лице за контакт във фирмата:</target>
+            </trans-unit>
+            <trans-unit>
+                <source>If you haven’t found the company or place you were looking for, please fill in the information below and send it to us so we can include it in getlokal.com. If you are the owner or representative of a business and haven’t been able to find it on our site, please</source>
+                <target>Ако не сте намерили фирмата или мястото, което търсите, моля попълнете информацията долу и ни изпратете, за да я включим в getlokal.com. Ако сте собственик или представител на фирма и не намирате информация за вашата фирма, моля</target>
+            </trans-unit>
+            <trans-unit>
+                <source>register a business account</source>
+                <target>регистрирайте фирмен профил</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Choose... </source>
+                <target>Изберете... </target>
+            </trans-unit>
+            <trans-unit>
+                <source>Select...</source>
+                <target>Избери...</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Illegal</source>
+                <target>Незаконно</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Offensive</source>
+                <target>Обидно</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Copyright</source>
+                <target>Авторски права</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Incorrect</source>
+                <target>Невярно</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Other</source>
+                <target>Друго</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Facebook Page:</source>
+                <target>Facebook Страница:</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Twitter Page:</source>
+                <target>Twitter Страница:</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Terms of Use</source>
+                <target>Условия за ползване</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Legal Info</source>
+                <target>Правила за ползване</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Legal</source>
+                <target>Правила</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Privacy Policy</source>
+                <target>Правилата за използване</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Rules of games</source>
+                <target>Правила на промоциите</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Change city</source>
+                <target>Смени града</target>
+            </trans-unit>
+
+        </body>
+    </file>
+</xliff>

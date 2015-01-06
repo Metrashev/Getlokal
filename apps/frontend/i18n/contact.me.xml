@@ -1,0 +1,188 @@
+<?xml version="1.0" ?>
+<xliff version="1.0">
+    <file orginal="global" source-language="en_EN" datatype="plaintext">
+        <body>
+            <trans-unit>
+                <source>Contacts</source>
+                <target>Kontakti</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Address:</source>
+                <target>Adresa:</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Map:</source>
+                <target>Mapa:</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Telephone Numbers:</source>
+                <target>Telefon:</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Company Listing Enquiries:</source>
+                <target>Upit za listing firme:</target>
+            </trans-unit>
+            <trans-unit>
+                <source>General Enquiries:</source>
+                <target>Osnovni upit:</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Fax:</source>
+                <target>Faks:</target>
+            </trans-unit>
+            <trans-unit>
+                <source>If you want to send us an email, please fill the form bellow:</source>
+                <target>Ukoliko želite da nam pošaljete email popunite formular ispod:</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Your e-mail:</source>
+                <target>Vaš е-mail:</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Your name:</source>
+                <target>Vaše ime:</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Your phone:</source>
+                <target>Vaš broj telefona:</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Your message:</source>
+                <target>Vaša poruka:</target>
+            </trans-unit>
+            <trans-unit>
+                <source>en</source>
+                <target>sr</target>
+            </trans-unit>
+            <trans-unit>
+                <source>E-mail is required.</source>
+                <target>Email adresa je obavezna.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Your name is required.</source>
+                <target>Vaše ime je obavezno.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>This field is required. Please type your message.</source>
+                <target>Ovo polje je obavezno. Molimo unesite svoju poruku.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>If you don't want to receive getlokal' %s please fill in the required information.</source>
+                <target>Ako ne želite da primate getlokal %s molimo unesite tražene informacije.</target>
+            </trans-unit>
+            <!-- NEW -->
+            <trans-unit>
+                <source>Your message was sent successfully.</source>
+                <target>Vaša poruka je uspješno poslata..</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Report content as</source>
+                <target>Prijavite sadržaj:</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Company Name:</source>
+                <target>Naziv firme:</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Company Address:</source>
+                <target>Adresa firme:</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Company Phone:</source>
+                <target>Broj telefona firme:</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Business type:</source>
+                <target>Tip firme:</target>
+            </trans-unit>
+            <trans-unit>
+                <source>e.g. Hairdressers or Italian restaurant etc.</source>
+                <target>npr. Frizer ili Italijanski restoran</target>
+            </trans-unit>
+            <trans-unit>
+                <source>In order to publish accurate data we would like to receive as much detail about the address as possible. The city/town name is mandatory.</source>
+                <target>Kako bismo objavili što tačnije podatke, potrebno je da unesete što preciznije informacije o lokaciji. Naziv grada je obavezan.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Company Website address:</source>
+                <target>Veb adresa firme:</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Company Email address:</source>
+                <target>Email adresa firme:</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Contact person in the company:</source>
+                <target>Kontakt osoba u firmi:</target>
+            </trans-unit>
+            <trans-unit>
+                <source>If you haven’t found the company or place you were looking for, please fill in the information below and send it to us so we can include it in getlokal.com. If you are the owner or representative of a business and haven’t been able to find it on our site, please</source>
+                <target>Ukoliko niste pronašli firmu koju tražite unesite podatke ispod i mi ćemo je uključiti u getlokal.me. Ukoliko ste vi vlasnik ili predstavnik firme i ne možete je pronaći na našem sajtu molimo</target>
+            </trans-unit>
+            <trans-unit>
+                <source>register a business account</source>
+                <target>registrujte poslovni nalog</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Choose... </source>
+                <target>Izaberi... </target>
+            </trans-unit>
+            <trans-unit>
+                <source>Select...</source>
+                <target>Izaberi...</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Illegal</source>
+                <target>Nezakonito</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Offensive</source>
+                <target>Uvredljivo</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Copyright</source>
+                <target>Autorska prava</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Incorrect</source>
+                <target>Netačno</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Other</source>
+                <target>Ostalo</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Facebook Page:</source>
+                <target>Facebook stranica:</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Twitter Page:</source>
+                <target>Twitter stranica:</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Terms of Use</source>
+                <target>Uslovi korišćenja</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Legal</source>
+                <target>Pravne informacije</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Legal Info</source>
+                <target>Pravne informacije</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Privacy Policy</source>
+                <target>Polisa privatnosti</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Telephone:</source>
+                <target>Telefon:</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Change city</source>
+                <target>Promijeni grad</target>
+            </trans-unit>  
+        </body>
+    </file>
+</xliff>

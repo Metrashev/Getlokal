@@ -1,0 +1,200 @@
+<?xml version="1.0" ?>
+<xliff version="1.0">
+    <file orginal="global" source-language="en_EN" datatype="plaintext">
+        <body>
+            <trans-unit>
+                <source>Contacts</source>
+                <target>Контакты</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Address:</source>
+                <target>Адрес:</target>
+            </trans-unit>
+            <trans-unit>
+                <source>1 Balsha Street</source>
+                <target>ул. Балша, 1</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Sofia 1408</source>
+                <target>София 1408</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Map:</source>
+                <target>Карта:</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Telephone Numbers:</source>
+                <target>Телефоны:</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Telephone:</source>
+                <target>Телефон:</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Company Listing Enquiries:</source>
+                <target>Анкета для регистрации компании:</target>
+            </trans-unit>
+            <trans-unit>
+                <source>General Enquiries:</source>
+                <target>Общие вопросы:</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Fax:</source>
+                <target>Факс:</target>
+            </trans-unit>
+            <trans-unit>
+                <source>If you want to send us an email, please fill the form bellow:</source>
+                <target>Если вы хотите отправить нам имейл, заполните следующий бланк:</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Your e-mail:</source>
+                <target>Ваша э-почта:</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Your name:</source>
+                <target>Ваше имя:</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Your phone:</source>
+                <target>Ваш телефон:</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Your message:</source>
+                <target>Ваше сообщение:</target>
+            </trans-unit>
+            <trans-unit>
+                <source>en</source>
+                <target>ан</target>
+            </trans-unit>
+            <trans-unit>
+                <source>E-mail is required.</source>
+                <target>Требуется ваш имейл.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Your name is required.</source>
+                <target>Требуется ваше имя.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>This field is required. Please type your message.</source>
+                <target>Данное поле необходимо. Напишите, пожалуйста свое сообщение.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>If you don't want to receive getlokal' %s please fill in the required information.</source>
+                <target>Если вы не желаете получать %s на getlokal, заполните, пожалуйста, необходимую информацию.</target>
+            </trans-unit>
+            <!-- NEW -->
+            <trans-unit>
+                <source>Your message was sent successfully.</source>
+                <target>Ваше сообщение было успешно отослано.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Report content as</source>
+                <target>Содержание отчета:</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Company Name:</source>
+                <target>Название компании:</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Company Address:</source>
+                <target>Адрес компании:</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Company Phone:</source>
+                <target>Телефон компании:</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Business type:</source>
+                <target>Вид деятельности:</target>
+            </trans-unit>
+            <trans-unit>
+                <source>e.g. Hairdressers or Italian restaurant etc.</source>
+                <target>напр. Парикмахерская или Итальянский ресторан, и т.д. </target>
+            </trans-unit>
+            <trans-unit>
+                <source>In order to publish accurate data we would like to receive as much detail about the address as possible. The city/town name is mandatory.</source>
+                <target>Для обеспечения публикации корректной информации, желательно получить максимально точную информацию об адресе. Указание названия города/населенного пункта является обязательным.</target>
+            </trans-unit>
+            <trans-unit>
+                <source> Company Website address:</source>
+                <target>Адрес вебсайта компании:</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Company Email address:</source>
+                <target>E-мейл адрес компании:</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Contact person in the company:</source>
+                <target>Контактное лицо в компании:</target>
+            </trans-unit>
+            <trans-unit>
+                <source>If you haven’t found the company or place you were looking for, please fill in the information below and send it to us so we can include it in getlokal.com. If you are the owner or representative of a business and haven’t been able to find it on our site, please</source>
+                <target>Если вы не нашли компанию или место, которое вы искали, заполните, пожалуйста, информацию ниже по тексту и отправьте ее нам, чтобы мы могли включить ее в getlokal.com. Если вы являетесь владельцем или представителем компании и не смогли найти ее на нашем сайте, пожалуйста </target>
+            </trans-unit>
+            <trans-unit>
+                <source>register a business account</source>
+                <target>зарегистрировать аккаунт компании </target>
+            </trans-unit>
+            <trans-unit>
+                <source>Choose... </source>
+                <target>Выбрать... </target>
+            </trans-unit>
+            <trans-unit>
+                <source>Select...</source>
+                <target>Выделить...</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Illegal</source>
+                <target>Незаконно</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Offensive</source>
+                <target>Оскорбительно</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Copyright</source>
+                <target>Авторские права</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Incorrect</source>
+                <target>Неверно</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Other</source>
+                <target>Другое</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Facebook Page:</source>
+                <target> Страница Facebook:</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Twitter Page:</source>
+                <target> Страница Twitter:</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Terms of Use</source>
+                <target>Условия пользования</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Legal Info</source>
+                <target>Правовая информация</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Legal</source>
+                <target>Правовой</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Privacy Policy</source>
+                <target>Политика конфиденциальности</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Rules of games</source>
+                <target>Правила игры</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Change city</source>
+                <target>Изменить город</target>
+            </trans-unit>
+        </body>
+    </file>
+</xliff>

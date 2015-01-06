@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<xliff version="1.0">
+    <file orginal="global" source-language="en_EN" datatype="plaintext">
+        <body>
+            <trans-unit>
+                <source>Your Claim request for %s, %s is currently pending.</source>
+                <target>Cererea ta de revendicare pentru %s, %s e în așteptare.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>After its approval by getlokal, you will be able to upload photos, working hours, description of %s, as well as to respond to user reviews.</source>
+                <target>După ce o aprobăm, vei putea să urci fotografii, să adaugi orele de lucru, o descriere a locului și vei putea să răspunzi oficial opiniilor scrise de useri.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>If you have any questions, feel free to %s.</source>
+                <target>Dacă ai întrebări, %s și îți vom răspunde cât de repede putem!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>contact us</source>
+                <target>scrie-ne</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Your Place Claim for %s, %s  has already been rejected and you have been notified by email.</source>
+                <target>Ți-am trimis o notificare pe mail – revendicarea ta pentru %s, %s a fost respinsă</target>
+            </trans-unit>
+        </body>
+    </file>
+</xliff>

@@ -1,0 +1,5 @@
+default:
+  is_secure: true
+  credentials: [[static_page_bg, static_page_ro, static_page_sr, static_page_mk, static_page_fi]]
+logout:
+    is_secure: false

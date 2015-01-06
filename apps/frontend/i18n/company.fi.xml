@@ -1,0 +1,1227 @@
+<?xml version="1.0" ?>
+<xliff version="1.0">
+    <file orginal="global" source-language="en_EN" datatype="plaintext">
+        <body>
+            <trans-unit>
+                <source>Create Business Account</source>
+                <target>Luo Yritystili</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Position</source>
+                <target>Paikka</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Phone</source>
+                <target>Puhelin</target>
+            </trans-unit>
+            <trans-unit>
+                <source>I declare that I am an authorized representative of the business.</source>
+                <target>Vakuutan olevani tämän yrityksen virallinen edustaja</target>
+            </trans-unit>
+            <trans-unit>
+                <source>I declare that this is the valid Bulstat of the business.</source>
+                <target>Vakuutan, että tämä on liikeyrityksen voimassaoleva Y-tunnus.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Declare that this is the valid Bulstat of the business.</source>
+                <target>Vakuutan, että tämä on liikeyrityksen voimassaoleva Y-tunnus.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The Bulstat you entered doesn't match your company data. Please check again and tick the box next to "I declare that this is the valid Bulstat of the business."</source>
+                <target>Y-tunnus, jonka annoit ei vastaa yrityksen tietoja. Ole hyvä ja tarkista uudelleen ja rastita ruutu "Vakuutan, että tämä on voimassa olevan liiketoiminnan paikka."</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Enter the Bulstat of your business.</source>
+                <target>Anna yrityksesi Y-tunnus</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Declare that you are an authorized representative of the business.</source>
+                <target>Vakuuta, että olet yrityksen virallinen edustaja</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Invalid Bulstat</source>
+                <target>Virheellinen Y-tunnus</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Detailed Business Information</source>
+                <target>Yksityiskohtaiset tiedot yrityksestä</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Business Information</source>
+                <target>Yritystiedot</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Profile of %s %s</source>
+                <target> %s %s Kuvaus</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Only users or people authorized by the business can add pictures.</source>
+                <target>Vain yrityksen hyväksymät käyttäjät voivat lisätä kuvia.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Name</source>
+                <target>Nimi</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Address</source>
+                <target>Osoite</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Classification</source>
+                <target>Luokittelu</target>
+            </trans-unit>
+            <trans-unit>
+                <source>All</source>
+                <target>Kaikki</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Approved</source>
+                <target>Hyvksytty</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Approved</source>
+                <target>Hyväksytty</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Awaiting Approval</source>
+                <target>Odottaa hyväksyntää</target>
+            </trans-unit>
+
+            <trans-unit>
+                <source>Rejected</source>
+                <target>Hylätty</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Pending registration</source>
+                <target>Odottaa rekisteröintiä</target>
+            </trans-unit>
+            <trans-unit>
+                <source>My Business</source>
+                <target>Minun yritykseni</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The Business' Bulstat is mandatory</source>
+                <target>Yrityksen Y-tunnus on pakollinen</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Invalid Password</source>
+                <target>Väärä salasana</target>
+            </trans-unit>
+            <trans-unit>
+                <source>An authorized representative of the Business has already contacted getlokal</source>
+                <target>Yrityksen virallinen edustaja on jo ottanut yhteyttä getlokaliin</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Continue registration process</source>
+                <target>Jatka rekisteröintiä</target>
+            </trans-unit>
+            
+            <trans-unit>
+                <source>Working hours and business description</source>
+                <target>Aukioloajat ja yrityksen kuvaus</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Company Name</source>
+                <target>Yrityksen nimi</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Company Type</source>
+                <target>Yrityksen tyyppi</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Company Name in Latin</source>
+                <target>Yrityksen nimi latinaksi</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Address</source>
+                <target>Osoite</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Classification</source>
+                <target>Luokittelu</target>
+            </trans-unit>
+            <trans-unit>
+                <source>City</source>
+                <target>Kaupunki</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Company Address</source>
+                <target>Yrityksen osoite</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Contact Information</source>
+                <target>Yhteystiedot</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Working Hours</source>
+                <target>Aukioloajat</target>
+            </trans-unit>
+            <!-- <trans-unit>
+                <source>Is this your business? Claim it!</source>
+                <target>Onko tämä yrityksesi? Hanki käyttöoikeus itsellesi</target>
+            </trans-unit> -->
+            <trans-unit>
+                <source>From</source>
+                <target>Mistä</target>
+            </trans-unit>
+            <trans-unit>
+                <source>To</source>
+                <target>Minne</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Please</source>
+                <target>Kiitos</target>
+            </trans-unit>
+            <trans-unit>
+                <source>finish the registration</source>
+                <target>Suorita rekisteröinti loppuun</target>
+            </trans-unit>
+            <trans-unit>
+                <source> if you want your business claim to be approved so you can gain access to more features of getlokal website.</source>
+                <target> Hanki yrityksellesi käyttöoikeus, jotta saat enemmän ominaisuuksia getlokal verkkosivuilla.</target>
+            </trans-unit>
+            <trans-unit>
+                <source> with </source>
+                <target>kanssa</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Answer from </source>
+                <target>Vastaus</target>
+            </trans-unit>
+            <trans-unit>
+                <source>representative of </source>
+                <target>edustaja</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Bulstat</source>
+                <target>Y-tunnus</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Company Type</source>
+                <target>Yrityksen tyyppi</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Postcode</source>
+                <target>Postinumero</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Street</source>
+                <target>Katu</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Number</source>
+                <target>Numero</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Neighbourhood</source>
+                <target>Naapurusto</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Bl.</source>
+                <target>Katu.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Ent.</source>
+                <target>Ent.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Fl.</source>
+                <target>Kerros.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Ap.</source>
+                <target>?s.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Monday</source>
+                <target>Maanantai</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Tuesday</source>
+                <target>Tiistai</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Wednesday</source>
+                <target>Keskiviikko</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Thursday</source>
+                <target>Torstai</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Friday</source>
+                <target>Perjantai</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Saturday</source>
+                <target>Lauantai</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Sunday</source>
+                <target>Sunnuntai</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Finnish</source>
+                <target>Suomeksi</target>
+            </trans-unit>
+            <trans-unit>
+                <source>English</source>
+                <target>Englanniksi</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Closed</source>
+                <target>Suljettu</target>
+            </trans-unit>
+            <trans-unit>
+                <source>%s Working Hours</source>
+                <target>Aukioloajat %s</target>
+            </trans-unit>
+            <trans-unit>
+                <source>See my full review in my blog »</source>
+                <target>Katso koko arvostelu blogistani»</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Add Company</source>
+                <target>Lisää yritys</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Click %s to add new company.</source>
+                <target>Klikkaa %s lisätäksesi uuden yrityksen.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Find your company in getlokal</source>
+                <target>Etsi yrityksesi getlokalista</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Get Business Card</source>
+                <target>Hanki yrityskortti</target>
+            </trans-unit>
+            <trans-unit>
+                <source>This company was claimed already. Please contact us at info@getlokal.com for more information.</source>
+                <target>Tämä yritys on jo käyttöönotettu. Ota yhteyttä info@getlokal.com</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Non Stop</source>
+                <target>Jatkuva</target>
+            </trans-unit>
+            <trans-unit>
+                <source>%s, address %s, phone %s, %s, %s</source>
+                <target>%s, Osoite %s, Puh. %s, %s, %s</target>
+            </trans-unit>
+            <trans-unit>
+                <source>If you have been to %s in %s, leave your rating and review or photo to help other users searching in %s.</source>
+                <target>Oletko käynyt %s  %s, Jätä kommenttisi tai kuva ja auta muita ihmisiä löytämään tämänkaltaisia paikkoja %s.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>You can find %s at %s, telephone %s.</source>
+                <target>Voit löytää %s  %s puhelin %s.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>If you are a representative of %s, %s and manage this information. It's free and easy and %s.</source>
+                <target>Jos olet virallinen edustaja %s, %s voit muokata tietoja. Se on helppoa %s.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>claim it</source>
+                <target>Hanki käyttöoikeus</target>
+            </trans-unit>
+            <trans-unit>
+                <source>just a few steps away</source>
+                <target>Vielä muutama askel</target>
+            </trans-unit>
+            <trans-unit>
+                <source>%s, address: %s, phone: %s, in %s.If you are the owner of %s claim your business and fill in the relevant information about it.</source>
+                <target>%s, osoite: %s, Puh.: %s, in %s.Jos olet yrityksen omistaja %s hanki sivustolle käyttöoikeus ja täytä tarvittavat tiedot.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>phone: </source>
+                <target>puh: </target>
+            </trans-unit>
+            <trans-unit>
+                <source>address: </source>
+                <target>osoite: </target>
+            </trans-unit>
+            <trans-unit>
+                <source>You can use this widget to include information about the place in your blog or site. It contains company name, photo, number of reviews, address, telephone and rating of the place and it will appear when the user goes over the company name with the mouse.</source>
+                <target>Voit käyttää tätä sovellusta lisätäksesi tietoja yrityksesi blogissa tai sivuilla. Se sisältää yrityksen nimen, kuvan, kommenttien määrän, osoitteen, puhelinnumeron ja paikan arvioinnin ja ne näkyvät kun käyttäjä siirtää kursorin yrityksen nimen päälle.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Go to the HTML editor in your blog post</source>
+                <target>Mene blogisi HTML editoriin </target>
+            </trans-unit>
+            <trans-unit>
+                <source>Copy the code below and insert it in your post. The code contains the company name with capital letters. You can change it if you want.</source>
+                <target>Kopioi koodi alapuolelta ja lisää se postaukseesi. Koodi sisältää yrityksen nimen isoilla kirjaimilla. Voit muokata sitä halutessasi.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>More info</source>
+                <target>Lisätietoja</target>
+            </trans-unit>
+            <trans-unit>
+                <source>More info for company %s</source>
+                <target>Lisätietoja yrityksestä %s</target>
+            </trans-unit>
+            <trans-unit>
+                <source>up to 250 characters</source>
+                <target>max 250 kirjainta</target>
+            </trans-unit>
+            <trans-unit>
+                <source>up to 5000 characters</source>
+                <target>max 5000 kirjainta</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Add More Classifications</source>
+                <target>Lisää muita luokitteluja</target>
+            </trans-unit>
+            <trans-unit>
+                <source>You are editing %s</source>
+                <target>Olet muokkaamassa %s</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Add</source>
+                <target>Lisää</target>
+            </trans-unit>
+            <trans-unit>
+                <source>General Information</source>
+                <target>Yleistietoa</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Select Classification</source>
+                <target>Valitse luokittelu</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Selected Classifications</source>
+                <target>Valitse luokittelut</target>
+            </trans-unit>
+            <trans-unit>
+                <source>delete</source>
+                <target>Poista</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Classifications</source>
+                <target>Luokittelut</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Photos</source>
+                <target>Kuvat</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Select a photo from your computer</source>
+                <target>Valitse kuva tietokoneeltasi</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Upload</source>
+                <target>Upload</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Add Photo</source>
+                <target>Lisää kuva</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Add a Photo</source>
+                <target>Lisää kuva</target>
+            </trans-unit>
+
+            <trans-unit>
+                <source>use as logo</source>
+                <target>käytä logona</target>
+            </trans-unit>
+            <trans-unit>
+                <source>%s's information was saved successfully. If you want to change it, click %s.</source>
+                <target>%s tiedot tallennettiin. Jos haluat muokata lisää klikkaa %s.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>here</source>
+                <target>Tässä</target>
+            </trans-unit>
+
+            <trans-unit>
+                <source>VIP Position</source>
+                <target>VIP Paikka</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Video</source>
+                <target>Video</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The classification information for %s was saved successfully.</source>
+                <target>%s luokittelutiedot tallennettiin.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>set as logo</source>
+                <target>aseta logoksi</target>
+            </trans-unit>
+            <trans-unit>
+                <source>set as logo</source>
+                <target>Aseta Logoksi</target>
+            </trans-unit>
+            <trans-unit>
+                <source> Save </source>
+                <target> Tallenna </target>
+            </trans-unit>
+            <trans-unit>
+                <source>Your company will appear in the VIP Positions module for 3 months (90 days) between the live and end dates of your advert. You can change the automatically set dates by using the controls below. You can choose a different start date for each one-month period. The start date for the third period must not be later than 30 days before the end date of your advert.</source>
+                <target>Yrityksesi näkyy VIP sijainti moduulissa 3 kuukautta (90 päivää) aloitus ja lopetuspäivämäärien välillä. Voit muuttaa automaattisesti asettuja päivämääriä käyttämällä alla olevia painikkeita. Voit valita eri aloituspäiviä kunkin kuukauden aikana. Aloituspäivä kolmannessa erässä pitää alkaa 30 päivää ennen asettamaasi lopetuspäivämäärää.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Start Date - Promo Month 1</source>
+                <target>Aloituspäivä - Mainoskuukausi 1</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Start Date - Promo Month 2</source>
+                <target>Aloituspäivä - Mainoskuukausi 2</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Start Date - Promo Month 3</source>
+                <target>Aloituspäivä - Mainoskuukausi 3</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Your company will appear in the VIP Positions module for 1 month (30 days) between the live and end dates of your advert. You can change the automatically set date by using the controls below.</source>
+                <target>Yrityksesi näkyy VIP sijainti moduulissa 3 kuukautta (90 päivää) aloitus ja lopetuspäivämäärien välillä. Voit muuttaa automaattisesti asettuja päivämääriä käyttämällä alla olevia painikkeita.</target>
+            </trans-unit>
+            <trans-unit>
+                <source><![CDATA[All fields marked with <span>*</span> are mandatory]]></source>
+                <target><![CDATA[Kaikki kentät jotka ovat merkitty<span>*</span> ovat pakollisia]]></target>
+            </trans-unit>
+            <trans-unit>
+                <source>Browse photos from your computer and enter caption. The caption must contain between 3 and 155 characters.</source>
+                <target>Lataa valokuvia tietokoneeltasi ja kirjoita kuvateksti. Kuvatekstin on oltava 3 ja 155 merkkiä.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Your company is already appearing in the VIP Positions module according to the dates you selected.</source>
+                <target>Yritys näkyy jo VIP sijainti moduulissa, valitsemillasi päivämäärillä.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Stats for </source>
+                <target>Tilastot </target>
+            </trans-unit>
+            <trans-unit>
+                <source>Stats</source>
+                <target>Tilastot</target>
+            </trans-unit>
+      
+      
+      
+      
+      
+            <trans-unit>
+                <source>Views in search</source>
+                <target>Hakujen määrä</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Company Page Visits</source>
+                <target>Sivuvierailuja</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Detailed Description Views</source>
+                <target>Yksityiskohtaisten yritystiedojen katselut</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Visits to Review Page</source>
+                <target>Käynnit arvostele sivuilla</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Detailed Map Views</source>
+                <target>Yksityiskohtaiset kartta haut</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Visits to Gallery page</source>
+                <target>Käynnit valokuvagalleriassa</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Working Hours Views</source>
+                <target>Aukioloaikojen katselut</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Clicks to Facebook page</source>
+                <target>Facebook sivujen klikkaukset</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Number of times videos played</source>
+                <target>Videoiden katselukerrat</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Sent Emails</source>
+                <target>Lähetettyjä E-maileja</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Clicks to website</source>
+                <target>Klikkaukset kotisivuille</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Send Email</source>
+                <target>Lähetä sähköposti</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Clicks to Foursquare page</source>
+                <target>Foursquare klikkaukset</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Clicks to Twitter page</source>
+                <target>Klikkaukset Twitter sivuille</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Clicks to Google+ page</source>
+                <target>Klikkaukset Google+ sivuille</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Clicks to Yellow Pages page</source>
+                <target>Klikkaukset yritysluetteloon</target>
+            </trans-unit>
+            <trans-unit>
+                <source>send email to %s</source>
+                <target>Lähetä sähköpostia %s</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The email message was sent successfully to %s.</source>
+                <target>Sähköposti lähetetty %s </target>
+            </trans-unit>
+            <trans-unit>
+                <source>Registered Company Name</source>
+                <target>Rekisteröity Yritys</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Upload Video</source>
+                <target>Lataa video</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Please enter content in the field.</source>
+                <target>Lisää sisältöä kenttään.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Video Title</source>
+                <target>Videon otsikko</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Video Description</source>
+                <target>Videon tiedot</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Your video is being uploaded. Please do not close this page and wait until the process of uploading has completed and you have seen a confirmation message. If you close the page the process will be interrupted and your video will not be successfully uploaded!</source>
+                <target>Videota ladataan. Älä sulje tätä sivua, odota, kunnes videon lataaminen on valmis ja olet nähnyt vahvistusviestin. Jos suljet sivun lataaminen keskeytyy ja videosi lataus epäonnistuu!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The video was successfully uploaded and will be published after it has been approved by a moderator.</source>
+                <target>Video on ladattu onnistuneesti ja se julkaistaan sivuston ylläpitäjän hyväksynnän jälkeen</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The title of the video must contain between 8 and 99 characters</source>
+                <target>Videon otsikon täytyy sisältää 8-99 merkkiä</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The description of the video must contain between 20 and 240 characters</source>
+                <target>Videon tietojen tulee sisältää 20-240 merkkiä</target>
+            </trans-unit>
+            <trans-unit>
+                <source>File Title</source>
+                <target>Tiedoston otsikko</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Description</source>
+                <target>Kuvaus</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Please select a video for uploading!</source>
+                <target>Valitse video, jonka haluat ladata</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Select file</source>
+                <target>Valitse tiedosto</target>
+            </trans-unit>
+            <trans-unit>
+                <source>You tried to upload a file that is not in the allowed format for video files. Please upload a video file.</source>
+                <target>Yritit ladata tiedoston, joka ei ole sallittu muodossa.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Inappropriate review submitted for </source>
+                <target>Sopimaton arvostelu</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The caption of your photo of %s was not saved. The caption must contain between 3 and 155 characters.</source>
+                <target>Valokuvan %s kuvateksti ei tallentunut. Kuvatekstin pituus on oltava 3-155 merkkiä.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>edit caption</source>
+                <target>Muokkaa kuvatekstiä</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Profile photo</source>
+                <target>Profiilikuva</target>
+            </trans-unit>
+            <trans-unit>
+                <source>awaiting approval</source>
+                <target>Odottaa hyväksyntää</target>
+            </trans-unit>
+            <trans-unit>
+                <source>from</source>
+                <target>sta</target>
+            </trans-unit>
+            <trans-unit>
+                <source>If you want to add a classification you need to select from the list. Start typing the classification name or a keyword and we'll suggest a list of classifications for you to choose from.</source>
+                <target>Jos haluat lisätä luokituksen valitse se listalta. Aloita kirjoittamalla luokitusta kuvaava avainsana ja me ehdotamme sitä kuvaavia luokituksia.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Your changes were not saved. Please fill in the information correctly.</source>
+                <target>Muutoksesi eivät tallentuneet. Tarkista ja täytä kaikki tarvittavat tiedot</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Select Your City</source>
+                <target>Valitse kaupunkisi</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Security check. Enter the characters from the picture below!</source>
+                <target>Turvatarkastus. Kirjoita kuvassa näkyvät kirjaimet!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Choose a video file from your computer and enter information in the mandatory fields below.</source>
+                <target>Valitse videotiedosto tietokoneeltasi ja lisää tiedot pakollisiin kenttiin.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Please enter information in the mandatory fields below.</source>
+                <target>Lisää tiedot pakollisiin kenttiin.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Location is mandatory. Start typing the name of your location and select from the list.</source>
+                <target>Sijainti on pakollinen tieto. Aloita kirjoittamalla haluamasi sijainti ja valitse listalta</target>
+            </trans-unit>
+            <trans-unit>
+                <source>You need to agree to getlokal's Terms of Use</source>
+                <target>Sinun täytyy hyväksyä getlokalin käyttöoikeudet</target>
+            </trans-unit>
+            <!-- NEW -->
+            <trans-unit>
+                <source>Videos</source>
+                <target>Videot</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Edit</source>
+                <target>Muokkaa</target>
+            </trans-unit>
+            <trans-unit>
+                <source>[1]My company |(1,+Inf] My companies</source>
+                <target>[1]Minun yritys |(1,+Inf] Minun yritykseni</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Message</source>
+                <target>Viesti</target>
+            </trans-unit>
+            <trans-unit>
+                <source>from</source>
+                <target>from</target>
+            </trans-unit>
+            <trans-unit>
+                <source>to</source>
+                <target>to</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Companies</source>
+                <target>Yritykset</target>
+            </trans-unit>
+            <trans-unit>
+                <source>classification: </source>
+                <target>Luokittelu: </target>
+            </trans-unit>
+            <trans-unit>
+                <source>bl. </source>
+                <target>bl. </target>
+            </trans-unit>
+            <trans-unit>
+                <source>ent. </source>
+                <target>ent. </target>
+            </trans-unit>
+            <trans-unit>
+                <source>fl. </source>
+                <target>fl. </target>
+            </trans-unit>
+            <trans-unit>
+                <source>ap. </source>
+                <target>?p. </target>
+            </trans-unit>
+            <trans-unit>
+                <source>Find My Company</source>
+                <target>Etsi yritykseni</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Claim Your Company</source>
+                <target>Hae käyttöoikeus yritykseesi</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Company Information</source>
+                <target>Yritystietoa</target>
+            </trans-unit>
+            <trans-unit>
+                <source>edit</source>
+                <target>muokkaa</target>
+            </trans-unit>
+            <!-- NEW -->
+            <trans-unit>
+                <source>Place Administration</source>
+                <target>Lisää admin</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Company</source>
+                <target>Yritys</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Is this your business?</source>
+                <target>Onko tämä yrityksesi?</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Claim it!</source>
+                <target>Hae se!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Take control of your online reputation and talk to your customers.</source>
+                <target>Hallitse mainettasi verkossa ja pidä yhteyttä asiakkaisiisi.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Rating</source>
+                <target>Arviointi</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Communication</source>
+                <target>Vuorovaikutus</target>
+            </trans-unit>
+            <trans-unit>
+                <source>I would like to receive:</source>
+                <target>Haluaisin vastaanottaa:</target>
+            </trans-unit>
+
+            <trans-unit>
+                <source>Place Information</source>
+                <target>Lisätietoja paikasta</target>
+            </trans-unit>
+            
+            <trans-unit>
+                <source>Place Information</source>
+                <target>Lisätietoja paikasta</target>
+            </trans-unit>
+            <trans-unit>
+                <source>See Place Page</source>
+                <target>Katso paikan sivut</target>
+            </trans-unit>
+      
+            <trans-unit>
+                <source>Add a place</source>
+                <target>Lisää paikka</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Add a new place and make getlokal better for you and other people in your area.</source>
+                <target>Lisää uusi paikka ja auta tekemään getlokalista entistä parempi palvelu alueellasi.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Start typing the place name</source>
+                <target>Aloita kirjoittamalla paikan nimi</target>
+            </trans-unit>
+            <trans-unit>
+                <source>You need to complete this field</source>
+                <target>Täytä tämä kenttä</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Congrats on adding the place! Do you know any more details about it?</source>
+                <target>Onnittelut, lisäsit juuri paikan! Osaatko kertoa paikasta enemmän?</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Do you know any more details about it?</source>
+                <target>Tiedätkö jotain muita tietoja paikasta?</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Place Name in English</source>
+                <target>Paikan nimi Englanniksi</target>
+            </trans-unit>  
+            <trans-unit>
+                <source>Place Email Address</source>
+                <target>Kirjoita sähköpostiosoite</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Additional Address Details</source>
+                <target>Lisätietoja osoitteesta</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Building, floor, apt, zip</source>
+                <target>Talo, kerros, huoneisto, postinumero.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Any notes for getlokal editors that might speed up the approval process?</source>
+                <target>Ehdotuksia palvelumme parantamisesta getlokalin ylläpitäjille? Näin voit auttaa meitä nopeuttamaan hyväksyntiä</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Are you (representing) the place owner?</source>
+                <target>Edustatko paikan omistajaa?</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Let's link the place with its other online profiles!</source>
+                <target>Linkitä paikka myös muihin online profiileihin</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Enter the exact place website URL!</source>
+                <target>Lisää paikan www. osoite</target>
+            </trans-unit>
+            <trans-unit>
+                <source>in Google</source>
+                <target>Googlessa</target>
+            </trans-unit>
+      
+            <trans-unit>
+                <source>More Info</source>
+                <target>Lisätietoja</target>
+            </trans-unit>
+      
+            <trans-unit>
+                <source>If you type in the address – street name and number - the position of the market showing where the place is will change. If the positioning doesn’t seem correct you can move the marker. This will not change the address you’ve already written.</source>
+                <target>Jos kirjoitat kadunnimen ja numeron, kartan markkeri siirtyy oikeaan kohtaan automaattisesti.Jos oikea kohta ei ole löytynyt, voit myös manuaalisesti siirtää markkeria raahamalla sen haluamaasi kohtaan. Tämä ei muuta kirjoitettua osoitetietoa.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Start typing the place type e.g. ‘restaurant’ or ‘hairdressers’ and select the most appropriate category for the place you’re adding</source>
+                <target>Aloita kirjoittamalla paikan tyyppi esim. ravintola tai kampaamo ja valitse sopivin kategoria paikalle jota olet lisäämässä</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Kirjoita puhelinnumerot ilman välejä ja muita merkkejä. Esimerkiksi näin 0401112233</source>
+                <target>Kirjoita puhelinnumerot ilman välejä ja muita merkkejä. Esimerkiksi näin 0401112233.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Cover Photo</source>
+                <target>Kansikuva</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Add Cover Photo</source>
+                <target>Lisää Kansikuva</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Cover Photos</source>
+                <target>Kansikuvat</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Back to 'Photos'</source>
+                <target>Takaisin "Kuviin"</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Crop</source>
+                <target>Leikkaa</target>
+            </trans-unit>
+            <trans-unit>
+                <source><![CDATA[The cover image is 975x300 pixels so if your photo is big enough our advise is to crop a part of it that’s exactly the same size. Just click on the image, stretch the crop area until it reaches the maximum size (975x300) and if necessary drag on the part of the image you wish to crop. Then click on the ‘Crop’ button. Your cover image will change immediately. <p>If your image is smaller than 975x300 pixels you can crop part of it which will be displayed on the page surrounded by black background. Again the maximum width of the crop area cannot be bigger than 975 and the maximum height more than 300 pixels. The crop area cannot be dragged outside the boundaries of your image.]]></source>
+                <target><![CDATA[ Kansikuvan koko on 975?300 pikseliä, jos kuvasi on liian iso suosittelemme leikkaamaan kuvan tämän kokoiseksi.]]></target>
+            </trans-unit>
+            <trans-unit>
+                <source><![CDATA[The cover photo template is <strong>975x300 px</strong>. For best results, we recommend that you upload pictures of that size.]]></source>
+                <target><![CDATA[Kansikuvapohja on <strong>975?300 pikseliä</strong>. Parhaan laadun säilyttämiseksi suosittelemme lataamaan kansikuvat tämän kokoisena.]]></target>
+            </trans-unit>
+            <trans-unit>
+                <source>Upload your photo here, crop it if necessary and then save it.</source>
+                <target>Lataa kuvasi tästä, leikkaa sitä tarvittaessa ja tallenna se.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Before saving this image as a cover photo, we recommend that you crop it to the size of the cover photo template (975x300 px) in order to obtain best results.</source>
+                <target>Ennen tallentamista kansikuvaksi, suosittelemme leikkaamaan kansikuvan kokoon 975x300 pikseliä parhaan laadun säilyttämiseksi.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>How to do that:</source>
+                <target>Kuinka teen sen:</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Click on the image</source>
+                <target>Klikkaa kuvaa.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>You can drag the selection to a different part of the photo.</source>
+                <target>Vait raahata valittua aluetta, toiseen paikkaan kuvassa.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>If the selected area is smaller than 975x300 px, your image will be centered on the cover photo template surrounded by a black background.</source>
+                <target>Jos valittua alue on pienempi kuin 975x300 pikseliä, kuva keskitetään tähän kokoon ja reunoille jäävä tyhjä alue täytetään mustalla taustavärillä.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>set as profile photo</source>
+                <target>Aseta profiilikuvaksi</target>
+            </trans-unit>
+            <trans-unit>
+                <source>set as profile photo</source>
+                <target>Aseta profiilikuvaksi</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Select dates for your offer</source>
+                <target>Valitse päivämäärät tarjouksellesi</target>
+            </trans-unit>
+            <trans-unit>
+                <source>This page has been claimed by the Place Owner.</source>
+                <target>Paikan omistaja on hakenut käyttöoikeudet tähän paikaan.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Add new classification</source>
+                <target>Lisää uusi luokittelu</target>
+            </trans-unit>
+            <trans-unit>
+                <source>This place was successfully added to the list!</source>
+                <target>Tämä paikka lisättiin onnistuneesti listalle!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Thank you for  reporting!</source>
+                <target>Kiitoksia palautteestasi!</target>
+            </trans-unit>
+            <trans-unit>
+                <source><![CDATA[<span class="regular">If you do not know the address, just</span><span class="highlight"> drag the marker</span><span class="regular"> to where you know the place is and</span><span class="highlight"> we will get the address</span><span class="regular"> details.</span>]]></source>
+                <target><![CDATA[<span class="regular">Jos et tiedä osoitetta,</span><span class="highlight"> raahaa markkeria</span><span class="regular"> sinne missä tiedät paikan sijaitsevan ja</span><span class="highlight"> me haemme osoitetiedot puolestasi.</span>]]></target>
+            </trans-unit>
+            <trans-unit>
+                <source><![CDATA[<span class="regular">You positioned the marker</span><span class="highlight"> to where the place is. If the details we filled in based on the location are not correct</span><span class="regular"> you can change the address in the form.</span>]]></source>
+                <target><![CDATA[<span class="regular">Siirsit markkerin</span><span class="highlight"> paikkaan jossa yritys sijaitsee, jos täyttämäsi tiedot paikasta eivät ole oikein</span><span class="regular"> voit muuttaa osoitetta lomakkeesta.</span>]]></target>
+            </trans-unit>
+            <trans-unit>
+                <source><![CDATA[<span class="regular">Start typing the </span><span class="highlight">place address</span> <span class="regular"> and a marker will be placed on the map.</span>]]></source>
+                <target><![CDATA[<span class="regular">Aloita kirjoittamalla</span><span class="highlight">paikan osoite</span> <span class="regular"> niin markkeri siirtyy kyseiseen paikkaan.</span>]]></target>
+            </trans-unit>
+            <trans-unit>
+                <source><![CDATA[<span class="regular">Start typing the </span><span class="highlight">place address</span> <span class="regular"> and a marker will be placed on the map.</span>]]></source>
+                <target><![CDATA[<span class="regular">Aloita kirjoittamalla</span><span class="highlight">paikan osoite</span> <span class="regular"> niin markkeri siirtyy kyseiseen paikkaan</span>]]></target>
+            </trans-unit>
+            <trans-unit>
+                <source>More address info</source>
+                <target>Lisätietoja osoitteesta</target>
+            </trans-unit>
+            <trans-unit>
+                <source>You can add up to 5 classifications!</source>
+                <target>Voit lisätä jopa 5 luokittelua!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>You can add up to 3 telephone numbers!</source>
+                <target>Voit lisätä jopa 3 puhelinnumeroa!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>There is missing info and/or errors. Please check again!</source>
+                <target>Tarkista tiedot!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>cancel</source>
+                <target>keskeytä</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Are you sure you want to delete this image?</source>
+                <target>Oletko varma, että haluat poistaa tämän kuvan?</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Delete this image?</source>
+                <target>Poista tämä kuva?</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Delete this image?</source>
+                <target>Poista tämä kuva?</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Number of outdoor seats:</source>
+                <target>Istumapaikkoja ulkona:</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Number of indoor seats:</source>
+                <target>Istumapaikkoja sisällä:</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Choose features</source>
+                <target>Valitse ominaisuuksia</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Clear</source>
+                <target>Tyhjennä</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Free</source>
+                <target>Ilmainen</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Paid</source>
+                <target>Maksullinen</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Added Places</source>
+                <target>Lisää paikkoja</target>
+            </trans-unit>
+            <trans-unit>
+                <source>You can now find </source>
+                <target>Nyt </target>
+            </trans-unit>
+            <trans-unit>
+                <source>Thank you</source>
+                <target>KIITOS</target>
+            </trans-unit>
+            <trans-unit>
+                <source> in Getlokal!</source>
+                <target> löytyy Getlokalista!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Be the first one to add a photo, write a review or create an event for </source>
+                <target>Ole ensimmäinen, joka lisää kuvia, kirjoittaa arvioita tai lisää tapahtuman paikalle</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Add more places</source>
+                <target>Lisää uusia paikkoja</target>
+            </trans-unit>
+            <trans-unit>
+                <source>See place profile</source>
+                <target>Katso paikan profiili</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Are you the owner?</source>
+                <target>Oletko yrittäjä tai yrityksen omistaja?</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Social networks</source>
+                <target>Sosiaaliset verkostot</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Contacts</source>
+                <target>Yhteystiedot</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Address and location</source>
+                <target>YOsoite ja sijainti</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Reservation</source>
+                <target>Varaus</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Send</source>
+                <target>Lähettää</target>
+            </trans-unit>
+            <trans-unit>
+                <source>John Doe</source>
+                <target>Mr. Matti Meikäläinen</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Suggest an Edit</source>
+                <target>Ehdota muokkausta</target>
+            </trans-unit>
+            <trans-unit>
+                <source>This place was added by</source>
+                <target>Tämän paikan on lisännyt</target>
+            </trans-unit>
+
+            <!-- NEW DESIGN -->
+            <trans-unit>
+                <source>Claim it</source>
+                <target>Lunasta se</target>
+            </trans-unit>
+
+            <trans-unit>
+                <source>Information</source>
+                <target>Lisätietoja</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Powerful tools to get your Business on the Getlokal map!</source>
+                <target>Tehokas työkalu palvelujen esittelyyn Getlokalissa!</target>
+            </trans-unit>
+            
+            <trans-unit>
+                <source>Learn more</source>
+                <target>Lue lisää</target>
+            </trans-unit>
+
+            <trans-unit>
+                <source>Activity in Getlokal</source>
+                <target>Toiminta Getlokalissa</target>
+            </trans-unit>
+
+            <trans-unit>
+                <source>SHOW MORE</source>
+                <target>Näytä lisää</target>
+            </trans-unit>
+
+             <trans-unit>
+                <source>SHOW LESS</source>
+                <target>Näytä vähemmän</target>
+            </trans-unit>
+
+            <trans-unit>
+                <source>Rate</source>
+                <target>Arvioi</target>
+            </trans-unit>
+
+             <trans-unit>
+                <source>SIMILAR PLACES</source>
+                <target>Samankaltaisia paikkoja</target>
+            </trans-unit>
+            
+            <trans-unit>
+                <source>REVIEWS FOR SIMILAR PLACES</source>
+                <target>Arvioita samanlaisista paikoista</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Add to List</source>
+                <target>Lisää listalle</target>
+            </trans-unit>
+
+            <trans-unit>
+                <source>Write a Review</source>
+                <target>Kirjoita Arvio</target>
+            </trans-unit>
+
+            <trans-unit>
+                <source>SHARE</source>
+                <target>Jaa</target>
+            </trans-unit>
+
+            <trans-unit>
+                <source>Region and Language</source>
+                <target>Alue ja kieli</target>
+            </trans-unit>
+
+
+            <trans-unit>
+                <source>Learn more</source>
+                <target>Lue lisää</target>
+            </trans-unit>
+
+            <trans-unit>
+                <source>Add Classification</source>
+                <target>Lisää</target>
+            </trans-unit>
+
+            <trans-unit>
+                <source>Click to add a new place</source>
+                <target>Lisää uusi paikka</target>
+            </trans-unit>
+
+            <trans-unit>
+                <source>Click to search in area</source>
+                <target>Etsi tämä alue</target>
+            </trans-unit>
+
+         
+
+            <trans-unit>
+                <source><![CDATA[[0]<span>0</span> lists|[1]<span>1</span> list|(1,+Inf]<span>%count%</span> lists]]></source>
+                <target><![CDATA[[0]<span>0</span> listat|[1]<span>1</span> lista|(1,+Inf]<span>%count%</span> listat]]></target>
+            </trans-unit>
+
+            <trans-unit>
+                <source><![CDATA[[0]<span>0</span> reviews|[1]<span>1</span> review|(1,+Inf]<span>%count%</span> reviews]]></source>
+                <target><![CDATA[[0]<span>0</span> Arviot|[1]<span>1</span> Arviot|(1,+Inf]<span>%count%</span> Arviot]]></target>
+            </trans-unit>
+
+
+            <trans-unit>
+                <source><![CDATA[[0]<span>0</span> articles|[1]<span>1</span> article|(1,+Inf]<span>%count%</span> articles]]></source>
+                <target><![CDATA[[0]<span>0</span> Artikkelit|[1]<span>1</span> Artikkeli|(1,+Inf]<span>%count%</span> Artikkelit]]></target>
+            </trans-unit>
+
+            <trans-unit>
+                <source><![CDATA[[0]<span>0</span> events|[1]<span>1</span> event|(1,+Inf]<span>%count%</span> events]]></source>
+                <target><![CDATA[[0]<span>0</span> Tapahtumat|[1]<span>1</span> Tapahtuma|(1,+Inf]<span>%count%</span> Tapahtumat]]></target>
+            </trans-unit>
+
+            <trans-unit>
+                <source>Is this place easy to find? Add directions if necessary.</source>
+                <target>Onko tämä paikka helppo löytää? Lisää ajo-ohjeet tarvittaessa.</target>
+            </trans-unit>
+
+            <trans-unit>
+                <source>I would like to receive Getlokal's Business Newsletter and Notifications.</source>
+                <target>Lähetä minulle getlokalin uutislehti ja ilmoitukset.</target>
+            </trans-unit>
+
+
+
+
+
+        </body>
+    </file>
+</xliff>

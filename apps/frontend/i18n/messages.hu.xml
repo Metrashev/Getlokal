@@ -1,0 +1,1448 @@
+<?xml version="1.0" ?>
+<xliff version="1.0">
+    <file orginal="global" source-language="en_EN" datatype="plaintext">
+        <body>
+            <trans-unit>
+                <source>The information you entered was saved successfully.</source>
+                <target>A bevezetett információ sikeresen le lett mentve.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Your company information was saved successfully. It will be added to getlokal after it has been approved by an administrator.</source>
+                <target>Az információ a cégedrol sikeresen lett lementve. Adminisztrátor jóváhagyása után fel lesz töltve a getlokal-ban.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Your username should contain only alphanumeric characters, dash, dot or underscore</source>
+                <target>A felhasználói neve csak latin betut, számjegyet és "-"," _" vagy "." tartalmazhat.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>This field is required</source>
+                <target>A mezo kitöltése kötelezo</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The email and/or password are invalid</source>
+                <target>Az e-mail és/vagy a jelszó érvénytelen</target>
+            </trans-unit>
+            <trans-unit>
+                <source>BULGARIA</source>
+                <target>BULGÁRIA</target>
+            </trans-unit>
+            <trans-unit>
+                <source>No Results found for %keyword% in %place%</source>
+                <target>Nincs eredmény %keyword%-ról  %place%-ban</target>
+            </trans-unit>
+            <trans-unit>
+                <source>click here</source>
+                <target>kattints ide</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Resend an activation mail</source>
+                <target>Aktivációs e-mail küldés</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Password is mandatory</source>
+                <target>A jelszó kötelezo</target>
+            </trans-unit>
+            <trans-unit>
+                <source> for </source>
+                <target> -ról </target>
+            </trans-unit>
+            <trans-unit>
+                <source>E-mail</source>
+                <target>E-mail</target>
+            </trans-unit>
+            <trans-unit>
+                <source>%s in %s</source>
+                <target>%s -ban %s</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Your email was changed successfully.</source>
+                <target>Az e-mail-ed sikeresen lett megváltoztatva.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Sign Up</source>
+                <target>Regisztrálj</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Login</source>
+                <target>Belépés</target>
+            </trans-unit>
+            <trans-unit>
+                <source>About Us</source>
+                <target>Magunkról</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Contact Us</source>
+                <target>Lépj be kapcsolatba velünk</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Reviews</source>
+                <target>Megjegyzések</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Lists</source>
+                <target>Listák</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Directory</source>
+                <target>Tudakózó</target>
+            </trans-unit>
+            <trans-unit>
+                <source>City</source>
+                <target>Város</target>
+            </trans-unit>
+            <trans-unit>
+                <source>see all</source>
+                <target>lássd mindent</target>
+            </trans-unit>
+            <trans-unit>
+                <source>hide</source>
+                <target>rejtsd el</target>
+            </trans-unit>
+            <trans-unit>
+                <source>See more in</source>
+                <target>Lássd többet</target>
+            </trans-unit>
+            <trans-unit>
+                <source>reviews</source>
+                <target>megjegyzések</target>
+            </trans-unit>
+            <trans-unit>
+                <source>About Us</source>
+                <target>Magunkról</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Contact Us</source>
+                <target>Lépj kapcsolatba velünk</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Terms of Use</source>
+                <target>Felhasználói feltételek</target>
+            </trans-unit>
+            <trans-unit>
+                <source><![CDATA[General Terms & Conditions]]></source>
+                <target><![CDATA[Általános szrzodési feltételek]]></target>
+            </trans-unit>
+            <trans-unit>
+                <source>Policy for Use and Protection of the Information of Getlokal</source>
+                <target> Getlokal felahasználói feltételei, adatvédelmi irányelvei</target>
+            </trans-unit>
+            <trans-unit>
+                <source>FAQ's</source>
+                <target>Gyakori kérdések</target>
+            </trans-unit>
+            <trans-unit>
+                <source>from</source>
+                <target>-tól</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Report Abuse</source>
+                <target>Jelents helytelenségrol</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Blog</source>
+                <target>Blog</target>
+            </trans-unit>
+            <trans-unit>
+                <source>My Vouchers</source>
+                <target>Az utalványaim</target>
+            </trans-unit>
+            <trans-unit>
+                <source>OR</source>
+                <target>VAGY</target>
+            </trans-unit>
+            <trans-unit>
+                <source>or</source>
+                <target>vagy</target>
+            </trans-unit>
+            <trans-unit>
+                <source>see more</source>
+                <target>lássd még</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Register</source>
+                <target>Regisztrálj</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Other Services</source>
+                <target>Egyébb szolgáltatások</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Bulgaria</source>
+                <target>Bulgária</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Romania</source>
+                <target>Románia</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Macedonia</source>
+                <target>Macedónia</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Serbia</source>
+                <target>Szerbia</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Finland</source>
+                <target>Finnország</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Hungary</source>
+                <target>Magyarország</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Portugal</source>
+                <target>Portugália</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Montenegro</source>
+                <target>Montenegró</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Articles</source>
+                <target>Cíkkek</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Events</source>
+                <target>Események</target>
+            </trans-unit>
+            <trans-unit>
+                <source>New List</source>
+                <target>Új lista</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Lists</source>
+                <target>Listák</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Delete</source>
+                <target>Törölni</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Save</source>
+                <target>Lementeni</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Create Username and Password</source>
+                <target>Hozz létre felhasználói nevet és jelszót</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Add Place</source>
+                <target>Adj hozzá helyet</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Add other place</source>
+                <target>Adj hozzá egy másik helyet</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Edit</source>
+                <target>Szerkeszteni</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Close</source>
+                <target>Lezárni</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Search</source>
+                <target>Keresni</target>
+            </trans-unit>
+            <trans-unit>
+                <source>more info</source>
+                <target>több információ</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Your review was published successfully.</source>
+                <target>A megjegyzésed meg lett jelentetve.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Your review was not published successfully.</source>
+                <target>A megjegyzésed nem jelent meg sikeresen.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Review was deleted successfully.</source>
+                <target>A megjegyzés sikeresen lett törölve.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Confirm deletion</source>
+                <target>Erosítsd meg a törlést</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The offer was not saved. Please fill in all mandatory fields.</source>
+                <target>Az ajánlat nem volt lementve. Kérem töltse ki az összes kötelezo mezot.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Account Settings</source>
+                <target>Profil beállítás</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Personal Information</source>
+                <target>Személyadatok</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Change Password</source>
+                <target>Jelszóváltoztatás</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Forgotten Password</source>
+                <target>Elfelejtett jelszó</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Change Email</source>
+                <target>E-mail-változtatás</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The photo was deleted successfully.</source>
+                <target>A fénykép sikeresen lett törölve.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The classification was deleted successfully.</source>
+                <target>A besorolás sikeresen lett törölve.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The profile picture was changed successfully.</source>
+                <target>A profilkép sikeresen lett cserélve.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>[0]No uploaded photos yet.|[1]1 uploaded photo|(1,+Inf]%count% uploaded photos</source>
+                <target>[0]Még nincs feltöltött fénykép.|[1]1 feltöltött fénykép|(1,+Inf]%count% feltöltött fénykép</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Photos</source>
+                <target>Fényképek</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The photo was published successfully.</source>
+                <target>A fénykép sikeresen jelent meg</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Name</source>
+                <target>Keresztnév</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Surname</source>
+                <target>Vezetéknév</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Your account changes were successfully saved.</source>
+                <target>A profilod sikeresen lett megváltoztatva.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Security Settings</source>
+                <target>Bíztonsági beállítások</target>
+            </trans-unit>
+            <trans-unit>
+                <source>No results found.</source>
+                <target>Nincs eredmény.</target>
+            </trans-unit>
+
+            <trans-unit>
+                <source>Settings</source>
+                <target>Beállítások</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Your password was changed successfully.</source>
+                <target>A jelszavad sikeresen lett megváltoztatva.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Send</source>
+                <target>Küldeni</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The changes were saved successfully.</source>
+                <target>A változtatások sikeresen lettek lementve.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Profile Photo Gallery</source>
+                <target>Profilkép galléria</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The classification information was saved successfully.</source>
+                <target>Az információ a besorolásokról sikeresen lett lementve.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The detailed description was activated successfully.</source>
+                <target>A részletes leírás sikeresen lett aktiválva</target>
+            </trans-unit>
+
+            <trans-unit>
+                <source>Change Username</source>
+                <target>Felhasználói nev változtatása</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Your username was changed successfully.</source>
+                <target>A felahasználói néved sikeresen lett megváltoztatva.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Picture was saved successfully.</source>
+                <target>A fénykép sikeresen lett lementve.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Admin status changed successfully.</source>
+                <target>Az adminisztrátor állapota sikeresen megváltozott.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Invalid or inactive offer</source>
+                <target>Érvénytelen vagy nem aktiv ajánlat</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The offer is already active.</source>
+                <target>Az ajánlat már aktiv.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Stop Administration</source>
+                <target>Administrálást megállítani</target>
+            </trans-unit>
+            <trans-unit>
+                <source>English</source>
+                <target>Angolul</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The offer was deactivated successfully.</source>
+                <target>Az ajánlat sikeresen kikapcsolt.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The offer was added successfully.</source>
+                <target>Az ajánlat sikeresen lett hozzáadva.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The offer was activated successfully..</source>
+                <target>Az ajánlat sikeresen lett aktiválva</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The offer title and description (terms) are mandatory for at least one of the two language versions.</source>
+                <target>Az ajánlat címe és leírása (feltételei) kötelezo a két nyelvi verzió legalább az egyikében.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Search in getlokal</source>
+                <target>Böngéssz getlokal-ban.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Are you sure ?</source>
+                <target>Bíztos vagy?</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Users</source>
+                <target>Felhasználók</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Where</source>
+                <target>Hol</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Website</source>
+                <target>Honlap</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Badges</source>
+                <target>Cimkék</target>
+            </trans-unit>
+            <trans-unit>
+                <source>We were unable to send a confirmation request to the email address that you provided. Please check the email you provided is correct.</source>
+                <target>Nem sikerült elküldenünk a megerosítési e-mail-t a regisztrélt e-mail címre. Nézzd meg helyes-e az e-mail cím ami megadtál.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Your account has been activated. You can now log in using the email and password you provided at registration time.</source>
+                <target>A profilod sikeresen lett aktiválva. Beléphetsz a honlapba az e-mail-eddel és a jelszóval amit megadtál a regisztráció során.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The new password was sent successfully to the email you provided.</source>
+                <target>Az új jelszó sikeresen lett elküldve az e-mailre amit megadtál.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Leave Comment</source>
+                <target>Irjál hozzászolást</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Company Admins</source>
+                <target>Cég vezetosége</target>
+            </trans-unit>
+            <trans-unit>
+                <source>See Place Page</source>
+                <target>Lássd a cég oldalát</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Approve</source>
+                <target>Hadd jóvá</target>
+            </trans-unit>
+            <trans-unit>
+                <source>approve</source>
+                <target>hadd jóvá</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Approve?</source>
+                <target>Jóvá hagytad?</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Reject</source>
+                <target>Utasítsd vissza</target>
+            </trans-unit>
+            <trans-unit>
+                <source>reject</source>
+                <target>visszautasítottad</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Reject?</source>
+                <target>Visszautasítottad?</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Publish</source>
+                <target>Jelentesd meg</target>
+            </trans-unit>
+            <trans-unit>
+                <source>We were unable to process your request. Place administration process failed.</source> 
+                <target>Nem tudtuk feldolgozni kérésedet. Szólj, hogy az adminisztréciós folyamat sikertelen.</target>
+            </trans-unit>
+            <!-- footer -->
+            <trans-unit>
+                <source>For You</source>
+                <target>Neked</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Do you know your city?</source>
+                <target>Ismered a városodat?</target>
+            </trans-unit>
+            <trans-unit>
+                <source>For Your Business</source>
+                <target>Az üzletedrol</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Do you engage with your customers?</source>
+                <target>Beszélt már az ügyfeleivel?</target>
+            </trans-unit>
+
+            <trans-unit>
+                <source>Write a Review</source>
+                <target>Írjál megjegyzést</target>
+            </trans-unit>
+
+            <trans-unit id="34">
+                <source>more</source>
+                <target>még többet</target>
+            </trans-unit>
+            <trans-unit id="37">
+                <source>Review</source>
+                <target>Megjegyzés</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Please write clearly, without using offensive or obscene language.</source>
+                <target>Kérünk írjál világosan, sérto és illetlen szavak használata nélkül.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Back to list</source>
+                <target>Viysza a listához</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Comments</source>
+                <target>Hozzászólások</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Read more...</source>
+                <target>Olvass többet...</target>
+            </trans-unit>
+            <trans-unit>
+                <source>read more</source>
+                <target>olvass többet</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Read more</source>
+                <target>Olvass többet</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Photo Gallery of %s</source>
+                <target>Fényképgalléria %s fényképeivel</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Top Reviews for %city%</source>
+                <target>Top megjegyzések %city%-rol</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Top Places</source>
+                <target>Top helyek</target>
+            </trans-unit>
+            <trans-unit>
+                <source>view all offers</source>
+                <target>lássd az összes ajánlatát</target>
+            </trans-unit>
+            <trans-unit>
+                <source>by</source>
+                <target>-nak</target>
+            </trans-unit>
+            <trans-unit>
+                <source>VIP Places</source>
+                <target>VIP helyek</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Top Review</source>
+                <target>Top megjegyzés </target>
+            </trans-unit>
+            <trans-unit>
+                <source>Places</source>
+                <target>Helyek</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Find Similar Places</source>
+                <target>Taláj hasonló helyeket</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Your claim was submitted successfully!</source>
+                <target>Az adminisztrálási kérelem sikeresen lett eloterjesztve!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Thank you for your claim request!</source> (CHECK)
+                <target>Köszönjük a adminisztrálási kérelmedet!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Your claim request was submitted and will be approved by an administrator. Once you have been approved, you will be able to manage the information about this company.</source>
+                <target>Az cég adminisztrálási kérelmed elo van terjesztve és adminisztrátor jüváhagyására vár. A jóváhagyás után tudni fogod íranyítani az információt erol a cégrol.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Map</source>
+                <target>Térkép</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The event picture was changed successfully.</source>
+                <target>Az esemény fo képe sikeresen lett megváltoztatva.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>set as event photo</source>
+                <target>tedd eseményképként</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Event Photo Gallery</source>
+                <target>Fényképgalléria az eseményrol</target>
+            </trans-unit>
+            <trans-unit>
+                <source>[0]0 reviews|[1]1 review|(1,+Inf]%count% reviews</source>
+                <target>[0]0 megjegyzés|[1]1 megjegyzés|(1,+Inf]%count% megjegyzés</target>
+            </trans-unit>
+            <trans-unit>
+                <source>reply</source>
+                <target>válasz</target>
+            </trans-unit>
+            <trans-unit>
+                <source>edit</source>
+                <target>szerkessz</target>
+            </trans-unit>
+            <trans-unit>
+                <source>delete</source>
+                <target>törölj</target>
+            </trans-unit>
+            <trans-unit>
+                <source>report</source>
+                <target>jelents</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Mon</source>
+                <target>Ht</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Tue</source>
+                <target>Kd</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Wed</source>
+                <target>Szd</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Thu</source>
+                <target>Cs</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Fri</source>
+                <target>Pt</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Sat</source>
+                <target>Szb</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Sun</source>
+                <target>Va</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Your review about %s was changed successfully.</source>
+                <target>A megjegyzésed %s-rol sikeresen volt megváltoztatva.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>E.g. restaurant</source>
+                <target>péld. étterem</target>
+            </trans-unit>
+            <trans-unit>
+                <source>e.g. pizza, Starbucks</source>
+                <target>péld. pizza, Starbucks</target>
+            </trans-unit>
+            <trans-unit>
+                <source>There is no registered profile with this email address</source>
+                <target>Nincs regisztrált felhasználó ilyen e-mail címmel</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Register with Facebook</source>
+                <target>Regisztrálj Facebook-kal</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Facebook page of %s</source>
+                <target>Facebook oldal %s-on</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Twitter page of %s</source>
+                <target>Twitter oldal %s-on</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Google+ page of %s</source>
+                <target>Google+ oldal %s-on</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Foursquare page of %s</source>
+                <target>Foursquare oldal %s-on</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Website of %s: %s</source>
+                <target>%s Honlapja: %s</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Your message was sent successfully.</source>
+                <target>Az üzenet sikeresen el lett küldve.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The place details were saved successfully.</source>
+                <target>A hely részletei sikeresen lettek lementve.</target>
+            </trans-unit>
+            <trans-unit>
+                <source><![CDATA[<span>Thank you for suggesting</span> <span>a new place!</span>]]></source>
+                <target><![CDATA[<span>Köszönjük a javaslatodat új hely </span> <span>bekapcsolásárol!</span>]]></target>
+            </trans-unit>
+            <trans-unit>
+                <source>Congratulations! Thank you for adding a place!</source>
+                <target>Gratulálunk! Köszönjük a javasolt helyet!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Request through getlokal</source>
+                <target>Kérelem getlokal.com-ban</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Event was submitted successfully.</source>
+                <target>Az esemény sikeresen lett megjelentetve.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Full Review...</source>
+                <target>Teljes megjegyzés...</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The email message was not sent successfully.</source>
+                <target>Az e-mail üzenetet nem sikerült elküldeni.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>We encountered problem activating your account.</source>
+                <target>Hiba lépett fel a profil aktiválása során.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>If you wish us to send you again your activation mail, </source>
+                <target>Ha akarod hogy újból küldjünk aktiválási e-mail-t, </target>
+            </trans-unit>
+            <trans-unit>
+                <source>Rate</source>
+                <target>Értékelés</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Vote</source>
+                <target>Szavazz</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Vote for this place</source>
+                <target>Szavazz erre a helyre</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Skip</source>
+                <target>Ugord át</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Larger</source>
+                <target>Nagyíts</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Smaller</source>
+                <target>Csokkents</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The username was sent successfully to your email.</source>
+                <target>A felhasználói név sikeresen lett elküldve az e-mail-edre.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>I agree with the %s and the %s</source>
+                <target>Elfogadom az %s-t és  %s-t</target>
+            </trans-unit>
+            <trans-unit>
+                <source>I have the necessary representative powers and agree with the %s and the %s</source>
+                <target>Nekem megvan a kello képviselési felhatalmazásom és elfogadom az %s-t és %s-t.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Enter your EIK/Bulstat</source>
+                <target>Vezessd be az adószámodat</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Forgotten password for %s</source>
+                <target>Elfelejtett jelszó %s-re</target>
+            </trans-unit>
+            <trans-unit>
+                <source>In order to protect the information associated with your business we have introduced some additional security requirements.</source>
+                <target>Az üzleti információd megvédésére bevezettünk kiegészíto bíztonsági követelményeket.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Create a username and password for each of the places you manage and keep this information secure.</source>
+                <target>Hozz létre felhasználói nevet és jelszót minden helyre, és  írányítsd és tartsd ezt az információt bíztos helyen.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Use these login details every time you want to view or edit the information about the places you manage.</source>
+                <target>Használd ezeket a belépési adatokat mindig, amikor látni vagy szerkeszteni akarod az információt a helyeidrol.</target>
+            </trans-unit>
+            <trans-unit>
+                <source> about the additional security requirements</source>
+                <target>  a kiegészíto biztonsági követelményekrol</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Send it to us</source>
+                <target>Küldd el nekünk</target>
+            </trans-unit>
+            <trans-unit>
+                <source>In my capacity as parent/trustee I hereby declare that I agree with the %s and the %s</source>
+                <target>Szüloi/gondozói felelosségem tudatában kijelentem hogy elfogadom %s-t és %s-t.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>If you are underage person, your parent/trustee must also declare his/her consent below</source>
+                <target>Ha kiskorú vagy, szükséges hogy a szülod/gondozód kijelentse a beleegyezését lejebb</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Tomorrow</source>
+                <target>Holnap</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Today</source>
+                <target>Macedonia</target>
+            </trans-unit>
+            <trans-unit>
+                <source>No uploaded photos yet.</source>
+                <target>Még nincs feltöltött fénykép.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Comment</source>
+                <target>Hozzászólás</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Reply to Comment</source>
+                <target>Válasz Hozzászóláshoz</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Poor</source>
+                <target>Gyenge</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Average</source>
+                <target>Közepes</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Good</source>
+                <target>Jó</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Very good</source>
+                <target>Nagyon jó</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Excellent</source>
+                <target>Kituno</target>
+            </trans-unit>
+            <trans-unit>
+                <source>There is no profile with this username</source>
+                <target>Nincs profil ezzel a felhasználói névvel</target>
+            </trans-unit>
+            <trans-unit>
+                <source>An error ocurred while processing your request. Please try again later.</source>
+                <target>Hiba lépett fel a kérésed feldolgozásá során. Probálj meg újból késobb.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The video was successfully uploaded.</source>
+                <target>A videó sikeresen fel lett töltve</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The video was deleted successfully.</source>
+                <target>A videó sikeresen ki lett törölve.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Leave getlokal</source>
+                <target>Kilépés getlokal-ból</target>
+            </trans-unit>
+            <trans-unit>
+                <source>You get interesting information about all the places and events near you</source>
+                <target>Érdekes információt kapsz minden helyrol és eseményrol ami körülötted van.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>You have the opportunity to win fab prizes by participating in getlokal promotions</source>
+                <target>Mesés dijakat nyerhetsz ha résztveszel a getlokal promócióiban.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>If you want to leave the getlokal community, all of your reviews, photos, events and lists will be deleted!</source>
+                <target>Ha ki akarsz lépni a getlokal közösségbol,  minden megjegyzésed, fényképed, eseményed és listád ki lesz törölve!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Proceed to deletion of your getlokal account</source>
+                <target>Folytass a profilod törlésével</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Here are three good reasons to keep your account:</source>
+                <target>Íme három jó ok megtartani a profilodat:</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Still want to delete your profile?</source>
+                <target>Még mindig ki akarod törölni a profilodat?</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Your account was deleted</source>
+                <target>A profilod ki lett törölve</target>
+            </trans-unit>
+            <trans-unit>
+                <source>We are sorry to see you go. We value all our users and would be grateful if you %s and let us know what we did wrong.</source>
+                <target>Sajnáljuk, hogy elválunk. Számunkra minden felhasználó fontos és hálásak lennénk ha %s, és közölsz velünk miért lépsz ki!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>I agree to the %s and the %s</source>
+                <target>Elfogadom %s-t és %s-t.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Policy for Use and Protection of the Information on the Getlokal Website</source>
+                <target>A Getlokal Honlap felhasználói feltételei és adatvédelmi írányelvei</target>
+            </trans-unit>
+            <trans-unit>
+                <source>I have the necessary representative powers and I agree to the %s and the %s</source>
+                <target>Rendelkezem a szükséges képviseleti jogosultsággal és elfogadom az  %s-t és %s-t</target>
+            </trans-unit>
+            <trans-unit>
+                <source>%s for %s (%s)</source>
+                <target>%s -re %s (%s)</target>
+            </trans-unit>
+            <trans-unit>
+                <source>page</source>
+                <target>oldal</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Search results for %s</source>
+                <target>Bongészési eredmények %s-ról</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The place you suggested was added to getlokal. It will be checked by a member of the getlokal team to ensure we have the right details and you will receive a confirmation email once it has been verified.</source>
+                <target>Az általad javasolt hely hozzá lett adva getlokal-hoz. A getlokal csapat tagja ellenörzi majd, hogy bíztosak legyünk az adatok korrektségében és e-mail-t kapsz majd a jováhagyásaról.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>If you want to add %s, please log into your getlokal profile.</source>
+                <target>Az %s hozzáadására elotte be kell lépned a getlokal profilodba.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>places</source>
+                <target>helyek</target>
+            </trans-unit>
+            <trans-unit>
+                <source>reviews</source>
+                <target>megjegyzések</target>
+            </trans-unit>
+            <trans-unit>
+                <source>review</source>
+                <target>megjegyzés</target>
+            </trans-unit>
+            <trans-unit>
+                <source>events</source>
+                <target>események</target>
+            </trans-unit>
+            <trans-unit>
+                <source>List was successfully created.</source>
+                <target>A lista sikeresen lett létrehozva.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>List was deleted successfully.</source>
+                <target>A lista sikeresen lett törölve.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>You need to log in with a user profile and not as a place admin in order to finish what you started.</source>
+                <target>Ha tovább akarsz haladni, be kell lépned a felhasználói profiloddal és nem mint helyadminisztrátor.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Open</source>
+                <target>Nyítva</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Closed</source>
+                <target>Zárva</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Your list was successfully updated!</source>
+                <target>A listád sikeresen lett szerkeztve!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>We couldn't find a place beginning with:</source>
+                <target>Egyetlen helyet sem találtunk amely ...-val kezdene el:</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Top Places in %city%</source>
+                <target>Top helyek %city%-ban</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Top Review for %city%</source>
+                <target>Top megjegyzések %city%-ról</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Recommended for %sector% in  %city%</source>
+                <target>Ajánlott  %sector%-ra %city%-ben</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Top Reviews for %sector% in %city%</source>
+                <target>Top megjegyzések%sector%-ról %city%-ben</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Choose From:</source>
+                <target>Válassz ...-ból:</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Top Review for %sector% in %city%</source>
+                <target>Top megjegyzés %sector%-ról %city%-ben</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Sorry, the place you were looking for does no longer exist at this web address.</source>
+                <target>Sajnálunk, de a hely amit kerestél már nem létezik ezen a web-címen.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>You might find similar places if you browse through the places listed in getlokal!</source>
+                <target>Találhatsz hasonló helyeket, ha böngészed a getlokalban felsorolt helyeket!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>On getlokal you can read recommendations written by people like you and write your own which will help you take more informed decisions! You can also make lists with useful places, add photos of places and win prizes in our campaigns!</source>
+                <target>A getlokalban olvashatsz javaslatokat, amelyeket olyan emberek mint te írták meg, és te is megírhatod  a sajátodat ami segít az informált döntéshozatalban. Azonkivül létrehozhatsz hasznos helyek listáját, képeket tölthesz fel és dijakat nyerhetsz a játékokban amit szervezünk.</target>
+            </trans-unit>
+            <trans-unit>
+                <source><![CDATA[Badge unlocked by <span> %s%s </span> of users]]></source>
+                <target><![CDATA[A cimke nyított <span> %s%s </span> felhasználó által]]></target>
+            </trans-unit>
+            <trans-unit>
+                <source><![CDATA[Badge unlocked by <strong> %s%s </strong> of users]]></source>
+                <target><![CDATA[A cimke nyított <strong> %s%s </strong> felhasználó által]]></target>
+            </trans-unit>
+            <trans-unit>
+                <source><![CDATA[use <i>getlokal</i> as:]]></source>
+                <target><![CDATA[használd <i>getlokal</i>-t mint:]]></target>
+            </trans-unit>
+            <trans-unit>
+                <source>Locations</source>
+                <target>Helyszínek</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Follow Us</source>
+                <target>Kövess minket</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Unfollow Us</source>
+                <target>Állítsd meg a követést</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Show Places Nearby</source>
+                <target>Mutass helyeket a közelben</target>
+            </trans-unit>
+            <trans-unit>
+                <source>[0]No uploaded cover photos yet.|[1]1 uploaded cover photo|(1,+Inf]%count% uploaded cover photos</source>
+                <target>[0]Még nincs feltöltött borító fotó.|[1]1 feltöltött borító fotó|(1,+Inf]%count% feltöltött borító fotó</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Cover Photo Gallery of %s</source>
+                <target>%s borító fotógallériaja  </target>
+            </trans-unit>
+            <trans-unit>
+                <source>set as cover photo</source>
+                <target>tedd borító fényképnek</target>
+            </trans-unit>
+            <trans-unit>
+                <source>You need to select a crop area in your image.</source>
+                <target>Válasszd a képrészletet, hogy ki tudjad vágni.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Preview</source>
+                <target>Elonézet</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Your Photo</source>
+                <target>A fényképed</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Confirm</source>
+                <target>Megerosíteni</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Followers</source>
+                <target>Követok</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Following</source>
+                <target>Követettek</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Messages</source>
+                <target>Üzenetek</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Follow</source>
+                <target>Kövess</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Unfollow</source>
+                <target>Ne kövess</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Send Message</source>
+                <target>Küldj üzenetet</target>
+            </trans-unit>
+            <trans-unit>
+                <source>View Messages</source>
+                <target>Nézd meg az üzeneteket</target>
+            </trans-unit>
+            <trans-unit>
+                <source>[0]No followers|[1]1 follower|(1,+Inf]%count% followers</source>
+                <target>[0]Nincs követo|[1]1 követo|(1,+Inf]%count% követo</target>
+            </trans-unit>      
+            <trans-unit>
+                <source>[0]No users or places being followed.|[1]1 followed.|(1,+Inf]%count% followed</source>
+                <target>[0]Nincs követett helyek vagy felhasználók.|[1]1 követett|(1,+Inf]%count% követett</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Your message was sent successfully</source>
+                <target>Az üzenet sikeresen el lett küldve</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Contact Followers</source>
+                <target>Lépj kapcsolatban a követokkel</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Select All</source>
+                <target>Válassz mindenkit</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Latest News</source>
+                <target>Utolsó hírek</target>
+            </trans-unit>
+            <trans-unit>
+                <source>More Info</source>
+                <target>Több információ</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Options</source>
+                <target>Opciók</target>
+            </trans-unit>
+            <trans-unit>
+                <source>loading...</source>
+                <target>feltöltés...</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Thank you for registering with getlokal!</source>
+                <target>Köszönjük hogy regisztrált getlokalban!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Search for</source>
+                <target>Böngéssz</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Select Country</source>
+                <target>Válassz országot</target>
+            </trans-unit>
+            <trans-unit>
+                <source>in</source>
+                <target>-ban</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Edit </source>
+                <target>Szerkessz</target>
+            </trans-unit>
+            <trans-unit>
+                <source>About getlokal</source>
+                <target>getlokal-ról</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Team</source>
+                <target>Csapat</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Timeline</source>
+                <target>Történet</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Office Addresses</source>
+                <target>Íródacímek</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Contact form</source>
+                <target>Kapcsolat forma</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Rules of games</source>
+                <target>Játékszabályok</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Free</source>
+                <target>Dijtalan</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Paid</source>
+                <target>Fizetett</target>
+            </trans-unit>
+            <trans-unit>
+                <source>You are already an administrator for this place and cannot write reviews for it but only reply to reviews by other users about your place.</source>
+                <target>Már adminisztrátora vagy ennek a helynek és nem írhatsz megjegyzéseket benne és csak válaszolhatsz más felhasználók által írt megjegyzéseknek a helyrol.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Embed</source>
+                <target>Építsd be</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Place Widget</source>
+                <target>Hely Widget</target>
+            </trans-unit>
+            <trans-unit>
+                <source>If you just want to grab this place details and show them on your blog or site,  just customise the settings below and paste the code in your source file.</source>
+                <target>Ha csak meg akarod ragadni a részleteket errol a helyrol és mutatni azokat a blogodban vagy a honlapodban, válaszd a lejebb levo beállításokat és helyezd be a kódot a forrás file-odba.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Events Widget</source>
+                <target>Esemény Widget </target>
+            </trans-unit>
+            <trans-unit>
+                <source>Do you run a events related blog or website? You can take-away some fresh content from getlokal. Just customize the looks and content, grab the code and paste it in the source code where you want it to show.</source>
+                <target>Van esemény blogod vagy honlapod? Érdekes és fris tartalmat vehetsz getlokalból. Válassz amit akarsz használva a lejebb levo beállításokat, ragadd meg a kódot és helyezd be a forrás kódba, ahol akarod hogy megjelenjen.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Please fill in all mandatory fields.</source>
+                <target>Kérlek töltsd ki minden kötelezo mezot.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Deleting Review</source>
+                <target>Megjegyzés törlés</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Are you sure you want to delete your review?</source>
+                <target>Bíztos vagy, hogy ki akarod törölni a megjegyzésedet?</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Are you sure you want to delete your article?</source>
+                <target>Bíztos vagy, hogy ki akarod törölni a cikkedet?</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Are you sure you want to delete your list?</source>
+                <target>Bíztos vagy, hogy ki akarod törölni a listádat?</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Deleting Event</source>
+                <target>Esemény törlése</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Deleting List</source>
+                <target>Lista törlése</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Deleting Article</source>
+                <target>Cikk torlése</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Are you sure you want to delete your event?</source>
+                <target>Bíztos vagy, hogy ki akarod törölni az eseményedet?</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Are you sure you want to approve </source>
+                <target>Bíztos vagy, hogy jóvá akarod hagyni </target>
+            </trans-unit>
+            <trans-unit>
+                <source>Are you sure you want to reject </source>
+                <target>Bíztos vagy, hogy vissza akarod utasítani</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Are you sure you want to deactivate </source>
+                <target>Bíztos vagy, hogy deaktiválni akarod </target>
+            </trans-unit>
+            <trans-unit>
+                <source>Are you sure you want to delete the current file?</source>
+                <target>Bíztos vagy, hogy ki akarod törölni ez7t a file-t</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Delete file</source>
+                <target>File törlése</target>
+            </trans-unit>
+            <trans-unit>
+                <source> as admin for </source>
+                <target>mint ...-nak az adminisztrátora </target>
+            </trans-unit>
+            <trans-unit>
+                <source>approve</source>
+                <target>hagyd jóvá</target>
+            </trans-unit>
+            <trans-unit>
+                <source>reject</source>
+                <target>utasítsd vissza</target>
+            </trans-unit>
+            <trans-unit>
+                <source>yes</source>
+                <target>igen</target>
+            </trans-unit>
+            <trans-unit>
+                <source>All sectors</source>
+                <target>Mindedn szektor</target>
+            </trans-unit>
+            <trans-unit>
+                <source>All locations</source>
+                <target>Minden helyszín</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Menu</source>
+                <target>Menü</target>
+            </trans-unit>  
+            <trans-unit>
+                <source>Prices</source>
+                <target>Árak</target>
+            </trans-unit>  
+            <trans-unit>
+                <source>Catalogue</source>
+                <target>Katalógus</target>
+            </trans-unit>  
+            <trans-unit>
+                <source>Products</source>
+                <target>Termékek</target>
+            </trans-unit>  
+            <trans-unit>
+                <source>Services</source>
+                <target>Szolgaltatások</target>
+            </trans-unit>  
+            <trans-unit>
+                <source>Upload a new PDF file</source>
+                <target>Tölts fel új PDF file</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Sort by:</source>
+                <target>Sorolj be..... szerint:</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Discount high to low</source>
+                <target>Árleszállítás magasról alacsonyra</target>
+            </trans-unit> 
+            <trans-unit>
+                <source>Discount low to high</source>
+                <target>Árleszállítás alacsonyról magasra </target>
+            </trans-unit> 
+            <trans-unit>
+                <source>Latest</source>
+                <target>Legújabb</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Expiring soon</source>
+                <target>Hamarosan lejáró</target>
+            </trans-unit>
+            <trans-unit>
+                <source>See all in </source>
+                <target>Lássd mindent ...-ban</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The current file has been successfully deleted.</source>
+                <target>Az aktuális file sikeresen lett kitörölve.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>All categories</source>
+                <target>minden kategória</target>
+            </trans-unit> 
+            <trans-unit>
+                <source>Thank you! If the place is claimed, we will sent your suggestions to the owner. If not, we will manually verify and update the details of the place.</source>
+                <target>Köszönöm! Ha a helyre igényt tartanak, akkor elküldjük javaslatait a tulajdonosnak. Ha nem, akkor manuálisan ellenőrizzük és frissítjük a hely részleteit.</target>
+            </trans-unit>
+
+            	<!-- NEW DESIGN -->
+
+            <trans-unit>
+                <source>Add new</source>
+                <target>Új hozzáadása</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Place</source>
+                <target>Hely</target>
+            </trans-unit>
+             <trans-unit>
+                <source>Install</source>
+                <target>Telepítse</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Getlokal app</source>
+                <target>a Getlokal alkalamzást</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Advertise</source>
+                <target>Hirdetés</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Sponsored</source>
+                <target>Szponzorált</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Scroll to top</source>
+                <target>Lapozzon a lap tetejére </target>
+            </trans-unit>
+            <trans-unit>
+                <source>Scroll to bottom</source>
+                <target>Lapozzon a lap aljára</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Categories</source>
+                <target>Keresés kategória szerint </target>
+            </trans-unit>
+            <trans-unit>
+                <source>Places</source>
+                <target>Helyek</target>
+            </trans-unit>
+
+
+            <trans-unit>
+                <source>Like and follow us</source>
+                <target>Kedvelje és kövessen minket</target>
+            </trans-unit>
+            
+            <trans-unit>
+                <source>Your Getlokal</source>
+                <target>A te Getlokalod</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Planning a great night out looking for a recommended beauty salon, or a trendy bar - you will find everything you search in Getlokal</source>
+                <target>Nagyszerű esti kiruccanást tervezel, egy ajánlott szépségszalont vagy menő bárt keresel – mindent megtalálsz, amit csak keresel a Getlokalon</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Concerts, exhibitions, parties – Getlokal will show you when and where local events are happening</source>
+                <target>Koncertek, kiállítások, partik – Getlokal bemutatja neked, hol és mikor vannak helyi események</target>
+            </trans-unit>
+            <trans-unit>
+                <source>If you want to search again for another location, please use the 'Where' field to enter the right location. It is also possible to expand your search to cover the whole of %s</source>
+                <target>Ha ismételni akarod a böngészést egy másik lakóhelyrol, használd a "Hol" mezot, hogy oda írd be a nevét. Bovítheted a böngészést az egész %s-ben.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Couldn't find the place you were looking for? %s and we'll add it.</source>
+                <target>Nem sikerült megtalálnod a helyet amelyet kerestél? %s és mi hozzáadjuk.</target>
+            </trans-unit>
+
+
+            <trans-unit>
+                <source>[0]0 places|[1]1 place|(1,+Inf]%count% places</source>
+                <target>[0]0 Helyek|[1]1 Hely|(1,+Inf]%count% Helyek</target>
+            </trans-unit>
+
+            <trans-unit>
+                <source>were found in</source>
+                <target>található a / az</target>
+            </trans-unit>
+
+            <trans-unit>
+                <source>for</source>
+                <target>ról</target>
+            </trans-unit>
+
+            <trans-unit>
+                <source>Places in %city%</source>
+                <target>Helyek a / az %city%</target>
+            </trans-unit>
+
+        </body>
+    </file>
+</xliff>

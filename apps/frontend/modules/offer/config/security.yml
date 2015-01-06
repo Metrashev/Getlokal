@@ -1,0 +1,4 @@
+orderVoucher:
+  is_secure: true
+voucher:
+  is_secure: true

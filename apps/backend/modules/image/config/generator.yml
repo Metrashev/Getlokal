@@ -1,0 +1,30 @@
+generator:
+  class: sfDoctrineGenerator
+  param:
+    model_class:           image
+    theme:                 admin
+    non_verbose_templates: true
+    with_show:             false
+    singular:              ~
+    plural:                ~
+    route_prefix:          image
+    with_doctrine_route:   true
+    actions_base_class:    sfActions
+
+    config:
+      actions: ~
+      fields:  ~
+      list:  
+        display:       [ _thumb, status, caption, user_profile, type, _company ]
+        max_per_page:  10
+        sort:          [created_at, desc]
+        table_method:  getQueryForAdmin
+        batch_actions:
+         approve:      ~
+         disapprove:  ~
+         delete:  ~
+      filter:  
+        display: [id, filename, first_name, last_name, company, type, status, company_city, classification, sector, created_at]
+      form:    ~
+      edit:    ~
+      new:     ~

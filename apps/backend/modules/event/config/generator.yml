@@ -1,0 +1,41 @@
+generator:
+  class: sfDoctrineGenerator
+  param:
+    model_class:           Event
+    theme:                 admin
+    non_verbose_templates: true
+    with_show:             false
+    singular:              ~
+    plural:                ~
+    route_prefix:          event
+    with_doctrine_route:   true
+    actions_base_class:    sfActions
+
+    config:
+      actions: ~
+      fields:  ~
+      list:
+        title:         Recent events
+        layout:        stacked
+        display:       [title, created_at]
+        table_method:  getQueryForAdmin
+        params:  |
+          %%user_profile%%: %%text%%<br />
+          %%_recomended%%<small>for %%company%% - created on %%created_at%%</small>
+        max_per_page:  50
+        sort:          [ created_at, desc ]
+        object_actions:
+          top_event:  { label: Set As Reccomended, action: mark }
+          _edit:      ~
+          _delete:    ~
+        batch_actions:
+          approve:     ~
+          disapprove:  ~
+          delete:  ~
+          save: ~
+      filter:
+        display:  [id,start_at,end_at,created_at,updated_at,category_id,location_id,first_name, last_name, company, is_recommend]
+      form:
+        class: backendEventForm
+      edit:    ~
+      new:     ~

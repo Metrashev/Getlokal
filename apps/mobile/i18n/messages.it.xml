@@ -1,0 +1,303 @@
+﻿<?xml version="1.0" ?>
+<xliff version="1.0">
+  <file original="global" source-language="en" datatype="plaintext">
+    <body>
+     <trans-unit id="1">
+      <source>Mon</source>
+      <target>Lun</target>
+    </trans-unit>
+     <trans-unit id="2">
+      <source>Tue</source>
+      <target>Mar</target>
+    </trans-unit>
+     <trans-unit id="3">
+      <source>Wed</source>
+      <target>Mer</target>
+    </trans-unit>
+     <trans-unit id="4">
+      <source>Thu</source>
+      <target>Gio</target>
+    </trans-unit>
+     <trans-unit id="5">
+      <source>Fri</source>
+      <target>Ven</target>
+    </trans-unit>
+     <trans-unit id="6">
+      <source>Sat</source>
+      <target>Sab</target>
+    </trans-unit>
+     <trans-unit id="7">
+      <source>Sun</source>
+      <target>Dom</target>
+    </trans-unit>
+
+      <trans-unit id="8">
+        <source>Tomorrow</source>
+        <target>Domani</target>
+      </trans-unit>
+      <trans-unit id="9">
+        <source>Today</source>
+        <target>Oggi</target>
+      </trans-unit>
+      <trans-unit id="10">
+	  <source>January</source>
+        <target>Gennaio</target>
+      </trans-unit>
+	  <trans-unit id="11">
+        <source>February</source>
+        <target>Febbraio</target>
+      </trans-unit>
+	  <trans-unit id="12">
+        <source>March</source>
+        <target>Marzo</target>
+      </trans-unit>
+	  <trans-unit id="13">
+        <source>April</source>
+        <target>Aprile</target>
+      </trans-unit>
+	  <trans-unit id="14">
+        <source>May</source>
+        <target>Maggio</target>
+      </trans-unit>
+	  <trans-unit id="15">
+        <source>June</source>
+        <target>Giugno</target>
+      </trans-unit>
+	  <trans-unit id="16">
+        <source>July</source>
+        <target>Luglio</target>
+      </trans-unit>
+	   <trans-unit id="17">
+        <source>August</source>
+        <target>Agosto</target>
+      </trans-unit>
+	   <trans-unit id="18">
+        <source>September</source>
+        <target>Settembre</target>
+      </trans-unit>
+	   <trans-unit id="19">
+        <source>October</source>
+        <target>Ottobre</target>
+      </trans-unit>
+	   <trans-unit id="20">
+        <source>November</source>
+        <target>Novembre</target>
+      </trans-unit>
+	   <trans-unit id="21">
+        <source>December</source>
+        <target>Dicembre</target>
+      </trans-unit>
+
+    <trans-unit id="22">
+      <source>Monday</source>
+      <target>Lunedм</target>
+    </trans-unit>
+    <trans-unit id="23">
+      <source>Tuesday</source>
+      <target>Martedм</target>
+    </trans-unit>
+    <trans-unit id="24">
+      <source>Wednesday</source>
+      <target>Mercoledм</target>
+    </trans-unit>
+    <trans-unit id="25">
+      <source>Thursday</source>
+      <target>Giovedм</target>
+    </trans-unit>
+    <trans-unit id="26">
+      <source>Friday</source>
+      <target>Venerdм</target>
+    </trans-unit>
+    <trans-unit id="27">
+      <source>Saturday</source>
+      <target>Sabato</target>
+    </trans-unit>
+    <trans-unit id="28">
+      <source>Sunday</source>
+      <target>Domenica</target>
+    </trans-unit>
+
+    <trans-unit id="29">
+      <source>Free</source>
+      <target>Gratis</target>
+    </trans-unit>
+    <trans-unit id="30">
+      <source>Up to 10 %s</source>
+      <target>Fino a 10 %s</target>
+    </trans-unit>
+    <trans-unit id="31">
+      <source>Up to 50 %s</source>
+      <target>Fino a 50 %s</target>
+    </trans-unit>
+    <trans-unit id="32">
+      <source>Up to 100 %s</source>
+      <target>Fino a 100 %s</target>
+    </trans-unit>
+    <trans-unit id="33">
+      <source>Over 100 %s</source>
+      <target>Piщ di 100 %s</target>
+    </trans-unit>
+
+    <trans-unit id="34">
+      <source>ATTEND</source>
+      <target>PARTECIPA</target>
+    </trans-unit>
+     <trans-unit id="35">
+      <source>%d participants</source>
+      <target>%d partecipanti</target>
+    </trans-unit>
+
+
+     <trans-unit id="36">
+      <source>Reviews</source>
+      <target>Recensioni</target>
+    </trans-unit>
+
+    <trans-unit id="37">
+      <source>REVIEWS</source>
+      <target>RECENSIONI</target>
+    </trans-unit>
+
+     <trans-unit id="38">
+      <source>Address</source>
+      <target>Indirizzo</target>
+    </trans-unit>
+
+     <trans-unit id="39">
+      <source>Call</source>
+      <target>Chiama</target>
+    </trans-unit>
+
+    <trans-unit id="40">
+      <source>CALL</source>
+      <target>CHIAMA</target>
+    </trans-unit>
+
+     <trans-unit id="41">
+      <source>Ticket: </source>
+      <target>Ticket:</target>
+    </trans-unit>
+    <trans-unit id="42">
+      <source>Review</source>
+      <target>Recensisci</target>
+    </trans-unit>
+    <trans-unit id="43">
+      <source>Add Pic</source>
+      <target>Aggiungi foto</target>
+    </trans-unit>
+    <trans-unit id="44">
+      <source>Fave</source>
+      <target>Preferiti</target>
+    </trans-unit>
+    <trans-unit id="45">
+      <source>Checked in at %s</source>
+      <target>Check-in effettuato alle %s</target>
+    </trans-unit>
+    <trans-unit id="46">
+      <source>Closed</source>
+      <target>Chiuso</target>
+    </trans-unit>
+
+    <trans-unit id="47">
+        <source>Events</source>
+        <target>Eventi</target>
+    </trans-unit>
+
+    <trans-unit id="48">
+        <source>EVENTS</source>
+        <target>EVENTI</target>
+    </trans-unit>
+
+    <trans-unit id="49">
+        <source>Check-in</source>
+        <target>Effettua il check-in</target>
+    </trans-unit>
+	<trans-unit id="50">
+        <source>Save</source>
+        <target>Save</target>
+    </trans-unit>
+	<trans-unit id="51">
+        <source>Unsave</source>
+        <target>Unsave</target>
+    </trans-unit>
+	<trans-unit id="52">
+        <source>Distance</source>
+        <target>Distanza</target>
+    </trans-unit>
+	<trans-unit id="53">
+        <source>km</source>
+        <target>km</target>
+    </trans-unit>
+	<trans-unit id="54">
+        <source>review(s)</source>
+        <target>recensione(/i)</target>
+    </trans-unit>
+
+	<trans-unit id="55">
+        <source>ATMs</source>
+        <target>ATM</target>
+    </trans-unit>
+
+    <trans-unit id="56">
+       <source><![CDATA[[0]No reviews|[1]<span>1</span> review|(1,+Inf]<span>%count%</span> reviews]]></source>
+       <target><![CDATA[[0]Nessuna recensione|[1]<span>1</span> recensione|(1,+Inf]<span>%count%</span> recensione]]></target>
+    </trans-unit>
+    <trans-unit id="57">
+        <source>We are mobile</source>
+        <target>Siamo mobili</target>
+    </trans-unit>
+    <trans-unit id="58">
+        <source>Select Country</source>
+        <target>Seleziona Paese</target>
+    </trans-unit>
+    <trans-unit id="59">
+      <source>Getlokal recommended</source>
+      <target>Raccomandati da Getlokal</target>
+    </trans-unit>
+    <trans-unit id="60">
+      <source>Places with Offers</source>
+      <target>Luoghi con Offerte</target>
+    </trans-unit>
+    <trans-unit id="61">
+      <source>Voucher valid from</source>
+      <target>Voucher valido dal</target>
+    </trans-unit>
+    <trans-unit id="62">
+      <source> to </source>
+      <target>al</target>
+    </trans-unit>
+
+    <trans-unit id="63">
+      <source>0 available</source>
+      <target>0 disponibili</target>
+    </trans-unit>
+    <trans-unit id="64">
+      <source>1 available</source>
+      <target>1 disponibile</target>
+    </trans-unit>
+    <trans-unit id="65">
+      <source> available</source>
+      <target>disponibile</target>
+    </trans-unit>
+
+    <trans-unit id="66">
+      <source>We were unable to issue your voucher. The offer is no longer active or you have already ordered the maximum number vouchers per user.</source>
+      <target>Non siamo riusciti a convalidare il tuo voucher. L'offerta potrebbe non essere piщ attiva, o potresti aver giа raggiunto il numero massimo di voucher a tua disposizione.</target>
+    </trans-unit>
+    
+    <trans-unit id="67">
+      <source>OFFERS</source>
+      <target>OFFERTE</target>
+    </trans-unit>
+    <trans-unit id="68">
+      <source>Suggest an Edit</source>
+      <target>Suggerire una modifica</target>
+      
+    </trans-unit>
+    <trans-unit id="69">
+    	<source>This place was added by</source>
+		<target>Questo luogo è stato aggiunto da</target>
+    </trans-unit>
+ </body>
+  </file>
+</xliff>

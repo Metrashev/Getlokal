@@ -1,0 +1,56 @@
+<?xml version="1.0" ?>
+<xliff version="1.0">
+    <file orginal="global" source-language="en_EN" datatype="plaintext">
+        <body>			
+            <trans-unit>
+                <source>Place Claim in getlokal</source>
+                <target>Helyadminisztrálási kérés a getlokalban</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Welcome to getlokal</source>
+                <target>Üdvözöljük getlokalban</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Request through getlokal</source>
+                <target>Kérdés getlokalon</target>
+            </trans-unit>  
+            <trans-unit>
+                <source>Claim Request</source>
+                <target>Helyadminisztrálási kérés</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Forgotten Password</source>
+                <target>Elfelejtett jelszó</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Change Email Confirmation</source>
+                <target>Email módosítás megerosítése</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Forgotten Place Admin Password</source>
+                <target>Elfelejtett helyadminisztrálási jelszó</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Forgotten Username</source>
+                <target>Elfelejtett felhasználói név</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Approved Place Claim in getlokal</source>
+                <target>Helyadminisztrálás jóváhagyása</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Rejected Place Claim in getlokal</source>
+                <target>Helyadminisztrálás visszautasítás</target>
+            </trans-unit>   		      		
+            <trans-unit>
+                <source>A friend just invited you to join getlokal.com!</source>
+                <target>Barát felivott téged getlokal.com-ban való regisztrációra!</target>
+            </trans-unit>
+            <!-- NEW DESIGN -->
+            
+            
+
+             
+        </body>
+    </file>
+</xliff>

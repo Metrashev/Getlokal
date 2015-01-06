@@ -1,0 +1,49 @@
+all:
+  stylesheets: [ -*, mobile_v2.css ]
+  javascripts: [ -*, jquery.js, jquery-ui.js, jquery.mobile.custom.min.js ]
+
+ppCompanySuccess:
+  stylesheets:
+    - -*
+    - bootstrap.min.css
+    - mobile_v3.css
+    - https://fonts.googleapis.com/css?family=Open+Sans&subset=latin,cyrillic-ext
+  javascripts:
+    - -*
+
+pppCompanySuccess:
+  stylesheets:
+    - -*
+    - bootstrap.min.css
+    - mobile_v3.css
+    - https://fonts.googleapis.com/css?family=Open+Sans&subset=latin,cyrillic-ext
+  javascripts:
+    - -*
+
+eventSuccess:
+  stylesheets:
+    - -*
+    - bootstrap.min.css
+    - mobile_v3.css
+    - https://fonts.googleapis.com/css?family=Open+Sans&subset=latin,cyrillic-ext
+  javascripts:
+    - -*
+
+offerSuccess:
+  stylesheets:
+    - -*
+    - bootstrap.min.css
+    - mobile_v3.css
+    - https://fonts.googleapis.com/css?family=Open+Sans&subset=latin,cyrillic-ext
+  javascripts:
+    - -*
+
+voucherSuccess:
+  stylesheets:
+    - -*
+    - bootstrap.min.css
+    - mobile_v3.css
+    - https://fonts.googleapis.com/css?family=Open+Sans&subset=latin,cyrillic-ext
+  javascripts:
+    - -*
+

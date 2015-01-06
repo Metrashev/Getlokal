@@ -1,0 +1,224 @@
+<?xml version="1.0" ?>
+<xliff version="1.0">
+    <file orginal="global" source-language="en_EN" datatype="plaintext">
+        <body>
+            <trans-unit>
+                <source>Offers</source>
+                <target>Oferte</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Offer</source>
+                <target>Oferta</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Create an Offer</source>
+                <target>Creaţi o oferta</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Valid From</source>
+                <target>Valabil de la</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Valid To</source>
+                <target>Valabil pana la</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Active From</source>
+                <target>Activ din</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Active To</source>
+                <target>Activ pana la</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Maximum number of vouchers to be issued</source>
+                <target>Numărul maxim de bonuri care vor fi emise</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Maximum number of vouchers to be issued per user</source>
+                <target>Numărul maxim de bonuri care vor fi emise pentru fiecare utilizator</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Offer Terms</source>
+                <target>Termenii Ofertei</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Active Offers</source>
+                <target>Oferte Active</target>
+            </trans-unit>
+            <trans-unit>
+                <source>deactivate</source>
+                <target>dezactivează</target>
+            </trans-unit>
+            <trans-unit>
+                <source>view offer</source>
+                <target>vezi oferta</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Current Offers</source>
+                <target>Oferte actuale</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Edit Offer</source>
+                <target>Editare Oferta</target>
+            </trans-unit>
+            <trans-unit>
+                <source>activate</source>
+                <target>activează</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Order Voucher</source>
+                <target>Comandă Voucher</target>
+            </trans-unit>
+            <trans-unit>
+                <source>This offer is valid from</source>
+                <target>Această ofertă este valabilă de la</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Vouchers</source>
+                <target>Bonuri</target>
+            </trans-unit>
+            <trans-unit>
+                <source>No vouchers have been ordered yet</source>
+                <target>Nr. bonuri au fost comandate încă</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Offer Code</source>
+                <target>Cod Ofertă </target>
+            </trans-unit>
+            <trans-unit>
+                <source>Voucher Code</source>
+                <target>Cod bon</target>
+            </trans-unit>
+            <trans-unit>
+                <source>activate</source>
+                <target>activati</target>
+            </trans-unit>
+            <trans-unit>
+                <source>This offer is not active.</source>
+                <target>Aceasta oferta nu este activa.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Vouchers issued</source>
+                <target>Bonuri emise</target>
+            </trans-unit>
+            <trans-unit>
+                <source>We were unable to issue your vouchers. We are investigating the problem and working towards resolving it.</source>
+                <target>Am fost în imposibilitatea de a emite bonul dvs. Noi suntem in curs de investigare a problemei şi  lucram în vederea soluţionării aceasta.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Your voucher was successfully issued.</source>
+                <target>Bonul dvs. a fost emis cu succes.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Your vouchers were successfully issued.</source>
+                <target>Bonul dvs. a fost emis cu succes.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Print</source>
+                <target>Printează</target>
+            </trans-unit>
+            <!-- NEW -->
+            <trans-unit>
+                <source>There are no offers</source>
+                <target>Nu există oferte</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Export to Excel</source>
+                <target>Exportă în Excel</target>
+            </trans-unit>
+            <trans-unit>
+                <source>[0]No vouchers have been issued yet for this offer.|[1]1 voucher has been issued for this offer.|(1,+Inf]%count% vouchers have been issued for this offer.</source>
+                <target>[0]Nici un voucher nu s-a emis incă pentru această ofertă.|[1]1 voucher s-a emis pentru această ofertă.|(1,+Inf]%count% vouchere s-au emis pentru această ofertă.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>issued on</source>
+                <target>emis în</target>
+            </trans-unit>
+            <trans-unit>
+                <source>to</source>
+                <target>până la</target>
+            </trans-unit>
+            <trans-unit>
+                <source>You have already ordered the maximum number of vouchers</source>
+                <target>Ai comandat deja numărul maxim de vouchere</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Number of Vouchers</source>
+                <target>Numărul de vouchere</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Issued on</source>
+                <target>Emis la</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Expires on</source>
+                <target>Expiră la</target>
+            </trans-unit>
+            <trans-unit>
+                <source>No more vouchers available for this offer</source>
+                <target>Nu mai sunt vouchere disponibile pentru această ofertă.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Get Voucher!</source>
+                <target>Descarcă voucher gratuit!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>No messages</source>
+                <target>Niciun mesaj</target>
+            </trans-unit>
+            <trans-unit>
+                <source>preview</source>
+                <target>previzualizează</target>
+            </trans-unit>
+            <trans-unit>
+                <source>publish</source>
+                <target>publică</target>
+            </trans-unit>
+            <trans-unit>
+                <source>to</source>
+                <target>până la</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Offer Drafts</source>
+                <target>Ciorna</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The offer was published successfully.</source>
+                <target>Oferta a fost publicata cu succes.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Congrats</source>
+                <target>Felicitări</target>
+            </trans-unit>
+            <trans-unit>
+                <source>We just issued your voucher! It's saved in your Profile.</source>
+                <target>Oferta ta a fost emisă! Este salvată pe profilul tău.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>View</source>
+                <target>Vizualiza</target>
+            </trans-unit>
+            <trans-unit>
+                <source>[1]1 offer for %company%|(1,+Inf]%count% offers for %company%</source>
+                <target>[1]1 ofertă la %company%|(1,+Inf]%count% oferte la %company%</target>
+            </trans-unit>
+            <trans-unit>
+                <source><![CDATA[[0]%time%|[1]1 day %time%|(1,+Inf]%days% days %time%]]></source>
+                <target><![CDATA[[0]%time%|[1]1 zi %time%|(1,+Inf]%days% zile %time%]]></target>
+            </trans-unit>
+            <!-- NEW DESIGN -->
+
+            <trans-unit>
+                <source>Tickets Available</source>
+                <target>Bilete</target>
+            </trans-unit>
+
+            <trans-unit>
+                <source>OFFERS IN</source>
+                <target>Oferte în</target>
+            </trans-unit>
+            
+        </body>
+    </file>
+</xliff>

@@ -1,0 +1,1 @@
+<input type="button" value="Import from .TXT (tab delimited file)" onclick="javascript: document.location.href='<?php echo public_path('backend_dev.php/unregistered_newsletter_user/importFromTxt') ?>'" style="" />

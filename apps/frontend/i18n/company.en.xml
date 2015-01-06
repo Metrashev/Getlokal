@@ -1,0 +1,688 @@
+<?xml version="1.0" ?>
+<xliff version="1.0">
+    <file orginal="global" source-language="bg_BG" datatype="plaintext">
+        <body>
+            <trans-unit>
+                <source>Създай бизнес профил</source>
+                <target>Create Business Account</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Длъжност</source>
+                <target>Position</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Телефон</source>
+                <target>Phone</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Декларирам, че съм упълномощен представител на фирмата.</source>
+                <target>I declare that I am an authorized representative of the business.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Декларирам, че това е актуалния Булстат на фирмата.</source>
+                <target>I declare that this is the valid Bulstat of the business.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Декларирай, че това е актуалния Булстат на фирмата.</source>
+                <target>Declare that this is the valid Bulstat of the business.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Въведеният Булстат не съвпада с фирмените ви данни. Моля, проверете отново, че въведените данни са верни и маркирайте полето пред "Декларирам, че това е актуалния Булстат на фирмата."</source>
+                <target>The Bulstat you entered doesn't match your company data. Please check again and tick the box next to "I declare that this is the valid Bulstat of the business."</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Въведи булстат на фирмата.</source>
+                <target>Enter your company's Bulstat</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Декларирай, че си упълномощен представител на фирмата.</source>
+                <target>Declare that you are an authorized representative of the business.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Невалиден Булстат</source>
+                <target>Invalid Bulstat</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Подробна информация за фирмата</source>
+                <target>Detailed Company Info</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Информация за фирмата</source>
+                <target>Company Info</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Профилът на %s %s</source>
+                <target>Profile of %s %s</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Само потребители или упълномощен представител на фирмата могат да добавят снимки на обектa.</source>
+                <target>Only users or company's authorized persons can add pictures. </target>
+            </trans-unit>
+            <trans-unit>
+                <source>Име</source>
+                <target>Name</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Адрес</source>
+                <target>Address</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Класификация</source>
+                <target>Classification</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Всички</source>
+                <target>All</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Одобрени</source>
+                <target>Approved</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Одобренa</source>
+                <target>Approved</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Очакват одобрение</source>
+                <target>Waiting Approval</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Очаква одобрение</source>
+                <target>Waiting Approval</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Неодобрени</source>
+                <target>Rejected</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Неодобрена</source>
+                <target>Rejected</target>
+            </trans-unit>
+            <trans-unit>
+                <source>В процес на регистрация</source>
+                <target>In Process of Claim</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Моят бизнес</source>
+                <target>My Business</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Булстат на фирмата е задължителен</source>
+                <target>Company's Bulstat is mandatory</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Невалидна парола</source>
+                <target>Invalid Password</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Представител на фирмата вече се е свързал с getlokal</source>
+                <target>Company's authorized person already contacted getlokal</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Продължи регистрацията</source>
+                <target>Continue claim process</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Допълнителна информация</source>
+                <target>Additional info</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Работно време и описание на дейността на фирмата</source>
+                <target>Openning hours and company's activities description</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Име на фирмата</source>
+                <target>Company Name</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Тип на фирмата</source>
+                <target>Company Type</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Име на фирмата на латиница</source>
+                <target>Company Name in Latin</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Адрес</source>
+                <target>Address</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Класификация</source>
+                <target>Classification</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Населено място</source>
+                <target>City</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Адрес на фирмата</source>
+                <target>Company Address</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Информация за контакт</source>
+                <target>Contact Info</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Работно Време</source>
+                <target>Openning Hours</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Това е моята компания</source>
+                <target>Claim It!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>От</source>
+                <target>From</target>
+            </trans-unit>
+            <trans-unit>
+                <source>До</source>
+                <target>To</target>
+            </trans-unit> 
+            <trans-unit>
+                <source>Моля</source>
+                <target>Please</target>
+            </trans-unit>
+            <trans-unit>
+                <source>довършете регистрацията на фирмата</source>
+                <target>finish registration of the company</target>
+            </trans-unit>
+            <trans-unit>
+                <source>, ако искате да бъде одобрена и да получите достъп до повече фунционалности на сайта.</source>
+                <target> if you want your company to be approved and gain access to more features of getlokal website.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>, маркирана с </source>
+                <target> with </target>
+            </trans-unit>
+            <trans-unit>
+                <source>Отговор от </source>
+                <target>Answer from </target>
+            </trans-unit> 
+            <trans-unit>
+                <source>представител на </source>
+                <target>representative of </target>
+            </trans-unit>
+            <trans-unit>
+                <source>Булстат</source>
+                <target>Bulstat</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Тип на фирмата</source>
+                <target>Company Type</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Пощенски код</source>
+                <target>Postcode</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Улица</source>
+                <target>Street</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Номер</source>
+                <target>Number</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Квартал</source>
+                <target>Neighbourhood</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Бл.</source>
+                <target>Bl.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Вх.</source>
+                <target>Ent.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Ет.</source>
+                <target>Fl.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Ап.</source>
+                <target>Ap.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Понеделник</source>
+                <target>Monday</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Вторник</source>
+                <target>Tuesday</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Сряда</source>
+                <target>Wednesday</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Четвъртък</source>
+                <target>Thursday</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Петък</source>
+                <target>Friday</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Събота</source>
+                <target>Saturday</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Неделя</source>
+                <target>Sunday</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Български</source>
+                <target>Bulgarian</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Английски</source>
+                <target>English</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Затворено</source>
+                <target>Closed</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Работно време на фирма %s</source>
+                <target>Openning Hours of company %s</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Виж пълното мнение в блога ми »</source>
+                <target>See my full review in my blog »</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Добави фирма</source>
+                <target>Add Company</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Име на фирмата или Булстат</source>
+                <target>Company Name or Bulstat</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Натиснете %s за да добавите нова компания.</source>
+                <target>Click %s to add new company.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Намери компанията си в getlokal</source>
+                <target>Find your company in getlokal</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Вземи визитка</source>
+                <target>Get Business Card</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Към тази компания вече има асоцииран бизнес профил. Можете да се свържете с нас на info@getlokal.com.</source>
+                <target>This company as been claimed already. Please contact us at info@getlokal.com </target>
+            </trans-unit>
+            <trans-unit>
+                <source>Денонощно</source>
+                <target>Non Stop</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Детайлите за Вашата компания бяха запазени успешно. След одобрение от администратор, ще бъде добавена в getlokal.</source>
+                <target>Your company information was saved successfully. After administrator approval, it will be added in getlokal.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>%s, адрес %s, тел. %s, %s, %s</source>
+                <target>%s, address %s, phone %s, %s, %s</target>
+            </trans-unit>
+            <trans-unit>
+                <source>%s, адрес: %s, тел. %s, в %s. Ако сте собственик на %s регистрирайте бизнес профил и попълнете информация за вашата фирма.</source>
+                <target>%s, address: %s, phone: %s, in %s.If you are the owner of %s claim your business and fill in the relevant information about it.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>тел.: </source>
+                <target>phone: </target>
+            </trans-unit>
+            <trans-unit>
+                <source>адрес: </source>
+                <target>address: </target>
+            </trans-unit>
+            <trans-unit>
+                <source>С този уиджет можеш да вградиш информация за мястото (заведение, фирма и т.н.) в личния си блог или сайт. Той съдържа име на фирма, снимка, брой мнения, адрес, телефон и оценки на потребителите за определеното място и се визуализира, когато потребителят мине с мишката върху името на мястото.</source>
+                <target>You can use this widget to include information about the place in your blog or site. It contains company name, photo, number of reviews, address, telephone and rating of the place and it will appear when the user goes over the company name with the mouse.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Влез в HTML редакция на публикацията в твоя блог</source>
+                <target>Go to the HTML editor in your blog's post</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Копирай кода долу и го вмъкни в статията. В кода се съдържа името на фирмата с главни букви. Ако искаш можеш да го промениш.</source>
+                <target>Copy the code below and insert it in your post. The code contains the company name with capital letters. You can change it if you want.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Повече инфо</source>
+                <target>More info</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Повече инфо за фирма %s</source>
+                <target>More info for company %s</target>
+            </trans-unit>
+            <trans-unit>
+                <source>до 250 символа</source>
+                <target>up to 250 characters</target>
+            </trans-unit>
+            <trans-unit>
+                <source>до 5000 символа</source>
+                <target>up to 5000 characters</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Добави допълнителни класификации</source>
+                <target>Add More Classifications</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Редактиране на %s</source>
+                <target>You are editing %s</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Добави</source>
+                <target>Add</target>
+            </trans-unit>       
+            <trans-unit>
+                <source>Основна информация</source>
+                <target>General Info</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Избери класификация</source>
+                <target>Choose Classification</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Избрани класификации</source>
+                <target>Selected Classifications</target>
+            </trans-unit>
+            <trans-unit>
+                <source>изтрий</source>
+                <target>delete</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Класификации</source>
+                <target>Classifications</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Снимки</source>
+                <target>Photos</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Избери снимка от компютъра си</source>
+                <target>Browse photos from your computer</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Качи</source>
+                <target>Upload</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Снимката беше изтрита успешно.</source>
+                <target>Picture was deleted successfully.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Класификацията беше изтрита успешно.</source>
+                <target>The classification was deleted successfully.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>използвай за лого</source>
+                <target>set as logo</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Информацията, въведена за фирма %s беше запазена успешно. Ако искате да ги промените отново кликнете %s.</source>
+                <target>%s's information was saved successfully. If you want to change it, click %s.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>тук</source>
+                <target>here</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Профилната снимка на %s беше успешно сменена.</source>
+                <target>The profile picture for %s was changed successfully.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>VIP Позиция</source>
+                <target>VIP Position</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Видео</source>
+                <target>Video</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Информацията за класификациите на %s беше запазена успешно.</source>
+                <target>The classification information for %s was saved successfully.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>сложи за профилна снимка</source>
+                <target>set as profile photo</target>
+            </trans-unit>
+            <trans-unit>
+                <source>сложи за %s профилна снимка</source>
+                <target>set as profile photo</target>
+            </trans-unit>
+            <trans-unit>
+                <source> Запази </source>
+                <target> Save </target>
+            </trans-unit>
+            <trans-unit>
+                <source>Вашата фирма ще се показва в карето VIP Позиции за 3 месеца (90 дни) през периода на валидност на вашата рекламата. Вие може да промените зададените автоматично дати като използвате полетата долу. За всеки едномесечен период може да изберете различна начална дата. Началната дата за третия период не трябва да е по-късна от 30 дни преди изтичане срока на рекламата.</source>
+                <target>Your company will appear in the VIP Positions module for 3 months (90 days) between the live and end dates of your advert. You can change the automatically set dates by using the controls below. You can choose a different start date for each one-month period. The start date for the third period must not be later than 30 days before the end date of your advert.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Начална дата - Период 1</source>
+                <target>Start Date - Promo Month 1</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Начална дата - Период 2</source>
+                <target>Start Date - Promo Month 2</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Начална дата - Период 3</source>
+                <target>Start Date - Promo Month 3</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Вашата фирма ще се показва в карето VIP Позиции за 1 месец (30 дни) през периода на валидност на вашата рекламата. Вие може да промените зададената автоматично дата като използвате полето долу.</source>
+                <target>Your company will appear in the VIP Positions module for 1 month (30 days) between the live and end dates of your advert. You can change the automatically set date by using the controls below.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Всички полета маркирани с * са задължителни</source>
+                <target>All fields marked with * are mandatory</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Изберете снимка от компютъра си и въведете описание към нея. Описанието трябва да съдържа м/у 3 и 155 символа.</source>
+                <target>Browse photos from your computer and enter Caption. The caption must contain between 3 and 155 characters.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Вашата фирма се показва в карето VIP Позиции, според заявените дати от предишната ви поръчка.</source>
+                <target>Your company is already appearing in the VIP Positions module according to the dates you selected in your previous order.</target>
+            </trans-unit> 
+            <trans-unit>
+                <source>Статистика за </source>
+                <target>Stats for </target>
+            </trans-unit>
+            <trans-unit>
+                <source>Брой показвания в страница с резултати</source>
+                <target>Views in search results page</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Брой посещения на фирмената страница в getlokal.com</source>
+                <target>Visits to Company Page in getlokal.com</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Брой показвания на детайлно описание</source>
+                <target>Detail Description Views</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Брой показвания на мнения за компанията</source>
+                <target>Visits to Review Page</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Брой показвания на детайлна карта</source>
+                <target>Detail Map Views</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Брой показвания на галерията</source>
+                <target>Visits to Gallery page</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Брой показвания на работно време</source>
+                <target>Openning Hours Views</target>
+            </trans-unit> 
+            <trans-unit>
+                <source>Брой кликове към Facebook страница на компанията</source>
+                <target>Clicks on company's Facebook page link</target>
+            </trans-unit> 
+            <trans-unit>
+                <source>Брой показвания на видеа на компанията</source>
+                <target>Video files plays</target>
+            </trans-unit> 
+            <trans-unit>
+                <source>Кликове към Foursquare страница</source>
+                <target>Clicks to Foursquare page</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Кликове към Twitter страница</source>
+                <target>Clicks to Twitter page</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Кликове към Google+ страница</source>
+                <target>Clicks to Google+ page</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Кликове към Yellow Pages страница</source>
+                <target>Clicks to Yellow Pages page</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Брой изпратени имейли</source>
+                <target>Sent Emails</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Прати имейл</source>
+                <target>Send Email</target>
+            </trans-unit>
+            <trans-unit>
+                <source>изпрати имейл на фирма %s</source>
+                <target>send email to company %s</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Имейлът към фирма %s беше изпратен успешно.</source>
+                <target>The email message to %s was sent successfully</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Име на фирмата по регистрация</source>
+                <target>Registered Company Name</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Брой кликове към уебсайта на компанията</source>
+                <target>Clicks on website link</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Качете видеo</source>
+                <target>Upload Video</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Моля, задайте съдържание на полето.</source>
+                <target>Please specify the content of the field.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Заглавие на видеото.</source>
+                <target>Title of the video.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Описание на видеото.</source>
+                <target>Description of the video.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Видео клипът се качва в момента. Моля не затваряйте този прозорец и изчакайте докато качването приключи и ви се покаже съобщение, че качването е било успешно. В противен случай процесът ще бъде преустановен и вашият видео клип няма да бъде качен успешно!</source>
+                <target>Your video clip is being uploaded. Please do not close this window and wait until the process of uploading has completed and you have seen a confirmation message. If you close the window the process will be interrupted and your video will not be successfully uploaded!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Видео клипът ви беше успешно качен и ще бъде публикуван на сайта след одобрение от модератор.</source>
+                <target>The video clip was successfully uploaded and will be published after it has been approved by a moderator.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Заглавието на видеото трябва да бъде между 8 и 99 символа.</source>
+                <target>The title of the video must contain a minimum of 8 and a maximum of 99 characters.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Описанието на видео клипа трябва да бъде между 20 и 240 символа.</source>
+                <target>The description of the video must contain a minimum of 20 and a maximum of 240 characters.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Заглавие на файла</source>
+                <target>Title of file</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Описание</source>
+                <target>Description</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Моля, изберете видео клип за качване!</source>
+                <target>Please select a video for uploading!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Избери файл</source>
+                <target>Select file</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Опитахте се да качите файл в неподходящ формат. Моля качете видео файл</source>
+                <target>You tried to upload a file that is not in the allowed format for video files. Please upload a video file.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Неподходящо съдържание в мнението за </source>
+                <target>Inappropriate review submitted for </target>
+            </trans-unit>
+            <trans-unit>
+                <source>Описанието към Вашата снимка на %s беше променено успешно и снимката ще бъде публикувана на сайта след одобрение от модератор.</source>
+                <target>The caption of your photo of %s was saved successfully and the photo will be published after it has been approved by a moderator.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Описанието към Вашата снимка на %s не беше променено. Описанието към снимката е задължително и трябва да съдържа м/у 3 и 155 символа.</source>
+                <target>The caption of your photo of %s was not saved. The caption must contain between 3 and 155 characters.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>редактирай</source>
+                <target>edit caption</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Профилна снимка</source>
+                <target>Profile photo</target>
+            </trans-unit>
+            <trans-unit>
+                <source>очаква одобрение</source>
+                <target>awaiting approval</target>
+            </trans-unit>
+            <trans-unit>
+                <source>от</source>
+                <target>from</target>
+            </trans-unit>
+            <trans-unit>
+                <source>За да добавите класификация е необходимо да изберете от предложения от нас списък. Започнете да пишете името на класификация или ключова дума и ние ще ви покажем списък с предложения, за да изберете едно от тях.</source>
+                <target>If you want to add a classification you need to select from the list. Start typing the classification name or a keyword and we'll suggest a list of classifications for you to choose from.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Промените не бяха запазени. Моля, попълнете правилно информацията.</source>
+                <target>Your changes were not saved. Please fill in the information correctly.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Изберете своя град</source>
+                <target>Select Your City</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Спам защита. Въведете символите от картинката в полето долу</source>
+                <target>Security check. Enter the characters from the picture below</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Изберете видео файл от компютъра си и въведете задължителната информация в полетата долу.</source>
+                <target>Chose a video file from your computer and enter information in the mandatory fields below.</target>
+            </trans-unit> 
+            <trans-unit>
+                <source>Въведете задължителната информация в полетата долу.</source>
+                <target>Please enter information in the mandatory fields below.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Your account changes were successfully saved.</source>
+                <target>Вашият профил беше променен успешно.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Благодарим ти! Ако мястото е вече заявено, ще изпратим предложението ти на собственика. Ако не е, ще валидираме данните и след това ще ги променим.</source>
+                <target>Thank you! If the place is claimed, we will send your suggestions to the owner. If not, we will manually verify and update the details of the place.</target>
+            </trans-unit>
+  
+        </body>
+    </file>
+</xliff>

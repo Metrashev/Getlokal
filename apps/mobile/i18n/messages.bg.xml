@@ -1,0 +1,275 @@
+<?xml version="1.0" ?>
+<xliff version="1.0">
+  <file orginal="global" source-language="en_EN" datatype="plaintext">
+    <body>
+      <trans-unit>
+        <source>Mon</source>
+        <target>Пн</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Tue</source>
+        <target>Вт</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Wed</source>
+        <target>Ср</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Thu</source>
+        <target>Чт</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Fri</source>
+        <target>Пт</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Sat</source>
+        <target>Сб</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Sun</source>
+        <target>Нд</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Tomorrow</source>
+        <target>Утре</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Today</source>
+        <target>Днес</target>
+      </trans-unit>
+        <trans-unit>
+    <source>January</source>
+        <target>януари</target>
+      </trans-unit>
+    <trans-unit>
+        <source>February</source>
+        <target>февруари</target>
+      </trans-unit>
+    <trans-unit>
+        <source>March</source>
+        <target>март</target>
+      </trans-unit>
+    <trans-unit>
+        <source>April</source>
+        <target>април</target>
+      </trans-unit>
+    <trans-unit>
+        <source>May</source>
+        <target>май</target>
+      </trans-unit>
+    <trans-unit>
+        <source>June</source>
+        <target>юни</target>
+      </trans-unit>
+    <trans-unit>
+        <source>July</source>
+        <target>юли</target>
+      </trans-unit>
+     <trans-unit>
+        <source>August</source>
+        <target>август</target>
+      </trans-unit>
+     <trans-unit>
+        <source>September</source>
+        <target>септември</target>
+      </trans-unit>
+     <trans-unit>
+        <source>October</source>
+        <target>октомври</target>
+      </trans-unit>
+     <trans-unit>
+        <source>November</source>
+        <target>ноември</target>
+      </trans-unit>
+     <trans-unit>
+        <source>December</source>
+        <target>декември</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Monday</source>
+        <target>Понеделник</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Tuesday</source>
+        <target>Вторник</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Wednesday</source>
+        <target>Сряда</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Thursday</source>
+        <target>Четвъртък</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Friday</source>
+        <target>Петък</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Saturday</source>
+        <target>Събота</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Sunday</source>
+        <target>Неделя</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Free</source>
+        <target>Безплатно</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Up to 10 %s</source>
+        <target>До 10 %s</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Up to 50 %s</source>
+        <target>До 50 %s</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Up to 100 %s</source>
+        <target>До 100 %s</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Over 100 %s</source>
+        <target>Над 100 %s</target>
+      </trans-unit>
+      <trans-unit>
+        <source>ATTEND</source>
+        <target>ЩЕ ПРИСЪСТВАМ</target>
+      </trans-unit>
+      <trans-unit>
+        <source>%d participants</source>
+        <target>%d  ще присъстват</target>
+      </trans-unit>
+       <trans-unit>
+        <source>Ticket: </source>
+        <target></target>
+      </trans-unit>
+      <trans-unit>
+        <source>Reviews</source>
+        <target>Ревюта</target>
+      </trans-unit>
+      <trans-unit>
+        <source>REVIEWS</source>
+        <target>РЕВЮТА</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Address</source>
+        <target>Адрес</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Call</source>
+        <target>Позвъни</target>
+      </trans-unit>
+       <trans-unit>
+        <source>CALL</source>
+        <target>ПОЗВЪНИ</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Review</source>
+        <target>Ревю</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Add Pic</source>
+        <target>Качи снимка</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Fave</source>
+        <target>Любими</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Checked in at %s</source>
+        <target>Check-in във %s</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Closed</source>
+        <target>Затворено</target>
+      </trans-unit>
+    <trans-unit>
+        <source>Events</source>
+        <target>Събития</target>
+    </trans-unit>
+     <trans-unit>
+        <source>EVENTS</source>
+        <target>СЪБИТИЯ</target>
+    </trans-unit>
+    <trans-unit>
+        <source>Check-in</source>
+        <target>Check-in</target>
+    </trans-unit>
+        <trans-unit>
+        <source>Save</source>
+        <target>Save</target>
+    </trans-unit>
+        <trans-unit>
+        <source>Unsave</source>
+        <target>Unsave</target>
+    </trans-unit>
+        <trans-unit>
+        <source>Distance</source>
+        <target>Разстояние</target>
+    </trans-unit>
+        <trans-unit>
+        <source>km</source>
+        <target>км</target>
+    </trans-unit>
+        <trans-unit>
+        <source>review(s)</source>
+        <target>ревю</target>
+    </trans-unit>
+        <trans-unit>
+        <source>ATMs</source>
+        <target>Банкомати</target>
+    </trans-unit>
+    <trans-unit>
+        <source><![CDATA[[0]No reviews|[1]<span>1</span> review|(1,+Inf]<span>%count%</span> reviews]]></source>
+        <target><![CDATA[[0]<span>0</span> ревюта|[1]<span>1</span> ревю|(1,+Inf]<span>%count%</span> ревюта]]></target>
+    </trans-unit>
+    <trans-unit>
+      <source>Getlokal recommends</source>
+      <target>Getlokal препоръчва</target>
+    </trans-unit>
+    <trans-unit>
+      <source>Places with Offers</source>
+      <target>Места с оферти</target>
+    </trans-unit>
+    <trans-unit>
+      <source>Voucher valid from</source>
+      <target>Ваучерът е валиден от</target>
+    </trans-unit>
+    <trans-unit>
+      <source> to </source>
+      <target> до </target>
+    </trans-unit>
+    <trans-unit>
+      <source>0 available</source>
+      <target>0 налични</target>
+    </trans-unit>
+    <trans-unit>
+      <source>1 available</source>
+      <target>1 наличен</target>
+    </trans-unit>
+    <trans-unit>
+      <source> available</source>
+      <target> налични</target>
+    </trans-unit>
+    <trans-unit>
+      <source>We were unable to issue your voucher. The offer is no longer active or you have already ordered the maximum number vouchers per user.</source>
+      <target>Ваучерът не беше поръчан успешно. Тази оферта не е активна или вече си поръчал максималния брой ваучери за потребител.</target>
+    </trans-unit>
+    <trans-unit>
+      <source>OFFERS</source>
+      <target>ОФЕРТИ</target>
+    </trans-unit>
+    <trans-unit>
+      <source>Suggest an Edit</source>
+      <target>Предложи промяна</target>
+    </trans-unit>
+    <trans-unit>
+      <source>This place was added by</source>
+      <target>Това място е добавено от</target>
+    </trans-unit>
+   </body>
+  </file>
+</xliff>

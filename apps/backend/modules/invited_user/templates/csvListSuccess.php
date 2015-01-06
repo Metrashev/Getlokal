@@ -1,0 +1,1 @@
+<?php include_partial('invited_user/csvlist', array('pager' => $pager, 'sort' => $sort, 'helper' => $helper)) ?>

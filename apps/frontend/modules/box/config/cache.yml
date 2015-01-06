@@ -1,0 +1,39 @@
+_column:
+  enabled:  false
+  lifetime: 3600
+  contextual: true
+
+_boxCategories:
+  enabled:  false
+  lifetime: 7200
+  contextual: true
+
+_boxCategoriesMenu:
+  enabled:  true
+  lifetime: 7200
+  contextual: true
+
+_boxSlider2:
+  enabled:  true
+  lifetime: 7200
+  contextual: true
+
+_boxReviews:
+  enabled:  true
+  lifetime: 7200
+  contextual: true
+
+_boxReview:
+  enabled:  true
+  lifetime: 7200
+  contextual: true
+
+#_boxOffers:
+#  enabled:  true
+#  lifetime: 7200
+#  contextual: true
+
+_boxVip:
+  enabled:  true
+  lifetime: 7200
+  contextual: true

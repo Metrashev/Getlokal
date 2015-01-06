@@ -1,0 +1,283 @@
+<?xml version="1.0" ?>
+<xliff version="1.0">
+  <file orginal="global" source-language="en_EN" datatype="plaintext">
+    <body>
+     <trans-unit>
+      <source>Mon</source>
+      <target>Lun</target>
+    </trans-unit>
+     <trans-unit>
+      <source>Tue</source>
+      <target>Mar</target>
+    </trans-unit>
+     <trans-unit>
+      <source>Wed</source>
+      <target>Mie</target>
+    </trans-unit>
+     <trans-unit>
+      <source>Thu</source>
+      <target>Joi</target>
+    </trans-unit>
+     <trans-unit>
+      <source>Fri</source>
+      <target>Vin</target>
+    </trans-unit>
+     <trans-unit>
+      <source>Sat</source>
+      <target>Sâm</target>
+    </trans-unit>
+     <trans-unit>
+      <source>Sun</source>
+      <target>Dum</target>
+    </trans-unit>
+      <trans-unit>
+        <source>Tomorrow</source>
+        <target>Mâine</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Today</source>
+        <target>Azi</target>
+      </trans-unit>
+      <trans-unit>
+          <source>January</source>
+        <target>Ianuarie</target>
+      </trans-unit>
+          <trans-unit>
+        <source>February</source>
+        <target>Februarie</target>
+      </trans-unit>
+          <trans-unit>
+        <source>March</source>
+        <target>Martie</target>
+      </trans-unit>
+          <trans-unit>
+        <source>April</source>
+        <target>Aprilie</target>
+      </trans-unit>
+          <trans-unit>
+        <source>May</source>
+        <target>Mai</target>
+      </trans-unit>
+          <trans-unit>
+        <source>June</source>
+        <target>Iunie</target>
+      </trans-unit>
+          <trans-unit>
+        <source>July</source>
+        <target>Iulie</target>
+      </trans-unit>
+           <trans-unit>
+        <source>August</source>
+        <target>August</target>
+      </trans-unit>
+           <trans-unit>
+        <source>September</source>
+        <target>Septembrie</target>
+      </trans-unit>
+           <trans-unit>
+        <source>October</source>
+        <target>Octombrie</target>
+      </trans-unit>
+           <trans-unit>
+        <source>November</source>
+        <target>Noiembrie</target>
+      </trans-unit>
+           <trans-unit>
+        <source>December</source>
+        <target>Decembrie</target>
+      </trans-unit>
+    <trans-unit>
+      <source>Monday</source>
+      <target>Luni</target>
+    </trans-unit>
+    <trans-unit>
+      <source>Tuesday</source>
+      <target>Marţi</target>
+    </trans-unit>
+    <trans-unit>
+      <source>Wednesday</source>
+      <target>Miercuri</target>
+    </trans-unit>
+    <trans-unit>
+      <source>Thursday</source>
+      <target>Joi</target>
+    </trans-unit>
+    <trans-unit>
+      <source>Friday</source>
+      <target>Vineri</target>
+    </trans-unit>
+    <trans-unit>
+      <source>Saturday</source>
+      <target>Sâmbătă</target>
+    </trans-unit>
+    <trans-unit>
+      <source>Sunday</source>
+      <target>Duminică</target>
+    </trans-unit>
+    <trans-unit>
+      <source>Free</source>
+      <target>Gratuit</target>
+    </trans-unit>
+    <trans-unit>
+      <source>Up to 10 %s</source>
+      <target>până în 10 %s</target>
+    </trans-unit>
+    <trans-unit>
+      <source>Up to 50 %s</source>
+      <target>până în 50 %s</target>
+    </trans-unit>
+    <trans-unit>
+      <source>Up to 100 %s</source>
+      <target>până în 100 %s</target>
+    </trans-unit>
+    <trans-unit>
+      <source>Over 100 %s</source>
+      <target>peste 100 %s</target>
+    </trans-unit>
+    <trans-unit>
+      <source>ATTEND</source>
+      <target>VOI PARTICIPA</target>
+    </trans-unit>
+     <trans-unit>
+      <source>%d participants</source>
+      <target>%d participanti</target>
+    </trans-unit>
+     <trans-unit>
+      <source>Reviews</source>
+      <target>Opinii</target>
+    </trans-unit>
+    <trans-unit>
+      <source>REVIEWS</source>
+      <target>OPINII</target>
+    </trans-unit>
+     <trans-unit>
+      <source>Address</source>
+      <target>Adresa</target>
+    </trans-unit>
+     <trans-unit>
+      <source>Call</source>
+      <target>Sună la</target>
+    </trans-unit>
+    <trans-unit>
+      <source>CALL</source>
+      <target>SUNĂ LA</target>
+    </trans-unit>
+     <trans-unit>
+      <source>Ticket: </source>
+      <target>Un bilet costă: </target>
+    </trans-unit>
+    <trans-unit>
+      <source>Review</source>
+      <target>Recomandă</target>
+    </trans-unit>
+    <trans-unit>
+      <source>Add Pic</source>
+      <target>Foto</target>
+    </trans-unit>
+    <trans-unit>
+      <source>Fave</source>
+      <target>Favorite</target>
+    </trans-unit>
+    <trans-unit>
+      <source>Checked in at %s</source>
+      <target>A facut checkin la %s</target>
+    </trans-unit>
+    <trans-unit>
+      <source>Closed</source>
+      <target>Închis</target>
+    </trans-unit>
+    <trans-unit>
+        <source>Events</source>
+        <target>Evenimente</target>
+    </trans-unit>
+    <trans-unit>
+        <source>EVENTS</source>
+        <target>EVENIMENTE</target>
+    </trans-unit>
+    <trans-unit>
+        <source>Check-in</source>
+        <target>Check-in</target>
+    </trans-unit>
+        <trans-unit>
+        <source>Save</source>
+        <target>Save</target>
+    </trans-unit>
+        <trans-unit>
+        <source>Unsave</source>
+        <target>Unsave</target>
+    </trans-unit>
+        <trans-unit>
+        <source>Distance</source>
+        <target>Distanță</target>
+    </trans-unit>
+        <trans-unit>
+        <source>km</source>
+        <target>km</target>
+    </trans-unit>
+        <trans-unit>
+        <source>review(s)</source>
+        <target>opinii</target>
+    </trans-unit>
+        <trans-unit>
+        <source>ATMs</source>
+        <target>Bancomate</target>
+    </trans-unit>
+    <trans-unit>
+       <source><![CDATA[[0]No reviews|[1]<span>1</span> review|(1,+Inf]<span>%count%</span> reviews]]></source>
+       <target><![CDATA[[0]<span>0</span> recomandări|[1]<span>1</span> recomandare|(1,+Inf]<span>%count%</span> recomandări]]></target>
+    </trans-unit>
+    <trans-unit>
+        <source>We are mobile</source>
+        <target>Suntem și pe mobil:</target>
+    </trans-unit>
+    <trans-unit>
+        <source>Select Country</source>
+        <target>Alege țara</target>
+    </trans-unit>
+    <trans-unit>
+      <source>Getlokal recommends</source>
+      <target>Recomandări Getlokal</target>
+    </trans-unit>
+    <trans-unit>
+      <source>Places with Offers</source>
+      <target>Locuri cu Oferte</target>
+    </trans-unit>
+    <trans-unit>
+      <source>Voucher valid from</source>
+      <target>Voucher valid de la</target>
+    </trans-unit>
+    <trans-unit>
+      <source> to </source>
+      <target> pana la </target>
+    </trans-unit>
+    <trans-unit>
+      <source>0 available</source>
+      <target>0 disponibile</target>
+    </trans-unit>
+    <trans-unit>
+      <source>1 available</source>
+      <target>1 disponibil</target>
+    </trans-unit>
+    <trans-unit>
+      <source> available</source>
+      <target> disponibile</target>
+    </trans-unit>
+    <trans-unit>
+      <source>We were unable to issue your voucher. The offer is no longer active or you have already ordered the maximum number vouchers per user.</source>
+      <target>Nu s-a putut emite voucherul dumneavostră. Oferta nu mai este activă sau ați atins numărul maxim de vouchere emise per utilizator.</target>
+    </trans-unit>
+    <trans-unit>
+      <source>OFFERS</source>
+      <target>Oferte</target>
+    </trans-unit>
+    <trans-unit>
+      <source>Suggest an Edit</source>
+      <target>Propune o corecție</target>
+    </trans-unit>
+    <trans-unit>
+    	<source>This place was added by</source>
+        <target>Acest loc a fost adăugat de</target>
+    </trans-unit>
+ </body>
+  </file>
+</xliff>

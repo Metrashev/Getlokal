@@ -1,0 +1,20 @@
+reviewPlaceSuccess:
+  stylesheets: [promo/reviewplace.css]
+  
+addPlaceSuccess:
+  stylesheets: [promo/addplace.css]
+  
+reviewPlaceMkSuccess:
+  stylesheets: [promo/reviewplace_mk.css]
+  
+reviewPlaceOldSuccess:
+  stylesheets: [promo/reviewplace.css]
+
+reviewManiaSuccess:
+  stylesheets: [promo/reviewmania.css]
+
+reviewManiaX3Success:
+  stylesheets: [promo/reviewmaniax3.css]
+
+ambassadorSuccess:
+  stylesheets: [promo/ambassador.css]

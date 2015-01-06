@@ -1,0 +1,67 @@
+<?xml version="1.0" ?>
+<xliff version="1.0">
+	<file orginal="global" source-language="en_EN" datatype="plaintext">
+		<body>			
+      		<trans-unit>
+	        	<source>Place Claim in getlokal</source>
+	       		<target>Zayavka za administrirane na myasto v getlokal</target>
+      		</trans-unit>
+      		<trans-unit>
+	        	<source>Welcome to getlokal</source>
+	       		<target>Dobre doshli v getlokal</target>
+      		</trans-unit>
+      		<trans-unit>
+	        	<source>Request through getlokal</source>
+	       		<target>Zapitvane prez getlokal</target>
+      		</trans-unit>  
+      		<trans-unit>
+	        	<source>Claim Request</source>
+	       		<target>Zayavka za administrirane na myasto</target>
+      		</trans-unit>
+      		<trans-unit>
+	        	<source>Forgotten Password</source>
+	       		<target>Zabravena parola</target>
+      		</trans-unit>
+      		<trans-unit>
+	        	<source>getlokal Account Activation</source>
+	       		<target>Aktivirane na profile v getlokal</target>
+      		</trans-unit>
+      		<trans-unit>
+	        	<source>Change Email Confirmation</source>
+	       		<target>Potvyrdi promqna na email</target>
+      		</trans-unit>
+      		<trans-unit>
+	        	<source>Forgotten Place Admin Password</source>
+	       		<target>Zabravena parola za myasto</target>
+      		</trans-unit>
+      		<trans-unit>
+	        	<source>Forgotten Username</source>
+	       		<target>Zabraveno potrebitelsko ime</target>
+      		</trans-unit>
+      		<trans-unit>
+	        	<source>Approved Place Claim in getlokal</source>
+	       		<target>Odobrenie za administrator na myasto</target>
+      		</trans-unit>
+      		<trans-unit>
+	        	<source>Rejected Place Claim in getlokal</source>
+	       		<target>Othvyrlena zayavka za administrator</target>
+      		</trans-unit> 
+      		<trans-unit>
+	        	<source>Your Place Profile in getlokal</source>
+	       		<target>Profilat na vasheto miasto v getlokal</target>
+      		</trans-unit>   
+      		<trans-unit>
+	        	<source>Update Place Profile in getlokal</source>
+	       		<target>Aktualiziraite profila na miastoto v getlokal!</target>
+      		</trans-unit>
+      		<trans-unit>
+	        	<source>Approved Place on getlokal</source>
+	       		<target>Odobreno predlojenie za myasto</target>
+      		</trans-unit> 
+      		<trans-unit>
+	        	<source>Rejected Place on getlokal</source>
+	       		<target>Neodobreno predlojenie za myasto</target>
+      		</trans-unit>      		   				      		
+		</body>
+	</file>
+</xliff>

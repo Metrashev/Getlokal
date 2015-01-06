@@ -1,0 +1,43 @@
+generator:
+  class: sfDoctrineGenerator
+  param:
+    model_class:           Review
+    theme:                 admin
+    non_verbose_templates: true
+    with_show:             false
+    singular:              ~
+    plural:                ~
+    route_prefix:          review
+    with_doctrine_route:   true
+    actions_base_class:    sfActions
+
+    config:
+      actions: ~
+      fields:  ~
+      list:
+        title:         Recent reviews
+        layout:        stacked
+        display:       [id, title, created_at, recommended_at ]
+        fields:
+          recommended_at: { name: Top Review }
+        params:  |
+          <div style="float: left; margin-right: 10px;">%%_thumb%%</div>  
+          <div style="float: left; width: 500px">
+            <strong>%%user_profile%%</strong>: %%text%% - (<strong>rating: %%rating%%</strong>)<br />
+            %%_recomended%%<small>for %%_company%% - created on %%created_at%%</small>
+          </div>
+        max_per_page:  15
+        sort:          [ created_at, desc ]
+        table_method:  getQueryForAdmin
+        object_actions:
+          top_review:  { label: Toggle Top Review, action: mark }
+          _edit:      ~
+          _delete:    ~
+        batch_actions:
+          approve:     ~
+          disapprove:  ~
+          delete:  ~
+      filter:  ~
+      form:    ~
+      edit:    ~
+      new:     ~

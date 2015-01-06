@@ -1,0 +1,3 @@
+addCompany:
+  enabled:     false
+  lifetime:    86400

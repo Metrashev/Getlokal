@@ -1,0 +1,117 @@
+<?xml version="1.0" ?>
+<xliff version="1.0">
+    <file orginal="global" source-language="en_EN" datatype="plaintext">
+        <body>
+            <trans-unit>
+                <source>Related Places</source>
+                <target>Поврзани места</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Related Lists</source>
+                <target>Поврзани листи</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Related Events</source>
+                <target>Поврзани настани</target>
+            </trans-unit>
+            <trans-unit>
+                <source>From Moderator</source>
+                <target>Од администраторот</target>
+            </trans-unit>
+            <trans-unit>
+                <source>From Author</source>
+                <target>Од авторот</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Article Photo Gallery</source>
+                <target>Фото галерија за написот</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Related Articles</source>
+                <target>Поврзани написи</target>
+            </trans-unit>
+            <trans-unit>
+                <source>SEO</source>
+                <target>SEO</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Create an Article</source>
+                <target>Нов напис</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Edit Article</source>
+                <target>Промени напис</target>
+            </trans-unit>
+            <trans-unit>
+                <source>New Article</source>
+                <target>Нов напис</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Copy this code and position it where you want the quotation to appear in the text!</source>
+                <target>Копирај го овој код и позиционирај го таму каде сакаш овој цитат да се појави во текстот!</target>
+            </trans-unit>
+			
+            <trans-unit>
+                <source>If you want to show an image in the article text, copy the code to the right of this image and paste it where you want it to appear in the 'Article Content' field.</source>
+                <target>Ако сакаш да прикажеш слика во текстот од написот, копирај го кодот над оваа слика и постави го во полето 'Содржина на написот', точно таму каде што сакаш да се појави сликата</target>
+            </trans-unit>
+			
+            <trans-unit>
+                <source>Back to 'Articles</source>
+                <target>Назад кон 'Написи'</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Source</source>
+                <target>Извор</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Go to Article</source>
+                <target>Прегледај напис</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The article was not saved. Please fill in all mandatory fields.</source>
+                <target>Написот не е зачуван. Пополнете ги сите задолжителни полиња.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The atricle title and content are mandatory for at least one of the two language versions.</source>
+                <target>Насловот на написот и содржината се задолжителни за барем една од двете јазични верзии.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Categories</source>
+                <target>Категории</target>
+            </trans-unit>
+            <trans-unit>
+                <source>This slug has already been used in another article. Please enter a new slug for the English version of  the article.</source>
+                <target>Линкот е веќе искористен за друг напис. Внесете нов линк за англиската верзија на написот.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>This slug has already been used in another article. Please enter a new slug for the Macedonian version of  the article.</source>
+                <target>Линкот е веќе искористен за друг напис. Внесете нов линк за македонската верзија на написот.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Edit Source</source>
+                <target>Промени извор</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Edit Description</source>
+                <target>Промени описот</target>
+            </trans-unit>
+            <trans-unit>
+                <source>This article is created by</source>
+                <target>Статијата е напишана од</target>
+            </trans-unit> 
+            <trans-unit>
+                <source>Choose</source>
+                <target>Одбери</target>
+            </trans-unit>
+            <trans-unit>
+                <source>More articles from</source>
+                <target>Повеќе статии од</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Select Category</source>
+                <target>Одбери категорија</target>
+            </trans-unit>
+        </body>
+    </file>	 
+</xliff>

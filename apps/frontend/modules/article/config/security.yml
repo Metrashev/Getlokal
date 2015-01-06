@@ -1,0 +1,15 @@
+Create:
+  is_secure: true
+  credentials: [[article_writer,article_editor,admin]]
+Edit:
+  is_secure: true
+  credentials: [[article_writer,article_editor,admin]]
+Delete:
+  is_secure: true
+  credentials: admin
+AddPageToArticle:
+  is_secure: true
+  credentials: [[article_editor,admin]]
+DelPageFromArticle:
+  is_secure: true
+  credentials: [[article_editor,admin]]

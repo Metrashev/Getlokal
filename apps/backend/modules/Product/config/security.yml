@@ -1,0 +1,5 @@
+default:
+  is_secure: true
+  credentials: [[product_bg, product_ro, product_sr, product_mk, product_fi]]
+logout:
+    is_secure: false

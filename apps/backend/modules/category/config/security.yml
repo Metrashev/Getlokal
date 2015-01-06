@@ -1,0 +1,5 @@
+default:
+  is_secure: true
+  credentials: [[category_bg, category_ro, category_sr, category_mk, category_fi, category_me, category_ru]]
+logout:
+    is_secure: false

@@ -1,0 +1,9 @@
+eatingOutSuccess:
+  layout: layout_banners
+  #javascripts: [jquery.js, carousel.js, jquery.rs.carousel-continuous.js, jquery.rs.carousel-autoscroll.js]
+  stylesheets: [banners/banners.css]
+
+eatingOut4Success:
+   layout: layout_banners
+   javascripts: [jquery.infinite-carousel.js]
+   stylesheets: [banners/banners4layout.css]

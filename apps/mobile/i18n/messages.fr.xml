@@ -1,0 +1,367 @@
+<?xml version="1.0" ?><xliff version="1.0">
+  <file datatype="plaintext" original="global" source-language="en">
+    <body>
+     <trans-unit id="1">
+      <source>Mon</source>
+      <target>Lun</target>
+      
+    </trans-unit>
+     <trans-unit id="2">
+      <source>Tue</source>
+      <target>Mar</target>
+      
+    </trans-unit>
+     <trans-unit id="3">
+      <source>Wed</source>
+      <target>Mer</target>
+      
+    </trans-unit>
+     <trans-unit id="4">
+      <source>Thu</source>
+      <target>Jeu</target>
+      
+    </trans-unit>
+     <trans-unit id="5">
+      <source>Fri</source>
+      <target>Ven</target>
+      
+    </trans-unit>
+     <trans-unit id="6">
+      <source>Sat</source>
+      <target>Sam</target>
+      
+    </trans-unit>
+     <trans-unit id="7">
+      <source>Sun</source>
+      <target>Dim</target>
+      
+    </trans-unit>
+
+      <trans-unit id="8">
+        <source>Tomorrow</source>
+        <target>Demain</target>
+        
+      </trans-unit>
+      <trans-unit id="9">
+        <source>Today</source>
+        <target>Aujourd'hui</target>
+        
+      </trans-unit>
+      <trans-unit id="10">
+	  <source>January</source>
+	  <target>Janvier</target>
+        
+      </trans-unit>
+	  <trans-unit id="11">
+        <source>February</source>
+        <target>Février</target>
+        
+      </trans-unit>
+	  <trans-unit id="12">
+        <source>March</source>
+        <target>Mars</target>
+        
+      </trans-unit>
+	  <trans-unit id="13">
+        <source>April</source>
+        <target>Avril</target>
+        
+      </trans-unit>
+	  <trans-unit id="14">
+        <source>May</source>
+        <target>Mai</target>
+        
+      </trans-unit>
+	  <trans-unit id="15">
+        <source>June</source>
+        <target>Juin</target>
+        
+      </trans-unit>
+	  <trans-unit id="16">
+        <source>July</source>
+        <target>Juillet</target>
+        
+      </trans-unit>
+	   <trans-unit id="17">
+        <source>August</source>
+        <target>Août</target>
+        
+      </trans-unit>
+	   <trans-unit id="18">
+        <source>September</source>
+        <target>Septembre</target>
+        
+      </trans-unit>
+	   <trans-unit id="19">
+        <source>October</source>
+        <target>Octobre</target>
+        
+      </trans-unit>
+	   <trans-unit id="20">
+        <source>November</source>
+        <target>Novembre</target>
+        
+      </trans-unit>
+	   <trans-unit id="21">
+        <source>December</source>
+        <target>Décembre</target>
+        
+      </trans-unit>
+
+    <trans-unit id="22">
+      <source>Monday</source>
+      <target>Lundi</target>
+      
+    </trans-unit>
+    <trans-unit id="23">
+      <source>Tuesday</source>
+      <target>Mardi</target>
+      
+    </trans-unit>
+    <trans-unit id="24">
+      <source>Wednesday</source>
+      <target>Mercredi</target>
+      
+    </trans-unit>
+    <trans-unit id="25">
+      <source>Thursday</source>
+      <target>Jeudi</target>
+      
+    </trans-unit>
+    <trans-unit id="26">
+      <source>Friday</source>
+      <target>Vendredi</target>
+      
+    </trans-unit>
+    <trans-unit id="27">
+      <source>Saturday</source>
+      <target>Samedi</target>
+      
+    </trans-unit>
+    <trans-unit id="28">
+      <source>Sunday</source>
+      <target>Dimanche</target>
+      
+    </trans-unit>
+
+    <trans-unit id="29">
+      <source>Free</source>
+      <target>Gratuit</target>
+      
+    </trans-unit>
+    <trans-unit id="30">
+      <source>Up to 10 %s</source>
+      <target>Jusqu'à 10 %</target>
+      
+    </trans-unit>
+    <trans-unit id="31">
+      <source>Up to 50 %s</source>
+      <target>Jusqu'à 50 %</target>
+      
+    </trans-unit>
+    <trans-unit id="32">
+      <source>Up to 100 %s</source>
+      <target>Jusqu'à 100 %</target>
+      
+    </trans-unit>
+    <trans-unit id="33">
+      <source>Over 100 %s</source>
+      <target>Plus de 100 %</target>
+      
+    </trans-unit>
+
+    <trans-unit id="34">
+      <source>ATTEND</source>
+      <target>ASSISTER</target>
+      
+    </trans-unit>
+     <trans-unit id="35">
+      <source>%d participants</source>
+      <target>%d participants </target>
+      
+    </trans-unit>
+
+
+     <trans-unit id="36">
+      <source>Reviews</source>
+      <target>Avis</target>
+      
+    </trans-unit>
+
+    <trans-unit id="37">
+      <source>REVIEWS</source>
+      <target>AVIS</target>
+      
+    </trans-unit>
+
+     <trans-unit id="38">
+      <source>Address</source>
+      <target>adresse</target>
+      
+    </trans-unit>
+
+     <trans-unit id="39">
+      <source>Call</source>
+      <target>Appel</target>
+      
+    </trans-unit>
+
+    <trans-unit id="40">
+      <source>CALL</source>
+      <target>APPEL</target>
+      
+    </trans-unit>
+
+     <trans-unit id="41">
+      <source>Ticket: </source>
+      <target>Ticket :</target>
+      
+    </trans-unit>
+    <trans-unit id="42">
+      <source>Review</source>
+      <target>Avis</target>
+      
+    </trans-unit>
+    <trans-unit id="43">
+      <source>Add Pic</source>
+      <target>Ajouter une image</target>
+      
+    </trans-unit>
+    <trans-unit id="44">
+      <source>Fave</source>
+      <target>Favori</target>
+      
+    </trans-unit>
+    <trans-unit id="45">
+      <source>Checked in at %s</source>
+      <target>Enregistré à %s</target>
+      
+    </trans-unit>
+    <trans-unit id="46">
+      <source>Closed</source>
+      <target>Fermé</target>
+      
+    </trans-unit>
+
+    <trans-unit id="47">
+        <source>Events</source>
+        <target>Événements</target>
+        
+    </trans-unit>
+
+    <trans-unit id="48">
+        <source>EVENTS</source>
+        <target>ÉVÉNEMENTS</target>
+        
+    </trans-unit>
+
+    <trans-unit id="49">
+        <source>Check-in</source>
+        <target>Enregistrement</target>
+        
+    </trans-unit>
+	<trans-unit id="50">
+        <source>Save</source>
+        <target>Save</target>
+        
+    </trans-unit>
+	<trans-unit id="51">
+        <source>Unsave</source>
+        <target>Unsave</target>
+        
+    </trans-unit>
+	<trans-unit id="52">
+        <source>Distance</source>
+        <target>Distance</target>
+        
+    </trans-unit>
+	<trans-unit id="53">
+        <source>km</source>
+        <target>Km</target>
+        
+    </trans-unit>
+	<trans-unit id="54">
+        <source>review(s)</source>
+        <target>Commentaire (s)</target>
+        
+    </trans-unit>
+
+	<trans-unit id="55">
+        <source>ATMs</source>
+        <target>DAB</target>
+        
+    </trans-unit>
+
+    <trans-unit id="56">
+       <source><![CDATA[[0]No reviews|[1]<span>1</span> review|(1,+Inf]<span>%count%</span> reviews]]></source>
+       <target>[0]Aucun avis|[1]&lt;span&gt;1&lt;/span&gt; Avis|(1,+Inf]&lt;span&gt;%count%&lt;/span&gt; Avis</target>
+       
+    </trans-unit>
+    <trans-unit id="57">
+        <source>We are mobile</source>
+        <target>Nous sommes mobiles</target>
+        
+    </trans-unit>
+    <trans-unit id="58">
+        <source>Select Country</source>
+        <target>Choisir le pays</target>
+        
+    </trans-unit>
+    <trans-unit id="59">
+      <source>Getlokal recommends</source>
+      <target>Recommandé par getlokal</target>
+      
+    </trans-unit>
+    <trans-unit id="60">
+      <source>Places with Offers</source>
+      <target>Places avec offres</target>
+      
+    </trans-unit>
+    <trans-unit id="61">
+      <source>Voucher valid from</source>
+      <target>Forme valide du bon</target>
+      
+    </trans-unit>
+    <trans-unit id="62">
+      <source> to </source>
+      <target>à</target>
+      
+    </trans-unit>
+
+    <trans-unit id="63">
+      <source>0 available</source>
+      <target>0 disponible</target>
+      
+    </trans-unit>
+    <trans-unit id="64">
+      <source>1 available</source>
+      <target>1 disponible</target>
+      
+    </trans-unit>
+    <trans-unit id="65">
+      <source> available</source>
+      <target>Disponible</target>
+      
+    </trans-unit>
+
+    <trans-unit id="66">
+      <source>We were unable to issue your voucher. The offer is no longer active or you have already ordered the maximum number vouchers per user.</source>
+      <target>Nous n'avons pas pu produire votre coupon. L'offre n'est plus active ou vous avez déjà obtenu le nombre maximal de coupons par utilisateur.</target>
+      
+    </trans-unit>
+    <trans-unit id="67">
+      <source>OFFERS</source>
+      <target>OFFRES</target>
+      
+    </trans-unit>
+	<trans-unit id="68">
+      <source>Suggest an Edit</source>
+      <target>Suggérez une modification</target>
+    </trans-unit>
+    <trans-unit id="69">
+        <source>This place was added by</source>
+        <target>Cet endroit a été ajouté par</target>
+    </trans-unit>
+ </body>
+  </file>
+</xliff>

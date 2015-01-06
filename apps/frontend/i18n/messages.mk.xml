@@ -1,0 +1,1548 @@
+<?xml version="1.0" ?>
+<xliff version="1.0">
+    <file orginal="global" source-language="en_EN" datatype="plaintext">
+        <body>
+            <trans-unit>
+                <source>The information you entered was saved successfully.</source>
+                <target>Внесената информација беше успешно зачувана.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Your company information was saved successfully. It will be added to getlokal after it has been approved by an administrator.</source>
+                <target>Информациите за Вашата фирма се успешно зачувани. Ќе бидат додадени на getlokal откако ќе бидат одобрени од администратор.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Your username should contain only alphanumeric characters, dash, dot or underscore</source>
+                <target>Вашето корисничко име треба да содржи само латински букви, цифри, "-"," _" или "."</target>
+            </trans-unit>
+            <trans-unit>
+                <source>This field is required</source>
+                <target>Ова поле е задолжително</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The email and/or password are invalid</source>
+                <target>e-mail адресата и/или лозинката се погрешни</target>
+            </trans-unit>
+            <trans-unit>
+                <source>BULGARIA</source>
+                <target>БУГАРИЈА</target>
+            </trans-unit>
+            <trans-unit>
+                <source>No Results found for %keyword% in %place%</source>
+                <target>Нема пронајдени резултати за %keyword% во %place%</target>
+            </trans-unit>
+            <trans-unit>
+                <source>If you want to search again for another location, please use the 'Where' field to enter the right location. It is also possible to expand your search to cover the whole of %s</source>
+                <target>Ако сакате да пребарувате повторно за друга локација, во полето 'Каде' внесете ја точната локација. Можете и да го проширите пребарувањето за да ја покриете цела %s</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Couldn't find the place you were looking for? Send it to us and we'll add it.</source>
+                <target>Не можете да го најдете местото кое го барате? Испратете ни информации за него, и ние ќе го додадеме.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Couldn't find the place you were looking for? %s and we'll add it.</source>
+                <target>Не можете да го најдете местото кое го барате? %s, и ние ќе го додадеме.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Send it to us</source>
+                <target>Испратете ни информации за него</target>
+            </trans-unit>
+            <trans-unit>
+                <source>click here</source>
+                <target>кликнете тука</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Resend an activation mail</source>
+                <target>Препрати ми e-mail за активација</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Password is mandatory</source>
+                <target>Лозинката е задолжителна</target>
+            </trans-unit>
+            <trans-unit>
+                <source>for</source>
+                <target>за</target>
+            </trans-unit>
+            <trans-unit>
+                <source> for </source>
+                <target> за </target>
+            </trans-unit>
+            <trans-unit>
+                <source>E-mail</source>
+                <target>E-mail</target>
+            </trans-unit>
+            <trans-unit>
+                <source>%s in %s</source>
+                <target>%s во %s</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Your email was changed successfully.</source>
+                <target>Вашиот e-mail е успешно променет.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Sign Up</source>
+                <target>Регистрирај се</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Login</source>
+                <target>Најави се</target>
+            </trans-unit>
+            <trans-unit>
+                <source>About Us</source>
+                <target>За нас</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Contact Us</source>
+                <target>Контактирај не</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Reviews</source>
+                <target>Препораки</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Lists</source>
+                <target>Листи</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Directory</source>
+                <target>Категории</target>
+            </trans-unit>
+            <trans-unit>
+                <source>City</source>
+                <target>Град</target>
+            </trans-unit>
+            <trans-unit>
+                <source>see all</source>
+                <target>види ги сите</target>
+            </trans-unit>
+            <trans-unit>
+                <source>hide</source>
+                <target>сокриј</target>
+            </trans-unit>
+            <trans-unit>
+                <source>See more in</source>
+                <target>Видете повеќе во</target>
+            </trans-unit>
+            <trans-unit>
+                <source>reviews</source>
+                <target>препораки</target>
+            </trans-unit>
+            <trans-unit>
+                <source>review</source>
+                <target>препорака</target>
+            </trans-unit>
+            <trans-unit>
+                <source>About Us</source>
+                <target>За нас</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Contact Us</source>
+                <target>Контактирај не</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Terms of Use</source>
+                <target>Условите за користење</target>
+            </trans-unit>
+            <trans-unit>
+                <source>FAQ's</source>
+                <target>ЧПП</target>
+            </trans-unit>
+            <trans-unit>
+                <source>from</source>
+                <target>од</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Report Abuse</source>
+                <target>Пријави злоупотреба</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Blog</source>
+                <target>Блог</target>
+            </trans-unit>
+            <trans-unit>
+                <source>My Vouchers</source>
+                <target>Моите ваучери</target>
+            </trans-unit>
+            <trans-unit>
+                <source>OR</source>
+                <target>ИЛИ</target>
+            </trans-unit>
+            <trans-unit>
+                <source>or</source>
+                <target>или</target>
+            </trans-unit>
+            <trans-unit>
+                <source>see more</source>
+                <target>види повеќе</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Register</source>
+                <target>Регистрирај се</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Other Services</source>
+                <target>Други услуги</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Bulgaria</source>
+                <target>Бугарија</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Romania</source>
+                <target>Романија</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Macedonia</source>
+                <target>Македонија</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Serbia</source>
+                <target>Србија</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Finland</source>
+                <target>Финска</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Hungary</source>
+                <target>Унгарија</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Montenegro</source>
+                <target>Црна Гора</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Articles</source>
+                <target>Статии</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Events</source>
+                <target>Настани</target>
+            </trans-unit>
+            <trans-unit>
+                <source>New List</source>
+                <target>Нов листа</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Lists</source>
+                <target>Листи</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Delete</source>
+                <target>Избриши</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Save</source>
+                <target>Зачувај</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Add Place</source>
+                <target>Додади место</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Add other place</source>
+                <target>Додади другo место</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Edit</source>
+                <target>Уреди</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Close</source>
+                <target>Затвори</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Search</source>
+                <target>Барај</target>
+            </trans-unit>
+            <trans-unit>
+                <source>more info</source>
+                <target>повеќе информации</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Your review was published successfully.</source>
+                <target>Твојата препорака беше успешно објавена.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Your answer was published successfully.</source>
+                <target>Вашиот одговор беше успешно објавен.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Review was deleted successfully.</source>
+                <target>Препораката беше успешно избришана.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Confirm deletion</source>
+                <target>Потврди го бришењето</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The offer was not saved. Please fill in all mandatory fields.</source>
+                <target>Понудата не беше зачувана. Ве молиме пополнете ги сите задолжителни полиња.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Account Settings</source>
+                <target>Подесувања на профилот</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Personal Information</source>
+                <target>Лични информации</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Change Password</source>
+                <target>Промени лозинка</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Change Email</source>
+                <target>Промени e-mail</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The photo was deleted successfully.</source>
+                <target>Сликата беше успешно избришана.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The classification was deleted successfully.</source>
+                <target>Класификацијата беше успешно избришана.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The profile picture was changed successfully.</source>
+                <target>Сликата на профилот беше успешно променета.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>[0]No uploaded photos yet.|[1]1 uploaded photo|(1,+Inf]%count% uploaded photos</source>
+                <target>[0]Нема прикачени слики сеуште.|[1]1 прикачена слика|(1,+Inf]%count% прикачени слики</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Photos</source>
+                <target>Слики</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The photo was published successfully.</source>
+                <target>Сликата е успешно објавена</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Name</source>
+                <target>Име</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Surname</source>
+                <target>Презиме</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Your account changes were successfully saved.</source>
+                <target>Вашите промени на профилот беа успешно зачувани.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Security Settings</source>
+                <target>Подесувања на безбедност</target>
+            </trans-unit>
+            <trans-unit>
+                <source>No results found.</source>
+                <target>Нема пронајдени резултати.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Settings</source>
+                <target>Подесувања</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Your password was changed successfully.</source>
+                <target>Вашата лозинка беше успешно променета.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Send</source>
+                <target>Испрати</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The changes were saved successfully.</source>
+                <target>Промените беа успешно зачувани.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Profile Photo Gallery</source>
+                <target>Галерија на слики на профилот</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The classification information was saved successfully.</source>
+                <target>Информациите за класификација беа успешно променети.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The detailed description was activated successfully.</source>
+                <target>Деталниот опис беше успешно зачуван.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Change Username</source>
+                <target>Промени корисничко име</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Your username was changed successfully.</source>
+                <target>Вашето корисничко име беше успешно променето.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Picture was saved successfully.</source>
+                <target>Сликата беше успешно зачувана.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Admin status changed successfully.</source>
+                <target>Статусот на администратор беше успешно променет.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Invalid or inactive offer</source>
+                <target>Погрешна или неактивна понуда</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The offer is already active.</source>
+                <target>Понудата е веќе активна.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Stop Administration</source>
+                <target>Стопирај администрирање</target>
+            </trans-unit>
+            <trans-unit>
+                <source>English</source>
+                <target>Англиски</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The offer was deactivated successfully.</source>
+                <target>Понудата беше успешно деактивирана.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The offer was added successfully.</source>
+                <target>Понудата беше успешно додадена.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The offer was activated successfully..</source>
+                <target>Понудата беше успешно активирана.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The offer title and description (terms) are mandatory for at least one of the two language versions.</source>
+                <target>Името и описот (условите) на понудата се задолжителни за барем еден од двата јазици.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Search in getlokal</source>
+                <target>Пребарај на getlokal</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Are you sure ?</source>
+                <target>Дали сте сигурни?</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Users</source>
+                <target>Корисници</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Where</source>
+                <target>Каде</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Website</source>
+                <target>Веб-страна</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Badges</source>
+                <target>Значки</target>
+            </trans-unit>
+            <trans-unit>
+                <source>We were unable to send a confirmation request to the email address that you provided. Please check the email you provided is correct.</source>
+                <target>Не успеавме да испратиме e-mail за активација на e-mail адресата што ја внесовте. Проверете дали е точна.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Your account has been activated. You can now log in using the email and password you provided at registration time.</source>
+                <target>Вашиот профил е успешно активиран. Сега може да се најавите со Вашето корисничко име и лозинка што ги внесовте при регистрација.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The new password was sent successfully to the email you provided.</source>
+                <target>Вашата нова лозинка е успешно испратена на e-mail адресата што ја внесовте.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Leave comment</source>
+                <target>Напиши коментар</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Company Admins</source>
+                <target>Администратори на фирма</target>
+            </trans-unit>
+            <trans-unit>
+                <source>See Place Page</source>
+                <target>Видете ја страната на фирмата</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Approve</source>
+                <target>Одобри</target>
+            </trans-unit>
+            <trans-unit>
+                <source>аpprove</source>
+                <target>oдобри</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Reject</source>
+                <target>Одбиј</target>
+            </trans-unit>
+            <trans-unit>
+                <source>reject</source>
+                <target>одбиј</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Approve?</source>
+                <target>Одобри</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Reject</source>
+                <target>Одбиј?</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Publish</source>
+                <target>Објави</target>
+            </trans-unit>
+            <trans-unit>
+                <source>We were unable to process your request. Place administration process failed.</source>
+                <target>Не бевме во можност да го процесираме Вашето барање. Процесот на администрација на местото не беше успешен.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Do you know your city?</source>
+                <target>Го познавате ли Вашиот град?</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Express your opinion and win badges on our site!</source>
+                <target>Кажете ја Вашата препорака и освојте значки на нашата страна!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Make lists with your favourite places and follow them on getlokal!</source>
+                <target>Направете листа на вашите омилена места и следете ги на getlokal!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Be the first to find out about deals and discounts in the places you like!</source>
+                <target>Бидете први кои ќе откријат понуди и попусти во местата кои ви се допаѓаат!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Bussines</source>
+                <target>Бизниси</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Engage with your customers!</source>
+                <target>Разговарајте со Вашите клиенти!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Take your communication online - be social and active</source>
+                <target>Пренесете ја Вашата комуникација он-лајн – бидете социјален и активен</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Take control of your advertising - no intermediates - you can update your profile at any moment, with deals and events!</source>
+                <target>Превземете ја контролата на Вашето рекламирање – без посредници. Може да го обновите Вашиот профил во секое време со понуди и настани!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Create a complete profile - photos, videos and text, opening hours and contact info!</source>
+                <target>Направи целосен профил со слики, видеа, текст, работно време и контакт информации!</target>
+            </trans-unit>
+            <trans-unit id="18">
+                <source>Write a Review</source>
+                <target>Напиши препорака</target>
+            </trans-unit>
+            <trans-unit id="34">
+                <source>more</source>
+                <target>повеќе</target>
+            </trans-unit>
+            <trans-unit id="37">
+                <source>Review</source>
+                <target>Препорака</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Please write clearly, without using offensive or obscene language.</source>
+                <target>Ве молиме напишете читко, без користење навредлив и вулгарен јазик.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Back to list</source>
+                <target>Назад до листата</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Comments</source>
+                <target>Коментари</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Read more...</source>
+                <target>Прочитај повеќе...</target>
+            </trans-unit>
+            <trans-unit>
+                <source>read more</source>
+                <target>прочитај повеќе</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Photo Gallery of %s</source>
+                <target>Галерија на слики од %s</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Top Reviews for %city%</source>
+                <target>Топ препораки за %city%</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Top Places</source>
+                <target>Топ места</target>
+            </trans-unit>
+            <trans-unit>
+                <source>view all offers</source>
+                <target>види ги сите понуди</target>
+            </trans-unit>
+            <trans-unit>
+                <source>by</source>
+                <target>од</target>
+            </trans-unit>
+            <trans-unit>
+                <source>VIP Places</source>
+                <target>VIP места</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Top Review</source>
+                <target>Топ препорака</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Places</source>
+                <target>Места</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Find Similar Places</source>
+                <target>Најди слични места</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Your claim was submitted successfully!</source>
+                <target>Вашето барање за администрација на фирмата е успешно поднесено!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Thank you for your claim request!</source>
+                <target>Благодариме за Вашето барање за администрација на фирмата!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Your claim request was submitted and will be approved by an administrator. Once you have been approved, you will be able to manage the information about this company.</source>
+                <target>Вашето барање беше успешно поднесено и ќе биде одобрено од администратор. Откако ќе биде одобрено ќе можете да ги менаџирате инфорамциите за оваа фирма.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Map</source>
+                <target>Мапа</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The event picture was changed successfully.</source>
+                <target>Сликата на настанот е успешно променета.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>set as event photo</source>
+                <target>постави како слика на настанот</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Event Photo Gallery</source>
+                <target>Галерија со слики од настанот</target>
+            </trans-unit>
+            <trans-unit>
+                <source>[0]0 reviews|[1]1 review|(1,+Inf]%count% reviews</source>
+                <target>[0]0 препораки|[1]1 препорака|(1,+Inf]%count% препораки</target>
+            </trans-unit>
+            <trans-unit>
+                <source>reply</source>
+                <target>одговор</target>
+            </trans-unit>
+            <trans-unit>
+                <source>edit</source>
+                <target>уреди</target>
+            </trans-unit>
+            <trans-unit>
+                <source>delete</source>
+                <target>избриши</target>
+            </trans-unit>
+            <trans-unit>
+                <source>report</source>
+                <target>пријави</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Mon</source>
+                <target>Пон</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Tue</source>
+                <target>Вто</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Wed</source>
+                <target>Сре</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Thu</source>
+                <target>Чет</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Fri</source>
+                <target>Пет</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Sat</source>
+                <target>Саб</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Sun</source>
+                <target>Нед</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Your review about %s was changed successfully.</source>
+                <target>Вашата препорака за %s e успешно променетa.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>E.g. restaurant</source>
+                <target>на пр. Ресторани</target>
+            </trans-unit>
+            <trans-unit>
+                <source>There is no registered profile with this email address</source>
+                <target>Нема регистриран профил со оваа e-mail адреса</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Register with Facebook</source>
+                <target>Регистрирај се со Facebook</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Facebook page of %s</source>
+                <target>Facebook страна на %s</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Twitter page of %s</source>
+                <target>Twitter страна на %s</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Google+ page of %s</source>
+                <target>Google+ страна на %s</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Foursquare page of %s</source>
+                <target>Foursquare страна на %s</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Website of %s: %s</source>
+                <target>Веб-страна на %s: %s</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Your message was sent successfully.</source>
+                <target>Вашата порака беше успешно испратена.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The place details were saved successfully.</source>
+                <target>Деталите за местото беа успешно зачувани.</target>
+            </trans-unit>
+            <trans-unit>
+                <source><![CDATA[<span>Thank you for suggesting</span> <span>a new place!</span>]]></source>
+                <target><![CDATA[<span>Ви благодариме што предложивте</span> <span>ново место!</span>]]></target>
+            </trans-unit>
+            <trans-unit>
+                <source>Request through getlokal</source>
+                <target>Барање преку getlokal.com</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Event was submitted successfully.</source>
+                <target>Настанот беше успешно поднесен.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>By submitting this registration form, I agree to the %s of getlokal</source>
+                <target>Со поднесувањето на оваа форма за регистрација се сложувам со %s на getlokal.com</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Full Review...</source>
+                <target>Целосна препорака...</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The email message was not sent successfully.</source>
+                <target>e-mail пораката не е испратена.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>For You</source>
+                <target>За вас</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Do you know your city</source>
+                <target>Дали го познавате сопствениот град?</target>
+            </trans-unit>
+            <trans-unit>
+                <source>For Your Business</source>
+                <target>За Вашиот бизнис</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Do you engage with your customers?</source>
+                <target>Дали комуницирате со Вашите клиeнти?</target>
+            </trans-unit>
+            
+
+  
+            <trans-unit>
+                <source>Larger</source>
+                <target>Зголеми</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Smaller</source>
+                <target>Намали</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Rate</source>
+                <target>Оцена</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Vote</source>
+                <target>Гласови</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Vote for this place</source>
+                <target>Гласај за ова место</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The username was sent successfully to your email.</source>
+                <target>The username was sent successfully to your email.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>I agree with the %s of getlokal and the %s</source>
+                <target>Се согласувам со %s на getlokal и %s</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Forgotten password for %s</source>
+                <target>Забравена лозинка за %s</target>
+            </trans-unit>
+            <trans-unit>
+                <source><![CDATA[General Terms & Conditions]]></source>
+                <target><![CDATA[Општи услови за реклама]]></target>
+            </trans-unit>
+            <trans-unit>
+                <source>In order to protect the information associated with your business we have introduced some additional security requirements.</source>
+                <target>За да ги заштитиме информациите поврзани со Вашиот бизнис, воведовме дополнителни барања за сигурност.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Create a username and password for each of the places you manage and keep this information secure.</source>
+                <target>Направете корисничко име и лозинка за секое од местата кои ги управувате. Чувајте ги овие информации на сигурно.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Use these login details every time you want to view or edit the information about the places you manage.</source>
+                <target>Користете ги овие информации за најавување секој пат кога сакате да видите или промените информација за местата кои ги управувате.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Forgotten Password</source>
+                <target>Забравена лозинка</target>
+            </trans-unit>
+            <trans-unit>
+                <source>In my capacity as parent/trustee I hereby declare that I agree with the %s and the %s</source>
+                <target>Во моето својство на родител/старател изјавувам дека се согласувам со %s и %s</target>
+            </trans-unit>
+            <trans-unit>
+                <source>If you are underage person, your parent/trustee must also declare his/her consent below</source>
+                <target>Доколку сте малолетна особа, вашиот родител/старател исто така мора да ја потврди неговата согласност подолу</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Tomorrow</source>
+                <target>Утре</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Today</source>
+                <target>Денес</target>
+            </trans-unit>
+            <trans-unit>
+                <source>I agree with the %s and the %s</source>
+                <target>Се согласувам со %s и %s</target>
+            </trans-unit>
+            <trans-unit>
+                <source>I have the necessary representative powers and agree with the %s and the %s</source>
+                <target>Ги имам неопходните овластувања и се согласувам со %s и %s</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Enter your EIK/Bulstat</source>
+                <target>Внеси ЕДБ</target>
+            </trans-unit>
+            <trans-unit>
+                <source>I want to receive Business Newsletters and Notifications</source>
+                <target>Сакам да примам бизнис Newsletter и нотификации од getlokal.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>In my capacity as parent/trustee I hereby declare that I agree with the %s and the %s</source>
+                <target>Во улога на родител / старател изјавувам дека сум согласен со %s и %s</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Policy for Use and Protection of the Information of Getlokal</source>
+                <target>Правилата за използване и опазване на информацията на Getlokal</target>
+            </trans-unit>
+            <trans-unit>
+                <source>No uploaded photos yet.</source>
+                <target>Нема прикачени слики сеуште.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Comment</source>
+                <target>Коментар</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Poor</source>
+                <target>Слабо</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Average</source>
+                <target>Просечно</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Good</source>
+                <target>Добро</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Very good</source>
+                <target>Много добро</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Excellent</source>
+                <target>Исклучително</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Reply to Comment</source>
+                <target>Одговори на коментарот</target>
+            </trans-unit>
+            <trans-unit>
+                <source>There is no profile with this username</source>
+                <target>Нема профил со ова корисничко име</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Log in, find your place and claim it!</source>
+                <target>Најавете се, пронајдете го Вашето место и станете негов администратор!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>I agree to the %s and the %s</source>
+                <target>Се согласувам со %s и %s</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Policy for Use and Protection of the Information on the Getlokal Website</source>
+                <target>Политиката за користење и Заштита на Информациите на веб-сајтот Getlokal</target>
+            </trans-unit>
+            <trans-unit>
+                <source>If you want to leave the getlokal community, all of your reviews, photos, events and lists will be deleted!</source>
+                <target>Доколку сакате да ја напуштите getlokal? заедницата, сите Ваши препораки, слики, настани, листи и коментари ќе бидат избришани!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>I have the necessary representative powers and I agree to the %s and the %s</source>
+                <target>Ги имам потребните репрезентативни овластувања и се согласувам со %s и %s</target>
+            </trans-unit>
+            <trans-unit>
+                <source>%s for %s (%s)</source>
+                <target>%s за %s (%s)</target>
+            </trans-unit>
+            <trans-unit>
+                <source>e.g. Skopje</source>
+                <target>на пр. Скопје</target>
+            </trans-unit>
+            <trans-unit>
+                <source><![CDATA[in <span>Skopje</span>]]></source>
+                <target><![CDATA[на пр. <span>Скопје</span>]]></target>
+            </trans-unit>
+            <trans-unit>
+                <source>Skopje</source>
+                <target>Скопје</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Search results for %s</source>
+                <target>Search results for %s</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The place you suggested was added to getlokal. It will be checked by a member of the getlokal team to ensure we have the right details and you will receive a confirmation email once it has been verified.</source>
+                <target>Местото што го предложивте е додадено на getlokal. Ќе биде проверено од член на getlokal тимот за да се осигураме дека ги имаме точните информации.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>If you want to add %s, please log into your getlokal profile.</source>
+                <target>Ако сакаш да додадеш %s, најави се на твојот getlokal профил.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>places</source>
+                <target>места</target>
+            </trans-unit>
+            <trans-unit>
+                <source>reviews</source>
+                <target>препораки</target>
+            </trans-unit>
+            <trans-unit>
+                <source>events</source>
+                <target>настани</target>
+            </trans-unit>
+            <trans-unit>
+                <source>List was successfully created.</source>
+                <target>Вашата листа е успешно направена!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>List was deleted successfully.</source>
+                <target>Листата е успешно избришана.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Your list was successfully updated!</source>
+                <target>Вашата листа е успешно ажурирана.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Find Here</source>
+                <target>Пронајди повеќе</target>
+            </trans-unit>
+            <trans-unit>
+                <source>We couldn't find a place beginning with:</source>
+                <target>Не е пронајдено место кое започнува со:</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Closed</source>
+                <target>Затворено</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Top Places in %city%</source>
+                <target>Топ места во %city%</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Top Review for %city%</source>
+                <target>Топ препорака за %city%</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Recommended for %sector% in  %city%</source>
+                <target>Препорачани за %sector% во %city%</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Top Reviews for %sector% in %city%</source>
+                <target>Топ препораки за %sector% во %city%</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Choose From:</source>
+                <target>Избери од:</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Top Review for %sector% in %city%</source>
+                <target>Топ препорака за %sector% во %city%</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Sorry, the place you were looking for does no longer exist at this web address.</source>
+                <target>Се извинуваме, местото кое го барате повеќе не постои на оваа веб адреса!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>You might find similar places if you browse through the places listed in getlokal!</source>
+                <target>Можете да најдете слични места, доколку пребарате низ местата во getlokal!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>On getlokal you can read recommendations written by people like you and write your own which will help you take more informed decisions! You can also make lists with useful places, add photos of places and win prizes in our campaigns!</source>
+                <target>На getlokal можете да читате препораки напишани од луѓе како вас, како и да напишете ваши препораки кои ќе ви помогнат да донесете информирани одлуки! Исто така можете да правите и листи со корисни места, да додавате слики или места и да освојувате награди во нашите кампањи!</target>
+            </trans-unit>
+            <trans-unit>
+                <source><![CDATA[Badge unlocked by <span> %s%s </span> of users]]></source>
+                <target><![CDATA[Значката е отклучена од <span> %s%s </span> од корисниците]]></target>
+            </trans-unit>
+            <trans-unit>
+                <source><![CDATA[Badge unlocked by <strong> %s%s </strong> of users]]></source>
+                <target><![CDATA[Значката е отклучена од <strong> %s%s </strong> од корисниците]]></target>
+            </trans-unit>
+            <trans-unit>
+                <source><![CDATA[use <i>getlokal</i> as:]]></source>
+                <target><![CDATA[Улога на]]></target>
+            </trans-unit>
+            <trans-unit>
+                <source>Locations</source>
+                <target>Локации</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Follow Us</source>
+                <target>Следи</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Unfollow Us</source>
+                <target>Не следи</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Show Places Nearby</source>
+                <target>Покажи места во близина</target>
+            </trans-unit>
+            <trans-unit>
+                <source>[0]No uploaded cover photos yet.|[1]1 uploaded cover photo|(1,+Inf]%count% uploaded cover photos</source>
+                <target>[0]Се уште нема прикачени насловни слики.|[1]1 прикачена насловна слика|(1,+Inf]%count% прикачени насловни слики</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Cover Photo Gallery of %s</source>
+                <target>Галерија на насловни слики од %s</target>
+            </trans-unit>
+            <trans-unit>
+                <source>set as cover photo</source>
+                <target>постави како насловна слика</target>
+            </trans-unit>
+            <trans-unit>
+                <source>You need to select a crop area in your image.</source>
+                <target>Треба да означите површина во сликата за сечење (crop).</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Preview</source>
+                <target>Преглед</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Your Photo</source>
+                <target>Вашата слика</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Confirm</source>
+                <target>Потврди</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Followers</source>
+                <target>Следбеници</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Following</source>
+                <target>Следени</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Messages</source>
+                <target>Пораки</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Follow</source>
+                <target>Следи</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Unfollow</source>
+                <target>Не следи</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Send Message</source>
+                <target>Испрати порака</target>
+            </trans-unit>
+            <trans-unit>
+                <source>View Messages</source>
+                <target>Погледни пораки</target>
+            </trans-unit>
+            <trans-unit>
+                <source>[0]No followers|[1]1 follower|(1,+Inf]%count% followers</source>
+                <target>[0]Нема следбеници|[1]1 следбеник|(1,+Inf]%count% следбеници</target>
+            </trans-unit>
+            <trans-unit>
+                <source>[0]No users or places being followed.|[1]1 followed.|(1,+Inf]%count% followed</source>
+                <target>[0]Нема следени корисници или места.|[1]1 следен|(1,+Inf]%count% следени</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Your message was sent successfully</source>
+                <target>Твојата порака е успешно испратена</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Contact Followers</source>
+                <target>Контактирај ги следбениците</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Select All</source>
+                <target>Избери ги сите</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Latest News</source>
+                <target>Последни вести</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Leave Comment</source>
+                <target>Остави коментар</target>
+            </trans-unit>
+            <trans-unit>
+                <source>More Info</source>
+                <target>повеќе информации</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Options</source>
+                <target>Опции</target>
+            </trans-unit>
+            <trans-unit>
+                <source>loading...</source>
+                <target>се вчитува...</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Leave getlokal</source>
+                <target>Напушти го getlokal</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Here are three good reasons to keep your account:</source>
+                <target>Еве три добри причини за да го задржите вашиот профил:</target>
+            </trans-unit>
+            <trans-unit>
+                <source>You get interesting information about all the places and events near you</source>
+                <target>Добивате интересни информации за сите места и настани во вашата близина</target>
+            </trans-unit>
+            <trans-unit>
+                <source>You have the opportunity to win fab prizes by participating in getlokal promotions</source>
+                <target>Имате можност да освоите одлични награди со учествување во getlokal промоции</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Read more</source>
+                <target>Прочитајте повеќе</target>
+            </trans-unit>
+            <trans-unit>
+                <source> about the additional security requirements</source>
+                <target> за дополнителните безбедносни услови</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Thank you for registering with getlokal!</source>
+                <target>Ви благодариме за регистрацијата на getlokal!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Search for</source>
+                <target>Барај</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Select Country</source>
+                <target>Изберете држава</target>
+            </trans-unit>
+            <trans-unit>
+                <source>in</source>
+                <target>во</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Edit </source>
+                <target>Уреди</target>
+            </trans-unit>
+            <trans-unit>
+                <source>About getlokal</source>
+                <target>За getlokal</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Timeline</source>
+                <target>Времеплов</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Team</source>
+                <target>Тимот</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Rules of games</source>
+                <target>Правила и натпревари</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Contact form</source>
+                <target>Контакт форма</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Office Addresses</source>
+                <target>Адреси на канцелариите</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Free</source>
+                <target>Бесплатен</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Paid</source>
+                <target>Платен</target>
+            </trans-unit>
+            <trans-unit>
+                <source>You are already an administrator for this place and cannot write reviews for it but only reply to reviews by other users about your place.</source>
+                <target>Вие сте веќе администратор на ова место и не можете да пишувате препораки за истото, но можете да дадете повратен одговор на препораките што другите корисници ги пишуваат за вашето место.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Deleting Review</source>
+                <target>Избриши препорака</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Are you sure you want to delete your review?</source>
+                <target>Сигурни ли сте дека сакате да ја избришете вашата препораката?</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Are you sure you want to delete your article?</source>
+                <target>Дали сте сигурни дека сакате да ја избришете вашата статија?</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Are you sure you want to delete your list?</source>
+                <target>Дали сте сигурни дека сакате да ја избришете вашата листа?</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Are you sure you want to delete your event?</source>
+                <target>Дали сте сигурни дека сакате да го избришете вашиот настан?</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Are you sure you want to delete the current file?</source>
+                <target>Дали сте сигурни дека сакате да го избришете тековниот фајл?</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Delete file</source>
+                <target>Избриши фајл</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Deleting Event</source>
+                <target>Избриши настан</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Deleting List</source>
+                <target>Избриши лист</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Deleting Article</source>
+                <target>Избриши напис</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Are you sure you want to approve </source>
+                <target>Сигурни ли сте дека сакате да одобрите </target>
+            </trans-unit>
+            <trans-unit>
+                <source>Are you sure you want to reject </source>
+                <target>Сигурни ли сте дека сакате да одбиете </target>
+            </trans-unit>
+            <trans-unit>
+                <source>Are you sure you want to deactivate </source>
+                <target>Сигурни ли сте дека сакате да го/ја деактивирате </target>
+            </trans-unit>
+            <trans-unit>
+                <source> as admin for </source>
+                <target> како администратор за </target>
+            </trans-unit>
+            <trans-unit>
+                <source>approve</source>
+                <target>одобри</target>
+            </trans-unit>
+            <trans-unit>
+                <source>reject</source>
+                <target>одбиј</target>
+            </trans-unit>
+            <trans-unit>
+                <source>yes</source>
+                <target>да</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Embed</source>
+                <target>Вметни</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Place Widget</source>
+                <target>Виџет за место</target>
+            </trans-unit>
+            <trans-unit>
+                <source>If you just want to grab this place details and show them on your blog or site, just customise the settings below and paste the code in your source file.</source>
+                <target>Доколку сакате да ги искористите деталите за ова место и да ги прикажете на вашиот блог или веб сајт, само прилагодете ги подесувањата подолу и внесете го кодот во вашиот изворен фајл.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Events Widget</source>
+                <target>Виџет за настани</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Do you run a events related blog or website? You can take-away some fresh content from getlokal. Just customize the looks and content, grab the code and paste it in the source code where you want it to show.</source>
+                <target>Дали уредувате блог или веб сајт поврзан со настани? Можете да преземете некои свежи содржини од getlokal. Само прилагодете го изгледот и содржината, преземете го кодот и внесете го во изворниот код каде сакате да се покаже.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Please fill in all mandatory fields.</source>
+                <target>Ве молиме пополнете ги сите задолжителни полиња.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>All sectors</source>
+                <target>Сите сектори</target>
+            </trans-unit>
+            <trans-unit>
+                <source>All locations</source>
+                <target>Cите градови</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Upload a new PDF file</source>
+                <target>Прикачи нов PDF документ</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Menu</source>
+                <target>Мени</target>
+            </trans-unit>  
+            <trans-unit>
+                <source>Prices</source>
+                <target>Цени</target>
+            </trans-unit>  
+            <trans-unit>
+                <source>Catalogue</source>
+                <target>Каталог</target>
+            </trans-unit>  
+            <trans-unit>
+                <source>Products</source>
+                <target>Производи</target>
+            </trans-unit>  
+            <trans-unit>
+                <source>Services</source>
+                <target>Услуги</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Sort by:</source>
+                <target>Подреди по:</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Discount high to low</source>
+                <target>Од најголем до најмал попуст</target>
+            </trans-unit> 
+            <trans-unit>
+                <source>Discount low to high</source>
+                <target>Од најмал до најголем попуст</target>
+            </trans-unit> 
+            <trans-unit>
+                <source>Latest</source>
+                <target>Последни</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Expiring soon</source>
+                <target>Истекуваат наскоро</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The current file has been successfully deleted.</source>
+                <target>Документот е успешно избришан.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>See all in </source>
+                <target>Види ги сите во </target>
+            </trans-unit>
+            <trans-unit>
+                <source>All categories</source>
+                <target>Сите категории</target>
+            </trans-unit>
+            <trans-unit>
+                <source>%what% in %where%</source>
+                <target>%what% во %where%</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Find places around you,</source>
+                <target>Најди ги местата во твојата близина уште поедноставно,</target>
+            </trans-unit>
+            <trans-unit>
+                <source>download getlokal app.</source>
+                <target>преземи ја Getlokal мобилната апликација.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Continue to the website</source>
+                <target>Продолжи да го користиш веб сајтот</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Available on the</source>
+                <target>Преземи ја од</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Get it on</source>
+                <target>Преземи ја од</target>
+            </trans-unit>
+            <trans-unit>
+                <source>%what% in %where%</source>
+                <target>%what% во %where%</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Changes to "My Places"</source>
+                <target>Промени во "Мои места"</target>
+            </trans-unit>
+            <trans-unit>
+                <source>You made some changes. What do you want to do with them?</source>
+                <target>Направивте промени. Што сакате да направите со нив?</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Save</source>
+                <target>Зачувајте</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Continue without saving</source>
+                <target>Продолжете без да зачувате</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Log in/Register to link the places you added with your account!</source>
+                <target>Регистрирај се/Најави се за да ги поврзеш местата кои ги додаде со твојот профил!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Login / Register</source>
+                <target>Најави се / Регистрирај се</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Login with Facebook</source>
+                <target>Најави се преку Facebook</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Login with Email</source>
+                <target>Најави се со е-мејл</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Not registered?</source>
+                <target>Не се регистрирани?</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Thank you for sending your reservation request. Getlokal will forward it to the relevant person and they will be in touch with you shortly.</source>
+                <target> Ви благодариме за Вашето барање за резервација. Getlokal ќе го проследи до соодветната личност и истата наскоро ќе стапи во контакт со Вас </target>
+            </trans-unit>
+            <trans-unit>
+                <source>Thank you! If the place is claimed, we will sent your suggestions to the owner. If not, we will manually verify and update the details of the place.</source>
+                <target>Tи благодариме! Доколку за ова место е преземена администрација ќе ги испратиме вашите предлози на сопственикот. Доколку не е, ние ќе ги провериме и ажурираме податоците за ова место.</target>
+            </trans-unit>
+
+            <!-- NEW DESIGN -->
+
+            <trans-unit>
+                <source>Add new</source>
+                <target>Додади ново</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Place</source>
+                <target>Место</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Install</source>
+                <target>Инсталирај ја</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Getlokal app</source>
+                <target>Getlokal апликацијата</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Sponsored</source>
+                <target>Реклама</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Advertise</source>
+                <target>Реклама</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Scroll to top</source>
+                <target>Покажи ги претходните</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Scroll to bottom</source>
+                <target>Покажи уште</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Categories</source>
+                <target>Барај по категорија</target>
+            </trans-unit>
+
+            <trans-unit>
+                <source>Like and follow us</source>
+                <target>Кликни Ми се допаѓа и следи не</target>
+            </trans-unit>
+
+            <trans-unit>
+                <source>Download</source>
+                <target>ПРЕЗЕМИ ЈА</target>
+            </trans-unit>
+
+            <trans-unit>
+                <source>app</source>
+                <target>апликацијата</target>
+            </trans-unit>
+
+            <trans-unit>
+                <source>via:</source>
+                <target>ПРЕКУ:</target>
+            </trans-unit>
+
+            <trans-unit>
+                <source>Scan this code with your smartphone</source>
+                <target>Скенирај го овој код со твојот смартфон</target>
+            </trans-unit>
+
+
+            <trans-unit>
+                <source>Leave Comment</source>
+                <target>Напиши коментар</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Places</source>
+                <target>Места</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Your Getlokal</source>
+                <target>Твојот Getlokal</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Planning a great night out looking for a recommended beauty salon, or a trendy bar - you will find everything you search in Getlokal</source>
+                <target>Планирате вечерно излегување, барате препорачан салон за убавина или тренди бар  – на Getlokal ќе најдете сè што барате</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Concerts, exhibitions, parties – Getlokal will show you when and where local events are happening</source>
+                <target>Концерти, изложби, забави – Getlokal ќе ти покаже кога и каде се случуваат локалните настани</target>
+            </trans-unit>
+
+
+            <trans-unit>
+                <source>[0]0 places|[1]1 place|(1,+Inf]%count% places</source>
+                <target>[0]0 места|[1]1 мeсто|(1,+Inf]%count% места</target>
+            </trans-unit>
+
+            <trans-unit>
+                <source>were found in</source>
+                <target>се најдени во</target>
+            </trans-unit>
+
+            <trans-unit>
+                <source>Places in %city%</source>
+                <target>Места в %city%</target>
+            </trans-unit>
+        </body>
+    </file>
+</xliff>

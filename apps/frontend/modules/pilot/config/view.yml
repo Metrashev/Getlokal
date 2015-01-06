@@ -1,0 +1,5 @@
+default:
+  layout: layout_pilot
+indexSuccess:
+  stylesheets: [pilot.css]
+  javascripts: [pilot.js]

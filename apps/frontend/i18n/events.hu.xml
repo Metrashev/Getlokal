@@ -1,0 +1,383 @@
+<?xml version="1.0" ?>
+<xliff version="1.0">
+    <file orginal="global" source-language="en_EN" datatype="plaintext">
+        <body>
+            <trans-unit>
+                <source>New Event</source>
+                <target>Új esemény</target>
+            </trans-unit>
+            <trans-unit>
+                <source>in</source>
+                <target>-ban</target>
+            </trans-unit>
+            <trans-unit>
+                <source>in2</source>
+                <target>-ban</target>
+            </trans-unit>
+            <trans-unit>
+                <source>by</source>
+                <target>által</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Edit Event</source>
+                <target>Szerkessz Eseményt</target>
+            </trans-unit>
+            <trans-unit>
+                <source>When</source>
+                <target>Mikor</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Where</source>
+                <target>Hol</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Edit Event</source>
+                <target>Szerkessz Eseményt</target>
+            </trans-unit>
+            
+            <trans-unit>
+                <source>No confirmed guests yet</source>
+                <target>Eddig nincs résztvételt megerosíto vendég</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Invite</source>
+                <target>Hivj meg</target>
+            </trans-unit>
+            <trans-unit>
+                <source>created by</source>
+                <target>-által létrehozott</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Past Events</source>
+                <target>Korábbi</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Events</source>
+                <target>Események</target>
+            </trans-unit>
+            <trans-unit>
+                <source>to</source>
+                <target>-nak</target>
+            </trans-unit>
+            
+            <trans-unit>
+                <source>published by</source>
+                <target>közzétett .....-által</target>
+            </trans-unit>
+
+            <!-- NEW -->
+            <trans-unit>
+                <source>No results found</source>
+                <target>Keresés eredménytelen</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Event was submitted successfully.</source>
+                <target>Esemény sikeresen közzétett.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>My Events</source>
+                <target>Az én eseményeim</target>
+            </trans-unit>
+            <trans-unit>
+                <source>%s invited you to %s</source>
+                <target>%s meghívott téged %s-re</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Free</source>
+                <target>Ingyen</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Up to 10 BGN</source>
+                <target>10 HUF-ig</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Up to 50 BGN</source>
+                <target>50 HUF-ig</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Up to 100 BGN</source>
+                <target>100 HUF-ig</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Over 100 BGN</source>
+                <target>100 HUF felett</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Choose...</source>
+                <target>Válassz...</target>
+            </trans-unit>
+            <trans-unit>
+                <source>More</source>
+                <target>Még</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Add Event</source>
+                <target>Adj hozzá eseményt</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Add ?y Company</source>
+                <target>Add hozzá a Cégemet</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Events %i %l - %c</source>
+                <target>%i %l - %c Események</target>
+            </trans-unit>
+            <trans-unit>
+                <source>%s Events</source>
+                <target>%s Események</target>
+            </trans-unit>
+            <trans-unit>
+                <source>We couldn't find a venue beginning with %s, please enter a different name or suggest a venue!</source>
+                <target>Nem találtunk helyet, amely  %s-vel kezdodik. Kérem vezessen más nevet vagy javasoljon helyet!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>suggest a venue</source>
+                <target>javasoljon helyet</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Past Events %p %s</source>
+                <target>%p %s Elmúlt események</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Past Events %i %e - %c</source>
+                <target>%i %e - %c Elmúlt események</target>
+            </trans-unit>
+            <trans-unit>
+                <source>%s Past Events</source>
+                <target>%s Elmúlt Események</target>
+            </trans-unit>
+            <trans-unit>
+                <source>See All Past Events in Bulgaria</source>
+                <target>Láss minden elmúlt eseményt Bulgáriaban</target>
+            </trans-unit>
+            <trans-unit>
+                <source>All Past Events</source>
+                <target>Minden elmúlt esemény</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Past Events in %s</source>
+                <target>Elmúlt Események %s-ban</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Past Events in %s - %s</source>
+                <target>Elmúlt Események %s - %s-ban</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Events in %s</source>
+                <target>Események %s-ban</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Events with Tickets in %s</source>
+                <target>Jegyes események  %s-ban</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Add Event</source>
+                <target>Adj hozzá Eseményt</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Location</source>
+                <target>Hely</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Date</source>
+                <target>Dátum</target>
+            </trans-unit>
+            <trans-unit>
+                <source>See More Events</source>
+                <target>Még több esemény</target>
+            </trans-unit>
+            <trans-unit>
+                <source>All categories</source>
+                <target>Minden kategória</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The event was not saved. Please fill in all mandatory fields.</source>
+                <target>Az esemény nem lett lementve. Kérem töltse ki minden kötelezo mezot.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The event title and terms are mandatory for at least one of the two language versions.</source>
+                <target>A cím és az esemény feltételei kötelezoek a két nyelvi verziónak legalább az egyikében. </target>
+            </trans-unit>
+            <!-- NEW -->
+  
+            <trans-unit>
+                <source>by</source>
+                <target>által</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Follow</source>
+                <target>Kövess</target>
+            </trans-unit>
+            <trans-unit>
+                <source>By Author</source>
+                <target>A szerzotol</target>
+            </trans-unit>
+            <trans-unit>
+                <source>By Attendees</source>
+                <target>Résztvevoktol</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Tickets Available</source>
+                <target>Jegyek</target>
+            </trans-unit>
+            <trans-unit>
+                <source>PLACES NEARBY</source>
+                <target>Közeli helyek</target>
+            </trans-unit>
+            <trans-unit>
+                <source>You Can Also Visit</source>
+                <target>Látogasd ......... is</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Similar Events</source>
+                <target>Hasonló események</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Attended Events</source>
+                <target>Részt veszek</target>
+            </trans-unit>
+
+            <trans-unit>
+                <source>Previous Day</source>
+                <target>Elozo nap</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Next Day</source>
+                <target>Következo nap</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Sorry, we don't have any events just yet. Please help us by posting the events you know about and sharing them with us. Thank you!</source>
+                <target>Sajnálunk, de még nincs esemény. Segíts rajtunk azzal hogy feltöltöd azokat, amelyekrol tudsz, és közöld velünk. Köszönünk. </target>
+            </trans-unit>
+            <trans-unit>
+                <source>Select Category</source>
+                <target>Válassz kategóriát</target>
+            </trans-unit>
+            <trans-unit>
+                <source>From</source>
+                <target>-tól</target>
+            </trans-unit>
+            <trans-unit>
+                <source>To</source>
+                <target>-ig</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Select Time</source>
+                <target>Válassz órát</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Select category</source>
+                <target>Válassz kategóriát</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Today</source>
+                <target>Ma</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Calendar</source>
+                <target>Naptár</target>
+            </trans-unit>
+
+            <!-- NEW DESIGN -->
+
+
+            <trans-unit>
+                <source>Choose to see</source>
+                <target>Válassza ki</target>
+            </trans-unit>
+
+            <trans-unit>
+                <source>Today's events</source>
+                <target>Ma Események</target>
+            </trans-unit>
+
+            <trans-unit>
+                <source>Future Events</source>
+                <target>Elkövetkezo</target>
+            </trans-unit>
+
+            <trans-unit>
+                <source>Future Events</source>
+                <target>Elkövetkezo Események</target>
+            </trans-unit>
+
+
+            <trans-unit>
+                <source>Events in %s</source>
+                <target>Események %s</target>
+            </trans-unit>
+
+
+            <trans-unit>
+                <source>Past Events</source>
+                <target>Korábbi</target>
+            </trans-unit>
+
+            <trans-unit>
+                <source>Past Events</source>
+                <target>Korábbi Események</target>
+            </trans-unit>
+
+
+            <trans-unit>
+                <source>Recommended Places</source>
+                <target>Ajánlott helyek</target>
+            </trans-unit>
+
+            <trans-unit>
+                <source>Share your review on Facebook</source>
+                <target>Ossza meg a véleményét Facebookon</target>
+            </trans-unit>
+
+            <trans-unit>
+                <source>RECOMMENDATIONS FOR EVENTS IN %s</source>
+                <target>Javasolt események %s</target>
+            </trans-unit>
+ 
+            <trans-unit>
+                <source>Incoming events</source>
+                <target>Elkövetkezo Események</target>
+            </trans-unit>
+
+            <trans-unit>
+                <source>This event is created by</source>
+                <target>Ezt az eseményt létrehozta</target>
+            </trans-unit>
+
+            <trans-unit>
+                <source>More events from</source>
+                <target>Még esemény tól</target>
+            </trans-unit>
+
+            <trans-unit>
+                <source>Attending</source>
+                <target>Részt vesznek</target>
+            </trans-unit>
+
+
+            <trans-unit>
+                <source>Will Attend</source>
+                <target>Részt vesz</target>
+            </trans-unit>
+
+
+            <trans-unit>
+                <source>Won't Attend</source>
+                <target>Nem veszek részt</target>
+            </trans-unit>
+
+
+            <trans-unit>
+                <source>uploaded by: </source>
+                <target>Feltöltötte: </target>
+            </trans-unit>
+
+            <trans-unit>
+                <source>Buy Now</source>
+                <target>Vegyél most</target>
+            </trans-unit>
+
+            
+        </body>
+    </file>
+</xliff>

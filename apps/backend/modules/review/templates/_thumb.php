@@ -1,0 +1,1 @@
+<?php echo image_tag($review->getUserProfile()->getThumb(1)) ?>

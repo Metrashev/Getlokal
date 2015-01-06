@@ -1,0 +1,107 @@
+<?xml version="1.0" ?>
+<xliff version="1.0">
+    <file orginal="global" source-language="en_EN" datatype="plaintext">
+        <body>
+            <trans-unit>
+                <source>Create List</source>
+                <target>Hozzd létre listát</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Edit List</source>
+                <target>Szerkeszz listát</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Add Comment</source>
+                <target>Szolj hozzá</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The list Title and Description are required for at least one of the two language versions.</source>
+                <target>A lista neve és leírása kötelezo a két nyelvi verziónak legalább az egyikére.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The list was not saved. Please fill in all required fields.</source>
+                <target>A lista nem lett lementve. Kérem betölteni minden kötelezo mezot.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Click to add places to your list!</source>
+                <target>Kattints, hogy helyet adj hozzá a listádhoz!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Click to add places to this list!</source>
+                <target>Kattints, hogy helyet adj hozzá ehhez a listához!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>[0]No places were added|[1]and one more place|(1,+Inf]and %count% more places</source>
+                <target>[0]Nincsek hozzáadott helyek|[1]és még egy hely|(1,+Inf]még több %count% hely</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Name this list...</source>
+                <target>Adj nevet ennek a listának...</target>
+            </trans-unit>
+            <trans-unit>
+                <source>What is this list about...</source>
+                <target>Mondd mirol szól a listád...</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Name in English</source>
+                <target>Név angolul</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Description in English</source>
+                <target>Leírás angolul</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Back to 'Lists'</source>
+                <target>Vissza "Listák"-hoz</target>
+            </trans-unit>
+            <trans-unit>
+                <source>This list is created by</source>
+                <target>Ezt a listát létre hozta</target>
+            </trans-unit>
+            <trans-unit>
+                <source>More lists from</source>
+                <target>Több lista ...-tól</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Next</source>
+                <target>Folytass</target>
+            </trans-unit>
+            <trans-unit>
+                <source><![CDATA[[0]<span id="spanPlaceCount">0</span> <br />places|[1]<span id="spanPlaceCount">1</span> <br />place|(1,+Inf]<span id="spanPlaceCount">%count%</span> <br />places]]></source>
+                <target><![CDATA[[0]<span id="spanPlaceCount">0</span> <br />helyek|[1]<span id="spanPlaceCount">1</span> <br />hely|(1,+Inf]<span id="spanPlaceCount">%count%</span> <br />helyek]]></target>
+            </trans-unit>
+            <trans-unit>
+                <source><![CDATA[[0]0 places|[1]1 place|(1,+Inf]%count% places]]></source>
+                <target><![CDATA[[0]0 helyek|[1]1 hely|(1,+Inf]%count% helyek]]></target>
+            </trans-unit>
+            <trans-unit>
+                <source>Create a List Now</source>
+                <target>Hozz létre új listát</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Comments About This List</source>
+                <target>Szólj hozzá ehhez a listához</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Latest episode of Getweekend</source>
+                <target>Getweekend legújabb epizódja</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Add to List</source>
+                <target>Adj hozzá listához</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Choose from Current Lists</source> (CHECK)
+                <target>Válassz a jelenlegi listából</target>
+            </trans-unit>
+            <trans-unit>
+                <source><![CDATA[Add to <br/>List]]></source>
+                <target><![CDATA[Adj hozzá <br/>listához]]></target>
+            </trans-unit>
+            <trans-unit>
+                <source>Add to New List</source>
+                <target>Adj új listához</target>
+            </trans-unit>
+        </body>
+    </file>	 
+</xliff>

@@ -1,0 +1,51 @@
+<?xml version="1.0" ?>
+<xliff version="1.0">
+        <file orginal="global" source-language="en_EN" datatype="plaintext">
+                <body>
+                <trans-unit>
+                        <source>Place Claim in Getlokal</source>
+                        <target>Revendicare loc pe Getlokal</target>
+                </trans-unit>
+                <trans-unit>
+                        <source>Welcome to Getlokal</source>
+                        <target>Bine ai venit pe getlokal.ro!</target>
+                </trans-unit>
+                <trans-unit>
+                        <source>Request through Getlokal</source>
+                        <target>Solicită prin intermediul Getlokal</target>
+                </trans-unit>
+                <trans-unit>
+                        <source>Claim Request</source>
+                        <target>Solicitare pentru revendicare</target>
+                </trans-unit>
+                <trans-unit>
+                        <source>Forgotten Password</source>
+                        <target>Parolă uitată</target>
+                </trans-unit>
+                <trans-unit>
+                        <source>Getlokal Account Activation</source>
+                        <target>Activare cont Getlokal</target>
+                </trans-unit>
+                <trans-unit>
+                        <source>Change Email Confirmation</source>
+                        <target>Confirmare schimbare Email</target>
+                </trans-unit>
+                <trans-unit>
+                        <source>Forgotten Place Admin Password</source>
+                        <target>Parola Admin Loc uitată</target>
+                </trans-unit>
+                <trans-unit>
+                        <source>Forgotten Username</source>
+                        <target>Nume utilizator uitat</target>
+                </trans-unit>
+                <trans-unit>
+                        <source>Approved Place Claim in Getlokal</source>
+                        <target>Revendicare loc pe Getlokal aprobată</target>
+                </trans-unit>
+            <trans-unit>
+                <source>Rejected Place Claim in Getlokal</source>
+                <target>Revendicare loc pe Getlokal respinsă</target>
+            </trans-unit>
+                </body>
+        </file>
+</xliff>

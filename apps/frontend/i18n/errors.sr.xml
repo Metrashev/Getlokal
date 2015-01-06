@@ -1,0 +1,239 @@
+<?xml version="1.0" ?>
+<xliff version="1.0">
+    <file orginal="global" source-language="en_EN" datatype="plaintext">
+        <body>    
+            <trans-unit>
+                <source>We were unable to send you a new password.</source>
+                <target>Nismo uspeli da Vam pošaljemo novu lozinku.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>We were unable to send you an email. We are investigating the problem and working towards resolving it.</source>
+                <target>Nismo uspeli da Vam pošaljemo email. Radimo na detektovanju i rešavanju problema.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>There is no registered profile with this email address</source>
+                <target>Ne postoji registrovan profil sa ovom email adresom</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Unable to find user to activate</source>
+                <target>Nismo uspeli da pronađemo korisnika za aktivaciju</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Related account has already been activated</source>
+                <target>Povezani nalog je već aktiviran</target>
+            </trans-unit>
+            <trans-unit>
+                <source>An error ocurred while trying to activate your account.</source>
+                <target>Došlo je do greške pri pokušaju aktivacije vašeg naloga.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Day, month and year are mandatory fields</source>
+                <target>Dan, mesec i godina su obavezna polja</target>
+            </trans-unit> 
+            <trans-unit>
+                <source>Username "%value%" cannot be used</source>
+                <target>Korisničko ime "%value%" ne može da se koristi</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The username "%value%" contains characters that are not allowed</source>
+                <target>Korisničko ime "%value%" sadrži karaktere koji nisu dozvoljeni</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Username must contain at least %min_length% characters</source>
+                <target>Korisničko ime mora sadržati najmanje %min_length% karaktera</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Username cannot contain more than %max_length% characters.</source>
+                <target>Korisničko ime ne može imati više od %max_length% karaktera</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Invalid email – your email is not in the correct format</source>
+                <target>Email adresa nije u odgovarajućoj formi</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Your password should be at least %min_length% characters long</source>
+                <target>Vaša lozinka treba imati najmanje %min_length% karaktera</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Your password cannot contain more than %max_length% characters</source>
+                <target>Vaša lozinka ne može imati više od %max_length% karaktera</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The passwords do not match</source>
+                <target>Lozinke se ne podudaraju</target>
+            </trans-unit>
+            <trans-unit>
+                <source>This email address has already been registered by another user</source>
+                <target>Ovu email adresu koristi drugi korisnik</target>
+            </trans-unit>
+            <trans-unit>
+                <source>This field is mandatory. Please start typing the name of your home location and select from the list.</source>
+                <target>Ovo polje je obavezno. Počnite da unosite naziv vaše lokacije i selektujte je iz liste.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>You have entered the text incorrectly. Please try again.</source>
+                <target>Uneli ste tekst nepravilno. Pokušajte ponovo.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Email is required</source>
+                <target>Email adresa je obavezna</target>
+            </trans-unit>
+            <trans-unit>
+                <source>You must select a file to upload</source>
+                <target>Morate selektovati fajl</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The file you submitted is not in a valid format. Please upload a JPG, GIF or PNG image file.</source>
+                <target>Fajl koji ste selektovali nije u validnom formatu. Selektujte fajl u JPG, GIF ili PNG formatu.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The file you submitted is not in a valid format. Please upload a JPG, GIF or PNG image file.</source>
+                <target>Fajl koji ste selektovali nije u validnom formatu. Selektujte fajl u JPG, GIF ili PNG formatu.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>File size limit is 4MB.Please reduce file size before submitting again.</source>
+                <target>Dozvoljena veličina fajla je 4MB</target>
+            </trans-unit>
+            <trans-unit>
+                <source>File size limit is 2MB.Please reduce file size.</source>
+                <target>Dozvoljena veličina fajla je 2MB</target>
+            </trans-unit>
+            <trans-unit> 
+                <source>The review cannot contain more than %max_length% characters. Shorten your review.</source>
+                <target>Preporuka ne može sadržati više od %max_length% karaktera. Skratite vašu preporuku.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The review must contain at least %min_length% characters</source>
+                <target>Preporuka mora sadržati najmanje %min_length% karaktera</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The answer must contain at least %min_length% characters</source>
+                <target>Odgovor mora sadržati najmanje %min_length% karaktera</target>
+            </trans-unit>
+            <trans-unit> 
+                <source>The review cannot contain more than %max_length% characters</source>
+                <target>Preporuka ne može sadržati više od %max_length% karaktera</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Type Review</source>
+                <target>Napišite preporuku</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The field is mandatory</source>
+                <target>Ovo polje je obavezno</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Select Your Position</source>
+                <target>Odaberite svoju poziciju</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Invalid Phone Number</source>
+                <target>broj telefona nije ispravan</target>
+            </trans-unit>  
+            <trans-unit>
+                <source>This field cannot contain more than %max_length% characters</source>
+                <target>Ovo polje ne može sadržati više od %max_length% karaktera</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Select company type</source>
+                <target>Odaberite tip firme</target>
+            </trans-unit> 
+
+            <trans-unit>
+                <source>The field cannot contain more than %max_length% characters</source>
+                <target>Ovo polje ne može sadržati više od %max_length% karaktera</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The field must contain at least %min_length% characters</source>
+                <target>Polje mora sadržati najmanje %min_length% karaktera</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Invalid format. E.g. http://www.getlokal.rs</source>
+                <target>Format nije validan. Primer: http://www.getlokal.rs</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Invalid format. E.g. getlokal.rs!</source>
+                <target>Format nije validan. Primer: getlokal.rs</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Invalid format. E.g. http://blog.getlokal.rs</source>
+                <target>Format nije validan. Primer: http://blog.getlokal.rs</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Invalid format. E.g. http://twitter.com/@getlokal</source>
+                <target>Format nije validan. Primer: http://twitter.com/@getlokal</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Invalid format. E.g. http://www.facebook.com/#!/getlokal</source>
+                <target>Format nije validan. Primer: http://www.facebook.com/#!/getlokal</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Select Your Position</source>
+                <target>Odaberite svoju poziciju</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The new password was sent successfully to the email you provided.</source>
+                <target>Nova lozinka je uspešno poslata na email adresu koju ste prijavili pri registraciji.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Invalid format. E.g. http://www.facebook.com/getlokal</source>
+                <target>Format nije validan. Primer: http://www.facebook.com/getlokal</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Type an Answer</source>
+                <target>Upišite odgovor</target>
+            </trans-unit>
+     
+            <trans-unit>
+                <source>The maximum number of vouchers issued per user cannot exceed the total number of vouchers for the offer</source>
+                <target>Broj vaučera po korisniku ne može biti veći od ukupnog broja vaučera u ponudi</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The offer end date cannot be earlier than the start date</source>
+                <target>Datum isteka ponude ne može biti pre datuma njenog početka</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The voucher valid to date cannot be earlier than the offer end date</source>
+                <target>Vaučer mora važiti do datuma isteka ponude</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Description must contain at least %min_length% characters</source>
+                <target>Opis mora sadržati najmanje %min_length% karaktera</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The description cannot contain more than %max_length% characters.</source>
+                <target>Opis ne može sadržati više od %max_length% karaktera</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Description "%value%" contains forbidden words</source>
+                <target>Opis "%value%" sadrži zabranjene reči</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The video title cannot contain more than %max_length% characters.</source>
+                <target>Naziv Videa ne može sadržati više od %max_length% karaktera</target>
+            </trans-unit> 
+            <trans-unit>
+                <source>The email message was not sent successfully.</source>
+                <target>Email poruka nije poslata.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>An error ocurred while processing your request. Please try again later.</source>
+                <target>Prilikom obrade Vašeg zahteva došlo je do greške. Molimo pokušajte ponovo.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>This username has already been registered by another user</source>
+                <target>Ovo korisničko ime je već registrovano.</target>
+            </trans-unit>      
+            <trans-unit>
+                <source>Abuse type is required.</source>
+                <target>Polje za prijavu zloupotrebe je obavezno.</target>
+            </trans-unit>     
+ 
+            <trans-unit>
+                <source>This field is mandatory. Please select your country name from the list.</source>
+                <target>Ovo polje je obavezno. Označi naziv svoje zemlje iz liste.</target>
+            </trans-unit>      
+
+        </body>
+    </file>
+</xliff>

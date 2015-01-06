@@ -1,0 +1,56 @@
+<?xml version="1.0" ?>
+<xliff version="1.0">
+    <file orginal="global" source-language="en_EN" datatype="plaintext">
+        <body>			
+            <trans-unit>
+                <source>Place Claim in getlokal</source>
+                <target>Заявка на место на getlokal</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Welcome to getlokal</source>
+                <target>Добро пожаловать на getlokal</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Request through getlokal</source>
+                <target>Запрос по getlokal</target>
+            </trans-unit>  
+            <trans-unit>
+                <source>Claim Request</source>
+                <target> Запрос на заявку </target>
+            </trans-unit>
+            <trans-unit>
+                <source>Forgotten Password</source>
+                <target>Забыт пароль</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Change Email Confirmation</source>
+                <target>Изменить подтверждение на имейл</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Forgotten Place Admin Password</source>
+                <target>Забыт пароль администрирования места </target>
+            </trans-unit>
+            <trans-unit>
+                <source>Forgotten Username</source>
+                <target>Забыто имя пользователя </target>
+            </trans-unit>
+            <trans-unit>
+                <source>Approved Place Claim in getlokal</source>
+                <target>Заявка на место на getlokal одобрена </target>
+            </trans-unit>
+            <trans-unit>
+                <source>Rejected Place Claim in getlokal</source>
+                <target> Заявка на место на getlokal отклонена</target>
+            </trans-unit>   		      		
+            <trans-unit>
+                <source>A friend just invited you to join getlokal.com!</source>
+                <target>Ваш друг только что пригласил вас на getlokal.com!</target>
+            </trans-unit>
+            
+            <!-- NEW DESIGN -->
+            
+
+            
+        </body>
+    </file>
+</xliff>

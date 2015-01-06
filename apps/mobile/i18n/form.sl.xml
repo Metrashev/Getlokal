@@ -1,0 +1,1021 @@
+﻿<?xml version="1.0" ?>
+<xliff version="1.0">
+  <file original="global" source-language="en" datatype="plaintext">
+    <body>
+      <trans-unit id="1">
+        <source>There is no user registered with the this email</source>
+        <target>Uporabnik s tem e-poštnim naslovom ne obstaja</target>
+      </trans-unit>
+      <trans-unit id="2">
+        <source>Day, month and year are mandatory fields</source>
+        <target>Dan, mesec in leto so obvezna polja</target>
+      </trans-unit>
+      <trans-unit id="3">
+        <source>Username "%value%" cannot be used</source>
+        <target>Uporabniškega imena "%value%" ni mogoče uporabiti</target>
+      </trans-unit>
+      <trans-unit id="4">
+        <source>The username "%value%" contains characters that are not allowed</source>
+        <target>Uporabniško ime "%value%" vsebuje znake, ki niso dovoljeni</target>
+      </trans-unit>
+      <trans-unit id="5">
+        <source>Username must contain at least %min_length% characters</source>
+        <target>Uporabniško ime mora vsebovati vsaj %min_length% znakov</target>
+      </trans-unit>
+      <trans-unit id="6">
+        <source>Username cannot contain more than %max_length% characters.</source>
+        <target>Uporabniško ime ne more vsebovati več kot %max_length% znakov</target>
+      </trans-unit>
+      <trans-unit id="7">
+        <source>Invalid email – your email is not in the correct format</source>
+        <target>Neveljavna e-pošta - vaša e-pošta ni v primerni obliki</target>
+      </trans-unit>
+      <trans-unit id="8">
+        <source>"%value%" is too short.  The username should be at least 3 characters.</source>
+        <target>"%value%" je prekratek. Uporabniško ime mora vsebovati vsaj 3 znake.</target>
+      </trans-unit>
+      <trans-unit id="9">
+        <source>Your password should be at least %min_length% characters long</source>
+        <target>Vaše geslo mora vsebovati vsaj %min_length% znakov</target>
+      </trans-unit>
+      <trans-unit id="10">
+        <source>Your password cannot contain more than %max_length% characters</source>
+        <target>Vaše geslo ne sme vsebovati več kot %max_length% znako</target>
+      </trans-unit>
+      <trans-unit id="11">
+        <source>We will send the new password, to the email address you provided during registration</source>
+        <target>Novo geslo vam bomo poslali na e-pošto, ki ste jo navedli ob registraciji</target>
+      </trans-unit>
+      <trans-unit id="12">
+        <source>The passwords do not match</source>
+        <target>Gesli se ne ujemata</target>
+      </trans-unit>
+      <trans-unit id="13">
+        <source>This email address has already been registered by another user</source>
+        <target>Uporabnik s tem e-poštnim naslovom že obstaja</target>
+      </trans-unit>
+      <trans-unit id="14">
+        <source>This username is already in use</source>
+        <target>To uporabniško ime je že v uporabi</target>
+      </trans-unit>
+       <trans-unit id="15">
+        <source>This field is mandatory. Please start typing the name of your home location and select from the list.</source>
+        <target>To polje je obvezno. Prosimo, začnite pisati ime svoje domače lokacije in izberite s seznama.</target>
+      </trans-unit>
+      <trans-unit id="16">
+        <source>You have entered the text incorrectly. Please try again.</source>
+        <target>Besedila niste pravilno napisali. Prosimo, poskusite ponovno.</target>
+      </trans-unit>
+      <trans-unit id="17">
+        <source>Please retype your password.</source>
+        <target>Prosimo, ponovno vpišite svoje geslo.</target>
+      </trans-unit>
+	  <trans-unit id="18">
+        <source>Please retype your password.</source>
+        <target>Prosimo, ponovno vpišite svoje geslo.</target>
+      </trans-unit>
+      <trans-unit id="19">
+        <source>Email is required</source>
+        <target>E-pošta je zahtevana</target>
+      </trans-unit>
+      <trans-unit id="20">
+        <source>You must select a file to upload</source>
+        <target>Izbrati morate datoteko, ki jo želite naložiti</target>
+      </trans-unit>
+      <trans-unit id="21">
+        <source>The file you submitted is not in a valid format. Please upload a JPG, GIF or PNG image file.</source>
+        <target>Datoteka, ki ste jo poslali ni v veljavni obliki. Prosimo, naložite JPG, GIF ali PNG datoteko.</target>
+      </trans-unit>
+	  <trans-unit id="22">
+        <source>The file you submitted is not in a valid format. Please upload a JPG, GIF or PNG image file.</source>
+        <target>Datoteka, ki ste jo poslali ni v veljavni obliki. Prosimo, naložite JPG, GIF ali PNG datoteko.</target>
+      </trans-unit>
+      <trans-unit id="23">
+        <source>File size limit is 4MB. Please reduce file size before submitting again.</source>
+        <target>Limit velikosti datotek je 4MB. Prosimo, zmanjšajte velikost datoteke pred ponovnim nalaganjem.</target>
+      </trans-unit>
+      <trans-unit id="24">
+        <source>File size limit is 2MB.Please reduce file size.</source>
+        <target>Limit velikosti datotek je 2MB. Prosimo, zmanjšajte velikost.</target>
+      </trans-unit>
+      <trans-unit id="25">
+        <source>Caption "%value%" contains forbidden characters</source>
+        <target>Besedilo "%value%" vsebuje prepovedane znake</target>
+      </trans-unit>
+      <trans-unit id="26">
+        <source>Caption "%value%" contains forbidden words</source>
+        <target>Besedilo "%value%" vsebuje prepovedane besede</target>
+      </trans-unit>
+      <trans-unit id="27">
+        <source>Type photo caption</source>
+        <target>Napišite besedilo pod sliko</target>
+      </trans-unit>
+	  <trans-unit id="28">
+        <source>Type photo caption</source>
+        <target>Napišite besedilo pod sliko</target>
+      </trans-unit>
+      <trans-unit id="29">
+        <source>Caption must contain at least %min_length% characters</source>
+        <target>Besedilo pod sliko mora vsebovati vsaj %min_length% znakov</target>
+      </trans-unit>
+      <trans-unit id="30">
+        <source>The caption cannot contain more than %max_length% characters.</source>
+        <target>Besedilo pod sliko ne sme vsebovati več kot %max_length% znakov.</target>
+      </trans-unit>
+      <trans-unit id="31">
+        <source>The review cannot contain more than %max_length% characters. Shorten your review.</source>
+        <target>Ocena ne sme vsebovati več kot %max_length% znakov. Skrajšajte svojo oceno.</target>
+      </trans-unit>
+       <trans-unit id="32">
+        <source>The review must contain at least %min_length% characters</source>
+        <target>Ocena mora vsebovati vsaj %min_length% znakov</target>
+      </trans-unit>
+      <trans-unit id="33">
+        <source>The review contains characters that are not allowed</source>
+        <target>Ocena vsebuje znake, ki niso dovoljeni</target>
+      </trans-unit>
+      <trans-unit id="34">
+        <source>The review contains words that are not allowed</source>
+        <target>Ocena vsebuje besede, ki niso dovoljene</target>
+      </trans-unit>
+      <trans-unit id="35">
+        <source>The answer cannot contain more than %max_length% characters</source>
+        <target>Odgovor ne sme vsebovati več kot %max_length% znakov</target>
+      </trans-unit>
+       <trans-unit id="36">
+        <source>The answer must contain at least %min_length% characters</source>
+        <target>Odgovor mora vsebovati vsaj %min_length% znakov</target>
+      </trans-unit>
+       <trans-unit id="37">
+        <source>The review cannot contain more than %max_length% characters</source>
+        <target>Ocena ne sme vsebovati več kot %max_length% znakov</target>
+      </trans-unit>
+      <trans-unit id="38">
+        <source>the answer contains words that are not allowed</source>
+        <target>Odgovor vsebuje besede, ki niso dovoljene</target>
+      </trans-unit>
+      <trans-unit id="39">
+        <source>Type Review</source>
+        <target>Napiši oceno</target>
+      </trans-unit>
+      <trans-unit id="40">
+        <source>The caption must contain at least 3 characters</source>
+        <target>Besedilo pod sliko mora vsebovati vsaj 3 znake</target>
+      </trans-unit>
+      <trans-unit id="41">
+        <source>The caption cannot contain more than 255 characters</source>
+        <target>Besedilo pod sliko ne sme vsebovati več kot 255 znakov</target>
+      </trans-unit>
+      <trans-unit id="42">
+        <source>The field is mandatory</source>
+        <target>To polje je obvezno</target>
+      </trans-unit>
+      <trans-unit id="43">
+        <source>Select Your Position</source>
+        <target>Izberite svoj položaj</target>
+      </trans-unit>
+      <trans-unit id="44">
+        <source>Invalid Phone Number</source>
+        <target>Neveljavna telefonska številka</target>
+      </trans-unit>
+      <trans-unit id="45">
+        <source>This field is mandatory. Select your town/city from the dropdown list.</source>
+        <target>To polje je obvezno. Izberite svoj kraj/mesto s seznama.</target>
+      </trans-unit>
+      <trans-unit id="46">
+        <source>This field cannot contain more than %max_length% characters</source>
+        <target>To polje ne sme vsebovati več kot %max_length% znakov</target>
+      </trans-unit>
+      <trans-unit id="47">
+        <source>Select company type</source>
+        <target>Izberite vrsto podjetja</target>
+      </trans-unit>
+      <trans-unit id="48">
+        <source>Select address type</source>
+        <target>Izberite vrsto naslova</target>
+      </trans-unit>
+      <trans-unit id="49">
+        <source>Invalid Postcode</source>
+        <target>Neveljavna poštna številka</target>
+      </trans-unit>
+      <trans-unit id="50">
+        <source>You must select Street and/or Nighbourhood</source>
+        <target>Izbrati morate ulico in/ali sosesko</target>
+      </trans-unit>
+      <trans-unit id="51">
+        <source>You must enter Street and/or Nighbourhood</source>
+        <target>Vpisati morate ulico in/ali sosesko</target>
+      </trans-unit>
+      <trans-unit id="52">
+        <source>You must enter Street Number and/or Entrance</source>
+        <target>Vpisati morate številko ulice in/ali vhoda</target>
+      </trans-unit>
+      <trans-unit id="53">
+        <source>You need to register a business account in order to manage you company's listing in getlokal.ro</source>
+        <target>Če želite upravljati s svojim oglasom na getlokal.ro morate registrirati poslovni račun</target>
+      </trans-unit>
+       <trans-unit id="54">
+        <source>Log out of your user profile and register as a business</source>
+        <target>Odjavite se iz svojega uporabniškega profila in se registrirajte kot podjetje</target>
+      </trans-unit>
+      <trans-unit id="55">
+        <source>Only business users can claim companies!</source>
+        <target>Samo poslovni uporabniki lahko objavljajo podjetja!</target>
+      </trans-unit>
+      <trans-unit id="56">
+        <source>Enter the URL of Your Blog</source>
+        <target>Vpišite URL naslov svojega bloga</target>
+      </trans-unit>
+      <trans-unit id="57">
+        <source>The field cannot contain more than %max_length% characters</source>
+        <target>To polje ne sme vsebovati več kot %max_length% znakov</target>
+      </trans-unit>
+      <trans-unit id="58">
+        <source>The field must contain at least %min_length% characters</source>
+        <target>To polje mora vsebovati vsaj %min_length% znakov</target>
+      </trans-unit>
+      <trans-unit id="59">
+        <source>Invalid format. E.g. http://www.getlokal.ro.</source>
+        <target>Neveljavna oblika. Npr. http://getlokal.ro.</target>
+      </trans-unit>
+      <trans-unit id="60">
+        <source>Invalid format. E.g. getlokal.ro!</source>
+        <target>Neveljavna oblika. Npr. getlokal.ro!</target>
+      </trans-unit>
+      <trans-unit id="61">
+        <source>Invalid format. E.g. http://blog.getlokal.ro.</source>
+        <target>Neveljavna oblika. Npr. http://blog.getlokal.ro.</target>
+      </trans-unit>
+      <trans-unit id="62">
+        <source>Invalid format. E.g. http://twitter.com/@getlokal.</source>
+        <target>Neveljavna oblika. Npr. http://twitter.com/@getlokal.</target>
+      </trans-unit>
+      <trans-unit id="63">
+        <source>Invalid format. E.g. http://www.facebook.com/#!/getlokal.</source>
+        <target>Neveljavna oblika. Npr. http://www.facebook.com/#!/getlokal.</target>
+      </trans-unit>
+      <trans-unit id="64">
+        <source>This field is not mandatory but if you fill it in it must contain at least %min_length% characters</source>
+        <target>To polje ni obvezno, če ga izpolnite pa mora vsebovati vsaj %min_length% znakov</target>
+      </trans-unit>
+      <trans-unit id="65">
+        <source>This field is not mandatory but if you fill it in itcannot contain more than %max_length% characters.</source>
+        <target>To polje ni obvezno, če ga izpolnite pa ne sme vsebovati več kot %max_length% znakov</target>
+      </trans-unit>
+      <trans-unit id="66">
+        <source>Select Your Position</source>
+        <target>Izberite svoj položaj</target>
+      </trans-unit>
+
+      <trans-unit id="67">
+        <source>Invalid format. E.g. http://www.facebook.com/getlokal.</source>
+        <target>Neveljavna oblika. Npr. http://www.facebook.com/getlokal.</target>
+      </trans-unit>
+      <trans-unit id="68">
+        <source>There was a problem changing your password. Please try again later.</source>
+        <target>Pri spreminjanju vašega gesla je prišlo do napake. Prosimo, poskusite ponovno kasneje.</target>
+      </trans-unit>
+      <trans-unit id="69">
+        <source>Your password was changed successfully</source>
+        <target>Vaše geslo je bilo uspešno spremenjeno</target>
+      </trans-unit>
+       <trans-unit id="70">
+        <source>The start date cannot be earlier than today</source>
+        <target>Začetni datum ne sme biti pred današnjim</target>
+      </trans-unit>
+      <trans-unit id="71">
+        <source>The start date of the second promo month cannot be earlier than the end date of the first</source>
+        <target>Začetni datum drugega promocijskega meseca ne sme biti pred končnim datumom prvega</target>
+      </trans-unit>
+       <trans-unit id="72">
+        <source>The start date of the third promo month cannot be earlier than the end date of the second</source>
+        <target>Začetni datum tretjega promocijskega meseca ne sme biti pred končnim datumom drugega</target>
+      </trans-unit>
+       <trans-unit id="73">
+        <source>The start date for the third period must not be later than 30 days before the end date of your advert</source>
+        <target>Začetni datum tretjega obdobja ne sme kasneje kot 30 dni pred končnim datumom vašega oglasa</target>
+      </trans-unit>
+      <trans-unit id="74">
+        <source>The start date for the period must not be later than 30 days before the end date of your advert</source>
+        <target>Začetni datum obdobja ne sme kasneje kot 30 dni pred končnim datumom vašega oglasa</target>
+      </trans-unit>
+      <trans-unit id="75">
+        <source>Type an Answer</source>
+        <target>Napišite odgovor</target>
+      </trans-unit>
+      <trans-unit id="76">
+        <source>The Offer Title cannot be longer than %max_length% characters</source>
+        <target>Naslov ponudbe ne sme biti daljši kot %max_length% znakov</target>
+      </trans-unit>
+      <trans-unit id="77">
+        <source>The maximum number of vouchers issued per user cannot exceed the total number of vouchers for the offer</source>
+        <target>Maksimalno število kuponov, izdanih na uporabnika ne sme presegati celotnega števila kuponov za to ponudbo</target>
+      </trans-unit>
+      <trans-unit id="78">
+        <source>You cannot select a date earlier than today's</source>
+        <target>Ne morete izbrati datuma pred današnjim</target>
+      </trans-unit>
+      <trans-unit id="79">
+        <source>Тhe end date of your offer cannot be later than the end date of your advert</source>
+        <target>Končni datum vaše ponudbe ne sme biti kasneje od končnega datuma vašega oglasa</target>
+      </trans-unit>
+      <trans-unit id="80">
+        <source>The offer end date cannot be earlier than the start date</source>
+        <target>Končni datum ponudbe ne more biti pred začetnim datumom</target>
+      </trans-unit>
+      <trans-unit id="81">
+        <source>The voucher valid to date cannot be earlier than the offer end date</source>
+        <target>Datum veljavnosti kupona ne sme biti pred datumom izteka ponudbe</target>
+      </trans-unit>
+      <trans-unit id="82">
+        <source>Select date, month and year</source>
+        <target>Izberite datum, mesec in leto</target>
+      </trans-unit>
+       <trans-unit id="83">
+        <source>The email address is not in a valid format</source>
+        <target>E-poštni naslov ni v veljavni obliki</target>
+      </trans-unit>
+      <trans-unit id="84">
+        <source>An email is mandatory</source>
+        <target>E-poštni naslov je obvezen</target>
+      </trans-unit>
+      <trans-unit id="85">
+        <source>You need to agree to getlokal's Terms of Use to create a user account</source>
+        <target>Če želite ustvariti uporabniški račun morate najprej sprejeti getlokal Pogoje uporabe</target>
+      </trans-unit>
+       <trans-unit id="86">
+        <source>Location is mandatory. Start typing the name of your location and select from the list.</source>
+        <target>Lokacija je obvezna. Začnite pisati ime svoje lokacije in izberite s seznama.</target>
+      </trans-unit>
+      <trans-unit id="87">
+        <source>Password must be at least %min_length% characters</source>
+        <target>Geslo mora vsebovati vsaj %min_length% znakov</target>
+      </trans-unit>
+      <trans-unit id="88">
+        <source>Password cannot be more than %min_length% characters</source>
+        <target>Geslo ne sme vsebovati več kot %max_length% znakov</target>
+      </trans-unit>
+      <trans-unit id="89">
+        <source>A username is mandatory</source>
+        <target>Uporabniško ime je obvezno</target>
+      </trans-unit>
+       <trans-unit id="90">
+        <source>Invalid unsubscribe code for </source>
+        <target>Neveljavna odjavna koda za</target>
+      </trans-unit>
+	  <trans-unit id="91">
+        <source>The passwords don't match</source>
+        <target>Gesli se ne ujemata</target>
+      </trans-unit>
+
+	   <trans-unit id="92">
+        <source>Description must contain at least %min_length% characters</source>
+        <target>Opis mora vsebovati vsaj %min_length% znakov</target>
+      </trans-unit>
+      <trans-unit id="93">
+        <source>The description cannot contain more than %max_length% characters.</source>
+        <target>Opis ne sme vsebovati več kot %max_length% znakov.</target>
+      </trans-unit>
+      <trans-unit id="94">
+        <source>Description "%value%" contains forbidden words</source>
+        <target>Opis "%value%" vsebuje prepovedane besede</target>
+      </trans-unit>
+       <trans-unit id="95">
+        <source>The Offer Title must contain at least %min_length% characters</source>
+        <target>Naslov ponudbe mora vsebovati vsaj %min_length% znakov</target>
+      </trans-unit>
+      <trans-unit id="96">
+        <source>The Offer Title and Terms are mandatory for at least one of the two language versions.</source>
+        <target>Naslov ponudbe in pogoji so obvezni za vsaj eno izmed dveh jezikovnih verzij.</target>
+      </trans-unit>
+       <trans-unit id="97">
+        <source>The Newsletter Title cannot be longer than %max_length% characters</source>
+        <target>Naslov glasila ne sme biti daljši od %max_length% znakov</target>
+      </trans-unit>
+      <trans-unit id="98">
+        <source>The Newsletter Title must contain at least %min_length% characters</source>
+        <target>Naslov glasila mora vsebovati vsaj %min_length% znakov</target>
+      </trans-unit>
+      <trans-unit id="99">
+        <source>Please enter search criteria</source>
+        <target>Prosimo, vnesite iskalni kriterij</target>
+      </trans-unit>
+      <trans-unit id="100">
+        <source>Please correct search criteria</source>
+        <target>Prosimo, popravite iskalni kriterij</target>
+      </trans-unit>
+      <trans-unit id="101">
+        <source>Incorrect search term</source>
+        <target>Nepravilen iskalni izraz</target>
+      </trans-unit>
+     <trans-unit id="102">
+        <source>Message must contain at least %min_length% characters</source>
+        <target>Sporočilo mora vsebovati vsaj %min_length% znakov</target>
+      </trans-unit>
+      <trans-unit id="103">
+        <source>The message cannot contain more than %max_length% characters.</source>
+        <target>Sporočilo ne sme vsebovati več kot %max_length% znakov.</target>
+      </trans-unit>
+       <trans-unit id="104">
+        <source>This email and unsubscribed key do not match</source>
+        <target>Ta e-pošta in odjavna koda se ne ujemata</target>
+      </trans-unit>
+        <trans-unit id="105">
+        <source>Video Title must contain at least %min_length% characters</source>
+        <target>Naslov videoposnetka mora vsebovati vsaj %min_length% znakov</target>
+      </trans-unit>
+      <trans-unit id="106">
+        <source>The video title cannot contain more than %max_length% characters.</source>
+        <target>Naslov videoposnetka ne sme vsebovati več kot %max_length% znakov</target>
+      </trans-unit>
+       <trans-unit id="107">
+        <source>The email message was not sent successfully.</source>
+        <target>To e-poštno sporočilo ni bilo uspešno poslano.</target>
+      </trans-unit>
+      <trans-unit id="108">
+        <source>This username has already been registered by another user</source>
+        <target>To uporabniško ime je že v uporabi</target>
+      </trans-unit>
+       <trans-unit id="109">
+        <source>Тhe start date cannot be later than the end date of the event</source>
+        <target>Začetni datum ne sme biti kasneje kot končni datum dogodka</target>
+      </trans-unit>
+      <trans-unit id="110">
+        <source>Please add location - city/town is required if venue not known!</source>
+        <target>Prosimo, dodajte lokacijo - v primeru, da ne poznate prizorišča je zahtevano mesto/kraj!</target>
+      </trans-unit>
+      <trans-unit id="111">
+        <source>Please enter the characters from the picture below to confirm you like parties!</source>
+        <target>Prosimo, vpišite znake iz spodnje slike in potrdite, da imate radi zabave!</target>
+      </trans-unit>
+          <trans-unit id="112">
+        <source>Username</source>
+        <target>Uporabniško ime</target>
+      </trans-unit>
+      <trans-unit id="113">
+        <source>Email</source>
+        <target>E-pošta</target>
+      </trans-unit>
+      <trans-unit id="114">
+        <source>Password</source>
+        <target>Geslo</target>
+      </trans-unit>
+      <trans-unit id="115">
+        <source>Retype Your Password</source>
+        <target>Ponovno vpišite svoje geslo</target>
+      </trans-unit>
+      <trans-unit id="116">
+        <source>Select Your City</source>
+        <target>Izberite svoje mesto</target>
+      </trans-unit>
+            <trans-unit id="117">
+        <source>Enter your Email address.</source>
+        <target>Vpišite svoj e-poštni naslov</target>
+      </trans-unit>
+      <trans-unit id="118">
+        <source>Name</source>
+        <target>Ime</target>
+      </trans-unit>
+      <trans-unit id="119">
+        <source>Surname</source>
+        <target>Priimek</target>
+      </trans-unit>
+      <trans-unit id="120">
+        <source>Profile Picture</source>
+        <target>Profilna slika</target>
+      </trans-unit>
+      <trans-unit id="121">
+        <source>Delete current</source>
+        <target>Izbriši trenutno</target>
+      </trans-unit>
+      <trans-unit id="122">
+        <source>Date of Birth</source>
+        <target>Datum rojstva</target>
+      </trans-unit>
+      <trans-unit id="123">
+        <source>Gender</source>
+        <target>Spol</target>
+      </trans-unit>
+      <trans-unit id="124">
+        <source>Location</source>
+        <target>Lokacija</target>
+      </trans-unit>
+           <trans-unit id="125">
+        <source>About me</source>
+        <target>O meni</target>
+      </trans-unit>
+      <trans-unit id="126">
+        <source>My Website</source>
+        <target>Moja spletna stran</target>
+      </trans-unit>
+      <trans-unit id="127">
+        <source>My Blog</source>
+        <target>Moj blog</target>
+      </trans-unit>
+      <trans-unit id="128">
+        <source>My Facebook</source>
+        <target>Moj Facebook</target>
+      </trans-unit>
+      <trans-unit id="129">
+        <source>My Google+</source>
+        <target>Moj Google+</target>
+      </trans-unit>
+
+      <trans-unit id="130">
+        <source>New Password</source>
+        <target>Novo geslo</target>
+      </trans-unit>
+      <trans-unit id="131">
+        <source>Retype New Password</source>
+        <target>Ponovno vpišite novo geslo</target>
+      </trans-unit>
+      <trans-unit id="132">
+        <source>The field is required</source>
+        <target>Polje je obvezno</target>
+      </trans-unit>
+      <trans-unit id="133">
+        <source>Fields marked with a star are mandatory.</source>
+        <target>Polja, označena z zvezdico so obvezna.</target>
+      </trans-unit>
+            <trans-unit id="134">
+        <source>Owner</source>
+        <target>Lastnik</target>
+      </trans-unit>
+      <trans-unit id="135">
+        <source>Director</source>
+        <target>Direktor</target>
+      </trans-unit>
+       <trans-unit id="136">
+        <source>Manager</source>
+        <target>Menedžer</target>
+      </trans-unit>
+      <trans-unit id="137">
+        <source>Employee</source>
+        <target>Zaposleni</target>
+      </trans-unit>
+      <trans-unit id="138">
+        <source>Choose...</source>
+        <target>Izberite...</target>
+      </trans-unit>
+      <trans-unit id="139">
+        <source>Other</source>
+        <target>Drugo</target>
+      </trans-unit>
+            <trans-unit id="140">
+        <source>My Facebook</source>
+        <target>Moj Facebook</target>
+      </trans-unit>
+      <trans-unit id="141">
+        <source>My Тwitter</source>
+        <target>Moj Twitter</target>
+      </trans-unit>
+            <trans-unit id="142">
+        <source>Current Password</source>
+        <target>Trenutno geslo</target>
+      </trans-unit>
+      <trans-unit id="143">
+        <source>Retype New Password</source>
+        <target>Ponovno vpišite novo geslo</target>
+      </trans-unit>
+      <trans-unit id="144">
+        <source>Passwords don't match</source>
+        <target>Gesli se ne ujemata</target>
+      </trans-unit>
+      <trans-unit id="145">
+        <source>Your Password</source>
+        <target>Vaše geslo</target>
+      </trans-unit>
+       <trans-unit id="146">
+        <source>Male</source>
+        <target>Moški</target>
+      </trans-unit>
+       <trans-unit id="147">
+        <source>Female</source>
+        <target>Ženska</target>
+      </trans-unit>
+      <trans-unit id="148">
+        <source>Position</source>
+        <target>Položaj</target>
+      </trans-unit>
+      <trans-unit id="149">
+        <source>Phone</source>
+        <target>Telefon</target>
+      </trans-unit>
+       <trans-unit id="150">
+        <source>I declare that I am an authorized representative of the business.</source>
+        <target>Izjavljam, da sem pooblaščeni zastopnik tega podjetja.</target>
+      </trans-unit>
+      <trans-unit id="151">
+        <source>Enter the CUI of your business.</source>
+        <target>Vpišite CUI svojega podjetja.</target>
+      </trans-unit>
+       <trans-unit id="152">
+        <source>Declare that you are an authorized representative of the business.</source>
+        <target>Izjavite, da ste pooblaščeni zastopnik tega podjetja.</target>
+      </trans-unit>
+      <trans-unit id="153">
+        <source>Invalid CUI</source>
+        <target>Neveljaven CUI</target>
+      </trans-unit>
+      <trans-unit id="154">
+        <source>Company Name</source>
+        <target>Ime podjetja</target>
+      </trans-unit>
+      <trans-unit id="155">
+        <source>Company Type</source>
+        <target>Vrsta podjetja</target>
+      </trans-unit>
+       <trans-unit id="156">
+        <source>Company Name in Latin characters</source>
+        <target>Ime podjetja z latinskimi črkami</target>
+      </trans-unit>
+       <trans-unit id="157">
+        <source>Address</source>
+        <target>Naslov</target>
+      </trans-unit>
+       <trans-unit id="158">
+        <source>Classification</source>
+        <target>Razvrstitev</target>
+      </trans-unit>
+       <trans-unit id="159">
+        <source>City</source>
+        <target>Mesto</target>
+      </trans-unit>
+      <trans-unit id="160">
+        <source>Company Address</source>
+        <target>Naslov podjetja</target>
+      </trans-unit>
+      <trans-unit id="161">
+        <source>Postcode</source>
+        <target>Poštna številka</target>
+      </trans-unit>
+      <trans-unit id="162">
+        <source>Street</source>
+        <target>Ulica</target>
+      </trans-unit>
+      <trans-unit id="163">
+        <source>Number</source>
+        <target>Številka</target>
+      </trans-unit>
+      <trans-unit id="164">
+        <source>Neighbourhood</source>
+        <target>Soseska</target>
+      </trans-unit>
+      <trans-unit id="165">
+        <source>Bl.</source>
+        <target>Bl.</target>
+      </trans-unit>
+      <trans-unit id="166">
+        <source>Ent.</source>
+        <target>Vhod</target>
+      </trans-unit>
+      <trans-unit id="167">
+        <source>Fl.</source>
+        <target>Nad.</target>
+      </trans-unit>
+      <trans-unit id="168">
+        <source>Ap.</source>
+        <target>St.</target>
+      </trans-unit>
+            <trans-unit id="169">
+        <source>Monday</source>
+        <target>Ponedeljek</target>
+      </trans-unit>
+      <trans-unit id="170">
+        <source>Tuesday</source>
+        <target>Torek</target>
+      </trans-unit>
+      <trans-unit id="171">
+        <source>Wednesday</source>
+        <target>Sreda</target>
+      </trans-unit>
+      <trans-unit id="172">
+        <source>Thursday</source>
+        <target>Četrtek</target>
+      </trans-unit>
+      <trans-unit id="173">
+        <source>Friday</source>
+        <target>Petek</target>
+      </trans-unit>
+      <trans-unit id="174">
+        <source>Saturday</source>
+        <target>Sobota</target>
+      </trans-unit>
+      <trans-unit id="175">
+        <source>Sunday</source>
+        <target>Nedelja</target>
+      </trans-unit>
+         <trans-unit id="176">
+        <source>Bulgarian</source>
+        <target>Bolgarsko</target>
+      </trans-unit>
+      <trans-unit id="177">
+        <source>English</source>
+        <target>Angleško</target>
+      </trans-unit>
+      <trans-unit id="178">
+        <source>Email:</source>
+        <target>E-pošta:</target>
+      </trans-unit>
+      <trans-unit id="179">
+        <source>Password:</source>
+        <target>Geslo:</target>
+      </trans-unit>
+      <trans-unit id="180">
+        <source>Remember me</source>
+        <target>zapomni si me</target>
+      </trans-unit>
+      <trans-unit id="181">
+        <source>Description</source>
+        <target>Opis</target>
+      </trans-unit>
+      <trans-unit id="182">
+        <source>Category</source>
+        <target>Kategorija</target>
+      </trans-unit>
+      <trans-unit id="183">
+        <source>Website</source>
+        <target>Spletna stran</target>
+      </trans-unit>
+      			<trans-unit id="184">
+        <source>You entered "%value%". The security check picture contains %length% characters. Please try again.</source>
+        <target>Vnesli ste "%value%". Slika za varnostni pregled vsebuje %length% znakov. Prosimo, poskusite ponovno.</target>
+      </trans-unit>
+            <trans-unit id="185">
+        <source>Security check. Enter the characters from the picture below</source>
+        <target>Varnostni pregled. Vnesite znake iz spodnje slike</target>
+      </trans-unit>
+      <trans-unit id="186">
+        <source>Start Date</source>
+        <target>Začetni datum</target>
+      </trans-unit>
+      <trans-unit id="187">
+        <source>Detailed Description</source>
+        <target>Podrobni opis</target>
+      </trans-unit>
+      <trans-unit id="188">
+        <source>Detailed Description (English)</source>
+        <target>Podrobni opis (Angleščina)</target>
+      </trans-unit>
+      <trans-unit id="189">
+        <source>Offer Title</source>
+        <target>Naslov ponudbe</target>
+      </trans-unit>
+      <trans-unit id="190">
+        <source>Voucher</source>
+        <target>Kupon</target>
+      </trans-unit>
+      <trans-unit id="191">
+        <source>Voucher Valid From</source>
+        <target>Kupon veljaven od</target>
+      </trans-unit>
+      <trans-unit id="192">
+        <source>Voucher Valid To</source>
+        <target>Kupon veljaven do</target>
+      </trans-unit>
+      <trans-unit id="193">
+        <source>Offer Active From</source>
+        <target>Ponudba aktivna od</target>
+      </trans-unit>
+      <trans-unit id="194">
+        <source>Offer Active To</source>
+        <target>Ponudba aktivna do</target>
+      </trans-unit>
+      <trans-unit id="195">
+        <source>Maximum number of vouchers to be issued</source>
+        <target>Maksimalno število kuponov za izdajo</target>
+      </trans-unit>
+       <trans-unit id="196">
+        <source>Maximum number of vouchers to be issued per user</source>
+        <target>Maksimalno število kuponov za izdajo na uporabnika</target>
+      </trans-unit>
+      <trans-unit id="197">
+        <source>Offer Terms</source>
+        <target>Pogoji ponudbe</target>
+      </trans-unit>
+       <trans-unit id="198">
+        <source>Select a photo from your computer</source>
+        <target>Izberite fotografijo s svojega računalnika</target>
+      </trans-unit>
+      <trans-unit id="199">
+        <source>Caption</source>
+        <target>Besedilo pod sliko</target>
+      </trans-unit>
+      <trans-unit id="8">
+        <source>Please enter your Name and Surname</source>
+        <target>Prosimo, vpišite svoje ime in priimek</target>
+      </trans-unit>
+      <trans-unit id="9">
+        <source>Invalid email</source>
+        <target>Neveljavna e-pošta</target>
+      </trans-unit>
+      <trans-unit id="10">
+        <source>Please rate this company</source>
+        <target>Prosimo, ocenite to podjetje</target>
+      </trans-unit>
+      <trans-unit id="22">
+        <source>Please enter your email</source>
+        <target>Prosimo, vpišite svojo e-pošto</target>
+      </trans-unit>
+      <trans-unit id="11">
+        <source>Invalid Rating</source>
+        <target>Neveljavna ocena</target>
+      </trans-unit>
+       <trans-unit id="15">
+        <source>Please agree to observe the Terms of Use of the Getlokal Website</source>
+        <target>Prosimo, potrdite, da ste prebrali Pogoje uporabe Getlokal spletne strani</target>
+    </trans-unit>
+    <trans-unit id="54">
+        <source>Choose if you want to recommend this company to a friend</source>
+        <target>Izberite, če želite to podjetje priporočiti prijatelju</target>
+      </trans-unit>
+       <trans-unit id="200">
+        <source>Name</source>
+        <target>Ime</target>
+      </trans-unit>
+      <trans-unit id="201">
+        <source>Surname</source>
+        <target>Priimek</target>
+      </trans-unit>
+      <trans-unit id="202">
+        <source>Enter your Email address.</source>
+        <target>Vpišite svoj e-poštni naslov.</target>
+      </trans-unit>
+       <trans-unit id="203">
+        <source>Your username should contain only alphanumeric characters, dash, dot or underscore and begin with a letter</source>
+        <target>Vaše uporabniško ime lahko vsebuje le črke in številke, pomišljaj, piko ali podčrtaj, začeti pa se mora s črko</target>
+      </trans-unit>
+      <trans-unit id="204">
+        <source>Your account changes were successfully saved.</source>
+        <target>Spremembe vašega računa so bile uspešno shranjene.</target>
+      </trans-unit>
+      <trans-unit id="205">
+        <source>Company Name or CUI</source>
+        <target>Ime podjetja ali CUI</target>
+      </trans-unit>
+       <trans-unit id="206">
+        <source>CUI (Cod Unic de Identificare)</source>
+        <target>CUI (Cod Unic de Identificare)</target>
+      </trans-unit>
+      <trans-unit id="207">
+        <source>Select file</source>
+        <target>Izberite datoteko</target>
+      </trans-unit>
+      <trans-unit id="208">
+        <source>Invalid format. E.g. http://www.getlokal.ro.</source>
+        <target>Neveljavna oblika. Npr. http://www.getlokal.ro.</target>
+      </trans-unit>
+      <trans-unit id="209">
+        <source>Invalid format. E.g. getlokal.ro!</source>
+        <target>Neveljavna oblika. Npr. getlokal.ro!</target>
+      </trans-unit>
+      <trans-unit id="210">
+        <source>Invalid format. E.g. http://blog.getlokal.ro.</source>
+        <target>Neveljavna oblika. Npr. http://blog.getlokal.ro.</target>
+      </trans-unit>
+      <trans-unit id="211">
+        <source>Invalid format. E.g. http://twitter.com/@getlokal.</source>
+        <target>Neveljavna oblika. Npr. http://twitter.com/@getlokal.</target>
+      </trans-unit>
+      <trans-unit id="212">
+        <source>Invalid format. E.g. http://www.facebook.com/#!/getlokal.</source>
+        <target>Neveljavna oblika. Npr. http://www.facebook.com/#!/getlokal.</target>
+      </trans-unit>
+      <trans-unit id="213">
+        <source>Invalid format.</source>
+        <target>Neveljavna oblika.</target>
+      </trans-unit>
+      <trans-unit id="214">
+        <source>Password is mandatory</source>
+        <target>Geslo je obvezno</target>
+      </trans-unit>
+      <trans-unit id="215">
+        <source>The email and/or password are invalid</source>
+        <target>E-pošta in/ali geslo sta nepravilna</target>
+      </trans-unit>
+      <trans-unit id="216">
+        <source>Incorrect Password</source>
+        <target>Neveljavno geslo</target>
+      </trans-unit>
+      <trans-unit id="217">
+        <source>When</source>
+        <target>Kdaj</target>
+      </trans-unit>
+      <trans-unit id="218">
+        <source>End Date</source>
+        <target>Končni datum</target>
+      </trans-unit>
+      <trans-unit id="219">
+        <source>City/Town</source>
+        <target>Kraj/mesto</target>
+      </trans-unit>
+      <trans-unit id="220">
+        <source>Venue name</source>
+        <target>Ime prizorišča</target>
+      </trans-unit>
+      <trans-unit id="221">
+        <source>More Info (add link)</source>
+        <target>Več informacij (dodaj povezavo)</target>
+      </trans-unit>
+      <trans-unit id="222">
+        <source>Buy ticket/book (add link)</source>
+        <target>Kupi vstopnico/knjigo (dodaj povezavo)</target>
+      </trans-unit>
+      <trans-unit id="223">
+        <source>Event Type</source>
+        <target>Vrsta dogodka</target>
+      </trans-unit>
+      <trans-unit id="224">
+        <source>Price</source>
+        <target>Cena</target>
+      </trans-unit>
+      <trans-unit id="225">
+        <source>Add Photo</source>
+        <target>Dodaj fotografijo</target>
+      </trans-unit>
+      <trans-unit id="226">
+        <source>Event Name</source>
+        <target>Ime dogodka</target>
+      </trans-unit>
+      <trans-unit id="227">
+        <source>Event Description</source>
+        <target>Opis dogodka</target>
+      </trans-unit>
+      <!-- NEw -->
+       <trans-unit id="228">
+        <source>Show to All</source>
+        <target>Prikaži za vse</target>
+      </trans-unit>
+      <trans-unit id="229">
+        <source>Choose... </source>
+        <target>Izberite...</target>
+      </trans-unit>
+      <trans-unit id="230">
+        <source>Enter New Email</source>
+        <target>Vpišite novo e-pošto</target>
+      </trans-unit>
+      <trans-unit id="231">
+        <source>Description</source>
+        <target>Opis</target>
+      </trans-unit>
+      <trans-unit id="232">
+        <source>Description (English)</source>
+        <target>Opis (Angleščina)</target>
+      </trans-unit>
+      <trans-unit id="233">
+        <source>Detailed Description (English)</source>
+        <target>Podrobni opis (Angleščina)</target>
+      </trans-unit>
+      <trans-unit id="234">
+        <source>Detailed Description</source>
+        <target>Podrobni opis</target>
+      </trans-unit>
+       <trans-unit id="235">
+        <source>VIP Position Start Date</source>
+        <target>Začetni datum VIP položaja</target>
+      </trans-unit>
+      <trans-unit id="236">
+        <source>Message</source>
+        <target>Sporočilo</target>
+      </trans-unit>
+      <trans-unit id="237">
+        <source>Please rate this company</source>
+        <target>Prosimo, ocenite to podjetje</target>
+      </trans-unit>
+      <trans-unit id="238">
+        <source>The username "%value%" is invalid.</source>
+        <target>Uporabniško ime "%value%" ni veljavno.</target>
+      </trans-unit>
+      <trans-unit id="239">
+        <source>Username must contain at least %min_length% characters.</source>
+        <target>Uporabniško ime mora vsebovati vsaj %min_length% znakov.</target>
+      </trans-unit>
+      <trans-unit id="240">
+        <source>The username and/or password you entered for %s are invalid or you don't have enough credentials</source>
+        <target>Uporabniško ime in/ali geslo, ki ste ju vnesli za %s sta neveljavna, ali pa nimate potrebnih dovoljenj</target>
+      </trans-unit>
+       <trans-unit id="241">
+        <source>The username and/or password you entered are invalid or you don't have enough credentials</source>
+        <target>Uporabniško ime in/ali geslo, ki ste ju vnesli sta neveljavna, ali pa nimate potrebnih dovoljenj</target>
+      </trans-unit>
+       <trans-unit id="242">
+        <source><![CDATA[You need to agree to Getlokal Terms of Use & Privacy Policy]]></source>
+        <target><![CDATA[Sprejeti morate Getlokal pogoje uporabo in Izjavo o varovanju zasebnosti]]></target>
+      </trans-unit>
+      <trans-unit id="243">
+        <source>Start Time</source>
+        <target>Začetni čas</target>
+     </trans-unit>
+
+      <trans-unit id="244">
+        <source>Place Name</source>
+        <target>Ime kraja</target>
+      </trans-unit>
+	  <trans-unit id="245">
+        <source>Place Name in English</source>
+        <target>Ime kraja v angleščini</target>
+      </trans-unit>
+
+ </body>
+  </file>
+</xliff>

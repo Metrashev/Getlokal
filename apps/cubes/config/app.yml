@@ -1,0 +1,51 @@
+# You can find more information about this file on the symfony website:
+# http://www.symfony-project.org/reference/1_4/en/11-App
+
+# default values
+all:
+  
+  cultures_en:
+      en: English
+      bg: Bulgarian
+      ro: Romanian
+      mk: Macedonian
+      sr: Serbian
+      fi: Finnish
+      ru: Russian
+      cs: Czech
+      sk: Slovak
+      hu: Hungarian
+      
+  countries:
+      bg: Bulgaria
+      ro: Romania
+      mk: Macedonia
+      rs: Serbia
+      fi: Finland
+      cz: Czech Republic
+      sk: Slovakia
+      hu: Hungary
+      
+  domain_to_culture:
+      BG: bg
+      RO: ro
+      MK: mk
+      RS: sr
+      FI: fi
+      RU: ru
+      CZ: cs
+      SK: sk
+      HU: hu
+      
+  .array:
+    getlokal_power_user: [33329, 33330, 33331, 33332, 33334, 33335, 33336, 33337, 33339, 33340, 33341, 33342, 33343,34724,35785, 35786, 35787, 35788, 36435, 36436, 36437,36776, 76021, 76022, 76057, 83234, 89055, 89998, 64623, 116319, 117357, 123235, 124189]
+    culture_slugs: [ro, bg, en, mk, sr, fi, ru, cs, sk, hu]
+    domain_slugs: [bg, ro, mk, rs, fi, cz, sk, hu]
+    languages_bg: [bg, en]
+    languages_ro: [ro, en]
+    languages_mk: [mk, en]
+    languages_sr: [sr, en]
+    languages_fi: [fi, en, ru]
+    languages_cs: [cs, en, sk]
+    languages_sk: [sk, en, cs]
+    languages_hu: [hu, en]

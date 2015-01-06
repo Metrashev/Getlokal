@@ -1,0 +1,289 @@
+﻿<?xml version="1.0" ?>
+<xliff version="1.0">
+  <file orginal="global" source-language="en_EN" datatype="plaintext">
+    <body>
+<trans-unit>
+        <source>Mon</source>
+        <target>Pon</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Tue</source>
+        <target>Uto</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Wed</source>
+        <target>Sre</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Thu</source>
+        <target>Čet</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Fri</source>
+        <target>Pet</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Sat</source>
+        <target>Sub</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Sun</source>
+        <target>Ned</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Tomorrow</source>
+        <target>Sjutra</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Today</source>
+        <target>Danas</target>
+      </trans-unit>
+        <trans-unit>
+    <source>January</source>
+        <target>Januar</target>
+      </trans-unit>
+    <trans-unit>
+        <source>February</source>
+        <target>Februar</target>
+      </trans-unit>
+    <trans-unit>
+        <source>March</source>
+        <target>Mart</target>
+      </trans-unit>
+    <trans-unit>
+        <source>April</source>
+        <target>April</target>
+      </trans-unit>
+    <trans-unit>
+        <source>May</source>
+        <target>Maj</target>
+      </trans-unit>
+    <trans-unit>
+        <source>June</source>
+        <target>Jun</target>
+      </trans-unit>
+    <trans-unit>
+        <source>July</source>
+        <target>Jul</target>
+      </trans-unit>
+     <trans-unit>
+        <source>August</source>
+        <target>Avgust</target>
+      </trans-unit>
+     <trans-unit>
+        <source>September</source>
+        <target>Septembar</target>
+      </trans-unit>
+     <trans-unit>
+        <source>October</source>
+        <target>Oktobar</target>
+      </trans-unit>
+     <trans-unit>
+        <source>November</source>
+        <target>Novembar</target>
+      </trans-unit>
+     <trans-unit>
+        <source>December</source>
+        <target>Decembar</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Monday</source>
+        <target>Ponedjeljak</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Tuesday</source>
+        <target>Utorak</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Wednesday</source>
+        <target>Srijeda</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Thursday</source>
+        <target>Četvrtak</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Friday</source>
+        <target>Petak</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Saturday</source>
+        <target>Subota</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Sunday</source>
+        <target>Nedjelja</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Free</source>
+        <target>Besplatno</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Up to 10 %s</source>
+        <target>Do 10 %s</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Up to 50 %s</source>
+        <target>Do 50 %s</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Up to 100 %s</source>
+        <target>Do 100 %s</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Over 100 %s</source>
+        <target>Preko 100 %s</target>
+      </trans-unit>
+      <trans-unit>
+        <source>ATTEND</source>
+        <target>Prijavi se</target>
+      </trans-unit>
+      <trans-unit>
+        <source>%d participants</source>
+        <target>Prosustvovaće %d</target>
+      </trans-unit>
+       <trans-unit>
+        <source>Ticket: </source>
+        <target>Tiket</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>Reviews</source>
+        <target>Preporuke</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>REVIEWS</source>
+        <target>PREPORUKE</target>
+      </trans-unit>
+
+
+      <trans-unit>
+        <source>Address</source>
+        <target>Аdresa</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>Call</source>
+        <target>Pozovi</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>CALL</source>
+        <target>POZOVI</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>Review</source>
+        <target>Preporuka</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Add Pic</source>
+        <target>Dodaj fotografiju</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Fave</source>
+        <target>Omiljeno</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Checked in at %s</source>
+        <target>Check in %s</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Closed</source>
+        <target>Zatvoreno</target>
+      </trans-unit>
+
+    <trans-unit>
+        <source>Events</source>
+        <target>Događaji</target>
+    </trans-unit>
+
+    <trans-unit>
+        <source>EVENTS</source>
+        <target>DOGADAJI</target>
+    </trans-unit>
+
+
+
+
+    <trans-unit>
+        <source>Check-in</source>
+        <target>Check-in</target>
+    </trans-unit>
+	<trans-unit>
+        <source>Save</source>
+        <target>Save</target>
+    </trans-unit>
+	<trans-unit>
+        <source>Unsave</source>
+        <target>Unsave</target>
+    </trans-unit>
+	<trans-unit>
+        <source>Distance</source>
+        <target>Rastojanje</target>
+    </trans-unit>
+	<trans-unit>
+        <source>km</source>
+        <target>km</target>
+    </trans-unit>
+	<trans-unit>
+        <source>review(s)</source>
+        <target>preporuka</target>
+    </trans-unit>
+
+	<trans-unit>
+        <source>ATMs</source>
+        <target>Bankomati</target>
+    </trans-unit>
+
+     <trans-unit>
+        <source><![CDATA[[0]No reviews|[1]<span>1</span> review|(1,+Inf]<span>%count%</span> reviews]]></source>
+        <target><![CDATA[[0]Nema preporuka|[1]<span>1</span> preporuka|(1,+Inf]Broj preporuka: <span>%count%</span>]]></target>
+    </trans-unit>
+    <trans-unit>
+      <source>Places with Offers</source>
+      <target>Mesta sa ponudama</target>
+    </trans-unit>
+    <trans-unit>
+      <source>Voucher valid from</source>
+      <target>Obrazac za definisanje trajanja vaučera</target>
+    </trans-unit>
+    <trans-unit>
+      <source> to </source>
+      <target> do </target>
+    </trans-unit>
+
+    <trans-unit>
+      <source>0 available</source>
+      <target>0 dostupnih</target>
+    </trans-unit>
+    <trans-unit>
+      <source>1 available</source>
+      <target>1 dostupan</target>
+    </trans-unit>
+    <trans-unit>
+      <source> available</source>
+      <target> dostupnih</target>
+    </trans-unit>
+
+    <trans-unit>
+      <source>We were unable to issue your voucher. The offer is no longer active or you have already ordered the maximum number vouchers per user.</source>
+      <target>Vaučer nije izdat uspešno.Ponuda više nije aktivna, ili ste već zakupili maksimalan broj vaučera.</target>
+    </trans-unit>
+    <trans-unit>
+      <source>OFFERS</source>
+      <target>Ponude</target>
+    </trans-unit>
+    <trans-unit>
+      <source>Suggest an Edit</source>
+      <target>Predloži izmjenu</target>
+    </trans-unit>
+    <trans-unit>
+    	<source>This place was added by</source>
+		<target>Ovo mjesto je dodao korisnik</target>
+    </trans-unit>
+
+   </body>
+  </file>
+</xliff>

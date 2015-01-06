@@ -1,0 +1,51 @@
+<?xml version="1.0" ?>
+<xliff version="1.0">
+	<file original="global" source-language="en" datatype="plaintext">
+		<body>
+      		<trans-unit id="1">
+	        	<source>Place Claim in Getlokal</source>
+	       		<target>Prevziaќ miesto v aplikбcii Getlokal</target>
+      		</trans-unit>
+      		<trans-unit id="2">
+	        	<source>Welcome to getlokal</source>
+	       		<target>Vitajte v aplikбcii Getlokal</target>
+      		</trans-unit>
+      		<trans-unit id="3">
+	        	<source>Request through getlokal</source>
+	       		<target>Poћiadaќ cez Getlokal</target>
+      		</trans-unit>
+      		<trans-unit id="4">
+	        	<source>Claim Request</source>
+	       		<target>Ћiadosќ o prevzatie</target>
+      		</trans-unit>
+      		<trans-unit id="5">
+	        	<source>Forgotten Password</source>
+	       		<target>Zabudnutй heslo</target>
+      		</trans-unit>
+      		<trans-unit id="6">
+	        	<source>Getlokal Account Activation</source>
+	       		<target>Aktivбcia ъиtu Getlokal</target>
+      		</trans-unit>
+      		<trans-unit id="7">
+	        	<source>Change Email Confirmation</source>
+	       		<target>Zmeniќ potvrdenie e-mailu</target>
+      		</trans-unit>
+      		<trans-unit id="8">
+	        	<source>Forgotten Place Admin Password</source>
+	       		<target>Zabudnutй heslo sprбvcu miest</target>
+      		</trans-unit>
+      		<trans-unit id="9">
+	        	<source>Forgotten Username</source>
+	       		<target>Zabudnutй pouћнvateѕskй meno</target>
+      		</trans-unit>
+      		<trans-unit id="10">
+	        	<source>Approved Place Claim in Getlokal</source>
+	       		<target>Schvбlenй prevzatie miesta v aplikбcii Getlokal</target>
+      		</trans-unit>
+            <trans-unit id="11">
+                <source>Rejected Place Claim in Getlokal</source>
+                <target>Zamietnutй prevzatie miesta v aplikбcii Getlokal </target>
+            </trans-unit>
+		</body>
+	</file>
+</xliff>

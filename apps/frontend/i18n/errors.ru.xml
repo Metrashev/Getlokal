@@ -1,0 +1,253 @@
+<?xml version="1.0" ?>
+<xliff version="1.0">
+    <file orginal="global" source-language="en_EN" datatype="plaintext">
+        <body>     
+            <trans-unit>
+                <source>We were unable to send you a new password.</source>
+                <target>Мы не можем выслать вам новый пароль.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>There is no registered profile with this email address</source>
+                <target>Профиль с таким имейл адресом не зарегистрирован</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Unable to find user to activate</source>
+                <target> Невозможно найти пользователя для активации </target>
+            </trans-unit>
+            <trans-unit>
+                <source>Related account has already been activated</source>
+                <target>Связанный аккаунт уже был активирован </target>
+            </trans-unit>
+            <trans-unit>
+                <source>An error ocurred while trying to activate your account.</source>
+                <target>Возникла ошибка при попытке активировать свой аккаунт.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Day, month and year are mandatory fields</source>
+                <target>День, месяц и год являются обязательными для заполнения</target>
+            </trans-unit> 
+            <trans-unit>
+                <source>Username "%value%" cannot be used</source>
+                <target>Имя пользователя "%value%" не может быть использовано</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The username "%value%" contains characters that are not allowed</source>
+                <target> Имя пользователя "%value%" содержит запрещенные символы </target>
+            </trans-unit>
+            <trans-unit>
+                <source>Username must contain at least %min_length% characters</source>
+                <target> Имя пользователя должно содержать не менее %min_length% символов</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Username cannot contain more than %max_length% characters.</source>
+                <target> Имя пользователя не может содержать более %max_length% символов</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Invalid email – your email is not in the correct format</source>
+                <target>Недействительный имейл адрес – ваш имейл адрес имеет неверный формат</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Your password should be at least %min_length% characters long</source>
+                <target> Ваш пароль должен содержать как минимум %min_length% символов</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Your password cannot contain more than %max_length% characters</source>
+                <target> Ваш пароль не может содержать более %max_length% символов</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The passwords do not match</source>
+                <target>Пароли не совпадают</target>
+            </trans-unit>
+            <trans-unit>
+                <source>This email address has already been registered by another user</source>
+                <target>Данный адрес электронной почты уже зарегистрировал другой пользователь</target>
+            </trans-unit>
+            <trans-unit>
+                <source>This field is mandatory. Please start typing the name of your home location and select from the list.</source>
+                <target> Данное поле является обязательным. Пожалуйста, начните вводить название вашего местонахождения и выберите из списка.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>You have entered the text incorrectly. Please try again.</source>
+                <target> Вы ввели текст неправильно. Пожалуйста, попытайтесь еще раз.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Email is required</source>
+                <target>Требуется и-мейл адрес </target>
+            </trans-unit>
+            <trans-unit>
+                <source>You must select a file to upload</source>
+                <target> Вы должны выбрать файл для загрузки </target>
+            </trans-unit>
+            <trans-unit>
+                <source>The file you submitted is not in a valid format. Please upload a JPG, GIF or PNG image file.</source>
+                <target>Выбранный вами файл имеет недействительный формат. Пожалуйста, загрузите JPG, GIF или PNG файл.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The file you submitted is not in a valid format. Please upload a JPG, GIF or PNG image file.</source>
+                <target> Выбранный вами файл имеет недействительный формат. Пожалуйста, загрузите JPG, GIF или PNG файл.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>File size limit is 4MB.Please reduce file size before submitting again.</source>
+                <target>Допустимый размер файла составляет 4 MB. Пожалуйста, еще раз уменьшите размер файла перед отправкой.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>File size limit is 2MB.Please reduce file size.</source>
+                <target> Допустимый размер файла составляет 2 MB. Пожалуйста, уменьшите размер файла.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>З"%value%" contains forbidden characters</source>
+                <target>Заголовок "%value%" содержит запрещенные символы</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Caption "%value%" contains forbidden words</source>
+                <target>Заголовок "%value%" содержит запрещенные слова</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Type photo caption</source>
+                <target>Введите заголовок к фотоснимку</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Type photo caption</source>
+                <target> Введите заголовок к фотоснимку</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Caption must contain at least %min_length% characters</source>
+                <target>Заголовок должен содержать как минимум %min_length% символов</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The caption cannot contain more than %max_length% characters.</source>
+                <target>Заголовок не может содержать более %max_length% символов</target>
+            </trans-unit>
+            <trans-unit> 
+                <source>The review cannot contain more than %max_length% characters. Shorten your review.</source>
+                <target>Отзыв не может содержать более %max_length% символов. Сократите свой отзыв.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The review must contain at least %min_length% characters</source>
+                <target>Отзыв должен содержать как минимум %min_length% символов</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The answer must contain at least %min_length% characters</source>
+                <target>Ответ должен содержать как минимум %min_length% символов</target>
+            </trans-unit>
+            <trans-unit> 
+                <source>The review cannot contain more than %max_length% characters</source>
+                <target>Отзыв не может содержать более %max_length% символов</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Type Review</source>
+                <target>Введите отзыв</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The field is mandatory</source>
+                <target>Поле является обязательным</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Select Your Position</source>
+                <target>Выберите свою должность</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Invalid Phone Number</source>
+                <target>Недействительный номер телефона</target>
+            </trans-unit>  
+            <trans-unit>
+                <source>This field cannot contain more than %max_length% characters</source>
+                <target> Данное поле не может содержать более %max_length% символов</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Select company type</source>
+                <target> Выберите вид компании </target>
+            </trans-unit> 
+            <trans-unit>
+                <source>The field cannot contain more than %max_length% characters</source>
+                <target>Поле не может содержать более %max_length% символов</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The field must contain at least %min_length% characters</source>
+                <target>Поле должно содержать не менее %min_length% символов</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Invalid format. E.g. http://www.getlokal.com</source>
+                <target>Недействительный формат. Например: http://www.getlokal.com</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Invalid format. E.g. http://blog.getlokal.com</source>
+                <target> Недействительный формат. Например: http://blog.getlokal.com</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Invalid format. E.g. http://twitter.com/@getlokal</source>
+                <target> Недействительный формат. Например: http://twitter.com/@getlokal</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Invalid format. E.g. http://www.facebook.com/#!/getlokal</source>
+                <target> Недействительный формат. Например: http://www.facebook.com/#!/getlokal</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Select Your Position</source>
+                <target>Выберите свою должность</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The new password was sent successfully to the email you provided.</source>
+                <target>Новый пароль был успешно отправлен на указанный вами имейл адрес</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Invalid format. E.g. http://www.facebook.com/getlokal</source>
+                <target> Недействительный формат. Например:  http://www.facebook.com/getlokal</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Type an Answer</source>
+                <target>Введите ответ</target>
+            </trans-unit>
+     
+            <trans-unit>
+                <source>The maximum number of vouchers issued per user cannot exceed the total number of vouchers for the offer</source>
+                <target>Максимальное количество выпущенных ваучеров на одного пользователя не может превышать общее количество ваучеров по предложению</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The offer end date cannot be earlier than the start date</source>
+                <target>Дата окончания предложения не может быть раньше даты начала</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The voucher valid to date cannot be earlier than the offer end date</source>
+                <target>Дата окончания действия предложения не может быть раньше даты окончания самого предложения</target>
+            </trans-unit> 
+            <trans-unit>
+                <source>Description must contain at least %min_length% characters</source>
+                <target> Описание должно содержать как минимум %min_length% символов</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The description cannot contain more than %max_length% characters.</source>
+                <target> Описание не может содержать более %max_length% символов</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Description "%value%" contains forbidden words</source>
+                <target>Описание  "%value%" содержит запрещенные слова</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The video title cannot contain more than %max_length% characters.</source>
+                <target> Название видео не может содержать более %max_length% символов</target>
+            </trans-unit> 
+            <trans-unit>
+                <source>The email message was not sent successfully.</source>
+                <target>Данное имейл сообщение не было отправлено.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>An error ocurred while processing your request. Please try again later.</source>
+                <target>Произошла ошибка при обработке вашего запроса. Пожалуйста, повторите попытку позже.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>This username has already been registered by another user</source>
+                <target> Данное имя пользователя уже зарегистрировано другим пользователем.</target>
+            </trans-unit>      
+            <trans-unit>
+                <source>Abuse type is required.</source>
+                <target>Требуется тип нарушения.</target>
+            </trans-unit>      
+ 
+            <trans-unit>
+                <source>This field is mandatory. Please select your country name from the list.</source>
+                <target> Данное поле является обязательным. Пожалуйста, выберите название своей страны из списка. </target>
+            </trans-unit>      
+        </body>
+    </file>
+</xliff>	

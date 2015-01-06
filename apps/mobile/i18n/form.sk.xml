@@ -1,0 +1,1021 @@
+﻿<?xml version="1.0" ?>
+<xliff version="1.0">
+  <file original="global" source-language="en" datatype="plaintext">
+    <body>
+      <trans-unit id="1">
+        <source>There is no user registered with the this email</source>
+        <target>Neexistuje používateľ zaregistrovaný s týmto e-mailom</target>
+      </trans-unit>
+      <trans-unit id="2">
+        <source>Day, month and year are mandatory fields</source>
+        <target>Deň, mesiac a rok sú povinné polia</target>
+      </trans-unit>
+      <trans-unit id="3">
+        <source>Username "%value%" cannot be used</source>
+        <target>Používateľské meno "%value%" nie je možné použiť</target>
+      </trans-unit>
+      <trans-unit id="4">
+        <source>The username "%value%" contains characters that are not allowed</source>
+        <target>Používateľské meno "%value%" obsahuje znaky, ktoré nie sú povolené</target>
+      </trans-unit>
+      <trans-unit id="5">
+        <source>Username must contain at least %min_length% characters</source>
+        <target>Používateľské meno musí obsahovať aspoň %min_length% znakov</target>
+      </trans-unit>
+      <trans-unit id="6">
+        <source>Username cannot contain more than %max_length% characters.</source>
+        <target>Používateľské meno nemôže obsahovať viac než %max_length% znakov</target>
+      </trans-unit>
+      <trans-unit id="7">
+        <source>Invalid email – your email is not in the correct format</source>
+        <target>Neplatný e-mail – váš e-mail nie je v správnom formáte</target>
+      </trans-unit>
+      <trans-unit id="8">
+        <source>"%value%" is too short.  The username should be at least 3 characters.</source>
+        <target>Hodnota "%value%"  je príliš krátka. Používateľské meno musí mať aspoň 3 znaky</target>
+      </trans-unit>
+      <trans-unit id="9">
+        <source>Your password should be at least %min_length% characters long</source>
+        <target>Vaše heslo musí mať aspoň %min_length% znakov</target>
+      </trans-unit>
+      <trans-unit id="10">
+        <source>Your password cannot contain more than %max_length% characters</source>
+        <target>Vaše heslo nesmie obsahovať viac než %max_length% znakov</target>
+      </trans-unit>
+      <trans-unit id="11">
+        <source>We will send the new password, to the email address you provided during registration</source>
+        <target>Na e-mailovú adresu, ktorú ste poskytli počas registrácie, vám zašleme nové heslo</target>
+      </trans-unit>
+      <trans-unit id="12">
+        <source>The passwords do not match</source>
+        <target>Heslá sa nezhodujú</target>
+      </trans-unit>
+      <trans-unit id="13">
+        <source>This email address has already been registered by another user</source>
+        <target>Túto e-mailovú adresu si už zaregistroval iný používateľ</target>
+      </trans-unit>
+      <trans-unit id="14">
+        <source>This username is already in use</source>
+        <target>Toto používateľské meno sa už používa</target>
+      </trans-unit>
+       <trans-unit id="15">
+        <source>This field is mandatory. Please start typing the name of your home location and select from the list.</source>
+        <target>Toto pole je povinné. Prosím, začnite písať názov polohy vášho domova a zvoľte možnosť z ponuky.</target>
+      </trans-unit>
+      <trans-unit id="16">
+        <source>You have entered the text incorrectly. Please try again.</source>
+        <target>Text ste zadali nesprávne. Skúste to, prosím, znova.</target>
+      </trans-unit>
+      <trans-unit id="17">
+        <source>Please retype your password.</source>
+        <target>Napíšte, prosím, svoje heslo znova.</target>
+      </trans-unit>
+	  <trans-unit id="18">
+        <source>Please retype your password.</source>
+        <target> Napíšte, prosím, svoje heslo znova.</target>
+      </trans-unit>
+      <trans-unit id="19">
+        <source>Email is required</source>
+        <target>E-mail je povinný</target>
+      </trans-unit>
+      <trans-unit id="20">
+        <source>You must select a file to upload</source>
+        <target>Musíte vybrať súbor na nahranie</target>
+      </trans-unit>
+      <trans-unit id="21">
+        <source>The file you submitted is not in a valid format. Please upload a JPG, GIF or PNG image file.</source>
+        <target>Súbor, ktorý ste odoslali, nie je v správnom formáte. Prosím, nahrajte súbor obrázka vo formáte JPG, GIF alebo PNG.</target>
+      </trans-unit>
+	  <trans-unit id="22">
+        <source>The file you submitted is not in a valid format. Please upload a JPG, GIF or PNG image file.</source>
+        <target>Súbor, ktorý ste odoslali, nie je v platnom formáte. Prosím, nahrajte súbor obrázka vo formáte JPG, GIF alebo PNG.</target>
+      </trans-unit>
+      <trans-unit id="23">
+        <source>File size limit is 4MB. Please reduce file size before submitting again.</source>
+        <target>Limit veľkosti súboru je 4 MB. Prosím, znížte veľkosť súboru a skúste ho odoslať znova.</target>
+      </trans-unit>
+      <trans-unit id="24">
+        <source>File size limit is 2MB.Please reduce file size.</source>
+        <target> Limit veľkosti súboru je 2 MB. Prosím, znížte veľkosť súboru.</target>
+      </trans-unit>
+      <trans-unit id="25">
+        <source>Caption "%value%" contains forbidden characters</source>
+        <target>Titul "%value%" obsahuje zakázané znaky</target>
+      </trans-unit>
+      <trans-unit id="26">
+        <source>Caption "%value%" contains forbidden words</source>
+        <target>Titul "%value%" obsahuje zakázané slová</target>
+      </trans-unit>
+      <trans-unit id="27">
+        <source>Type photo caption</source>
+        <target>Napíšte titul fotky</target>
+      </trans-unit>
+	  <trans-unit id="28">
+        <source>Type photo caption</source>
+        <target>Napíšte titul fotky</target>
+      </trans-unit>
+      <trans-unit id="29">
+        <source>Caption must contain at least %min_length% characters</source>
+        <target>Titul musí obsahovať aspoň %min_length% znakov</target>
+      </trans-unit>
+      <trans-unit id="30">
+        <source>The caption cannot contain more than %max_length% characters.</source>
+        <target>Titul nemôže obsahovať viac než %max_length% znakov</target>
+      </trans-unit>
+      <trans-unit id="31">
+        <source>The review cannot contain more than %max_length% characters. Shorten your review.</source>
+        <target>Recenzia nemôže obsahovať viac než %max_length% znakov. Skráťte svoju recenziu.</target>
+      </trans-unit>
+       <trans-unit id="32">
+        <source>The review must contain at least %min_length% characters</source>
+        <target>Recenzia musí obsahovať minimálne %min_length% znakov</target>
+      </trans-unit>
+      <trans-unit id="33">
+        <source>The review contains characters that are not allowed</source>
+        <target>Recenzia obsahuje znaky, ktoré nie sú povolené</target>
+      </trans-unit>
+      <trans-unit id="34">
+        <source>The review contains words that are not allowed</source>
+        <target>Recenzia obsahuje slová, ktoré nie sú povolené</target>
+      </trans-unit>
+      <trans-unit id="35">
+        <source>The answer cannot contain more than %max_length% characters</source>
+        <target>Odpoveď nemôže obsahovať viac než %max_length% znakov</target>
+      </trans-unit>
+       <trans-unit id="36">
+        <source>The answer must contain at least %min_length% characters</source>
+        <target>Odpoveď musí obsahovať aspoň %min_length znakov</target>
+      </trans-unit>
+       <trans-unit id="37">
+        <source>The review cannot contain more than %max_length% characters</source>
+        <target>Recenzia nemôže obsahovať viac než %max_length% znakov</target>
+      </trans-unit>
+      <trans-unit id="38">
+        <source>the answer contains words that are not allowed</source>
+        <target>Odpoveď obsahuje slová, ktoré nie sú povolené</target>
+      </trans-unit>
+      <trans-unit id="39">
+        <source>Type Review</source>
+        <target>Napíšte recenziu</target>
+      </trans-unit>
+      <trans-unit id="40">
+        <source>The caption must contain at least 3 characters</source>
+        <target>Titul musí obsahovať aspoň 3 znaky</target>
+      </trans-unit>
+      <trans-unit id="41">
+        <source>The caption cannot contain more than 255 characters</source>
+        <target>Titul nemôže obsahovať viac než 255 znakov</target>
+      </trans-unit>
+      <trans-unit id="42">
+        <source>The field is mandatory</source>
+        <target>Toto pole je povinné</target>
+      </trans-unit>
+      <trans-unit id="43">
+        <source>Select Your Position</source>
+        <target>Zvoľte svoju pozíciu</target>
+      </trans-unit>
+      <trans-unit id="44">
+        <source>Invalid Phone Number</source>
+        <target>Neplatné telefónne číslo</target>
+      </trans-unit>
+      <trans-unit id="45">
+        <source>This field is mandatory. Select your town/city from the dropdown list.</source>
+        <target>Toto pole je povinné. Zvoľte z rozbaľovacej ponuky svoje mesto.</target>
+      </trans-unit>
+      <trans-unit id="46">
+        <source>This field cannot contain more than %max_length% characters</source>
+        <target>Toto pole nemôže obsahovať viac než %max_length% znakov</target>
+      </trans-unit>
+      <trans-unit id="47">
+        <source>Select company type</source>
+        <target>Zvoliť typ spoločnosti</target>
+      </trans-unit>
+      <trans-unit id="48">
+        <source>Select address type</source>
+        <target>Zvoliť typ adresy</target>
+      </trans-unit>
+      <trans-unit id="49">
+        <source>Invalid Postcode</source>
+        <target>Neplatné PSČ</target>
+      </trans-unit>
+      <trans-unit id="50">
+        <source>You must select Street and/or Nighbourhood</source>
+        <target>Musíte zvoliť ulicu a/alebo štvrť</target>
+      </trans-unit>
+      <trans-unit id="51">
+        <source>You must enter Street and/or Nighbourhood</source>
+        <target>Musíte zadať ulicu a/alebo štvrť</target>
+      </trans-unit>
+      <trans-unit id="52">
+        <source>You must enter Street Number and/or Entrance</source>
+        <target>Musíte zadať číslo ulice a/alebo vchodu</target>
+      </trans-unit>
+      <trans-unit id="53">
+        <source>You need to register a business account in order to manage you company's listing in getlokal.ro</source>
+        <target>Ak chcete spravovať záznam svojej spoločnosti na stránke getlokal.ru, musíte si zaregistrovať firemný účet.</target>
+      </trans-unit>
+       <trans-unit id="54">
+        <source>Log out of your user profile and register as a business</source>
+        <target>Odhláste sa zo svojho používateľského účtu a zaregistrujte sa ako firma</target>
+      </trans-unit>
+      <trans-unit id="55">
+        <source>Only business users can claim companies!</source>
+        <target>Iba firmy môžu preberať spoločnosti!</target>
+      </trans-unit>
+      <trans-unit id="56">
+        <source>Enter the URL of Your Blog</source>
+        <target>Zadajte adresu URL vášho blogu</target>
+      </trans-unit>
+      <trans-unit id="57">
+        <source>The field cannot contain more than %max_length% characters</source>
+        <target>Toto pole nemôže obsahovať viac než %max_length% znakov</target>
+      </trans-unit>
+      <trans-unit id="58">
+        <source>The field must contain at least %min_length% characters</source>
+        <target>Pole musí obsahovať aspoň %min_length% znakov</target>
+      </trans-unit>
+      <trans-unit id="59">
+        <source>Invalid format. E.g. http://www.getlokal.ro.</source>
+        <target>Neplatný formát. Napr. http://www.getlokal.ro.</target>
+      </trans-unit>
+      <trans-unit id="60">
+        <source>Invalid format. E.g. getlokal.ro!</source>
+        <target>Neplatný formát. Napr. http://www.getlokal.ro!</target>
+      </trans-unit>
+      <trans-unit id="61">
+        <source>Invalid format. E.g. http://blog.getlokal.ro.</source>
+        <target>Neplatný formát. Napr. http://blog.getlokal.ro.</target>
+      </trans-unit>
+      <trans-unit id="62">
+        <source>Invalid format. E.g. http://twitter.com/@getlokal.</source>
+        <target>Neplatný formát. Napr. http://twitter.com/@getlokal.</target>
+      </trans-unit>
+      <trans-unit id="63">
+        <source>Invalid format. E.g. http://www.facebook.com/#!/getlokal.</source>
+        <target>Neplatný formát. Napr. http://www.facebook.com/#!/getlokal.</target>
+      </trans-unit>
+      <trans-unit id="64">
+        <source>This field is not mandatory but if you fill it in it must contain at least %min_length% characters</source>
+        <target>Toto pole nie je povinné, ale ak ho vyplníte, musí obsahovať aspoň %min_length% znakov</target>
+      </trans-unit>
+      <trans-unit id="65">
+        <source>This field is not mandatory but if you fill it in itcannot contain more than %max_length% characters.</source>
+        <target> Toto pole nie je povinné, ale ak ho vyplníte, nesmie obsahovať viac ako %max_length% znakov.</target>
+      </trans-unit>
+      <trans-unit id="66">
+        <source>Select Your Position</source>
+        <target>Zvoľte svoju pozíciu</target>
+      </trans-unit>
+
+      <trans-unit id="67">
+        <source>Invalid format. E.g. http://www.facebook.com/getlokal.</source>
+        <target>Neplatný formát. Napr. http://www.facebook.com/getlokal.</target>
+      </trans-unit>
+      <trans-unit id="68">
+        <source>There was a problem changing your password. Please try again later.</source>
+        <target>Pri zmene vášho hesla sa vyskytol problém. Skúste to, prosím, znova neskôr.</target>
+      </trans-unit>
+      <trans-unit id="69">
+        <source>Your password was changed successfully</source>
+        <target>Vaše heslo bolo úspešne zmenené.</target>
+      </trans-unit>
+       <trans-unit id="70">
+        <source>The start date cannot be earlier than today</source>
+        <target>Dátum začiatku nemôže byť skôr než dnes.</target>
+      </trans-unit>
+      <trans-unit id="71">
+        <source>The start date of the second promo month cannot be earlier than the end date of the first</source>
+        <target>Dátum začiatku druhého propagačného mesiaca nemôže byť skôr než koniec prvého </target>
+      </trans-unit>
+       <trans-unit id="72">
+        <source>The start date of the third promo month cannot be earlier than the end date of the second</source>
+        <target> Dátum začiatku tretieho propagačného mesiaca nemôže byť skôr než koniec druhého</target>
+      </trans-unit>
+       <trans-unit id="73">
+        <source>The start date for the third period must not be later than 30 days before the end date of your advert</source>
+        <target>Dátum začiatku tretieho obdobia nemôže byť neskôr než 30 dní pred dátumom konca vašej reklamy</target>
+      </trans-unit>
+      <trans-unit id="74">
+        <source>The start date for the period must not be later than 30 days before the end date of your advert</source>
+        <target>Dátuma zčiatku obdobia nemôže byť neskôr než 30 dní pred dátumom konca vašej reklamy</target>
+      </trans-unit>
+      <trans-unit id="75">
+        <source>Type an Answer</source>
+        <target>Napíšte odpoveď</target>
+      </trans-unit>
+      <trans-unit id="76">
+        <source>The Offer Title cannot be longer than %max_length% characters</source>
+        <target>Názov ponuky nemôže byť dlhší než %max_length% znakov</target>
+      </trans-unit>
+      <trans-unit id="77">
+        <source>The maximum number of vouchers issued per user cannot exceed the total number of vouchers for the offer</source>
+        <target>Maximálny počet kupónov vydaných na používateľa nemôže presahovať celkový počet kupónov na ponuku</target>
+      </trans-unit>
+      <trans-unit id="78">
+        <source>You cannot select a date earlier than today's</source>
+        <target>Nemôžete zvoliť dátum skorší než je dnes</target>
+      </trans-unit>
+      <trans-unit id="79">
+        <source>Тhe end date of your offer cannot be later than the end date of your advert</source>
+        <target>Dátum konca vašej ponuky nemôže byť neskôr než dátum konca vašej reklamy</target>
+      </trans-unit>
+      <trans-unit id="80">
+        <source>The offer end date cannot be earlier than the start date</source>
+        <target>Dátum konca ponuky nemôže byť skôr než dátum jej začiatku</target>
+      </trans-unit>
+      <trans-unit id="81">
+        <source>The voucher valid to date cannot be earlier than the offer end date</source>
+        <target>Dátum platnosti kupónu nemôže byť skôr než dátum ukončenia ponuky</target>
+      </trans-unit>
+      <trans-unit id="82">
+        <source>Select date, month and year</source>
+        <target>Zvoliť dátum, mesiac a rok</target>
+      </trans-unit>
+       <trans-unit id="83">
+        <source>The email address is not in a valid format</source>
+        <target>E-mailová adresa nie je uvedená v platnom formáte</target>
+      </trans-unit>
+      <trans-unit id="84">
+        <source>An email is mandatory</source>
+        <target>E-mail je povinný</target>
+      </trans-unit>
+      <trans-unit id="85">
+        <source>You need to agree to getlokal's Terms of Use to create a user account</source>
+        <target>Ak si chcete vytvoriť používateľský účet, musíte súhlasiť so Podmienkami používania Getlokal</target>
+      </trans-unit>
+       <trans-unit id="86">
+        <source>Location is mandatory. Start typing the name of your location and select from the list.</source>
+        <target>Poloha je povinná. Začnite písať názov polohy vášho domova a zvoľte možnosť z ponuky.</target>
+      </trans-unit>
+      <trans-unit id="87">
+        <source>Password must be at least %min_length% characters</source>
+        <target>Heslo musí mať aspoň %min_length% znakov</target>
+      </trans-unit>
+      <trans-unit id="88">
+        <source>Password cannot be more than %min_length% characters</source>
+        <target>Heslo nemôže mať viac než %min_length% znakov</target>
+      </trans-unit>
+      <trans-unit id="89">
+        <source>A username is mandatory</source>
+        <target>Používateľské meno je povinné</target>
+      </trans-unit>
+       <trans-unit id="90">
+        <source>Invalid unsubscribe code for </source>
+        <target>Neplatný kód odberu pre </target>
+      </trans-unit>
+	  <trans-unit id="91">
+        <source>The passwords don't match</source>
+        <target>Heslá sa nezhodujú</target>
+      </trans-unit>
+
+	   <trans-unit id="92">
+        <source>Description must contain at least %min_length% characters</source>
+        <target>Popis musí obsahovať aspoň %min_length% znakov</target>
+      </trans-unit>
+      <trans-unit id="93">
+        <source>The description cannot contain more than %max_length% characters.</source>
+        <target>Popis nemôže obsahovať viac než %max_length% znakov.</target>
+      </trans-unit>
+      <trans-unit id="94">
+        <source>Description "%value%" contains forbidden words</source>
+        <target>Popis "%value%" obsahuje zakázané slová</target>
+      </trans-unit>
+       <trans-unit id="95">
+        <source>The Offer Title must contain at least %min_length% characters</source>
+        <target>Titul ponuky musí obsahovať aspoň %min_length% znakov</target>
+      </trans-unit>
+      <trans-unit id="96">
+        <source>The Offer Title and Terms are mandatory for at least one of the two language versions.</source>
+        <target>Názov ponuky a Podmienky sú povinné údaje pre aspoň jednu z dvoch jazykových verzií.</target>
+      </trans-unit>
+       <trans-unit id="97">
+        <source>The Newsletter Title cannot be longer than %max_length% characters</source>
+        <target>Názov prehľadu noviniek nemôže byť dlhší než %max_length% znakov</target>
+      </trans-unit>
+      <trans-unit id="98">
+        <source>The Newsletter Title must contain at least %min_length% characters</source>
+        <target>Názov prehľadu noviniek musí obsahovať aspoň %min_length% znakov</target>
+      </trans-unit>
+      <trans-unit id="99">
+        <source>Please enter search criteria</source>
+        <target>Zadajte, prosím, kritéria vyhľadávania</target>
+      </trans-unit>
+      <trans-unit id="100">
+        <source>Please correct search criteria</source>
+        <target>Prosím, opravte kritéria vyhľadávania</target>
+      </trans-unit>
+      <trans-unit id="101">
+        <source>Incorrect search term</source>
+        <target>Nesprávne slovo pre vyhľadávanie</target>
+      </trans-unit>
+     <trans-unit id="102">
+        <source>Message must contain at least %min_length% characters</source>
+        <target>Správa musí obsahovať aspoň %min_length% znakov</target>
+      </trans-unit>
+      <trans-unit id="103">
+        <source>The message cannot contain more than %max_length% characters.</source>
+        <target>Správa nemôže obsahovať viac než %max_length% znakov</target>
+      </trans-unit>
+       <trans-unit id="104">
+        <source>This email and unsubscribed key do not match</source>
+        <target>Tento e-mail a kľúč zrušenia odberu sa nezhodujú</target>
+      </trans-unit>
+        <trans-unit id="105">
+        <source>Video Title must contain at least %min_length% characters</source>
+        <target>Názov videa musí obsahovať aspoň %min_length% znakov</target>
+      </trans-unit>
+      <trans-unit id="106">
+        <source>The video title cannot contain more than %max_length% characters.</source>
+        <target>Názov videa nemôže obsahovať viac než %max_length% znakov.</target>
+      </trans-unit>
+       <trans-unit id="107">
+        <source>The email message was not sent successfully.</source>
+        <target>E-mailová správa nebola úspešne odoslaná.</target>
+      </trans-unit>
+      <trans-unit id="108">
+        <source>This username has already been registered by another user</source>
+        <target>Toto používateľské meno si už zaregistroval iný používateľ</target>
+      </trans-unit>
+       <trans-unit id="109">
+        <source>Тhe start date cannot be later than the end date of the event</source>
+        <target>Dátum začiatku udalosti nemôže byť neskôr než dátum ukončenia udalosti</target>
+      </trans-unit>
+      <trans-unit id="110">
+        <source>Please add location - city/town is required if venue not known!</source>
+        <target>Prosím, pridajte polohu – ak nie je miesto konania udalosti známe, mesto je povinné!</target>
+      </trans-unit>
+      <trans-unit id="111">
+        <source>Please enter the characters from the picture below to confirm you like parties!</source>
+        <target>Prosím, zadajte znaky z obrázku nižšie pre potvrdenie, že máte radi párty!</target>
+      </trans-unit>
+          <trans-unit id="112">
+        <source>Username</source>
+        <target>Používateľské meno</target>
+      </trans-unit>
+      <trans-unit id="113">
+        <source>Email</source>
+        <target>E-mail</target>
+      </trans-unit>
+      <trans-unit id="114">
+        <source>Password</source>
+        <target>Heslo</target>
+      </trans-unit>
+      <trans-unit id="115">
+        <source>Retype Your Password</source>
+        <target>Znova napíšte svoje heslo</target>
+      </trans-unit>
+      <trans-unit id="116">
+        <source>Select Your City</source>
+        <target>Zvoľte svoje mesto</target>
+      </trans-unit>
+            <trans-unit id="117">
+        <source>Enter your Email address.</source>
+        <target>Zadajte svoju e-mailovú adresu.</target>
+      </trans-unit>
+      <trans-unit id="118">
+        <source>Name</source>
+        <target>Meno</target>
+      </trans-unit>
+      <trans-unit id="119">
+        <source>Surname</source>
+        <target>Priezvisko</target>
+      </trans-unit>
+      <trans-unit id="120">
+        <source>Profile Picture</source>
+        <target>Profilový obrázok</target>
+      </trans-unit>
+      <trans-unit id="121">
+        <source>Delete current</source>
+        <target>Odstrániť aktuálny</target>
+      </trans-unit>
+      <trans-unit id="122">
+        <source>Date of Birth</source>
+        <target>Dátum narodenia</target>
+      </trans-unit>
+      <trans-unit id="123">
+        <source>Gender</source>
+        <target>Pohlavie</target>
+      </trans-unit>
+      <trans-unit id="124">
+        <source>Location</source>
+        <target>Poloha</target>
+      </trans-unit>
+           <trans-unit id="125">
+        <source>About me</source>
+        <target>O mne</target>
+      </trans-unit>
+      <trans-unit id="126">
+        <source>My Website</source>
+        <target>Moja webová stránka</target>
+      </trans-unit>
+      <trans-unit id="127">
+        <source>My Blog</source>
+        <target>Môj blog</target>
+      </trans-unit>
+      <trans-unit id="128">
+        <source>My Facebook</source>
+        <target>Môj Facebook</target>
+      </trans-unit>
+      <trans-unit id="129">
+        <source>My Google+</source>
+        <target>Môj Google+</target>
+      </trans-unit>
+
+      <trans-unit id="130">
+        <source>New Password</source>
+        <target>Nové heslo</target>
+      </trans-unit>
+      <trans-unit id="131">
+        <source>Retype New Password</source>
+        <target>Znova napíšte nové heslo</target>
+      </trans-unit>
+      <trans-unit id="132">
+        <source>The field is required</source>
+        <target>Toto pole je povinné</target>
+      </trans-unit>
+      <trans-unit id="133">
+        <source>Fields marked with a star are mandatory.</source>
+        <target>Polia označené hviezdičkou sú povinné.</target>
+      </trans-unit>
+            <trans-unit id="134">
+        <source>Owner</source>
+        <target>Vlastník</target>
+      </trans-unit>
+      <trans-unit id="135">
+        <source>Director</source>
+        <target>Riaditeľ</target>
+      </trans-unit>
+       <trans-unit id="136">
+        <source>Manager</source>
+        <target>Manažér</target>
+      </trans-unit>
+      <trans-unit id="137">
+        <source>Employee</source>
+        <target>Zamestnanec</target>
+      </trans-unit>
+      <trans-unit id="138">
+        <source>Choose...</source>
+        <target>Vyberte si...</target>
+      </trans-unit>
+      <trans-unit id="139">
+        <source>Other</source>
+        <target>Iné</target>
+      </trans-unit>
+            <trans-unit id="140">
+        <source>My Facebook</source>
+        <target>Môj Facebook</target>
+      </trans-unit>
+      <trans-unit id="141">
+        <source>My Тwitter</source>
+        <target>Môj Twitter</target>
+      </trans-unit>
+            <trans-unit id="142">
+        <source>Current Password</source>
+        <target>Aktuálne heslo</target>
+      </trans-unit>
+      <trans-unit id="143">
+        <source>Retype New Password</source>
+        <target>Znova napíšte nové heslo</target>
+      </trans-unit>
+      <trans-unit id="144">
+        <source>Passwords don't match</source>
+        <target>Heslá sa nezhodujú</target>
+      </trans-unit>
+      <trans-unit id="145">
+        <source>Your Password</source>
+        <target>Vaše heslo</target>
+      </trans-unit>
+       <trans-unit id="146">
+        <source>Male</source>
+        <target>Muž</target>
+      </trans-unit>
+       <trans-unit id="147">
+        <source>Female</source>
+        <target>Žena</target>
+      </trans-unit>
+      <trans-unit id="148">
+        <source>Position</source>
+        <target>Pozícia</target>
+      </trans-unit>
+      <trans-unit id="149">
+        <source>Phone</source>
+        <target>Telefón</target>
+      </trans-unit>
+       <trans-unit id="150">
+        <source>I declare that I am an authorized representative of the business.</source>
+        <target>Prehlasujem, že som autorizovaný zástupca spoločnosti.</target>
+      </trans-unit>
+      <trans-unit id="151">
+        <source>Enter the CUI of your business.</source>
+        <target>Zadajte identifikačné číslo (CUI) svojej firmy.</target>
+      </trans-unit>
+       <trans-unit id="152">
+        <source>Declare that you are an authorized representative of the business.</source>
+        <target>Prehláste, že ste autorizovaný zástupca firmy.</target>
+      </trans-unit>
+      <trans-unit id="153">
+        <source>Invalid CUI</source>
+        <target>Neplatné číslo CUI</target>
+      </trans-unit>
+      <trans-unit id="154">
+        <source>Company Name</source>
+        <target>Názov spoločnosti</target>
+      </trans-unit>
+      <trans-unit id="155">
+        <source>Company Type</source>
+        <target>Typ spoločnosti</target>
+      </trans-unit>
+       <trans-unit id="156">
+        <source>Company Name in Latin characters</source>
+        <target>Názov spoločnosti v latinskom písme</target>
+      </trans-unit>
+       <trans-unit id="157">
+        <source>Address</source>
+        <target>Adresa</target>
+      </trans-unit>
+       <trans-unit id="158">
+        <source>Classification</source>
+        <target>Klasifikácia</target>
+      </trans-unit>
+       <trans-unit id="159">
+        <source>City</source>
+        <target>Mesto</target>
+      </trans-unit>
+      <trans-unit id="160">
+        <source>Company Address</source>
+        <target>Adresa spoločnosti</target>
+      </trans-unit>
+      <trans-unit id="161">
+        <source>Postcode</source>
+        <target>PSČ</target>
+      </trans-unit>
+      <trans-unit id="162">
+        <source>Street</source>
+        <target>Ulica</target>
+      </trans-unit>
+      <trans-unit id="163">
+        <source>Number</source>
+        <target>Číslo</target>
+      </trans-unit>
+      <trans-unit id="164">
+        <source>Neighbourhood</source>
+        <target>Štvrť</target>
+      </trans-unit>
+      <trans-unit id="165">
+        <source>Bl.</source>
+        <target>Bl.</target>
+      </trans-unit>
+      <trans-unit id="166">
+        <source>Ent.</source>
+        <target>Ent.</target>
+      </trans-unit>
+      <trans-unit id="167">
+        <source>Fl.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="168">
+        <source>Ap.</source>
+        <target>Ap.</target>
+      </trans-unit>
+            <trans-unit id="169">
+        <source>Monday</source>
+        <target>Pondelok</target>
+      </trans-unit>
+      <trans-unit id="170">
+        <source>Tuesday</source>
+        <target>Utorok</target>
+      </trans-unit>
+      <trans-unit id="171">
+        <source>Wednesday</source>
+        <target>Streda</target>
+      </trans-unit>
+      <trans-unit id="172">
+        <source>Thursday</source>
+        <target>Štvrtok</target>
+      </trans-unit>
+      <trans-unit id="173">
+        <source>Friday</source>
+        <target>Piatok</target>
+      </trans-unit>
+      <trans-unit id="174">
+        <source>Saturday</source>
+        <target>Sobota</target>
+      </trans-unit>
+      <trans-unit id="175">
+        <source>Sunday</source>
+        <target>Nedeľa</target>
+      </trans-unit>
+         <trans-unit id="176">
+        <source>Bulgarian</source>
+        <target>Bulharština</target>
+      </trans-unit>
+      <trans-unit id="177">
+        <source>English</source>
+        <target>Angličtina</target>
+      </trans-unit>
+      <trans-unit id="178">
+        <source>Email:</source>
+        <target>E-mail:</target>
+      </trans-unit>
+      <trans-unit id="179">
+        <source>Password:</source>
+        <target>Heslo:</target>
+      </trans-unit>
+      <trans-unit id="180">
+        <source>Remember me</source>
+        <target>Zapamätať si ma</target>
+      </trans-unit>
+      <trans-unit id="181">
+        <source>Description</source>
+        <target>Popis</target>
+      </trans-unit>
+      <trans-unit id="182">
+        <source>Category</source>
+        <target>Kategória</target>
+      </trans-unit>
+      <trans-unit id="183">
+        <source>Website</source>
+        <target>Webová stránka</target>
+      </trans-unit>
+      			<trans-unit id="184">
+        <source>You entered "%value%". The security check picture contains %length% characters. Please try again.</source>
+        <target>Zadali ste hodnotu "%value%". Kontrolný bezpečnostný obrázok obsahuje %length% znakov. Prosím, skúste to znova.</target>
+      </trans-unit>
+            <trans-unit id="185">
+        <source>Security check. Enter the characters from the picture below</source>
+        <target>Bezpečnostná kontrola. Zadajte znaky z obrázka nižšie.</target>
+      </trans-unit>
+      <trans-unit id="186">
+        <source>Start Date</source>
+        <target>Dátum začiatku</target>
+      </trans-unit>
+      <trans-unit id="187">
+        <source>Detailed Description</source>
+        <target>Podrobný popis</target>
+      </trans-unit>
+      <trans-unit id="188">
+        <source>Detailed Description (English)</source>
+        <target>Podrobný popis (v angličtine)</target>
+      </trans-unit>
+      <trans-unit id="189">
+        <source>Offer Title</source>
+        <target>Názov ponuky</target>
+      </trans-unit>
+      <trans-unit id="190">
+        <source>Voucher</source>
+        <target>Kupón</target>
+      </trans-unit>
+      <trans-unit id="191">
+        <source>Voucher Valid From</source>
+        <target>Kupón platný od</target>
+      </trans-unit>
+      <trans-unit id="192">
+        <source>Voucher Valid To</source>
+        <target> Kupón platný do</target>
+      </trans-unit>
+      <trans-unit id="193">
+        <source>Offer Active From</source>
+        <target>Ponuka aktívna od</target>
+      </trans-unit>
+      <trans-unit id="194">
+        <source>Offer Active To</source>
+        <target> Ponuka aktívna do</target>
+      </trans-unit>
+      <trans-unit id="195">
+        <source>Maximum number of vouchers to be issued</source>
+        <target>Maximálny počet kupónov na vydanie</target>
+      </trans-unit>
+       <trans-unit id="196">
+        <source>Maximum number of vouchers to be issued per user</source>
+        <target>Maximálny počet kupónov na vydanie na používateľa</target>
+      </trans-unit>
+      <trans-unit id="197">
+        <source>Offer Terms</source>
+        <target>Podmienky ponuky</target>
+      </trans-unit>
+       <trans-unit id="198">
+        <source>Select a photo from your computer</source>
+        <target>Vyberte fotku zo svojho počítača</target>
+      </trans-unit>
+      <trans-unit id="199">
+        <source>Caption</source>
+        <target>Titul</target>
+      </trans-unit>
+      <trans-unit id="8">
+        <source>Please enter your Name and Surname</source>
+        <target>Zadajte, prosím, svoje meno a priezvisko</target>
+      </trans-unit>
+      <trans-unit id="9">
+        <source>Invalid email</source>
+        <target>Neplatný e-mail</target>
+      </trans-unit>
+      <trans-unit id="10">
+        <source>Please rate this company</source>
+        <target>Prosím, ohodnoťte túto spoločnosť</target>
+      </trans-unit>
+      <trans-unit id="22">
+        <source>Please enter your email</source>
+        <target>Prosím, zadajte svoj e-mail</target>
+      </trans-unit>
+      <trans-unit id="11">
+        <source>Invalid Rating</source>
+        <target>Neplatné hodnotenie</target>
+      </trans-unit>
+       <trans-unit id="15">
+        <source>Please agree to observe the Terms of Use of the Getlokal Website</source>
+        <target>Prosím, uveďte, že súhlasíte s dodržiavaním Podmienok používania webových stránok Getlokal.</target>
+    </trans-unit>
+    <trans-unit id="54">
+        <source>Choose if you want to recommend this company to a friend</source>
+        <target>Vyberte, či chcete túto spoločnosť odporučiť priateľovi</target>
+      </trans-unit>
+       <trans-unit id="200">
+        <source>Name</source>
+        <target>Meno</target>
+      </trans-unit>
+      <trans-unit id="201">
+        <source>Surname</source>
+        <target>Priezvisko</target>
+      </trans-unit>
+      <trans-unit id="202">
+        <source>Enter your Email address.</source>
+        <target>Zadajte svoju e-mailovú adresu.</target>
+      </trans-unit>
+       <trans-unit id="203">
+        <source>Your username should contain only alphanumeric characters, dash, dot or underscore and begin with a letter</source>
+        <target>Vaše používateľské meno môže obsahovať iba alfanumerické znaky, pomlčky, bodky alebo podčiarky a musí začínať písmenom</target>
+      </trans-unit>
+      <trans-unit id="204">
+        <source>Your account changes were successfully saved.</source>
+        <target>Zmeny vášho účtu boli úspešne uložené.</target>
+      </trans-unit>
+      <trans-unit id="205">
+        <source>Company Name or CUI</source>
+        <target>Názov spoločnosti alebo kód CUI</target>
+      </trans-unit>
+       <trans-unit id="206">
+        <source>CUI (Cod Unic de Identificare)</source>
+        <target>kód CUI (Cod Unic de Identificare)</target>
+      </trans-unit>
+      <trans-unit id="207">
+        <source>Select file</source>
+        <target>Zvoliť súbor</target>
+      </trans-unit>
+      <trans-unit id="208">
+        <source>Invalid format. E.g. http://www.getlokal.ro.</source>
+        <target>Neplatný formát. Napr. http://www.getlokal.ro.</target>
+      </trans-unit>
+      <trans-unit id="209">
+        <source>Invalid format. E.g. getlokal.ro!</source>
+        <target>Neplatný formát. Napr. getlokal.ro!</target>
+      </trans-unit>
+      <trans-unit id="210">
+        <source>Invalid format. E.g. http://blog.getlokal.ro.</source>
+        <target>Neplatný formát. Napr. http://blog.getlokal.ro.</target>
+      </trans-unit>
+      <trans-unit id="211">
+        <source>Invalid format. E.g. http://twitter.com/@getlokal.</source>
+        <target>Neplatný formát. Napr. http://twitter.com/@getlokal.</target>
+      </trans-unit>
+      <trans-unit id="212">
+        <source>Invalid format. E.g. http://www.facebook.com/#!/getlokal.</source>
+        <target>Neplatný formát. Napr. http://www.facebook.com/#!/getlokal.</target>
+      </trans-unit>
+      <trans-unit id="213">
+        <source>Invalid format.</source>
+        <target>Neplatný formát.</target>
+      </trans-unit>
+      <trans-unit id="214">
+        <source>Password is mandatory</source>
+        <target>Heslo je povinné</target>
+      </trans-unit>
+      <trans-unit id="215">
+        <source>The email and/or password are invalid</source>
+        <target>E-mail a/alebo heslo je neplatné</target>
+      </trans-unit>
+      <trans-unit id="216">
+        <source>Incorrect Password</source>
+        <target>Nesprávne heslo</target>
+      </trans-unit>
+      <trans-unit id="217">
+        <source>When</source>
+        <target>Kedy</target>
+      </trans-unit>
+      <trans-unit id="218">
+        <source>End Date</source>
+        <target>Dátum konca</target>
+      </trans-unit>
+      <trans-unit id="219">
+        <source>City/Town</source>
+        <target>Mesto</target>
+      </trans-unit>
+      <trans-unit id="220">
+        <source>Venue name</source>
+        <target>Názov miesta konania</target>
+      </trans-unit>
+      <trans-unit id="221">
+        <source>More Info (add link)</source>
+        <target>Ďalšie informácie (pridajte odkaz)</target>
+      </trans-unit>
+      <trans-unit id="222">
+        <source>Buy ticket/book (add link)</source>
+        <target>Kúpiť lístok/rezervovať (pridajte odkaz)</target>
+      </trans-unit>
+      <trans-unit id="223">
+        <source>Event Type</source>
+        <target>Typ udalosti</target>
+      </trans-unit>
+      <trans-unit id="224">
+        <source>Price</source>
+        <target>Cena</target>
+      </trans-unit>
+      <trans-unit id="225">
+        <source>Add Photo</source>
+        <target>Pridať fotku</target>
+      </trans-unit>
+      <trans-unit id="226">
+        <source>Event Name</source>
+        <target>Názov udalosti</target>
+      </trans-unit>
+      <trans-unit id="227">
+        <source>Event Description</source>
+        <target>Popis udalosti</target>
+      </trans-unit>
+      <!-- NEw -->
+       <trans-unit id="228">
+        <source>Show to All</source>
+        <target>Zobraziť vštkým</target>
+      </trans-unit>
+      <trans-unit id="229">
+        <source>Choose... </source>
+        <target>Vyberte si...</target>
+      </trans-unit>
+      <trans-unit id="230">
+        <source>Enter New Email</source>
+        <target>Zadajte nový e-mail</target>
+      </trans-unit>
+      <trans-unit id="231">
+        <source>Description</source>
+        <target>Popis</target>
+      </trans-unit>
+      <trans-unit id="232">
+        <source>Description (English)</source>
+        <target>Popis (angličtina)</target>
+      </trans-unit>
+      <trans-unit id="233">
+        <source>Detailed Description (English)</source>
+        <target>Podrobný popis (angličtina)</target>
+      </trans-unit>
+      <trans-unit id="234">
+        <source>Detailed Description</source>
+        <target>Podrobný popis</target>
+      </trans-unit>
+       <trans-unit id="235">
+        <source>VIP Position Start Date</source>
+        <target>Dátum začiatku VIP pozície</target>
+      </trans-unit>
+      <trans-unit id="236">
+        <source>Message</source>
+        <target>Správa</target>
+      </trans-unit>
+      <trans-unit id="237">
+        <source>Please rate this company</source>
+        <target>Prosím, ohodnoťte túto spoločnosť</target>
+      </trans-unit>
+      <trans-unit id="238">
+        <source>The username "%value%" is invalid.</source>
+        <target>Používateľské meno "%value%" je neplatné.</target>
+      </trans-unit>
+      <trans-unit id="239">
+        <source>Username must contain at least %min_length% characters.</source>
+        <target>Používateľské meno musí obsahovať aspoň %min_length% znakov.</target>
+      </trans-unit>
+      <trans-unit id="240">
+        <source>The username and/or password you entered for %s are invalid or you don't have enough credentials</source>
+        <target>Používateľské meno a/alebo heslo, ktoré ste zadali pre %s, je neplatné alebo nemáte dostatočné povolenie</target>
+      </trans-unit>
+       <trans-unit id="241">
+        <source>The username and/or password you entered are invalid or you don't have enough credentials</source>
+        <target> Používateľské meno a/alebo heslo, ktoré ste zadali, je neplatné alebo nemáte dostatočné povolenie</target>
+      </trans-unit>
+       <trans-unit id="242">
+        <source><![CDATA[You need to agree to Getlokal Terms of Use & Privacy Policy]]></source>
+        <target><![CDATA[Musíte súhlasiť so Podmienkami používania a Podmienkami ochrany súkromia Getlokal]]></target>
+      </trans-unit>
+      <trans-unit id="243">
+        <source>Start Time</source>
+        <target>Dátum začiatku</target>
+     </trans-unit>
+
+      <trans-unit id="244">
+        <source>Place Name</source>
+        <target>Názov miesta</target>
+      </trans-unit>
+	  <trans-unit id="245">
+        <source>Place Name in English</source>
+        <target>Názov miesta v angličtine</target>
+      </trans-unit>
+
+ </body>
+  </file>
+</xliff>

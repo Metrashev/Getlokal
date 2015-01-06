@@ -1,0 +1,301 @@
+<?xml version="1.0" ?>
+<xliff version="1.0">
+  <file original="global" source-language="en" datatype="plaintext">
+    <body>
+     <trans-unit id="1">
+      <source>Mon</source>
+      <target>Mån</target>
+    </trans-unit>
+     <trans-unit id="2">
+      <source>Tue</source>
+      <target>Tis</target>
+    </trans-unit>
+     <trans-unit id="3">
+      <source>Wed</source>
+      <target>Ons</target>
+    </trans-unit>
+     <trans-unit id="4">
+      <source>Thu</source>
+      <target>Tor</target>
+    </trans-unit>
+     <trans-unit id="5">
+      <source>Fri</source>
+      <target>Fre</target>
+    </trans-unit>
+     <trans-unit id="6">
+      <source>Sat</source>
+      <target>Lör</target>
+    </trans-unit>
+     <trans-unit id="7">
+      <source>Sun</source>
+      <target>Sön</target>
+    </trans-unit>
+
+      <trans-unit id="8">
+        <source>Tomorrow</source>
+        <target>Imorgon</target>
+      </trans-unit>
+      <trans-unit id="9">
+        <source>Today</source>
+        <target>Idag</target>
+      </trans-unit>
+      <trans-unit id="10">
+	  <source>January</source>
+        <target>Januari</target>
+      </trans-unit>
+	  <trans-unit id="11">
+        <source>February</source>
+        <target>Ferbuari</target>
+      </trans-unit>
+	  <trans-unit id="12">
+        <source>March</source>
+        <target>Mars</target>
+      </trans-unit>
+	  <trans-unit id="13">
+        <source>April</source>
+        <target>April</target>
+      </trans-unit>
+	  <trans-unit id="14">
+        <source>May</source>
+        <target>Maj</target>
+      </trans-unit>
+	  <trans-unit id="15">
+        <source>June</source>
+        <target>Juni</target>
+      </trans-unit>
+	  <trans-unit id="16">
+        <source>July</source>
+        <target>Juli</target>
+      </trans-unit>
+	   <trans-unit id="17">
+        <source>August</source>
+        <target>Augusti</target>
+      </trans-unit>
+	   <trans-unit id="18">
+        <source>September</source>
+        <target>September</target>
+      </trans-unit>
+	   <trans-unit id="19">
+        <source>October</source>
+        <target>Oktober</target>
+      </trans-unit>
+	   <trans-unit id="20">
+        <source>November</source>
+        <target>November</target>
+      </trans-unit>
+	   <trans-unit id="21">
+        <source>December</source>
+        <target>December</target>
+      </trans-unit>
+
+    <trans-unit id="22">
+      <source>Monday</source>
+      <target>Måndag</target>
+    </trans-unit>
+    <trans-unit id="23">
+      <source>Tuesday</source>
+      <target>Tisdag</target>
+    </trans-unit>
+    <trans-unit id="24">
+      <source>Wednesday</source>
+      <target>Onsdag</target>
+    </trans-unit>
+    <trans-unit id="25">
+      <source>Thursday</source>
+      <target>Torsdag</target>
+    </trans-unit>
+    <trans-unit id="26">
+      <source>Friday</source>
+      <target>Fredag</target>
+    </trans-unit>
+    <trans-unit id="27">
+      <source>Saturday</source>
+      <target>Lördag</target>
+    </trans-unit>
+    <trans-unit id="28">
+      <source>Sunday</source>
+      <target>Söndag</target>
+    </trans-unit>
+
+    <trans-unit id="29">
+      <source>Free</source>
+      <target>Gratis</target>
+    </trans-unit>
+    <trans-unit id="30">
+      <source>Up to 10 %s</source>
+      <target>Upp till 10 %s</target>
+    </trans-unit>
+    <trans-unit id="31">
+      <source>Up to 50 %s</source>
+      <target>Upp till 50 %s</target>
+    </trans-unit>
+    <trans-unit id="32">
+      <source>Up to 100 %s</source>
+      <target>Upp till 100 %s</target>
+    </trans-unit>
+    <trans-unit id="33">
+      <source>Over 100 %s</source>
+      <target>Över 100 %s</target>
+    </trans-unit>
+
+    <trans-unit id="34">
+      <source>ATTEND</source>
+      <target>DELTA</target>
+    </trans-unit>
+     <trans-unit id="35">
+      <source>%d participants</source>
+      <target>%d deltagare</target>
+    </trans-unit>
+
+
+     <trans-unit id="36">
+      <source>Reviews</source>
+      <target>Recensioner</target>
+    </trans-unit>
+
+    <trans-unit id="37">
+      <source>REVIEWS</source>
+      <target>RECENSIONER</target>
+    </trans-unit>
+
+     <trans-unit id="38">
+      <source>Address</source>
+      <target>Adress</target>
+    </trans-unit>
+
+     <trans-unit id="39">
+      <source>Call</source>
+      <target>Ring</target>
+    </trans-unit>
+
+    <trans-unit id="40">
+      <source>CALL</source>
+      <target>RING</target>
+    </trans-unit>
+
+     <trans-unit id="41">
+      <source>Ticket: </source>
+      <target>Biljett: </target>
+    </trans-unit>
+    <trans-unit id="42">
+      <source>Review</source>
+      <target>Recension</target>
+    </trans-unit>
+    <trans-unit id="43">
+      <source>Add Pic</source>
+      <target>Lägg till bild</target>
+    </trans-unit>
+    <trans-unit id="44">
+      <source>Fave</source>
+      <target>Favorit</target>
+    </trans-unit>
+    <trans-unit id="45">
+      <source>Checked in at %s</source>
+      <target>Checkade in på %s</target>
+    </trans-unit>
+    <trans-unit id="46">
+      <source>Closed</source>
+      <target>Stängt</target>
+    </trans-unit>
+
+    <trans-unit id="47">
+        <source>Events</source>
+        <target>Event</target>
+    </trans-unit>
+
+    <trans-unit id="48">
+        <source>EVENTS</source>
+        <target>EVENT</target>
+    </trans-unit>
+
+    <trans-unit id="49">
+        <source>Check-in</source>
+        <target>Check-in</target>
+    </trans-unit>
+	<trans-unit id="50">
+        <source>Save</source>
+        <target>Save</target>
+    </trans-unit>
+	<trans-unit id="51">
+        <source>Unsave</source>
+        <target>Unsave</target>
+    </trans-unit>
+	<trans-unit id="52">
+        <source>Distance</source>
+        <target>Avstånd</target>
+    </trans-unit>
+	<trans-unit id="53">
+        <source>km</source>
+        <target>km</target>
+    </trans-unit>
+	<trans-unit id="54">
+        <source>review(s)</source>
+        <target>recension(er)</target>
+    </trans-unit>
+
+	<trans-unit id="55">
+        <source>ATMs</source>
+        <target>Bankomater</target>
+    </trans-unit>
+
+    <trans-unit id="56">
+       <source><![CDATA[[0]No reviews|[1]<span>1</span> review|(1,+Inf]<span>%count%</span> reviews]]></source>
+       <target> <![CDATA[[0]Inga recensioner|[1]<span>1</span> recension|(1,+Inf]<span>%count%</span> recension]]></target>
+    </trans-unit>
+    <trans-unit id="57">
+        <source>We are mobile</source>
+        <target>Vi är mobila</target>
+    </trans-unit>
+    <trans-unit id="58">
+        <source>Select Country</source>
+        <target>Välj land</target>
+    </trans-unit>
+    <trans-unit id="59">
+      <source>Getlokal recommends</source>
+      <target>Getlokal rekommenderar</target>
+    </trans-unit>
+    <trans-unit id="60">
+      <source>Places with Offers</source>
+      <target>Ställen med erbjudanden</target>
+    </trans-unit>
+    <trans-unit id="61">
+      <source>Voucher valid from</source>
+      <target>Kupong giltig från</target>
+    </trans-unit>
+    <trans-unit id="62">
+      <source> to </source>
+      <target> till </target>
+    </trans-unit>
+
+    <trans-unit id="63">
+      <source>0 available</source>
+      <target>0 tillgängliga</target>
+    </trans-unit>
+    <trans-unit id="64">
+      <source>1 available</source>
+      <target>1 tillgänglig</target>
+    </trans-unit>
+    <trans-unit id="65">
+      <source> available</source>
+      <target> tillgängliga</target>
+    </trans-unit>
+
+    <trans-unit id="66">
+      <source>We were unable to issue your voucher. The offer is no longer active or you have already ordered the maximum number vouchers per user.</source>
+      <target>Vi kunde inte utfärda din kupong. Erbjudandet är inte längre aktuellt, eller så har du redan beställt det maximala antalet kuponger per användare.</target>
+    </trans-unit>
+    <trans-unit id="67">
+      <source>OFFERS</source>
+      <target>ERBUDANDEN</target>
+    </trans-unit>
+    <trans-unit id="68">
+      <source>Suggest an Edit</source>
+      <target>Föreslå en redigerings</target>      
+    </trans-unit>
+    <trans-unit id="69">
+        <source>This place was added by</source>
+        <target>Denna plats sattes av</target>
+    </trans-unit>
+ </body>
+  </file>
+</xliff>

@@ -1,0 +1,91 @@
+<?xml version="1.0" ?>
+<xliff version="1.0">
+    <file orginal="global" source-language="en_EN" datatype="plaintext">
+        <body>
+            <trans-unit>
+                <source>Create new account</source>
+                <target>Создать новый аккаунт</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Account Activation</source>
+                <target>Активация аккаунта</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Resend activation email</source>
+                <target>Повторной послать имейл об активации </target>
+            </trans-unit>
+            <trans-unit>
+                <source>Forgotten Password</source>
+                <target>Забыл пароль</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Offers</source>
+                <target>Предложения</target>
+            </trans-unit>
+            <trans-unit>
+                <source>%s in %s</source>
+                <target>%s в %s</target>
+            </trans-unit>
+            <trans-unit>
+                <source>New Offer</source>
+                <target>Новое предложение</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Going Out, Leisure, Health and Beauty, Shopping</source>
+                <target>Выход в свет, Развлечения, Здоровье и красота, Шоппинг</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Communication Settings</source>
+                <target>Параметры коммуникации</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Select a classification</source>
+                <target>Выбрать классификацию </target>
+            </trans-unit>
+            <trans-unit>
+                <source>Add Company</source>
+                <target> Добавить компанию </target>
+            </trans-unit>
+            <trans-unit>
+                <source>%s in getlokal - addresses, telephones, working hours and user reviews for %s in %s, %s</source>
+                <target>%s на getlokal - адреса, телефоны, время работы и отзывы пользователей о %s на %s, %s</target>
+            </trans-unit>
+            <trans-unit>
+                <source>%s in getlokal - addresses, telephones, working hours and user reviews for %s in %s</source>
+                <target>%s на getlokal - адреса, телефоны, часы работы и отзывы пользователей о %s на %s</target>
+            </trans-unit>
+            <trans-unit>
+                <source>%s на %s - information in getlokal: see address, telephone, working hours, photos and user reviews for %s, %s</source>
+                <target>%s в %s - информация на getlokal: смотрите адрес, телефон, время работы, фотоснимки и отзывы пользователей о %s, %s.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>%s, %s - reviews and ratings from customers</source>
+                <target>%s, %s - отзывы и рейтинги клиентов</target>
+            </trans-unit>
+            <trans-unit>
+                <source>%s, %s - detailed information</source>
+                <target>%s, %s - подробная информация</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Find up-to-date reviews, comments and ratings of customer for %s in %s. Add your own review!</source>
+                <target> Найти актуальные отзывы, комментарии и рейтинги клиентов о %s на %s. Добавьте свой отзыв!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>%s - getlokal user</source>
+                <target>%s - пользователь getlokal</target>
+            </trans-unit>
+            <trans-unit>
+                <source>See information for %s and all their reviews in getlokal!</source>
+                <target>Смотреть информацию о %s и отзывы о нем на getlokal!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Followers</source>
+                <target>Последователи</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Following</source>
+                <target>После</target>
+            </trans-unit>
+        </body>
+    </file>
+</xliff>

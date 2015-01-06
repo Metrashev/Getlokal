@@ -1,0 +1,550 @@
+# You can find more information about this file on the symfony website:
+# http://www.symfony-project.org/reference/1_4/en/11-App
+# increment here to detect changes 111
+
+# default values
+all:
+  server:
+    # static_url:     http://www.getlokal.com
+    # enable_static:  true
+
+  search:
+    #host:           odin.ned.bg
+    host:           127.0.0.1
+    #host:           10.2.1.73
+    #host:           10.2.1.92
+    port:           9306
+
+  sf_guard_plugin:
+    routes_register: false
+    remember_key_expiration_age:  2592000   # 30 days in seconds
+    remember_cookie_name:         getlokal_user_cookie
+    success_signout_url: home/index
+
+  facebook:
+    app_bg_id: 101454179905887
+    app_ro_id: 103879256389966
+    id: 289748011093022
+    secret: 517d65d2648bf350bb303914cb0ec664
+
+    allowed_likes_categories: [ 'Product/service', 'Airport', 'Arts/Entertainment/Nightlife', 'Attractions/Things to Do', 'Automotive', 'Bank/Financial Services', 'Bar', 'Book Store', 'Business Services', 'Church/Religious Organization', 'Club', 'Community Organization', 'Community/Government', 'Company', 'Concert Venue', 'Consulting/Business Services', 'Education', 'Event Planning/Event Services', 'Food/Grocery', 'Government Organization', 'Health/Medical/Pharmacy', 'Home Improvement', 'Hospital/Clinic', 'Hotel', 'Insurance Company', 'Landmark', 'Library', 'Local Business', 'Movie Theater', 'Museum/Art Gallery', 'Non-Governmental Organization (NGO)', 'Non-Profit Organization', 'Organization', 'Pet Services', 'Political Organization', 'Professional Services', 'Public Places', 'Real Estate', 'Restaurant/Cafe', 'School', 'Shopping/Retail', 'Small Business', 'Spas/Beauty/Personal Care', 'Sports Venue', 'Sports/Recreation/Activities', 'Tours/Sightseeing', 'Transit Stop', 'Transportation', 'Travel/Leisure', 'University' ]
+
+  gmail:
+    application_name: Getlokal.com invite
+    client_id: 857399648492-odiifi4p4qsd1iuf95eq5l8bpg2s5s91.apps.googleusercontent.com
+    client_secret: UDb781kXY5cK4AzKFm6eJc8m
+    developer_key: AIzaSyDPukVIBYDebukVNNiRO-lTmgRWeTDxtKI
+
+  yahoo:
+      # Stable
+      #com_consumer_key: dj0yJmk9dDBiZU1qWGdKQmNaJmQ9WVdrOWFqRTBjV0pLTjJzbWNHbzlNQS0tJnM9Y29uc3VtZXJzZWNyZXQmeD05Nw--
+      #com_consumer_secret: 7fe7123650e37c690eb04dff7bded7d8ecd3ea10
+      #com_app_id: j14qbJ7k
+
+      #ro_consumer_key: dj0yJmk9NzRhd0lreXcwT01CJmQ9WVdrOU4ySkRTVk40Tm1VbWNHbzlNQS0tJnM9Y29uc3VtZXJzZWNyZXQmeD00Mg--
+      #ro_consumer_secret: cd9fd4af50d8a85e4cfc4b111c52110a8f01a17c
+      #ro_app_id: 7bCISx6e
+
+      #mk_consumer_key: dj0yJmk9c2Zjb2phWXhqaHJhJmQ9WVdrOVowbDBZVlpZTkc4bWNHbzlNVFUwTURFMU5UVTJNZy0tJnM9Y29uc3VtZXJzZWNyZXQmeD03Nw--
+      #mk_consumer_secret: eb6d9d4a5e0a1c4ae7f4f486ac3ce85fae4ec428
+      #mk_app_id: gItaVX4o
+
+      #rs_consumer_key: dj0yJmk9Q3RHSG80Sk1SZDU2JmQ9WVdrOVRtRm9OekJKTm1zbWNHbzlNQS0tJnM9Y29uc3VtZXJzZWNyZXQmeD1jYg--
+      #rs_consumer_secret: 3b85e4b562954a9267b85a399c40965f83b20bc0
+      #rs_app_id: Nah70I6k
+
+
+      # Trunk
+      #com_consumer_key: dj0yJmk9OWJMSVQyOEdiOWpQJmQ9WVdrOVdWbG5kbGRVTmpRbWNHbzlNelU0T1RneE5qSS0mcz1jb25zdW1lcnNlY3JldCZ4PTRj
+      #com_consumer_secret: 24f55d6918808dd3fea2f9d20f2e8b4bf86c8811
+      #com_app_id: YYgvWT64
+
+      #ro_consumer_key: dj0yJmk9VFJCN1JmTVB3dlVpJmQ9WVdrOU1UWXdOMUExTXpBbWNHbzlNVGd3TnpNM09UWTJNZy0tJnM9Y29uc3VtZXJzZWNyZXQmeD03Mg--
+      #ro_consumer_secret: 3c2aa2951e9bd159fec7ebffc551ba3056499dfc
+      #ro_app_id: 1607P530
+
+      #mk_consumer_key: dj0yJmk9OFQ2aGpQZzNhVk1LJmQ9WVdrOVduTk5UVXhGTjJjbWNHbzlNQS0tJnM9Y29uc3VtZXJzZWNyZXQmeD05Nw--
+      #mk_consumer_secret: 2b773d09a9e74cd3e58da4c4cc8f4570b0684a30
+      #mk_app_id: ZsMMLE7g
+
+      #rs_consumer_key: dj0yJmk9WDhNZ0xxTmd6ZUJRJmQ9WVdrOVowNWxWSE5oTkhFbWNHbzlNQS0tJnM9Y29uc3VtZXJzZWNyZXQmeD1lZg--
+      #rs_consumer_secret: c24c7ff80ce652de52e5b9ef1fb553e6b964e3d4
+      #rs_app_id: gNeTsa4q
+
+
+      # Real
+      com_consumer_key: dj0yJmk9V2tqYUQ3VExxNk5zJmQ9WVdrOU1GVjVkR3ROTldjbWNHbzlNVGd3TURrMU5qSS0mcz1jb25zdW1lcnNlY3JldCZ4PWRm
+      com_consumer_secret: 2d4aa7fd5a15f0aeba7668fc1b188ff571eb9b75
+      com_app_id: 0UytkM5g
+
+      ro_consumer_key: dj0yJmk9dWQ5Y09sbll4dExlJmQ9WVdrOVUyRnlWMDFpTm1zbWNHbzlNVEV3TnpjM056azJNZy0tJnM9Y29uc3VtZXJzZWNyZXQmeD01MA--
+      ro_consumer_secret: a4f918df8ada1d79165e89bec9bcaa2e4dddd8e5
+      ro_app_id: SarWMb6k
+
+      mk_consumer_key: dj0yJmk9SVZEOHVuNzBpejRNJmQ9WVdrOVduQkdWVWhQTjJrbWNHbzlNamswTVRFM09UWXkmcz1jb25zdW1lcnNlY3JldCZ4PTA3
+      mk_consumer_secret: bed2a3af02a7def22e810f445b2ba9ba8824c95d
+      mk_app_id: ZpFUHO7i
+
+      rs_consumer_key: dj0yJmk9aGJuSFVDUEVzZExCJmQ9WVdrOWRXWmFielZ2Tm0wbWNHbzlNVEUxTmpBd05UazJNZy0tJnM9Y29uc3VtZXJzZWNyZXQmeD0yYg--
+      rs_consumer_secret: 9242eadb2a4034531ab3d78d45bcc968c38fe057
+      rs_app_id: ufZo5o6m
+
+  recaptcha:             # Get an API key at http://recaptcha.net/
+    active:             true # set to off to disable captcha (HAZARDOUS)
+    # recaptcha for www.getlokal.com
+    privatekey:          6Leo1boSAAAAADyWwwy-Smeca16xW_A6HUqF7aiw
+    publickey:           6Leo1boSAAAAAP0CSaJjcKjCbIKTHbx1WxAG31fN
+
+  sf_captchagd:
+    image_width:                121 # image width in pixels
+    image_height:               35 # image height in pixels
+    chars:                      "123456789" # possible chars in captcha
+    length:                     4 # length of captcha
+    font_size:                  16 # font size
+    force_new_captcha:          true # if true - captcha regenerated EVERY request, even if user input true value before
+
+            # possible chars colors
+    font_color:                 ["000000", "B80079", "00B8B6", "535353", "5570A5"]
+
+            # chars fonts
+    fonts:                      ["akbar/akbar.ttf", "akbar/akbar.ttf", "akbar/akbar.ttf", "akbar/akbar.ttf", "akbar/akbar.ttf"]
+    background_color:           ffffff # image background color
+    border_color:               a1a1a1 # image border color
+
+
+  youtubeuploader:
+    developer_key_bg: AI39si49UD9IyoeDVgf2_AHgIbhbti6fzmzH5EzMZzpghAP5JmDa_m9A5x1SZRJobfErxWBTvsAgJyQWWEbyLpq6WdbWX4X7oA
+    username_bg: info@getlokal.com
+    password_bg: f@vGqV4a1lok
+    developer_key_ro: AI39si4cYRxsnUbG39Rklu-mZ2FqSurTgbRrZ4KxQyIK0lOCgEu5ojDoePv_ZV1seUJ6lFDrpkmk0STlusw7T9Cy3e8pZbL75g
+    username_ro: getlokal.ro@gmail.com
+    password_ro: getlokal2909roro
+    developer_key_mk: AI39si5a_dabZeNGcC_TJBrjK5ieSc_xH18290kycwZr7YaDP5DijeB5_37VGweamH_oX5F5sPQFNzHh-AC5zcyLoiQzKNFNsw
+    username_mk: getlokal.mk@gmail.com
+    password_mk: jasna@gl14^^&
+    developer_key_rs: AI39si51vSyRim1DFfFTa9kPNmt0HyX0IQUuTOPVFecqSGd1lR6WqVlusTJoJ-kyzFw-srex6nHTbrOF5GTMVc4XiGAw6n5MOQ
+    username_rs: getlokalrs@gmail.com
+    password_rs: getlokalsrbija1
+
+    applicationid: getlokal video uploader
+    clientid: getlokal video uploader client id
+    authentication_url: https://www.google.com/accounts/ClientLogin
+    source : getlokal video uploader source
+    token_handler_url: http://gdata.youtube.com/action/GetUploadToken
+
+  mail_chimp:
+    api_key_bg: 9eea22f71642b5c85cede05a477bcb08-us2
+    api_key_ro: fd7ed2c05a0dac492e1030070a028b7f-us4
+    api_key_mk: ''
+    list_name_bg: Обща комуникация
+    list_name_ro: Comunicare generală
+    list_name_mk: ''
+
+  log_actions:
+    company_show_category: 13
+    page_view: 2
+    weblink_clicked: 3
+    facelink_clicked: 4
+    send_email: 5
+    company_show_search: 1
+    tweetlink_clicked:  14
+    fsqlink_clicked:  15
+    gpluslink_clicked:  16
+    yplink_clicked:  17
+    reservation_request: 18
+
+  culture_native:
+      en: English
+      bg: Български
+      ro: Română
+      mk: Македонски
+      sr: Srpski
+      fi: Suomi
+      ru: Русский
+      cs: Czech
+      sk: Slovak
+      hu: Magyar
+      pt: Portuguese
+      me: Црна Гора
+
+  cultures_en:
+      en: English
+      bg: Bulgarian
+      ro: Romanian
+      mk: Macedonian
+      sr: Serbian
+      fi: Finnish
+      ru: Russian
+      cs: Czech
+      sk: Slovak
+      hu: Hungarian
+      pt: Portuguese
+      me: Montenegro
+
+  countries:
+      bg: Bulgaria
+      ro: Romania
+      mk: Macedonia
+      rs: Serbia
+      fi: Finland
+      cz: Czech Republic
+      sk: Slovakia
+      hu: Hungary
+      pt: Portugal
+      me: Montenegro
+      ru: Russia
+
+  domain_to_culture:
+      RO: ro
+      BG: bg
+      MK: mk
+      RS: sr
+      FI: fi
+      RU: ru
+      CZ: cs
+      SK: sk
+      HU: hu
+      PT: pt
+      ME: me
+
+  .array:
+    getlokal_power_user: [33329, 33330, 33331, 33332, 33334, 33335, 33336, 33337, 33339, 33340, 33341, 33342, 33343,34724,35785, 35786, 35787, 35788, 36435, 36436, 36437,36776, 76021, 76022, 76057, 76062, 83234, 89055, 89998, 111055, 111806, 111807, 111808, 111633, 111809, 111810, 112466, 11562, 84861, 7814, 4216, 116319, 116922, 116923, 116924, 117183, 117357, 119128, 123235, 124189, 105656]
+    getlokal_local_power_user_tr: [187157]
+    cyrillic_languages: [bg, ru, sr, mk, me]
+    culture_slugs: [ro, bg, en, mk, sr, fi, ru, cs, sk, hu, pt, me]
+    domain_slugs: [bg, ro, mk, rs, fi, cz, sk, hu, pt, me, ru]
+    domain_slugs_old: [bg, ro, mk, rs, fi, hu, me]
+    languages_bg: [bg, en]
+    languages_ro: [ro, en]
+    languages_mk: [mk, en]
+    languages_sr: [sr, en]
+    languages_fi: [fi, en, ru]
+    languages_cs: [cs, en, sk]
+    languages_sk: [sk, en, cs]
+    languages_hu: [hu, en]
+    languages_pt: [pt, en]
+    languages_me: [me, en]
+    languages_ru: [ru, en]
+
+  cover_photo_dir: /uploads/covers/
+
+  admins:
+    remember_key_expiration_age:  2592000   # 30 days in seconds
+    remember_cookie_name: 'place_admin'
+  enable_messaging: true
+  article:
+    images:
+      original:
+        path: "article/original"
+      big:
+        path:   "article/big"
+        height: 278
+        width:  600
+        shave:  true
+        #scale:  true
+        inflate: true
+      size-s:
+        path:   "article/size-s"
+        height: 217
+        width:  289
+        shave:  true
+        #scale:  true
+        inflate: true
+      size-ss:
+        path:   "article/size-ss"
+        height: 250
+        width:  300
+        shave:  true
+        #scale:  true
+        inflate: true
+      size-xs:
+        path:   "article/size-xs"
+        height: 63
+        width:  63
+        shave:  true
+        #scale:  true
+        inflate: true
+
+  our-team:
+    email:
+      1: nick@getlokal.com
+      2: marta@getlokal.com
+      3: mihai@getlokal.com
+      4: desislava@getlokal.com
+      5: maria@getlokal.com
+      6: vladimir@getlokal.com
+      7: marko@getlokal.com
+      8: dilyana@getlokal.com
+      9: yoanna@getlokal.com
+      10: roxana@getlokal.com
+      11: bojana@getlokal.com
+      12: andrea@getlokal.com
+      13: andra@getlokal.com
+      14: catalin@getlokal.com
+      15: mitko@getlokal.com
+      16: marjut@getlokal.com
+      17: jasna@getlokal.com
+      18: kris@getlokal.com
+      19: lazarina@getlokal.com
+      20: iuliana@getlokal.com
+      21: donald@getlokal.com
+      22: christian@getlokal.com
+      23: marija@getlokal.com
+      24: borislav@getlokal.com
+      25: aleksandra@getlokal.com
+      26: lyubomir@getlokal.com
+  nexmo:
+    key: ebdf2ce2
+    secret: 859738c6
+
+    ######## IP Country Slugs
+#AD	Andorra
+#AE	United Arab Emirates
+#AF	Afghanistan
+#AG	Antigua and Barbuda
+#AI	Anguilla
+#AL	Albania
+#AM	Armenia
+#AN	Netherlands Antilles
+#AO	Angola
+#AP	Asia/Pacific Region
+#AQ	Antarctica
+#AR	Argentina
+#AS	American Samoa
+#AT	Austria
+#AU	Australia
+#AW	Aruba
+#AX	Aland Islands
+#AZ	Azerbaijan
+#BA	Bosnia and Herzegovina
+#BB	Barbados
+#BD	Bangladesh
+#BE	Belgium
+#BF	Burkina Faso
+#BG	Bulgaria
+#BH	Bahrain
+#BI	Burundi
+#BJ	Benin
+#BM	Bermuda
+#BN	Brunei Darussalam
+#BO	Bolivia
+#BR	Brazil
+#BS	Bahamas
+#BT	Bhutan
+#BV	Bouvet Island
+#BW	Botswana
+#BY	Belarus
+#BZ	Belize
+#CA	Canada
+#CC	Cocos (Keeling) Islands
+#CD	Congo, The Democratic Republic of the
+#CF	Central African Republic
+#CG	Congo
+#CH	Switzerland
+#CI	Cote D'Ivoire
+#CK	Cook Islands
+#CL	Chile
+#CM	Cameroon
+#CN	China
+#CO	Colombia
+#CR	Costa Rica
+#CS	Serbia and Montenegro
+#CU	Cuba
+#CV	Cape Verde
+#CX	Christmas Island
+#CY	Cyprus
+#CZ	Czech Republic
+#DE	Germany
+#DJ	Djibouti
+#DK	Denmark
+#DM	Dominica
+#DO	Dominican Republic
+#DZ	Algeria
+#EC	Ecuador
+#EE	Estonia
+#EG	Egypt
+#EH	Western Sahara
+#ER	Eritrea
+#ES	Spain
+#ET	Ethiopia
+#EU	Europe
+#FI	Finland
+#FJ	Fiji
+#FK	Falkland Islands (Malvinas)
+#FM	Micronesia, Federated States of
+#FO	Faroe Islands
+#FR	France
+#FX	France, Metropolitan
+#GA	Gabon
+#GB	United Kingdom
+#GD	Grenada
+#GE	Georgia
+#GF	French Guiana
+#GG	Guernsey
+#GH	Ghana
+#GI	Gibraltar
+#GL	Greenland
+#GM	Gambia
+#GN	Guinea
+#GP	Guadeloupe
+#GQ	Equatorial Guinea
+#GR	Greece
+#GS	South Georgia and the South Sandwich Islands
+#GT	Guatemala
+#GU	Guam
+#GW	Guinea-Bissau
+#GY	Guyana
+#HK	Hong Kong
+#HM	Heard Island and McDonald Islands
+#HN	Honduras
+#HR	Croatia
+#HT	Haiti
+#HU	Hungary
+#ID	Indonesia
+#IE	Ireland
+#IL	Israel
+#IM	Isle of Man
+#IN	India
+#IO	British Indian Ocean Territory
+#IQ	Iraq
+#IR	Iran, Islamic Republic of
+#IS	Iceland
+#IT	Italy
+#JE	Jersey
+#JM	Jamaica
+#JO	Jordan
+#JP	Japan
+#KE	Kenya
+#KG	Kyrgyzstan
+#KH	Cambodia
+#KI	Kiribati
+#KM	Comoros
+#KN	Saint Kitts and Nevis
+#KP	Korea, Democratic People's Republic of
+#KR	Korea, Republic of
+#KW	Kuwait
+#KY	Cayman Islands
+#KZ	Kazakhstan
+#LA	Lao People's Democratic Republic
+#LB	Lebanon
+#LC	Saint Lucia
+#LI	Liechtenstein
+#LK	Sri Lanka
+#LR	Liberia
+#LS	Lesotho
+#LT	Lithuania
+#LU	Luxembourg
+#LV	Latvia
+#LY	Libyan Arab Jamahiriya
+#MA	Morocco
+#MC	Monaco
+#MD	Moldova, Republic of
+#ME	Montenegro
+#MG	Madagascar
+#MH	Marshall Islands
+#MK	Macedonia
+#ML	Mali
+#MM	Myanmar
+#MN	Mongolia
+#MO	Macau
+#MP	Northern Mariana Islands
+#MQ	Martinique
+#MR	Mauritania
+#MS	Montserrat
+#MT	Malta
+#MU	Mauritius
+#MV	Maldives
+#MW	Malawi
+#MX	Mexico
+#MY	Malaysia
+#MZ	Mozambique
+#NA	Namibia
+#NC	New Caledonia
+#NE	Niger
+#NF	Norfolk Island
+#NG	Nigeria
+#NI	Nicaragua
+#NL	Netherlands
+#NO	Norway
+#NP	Nepal
+#NR	Nauru
+#NU	Niue
+#NZ	New Zealand
+#OM	Oman
+#PA	Panama
+#PE	Peru
+#PF	French Polynesia
+#PG	Papua New Guinea
+#PH	Philippines
+#PK	Pakistan
+#PL	Poland
+#PM	Saint Pierre and Miquelon
+#PN	Pitcairn
+#PR	Puerto Rico
+#PS	Palestinian Territory
+#PT	Portugal
+#PW	Palau
+#PY	Paraguay
+#QA	Qatar
+#RE	Reunion
+#RO	Romania
+#RS	Serbia
+#RU	Russian Federation
+#RW	Rwanda
+#SA	Saudi Arabia
+#SB	Solomon Islands
+#SC	Seychelles
+#SD	Sudan
+#SE	Sweden
+#SG	Singapore
+#SH	Saint Helena
+#SI	Slovenia
+#SJ	Svalbard and Jan Mayen
+#SK	Slovakia
+#SL	Sierra Leone
+#SM	San Marino
+#SN	Senegal
+#SO	Somalia
+#SR	Suriname
+#ST	Sao Tome and Principe
+#SV	El Salvador
+#SY	Syrian Arab Republic
+#SZ	Swaziland
+#TC	Turks and Caicos Islands
+#TD	Chad
+#TF	French Southern Territories
+#TG	Togo
+#TH	Thailand
+#TJ	Tajikistan
+#TK	Tokelau
+#TL	East Timor
+#TM	Turkmenistan
+#TN	Tunisia
+#TO	Tonga
+#TR	Turkey
+#TT	Trinidad and Tobago
+#TV	Tuvalu
+#TW	Taiwan (Province of China)
+#TZ	Tanzania, United Republic of
+#UA	Ukraine
+#UG	Uganda
+#UK	United Kingdom
+#UM	United States Minor Outlying Islands
+#US	United States
+#UY	Uruguay
+#UZ	Uzbekistan
+#VA	Holy See (Vatican City State)
+#VC	Saint Vincent and the Grenadines
+#VE	Venezuela
+#VG	Virgin Islands, British
+#VI	Virgin Islands, U.S.
+#VN	Vietnam
+#VU	Vanuatu
+#WF	Wallis and Futuna
+#WS	Samoa
+#YE	Yemen
+#YT	Mayotte
+#YU	Yugoslavia
+#ZA	South Africa
+#ZM	Zambia
+#ZW	Zimbabwe

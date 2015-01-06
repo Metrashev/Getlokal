@@ -1,0 +1,7 @@
+showSuccess:
+  stylesheets:    [jquery.rating.css]
+  javascripts: []
+
+editSuccess:
+  javascripts: [jquery.ui.dialog.js]
+  stylesheets: [ui-lightness/jquery-ui-1.8.17.custom.css]

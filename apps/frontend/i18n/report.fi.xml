@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<xliff version="1.0">
+    <file orginal="global" source-language="en_EN" datatype="plaintext">
+        <body>    
+            <trans-unit>
+                <source>Report content as</source>
+                <target>Raportoi sisältö:</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Your e-mail:</source>
+                <target>Sähköpostisi:</target>
+            </trans-unit>	
+            <trans-unit>
+                <source>Your name:</source>
+                <target>Nimesi:</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Your message:</source>
+                <target>Viestisi:</target>
+            </trans-unit>  
+        </body>
+    </file>
+</xliff>

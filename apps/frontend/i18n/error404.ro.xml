@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+<xliff version="1.0">
+    <file orginal="global" source-language="en_EN" datatype="plaintext">
+        <body>
+            <trans-unit id="1">
+                <source>404 ERROR</source>
+                <target>EROARE 404</target>
+            </trans-unit>
+            <trans-unit id="2">
+                <source>The server returned a 404 response!</source>
+                <target>Serverul a returnat 404 răspunsuri!</target>
+            </trans-unit>
+            <trans-unit id="3">
+                <source>Here are some of the possible reasons</source>
+                <target>Aici sunt câteva dintre motivele posibile</target>
+            </trans-unit>
+            <trans-unit id="4">
+                <source>Did you type a URL i.e. website address?</source>
+                <target>Ati scris un URL, adica adresa site-ul?</target>
+            </trans-unit>
+            <trans-unit id="5">
+                <source>You may have typed the website address (URL) incorrectly. Please, check the spelling, capitalization, punctuation, etc.</source>
+                <target>Este posibil să fi scris adresa site-ului (URL) incorect. Va rugam, verificati ortografia, capitalizarea, semne de punctuaţie, etc.</target>
+            </trans-unit>
+            <trans-unit id="6">
+                <source>Did you follow a link to this page from another page in this site?</source>
+                <target>Ai urmat un link spre aceasta pagina de la o alta pagina de pe acest site?</target>
+            </trans-unit>
+            <trans-unit id="7">
+                <source>If you reached this page from another page in this site, please email us at romania@getlokal.com so we can fix the problem.</source>
+                <target>Dacă aţi ajuns pe această pagină dintr-o altă pagină din acest site, vă rugăm să ne trimiteţi un email la romania@getlokal.com astfel încât să putem rezolva problema.</target>
+            </trans-unit>
+            <trans-unit id="8">
+                <source>Did you follow a link from another site?</source>
+                <target>Aţi urma un link de pe alt site?</target>
+            </trans-unit>
+            <trans-unit id="9">
+                <source>Links from other sites can sometimes be out-of-date or misspelled. Please email us at romania@getlokal.com with information about the site from which you followed the link so we can try and contact the other site in order to fix the problem.</source>
+                <target>Link-uri de la alte site-uri pot fi, uneori, out-of-data sau scrise greşit. Vă rugăm să ne trimiteţi un email la romania@getlokal.com cu informaţii despre site-ul de la care aţi urmat linkul astfel încât să putem încerca şi contacta alt site, în scopul de a rezolva problema.</target>
+            </trans-unit>
+            <trans-unit id="10">
+                <source>404 ERROR - The page can't be found</source>
+                <target>Eroare 404 - Pagina nu poate fi găsit</target>
+            </trans-unit> 
+        </body>
+    </file>
+</xliff>

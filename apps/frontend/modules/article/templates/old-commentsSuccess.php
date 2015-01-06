@@ -1,0 +1,2 @@
+<?php include_partial('review/reviewJs');?>
+<?php include_component('comment', 'comments', array('activity' => $article->getActivityArticle(),'user'=>$user, 'url'=>url_for('article/comments?article_id='. $article->getId() ), 'pager_class'=>'comment_in')) ?>

@@ -1,0 +1,30 @@
+generator:
+  class: sfDoctrineGenerator
+  param:
+    model_class:           Article
+    theme:                 admin
+    non_verbose_templates: true
+    with_show:             false
+    singular:              ~
+    plural:                ~
+    route_prefix:          article
+    with_doctrine_route:   true
+    actions_base_class:    sfActions
+
+    config:
+      actions: ~
+      fields:  ~
+      list:
+        table_method:  getQueryForAdmin
+        sort:          [ created_at, desc ]
+        max_per_page:  100
+        batch_actions:
+          approve:     ~
+          disapprove:  ~
+          delete:  ~
+          save: ~
+      filter:
+        display:  [id,title,first_name,last_name,keywords,status,created_at,updated_at]
+      form:    ~
+      edit:    ~
+      new:     ~

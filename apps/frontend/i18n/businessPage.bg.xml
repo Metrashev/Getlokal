@@ -1,0 +1,160 @@
+<?xml version="1.0" ?>
+<xliff version="1.0">
+    <file orginal="global" source-language="en_EN" datatype="plaintext">
+        <body>
+            <trans-unit>
+                <source>Getlokal is the place where you meet your customers. Engage in a conversation with them – be notified whenever someone publishes a review about your place and post an official answer to them, upload photos, your contact details and business description! Improve your position in front of your competition and bring relevance to your online presence! What are the steps?</source>
+                <target>Getlokal е мястото, където срещате своите клиенти! Участвайте в активен разговор с тях – ще бъдете известени при публикувано ревю за вашето място – отговорете му! Качвайте снимки, информация за контакт и описание на мястото, за да засилите онлайн присъствието си и да сте една крачка пред конкурентите си! Как да го направите? В 3 лесни стъпки:</target>
+            </trans-unit>
+            <trans-unit>
+                <source>%s on getlokal! If you are new @ %s you need to register first.</source>
+                <target>%s в Getlokal! За начало е необходимо да имате регистриран профил в %s.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Find or add your place! %s, find your place and %s! If you can’t find it, %s or %s and we will do it for you. And then again - log in, find your place and %s!</source>
+                <target>Намерете или добавете вашето място! %s, намерете мястото и го %s! Ако не го намирате на сайта, просто го %s или %s, за да направим това вместо вас. След това влезте в профила си, намерете мястото и го %s!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Fill in content! It’s free and easy! What are your benefits? Unlimited photo upload, place description in two languages and most importantly - you engage in a conversation with your customers!</source>
+                <target>Добавете съдържание – безплатно и лесно! Какви ще са ползите? Качвайте неограничен брой снимки, добавете описание на мястото на български и английски и най-важното – говорете с клиентите си!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Can’t get enough? After you get acquainted with your place profile, %s for more info about the businesslokal+ features.</source>
+                <target>Имате нужда от още? За да получите информация относно опцията BusinessLokal+, %s</target>
+            </trans-unit>
+            <trans-unit>
+                <source>let us know</source>
+                <target>ни пишете</target>
+            </trans-unit>
+            <trans-unit>
+                <source>write to us</source>
+                <target>пишете ни</target>
+            </trans-unit>
+            <trans-unit>
+                <source>add it yourself</source>
+                <target>добавете</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Log in</source>
+                <target>Влезте в профила си</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Register</source>
+                <target>Регистрирaйте се</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Start Here!</source>
+                <target>Започнете тук!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Already Have an Account?</source>
+                <target>Вече имате регистриран профил?</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Login and Claim your place</source>
+                <target>Влезте и заявете вашето място</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Need Help?</source>
+                <target>Имате нужда от помощ?</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Contact us (we’ll answer as fast as we can)</source>
+                <target>Пишете ни (ще се свържем с вас възможно най-бързо)</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Who are you?</source>
+                <target>Кои сте вие?</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Make it Official!</source>
+                <target>Официално заявено!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Where are you?</source>
+                <target>Къде се намирате?</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Tell your story!</source>
+                <target>Споделете!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Be available!</source>
+                <target>Бъдете на разположение!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Pay attention!</source>
+                <target>Бъдете активни!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Are you liked?</source>
+                <target>Харесват ли ви?</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The place name goes here! Choose the most appropriate classification among 200 and more!</source>
+                <target>Впишете името на мястото и изберете класификация от над 200 предложения! </target>
+            </trans-unit>
+            <trans-unit>
+                <source>Put an official stamp that this is your business by claiming it!</source>
+                <target>Активирайте знака за автентичност, като заявите мястото си!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Write a short description – why is your place different, what is its history? Be creative!</source>
+                <target>Публикувайте кратко съдържание за мястото – с какво то е различно и специално? Бъдете творчески настроени!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Show your place - post photos!</source>
+                <target>Покажете мястото си – качете снимки!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Set your working hours and the useful links!</source>
+                <target>Публикувайте работно време и няколко полезни линка!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Get to know your customers and engage in conversations as an official representative of your company!</source>
+                <target>Опознайте клиентите си и комуникирайте с тях, представлявайки мястото, което управлявате!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>See what your customers appreciate most about your place!</source>
+                <target>Разберете кое е това, което най-много допада на клиентите ви!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Your Business Profile</source>
+                <target>Вашият Бизнес Профил</target>
+            </trans-unit>
+            <trans-unit>
+                <source>claim it</source>
+                <target>заявете</target>
+            </trans-unit>
+      		
+            <trans-unit>
+                <source>Advertising in Sofia</source>
+                <target>Рекламна дейност в София</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Sofia, Balsha St 1, bl. 9 fl. 4</source>
+                <target>София, ул. Балша 1, бл. 9 ет. 4</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Professionals</source>
+                <target>Специалисти</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Meets Deadlines</source>
+                <target>Паркиране на улицата</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Street Parking</source>
+                <target>Работа в срок</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Service</source>
+                <target>Обслужване</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Location</source>
+                <target>Местоположение</target>
+            </trans-unit>
+        </body>
+    </file>
+</xliff>

@@ -1,0 +1,382 @@
+<?xml version="1.0" ?>
+<xliff version="1.0">
+    <file orginal="global" source-language="en_EN" datatype="plaintext">
+        <body>
+            <trans-unit>
+                <source>Hi</source>
+                <target>Здравей</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Hello</source>
+                <target>Здравей</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Profile</source>
+                <target>Профил</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Dashboard</source>
+                <target>Табло за управление</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Log Out</source>
+                <target>Изход</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Sign in</source>
+                <target>Вход</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Forgot Password?</source>
+                <target>Забравена парола?</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Home</source>
+                <target>Начало</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Send</source>
+                <target>Изпрати</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Email</source>
+                <target>Имейл</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Password</source>
+                <target>Парола</target>
+            </trans-unit>
+            <trans-unit>
+                <source>I agree with the</source>
+                <target>Съгласен съм с</target>
+            </trans-unit>
+            <trans-unit>
+                <source>I agree with %s</source>
+                <target>Съгласен съм с %s</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Name</source>
+                <target>Име</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Surname</source>
+                <target>Фамилия</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Gender</source>
+                <target>Пол</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Location</source>
+                <target>Населено място</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Location</source>
+                <target>Населено място</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Write a few words about yourself –interests, hobbies, what you like to write about. The words have to be comma separated, e.g. 'restaurants, bars, theatre, bungee jumping, travelling'</source>
+                <target>Напиши няколко думи за себе си – интереси, хобита, за какво обичаш да пишеш. Думите трябва да са разделени със запетая, например 'ресторанти, барове, театър, бънджи скокове, пътуване'</target>
+            </trans-unit>
+            <trans-unit>
+                <source>I agree to receive messages from getlokal and/or their partners.</source>
+                <target>Съгласен съм да получавам съобщения от getlokal и/или техни партньори.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Registration</source>
+                <target>Регистрирай се</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Password Change</source>
+                <target>Промяна на паролата</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Invite a friend</source>
+                <target>Покани приятел</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Your friends</source>
+                <target>Tвоите приятели</target>
+            </trans-unit>
+            <trans-unit>
+                <source>[0]No reviews|[1]1 review|(1,+Inf]%count% reviews</source>
+                <target>[0]0 ревюта|[1]1 ревю|(1,+Inf]%count% ревюта</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Settings</source>
+                <target>Настройки</target>
+            </trans-unit>
+            <trans-unit>
+                <source>here</source>
+                <target>тук</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Sign Up</source>
+                <target>Регистрация</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Illegal</source>
+                <target>Незаконно</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Offensive</source>
+                <target>Обидно</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Copyright</source>
+                <target>Авторски права</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Incorrect</source>
+                <target>Невярно</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Email Address</source>
+                <target>Имейл адрес</target>
+            </trans-unit>
+            <trans-unit>
+                <source>My Places</source>
+                <target>Моите места</target>
+            </trans-unit>
+            <trans-unit>
+                <source>View Profile</source>
+                <target>Виж профила си</target>
+            </trans-unit>
+            <trans-unit>
+                <source>is from</source>
+                <target>е от</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Send me my Username</source>
+                <target>Изпрати ми моето потребителско име</target>
+            </trans-unit>
+            <trans-unit>
+                <source>I want to receive newsletters</source>
+                <target>Съгласен съм да получавам бюлетин от getlokal</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Login as %s</source>
+                <target>Влез като %s</target>
+            </trans-unit>
+            <trans-unit>
+                <source>contact us</source>
+                <target>свържете с нас</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Policy for Use and Protection of the Information on the Getlokal Website</source>
+                <target>Правилата за използване и опазване на информацията на уебсайта на Getlokal</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Admin Status 'Rejected'</source>
+                <target>Админ статус 'Отхвърлен'</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Admin Status 'Pending'</source>
+                <target>Админ статус "Чака одобрение"</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Admin Status 'Approved'</source>
+                <target>Админ статус "Одобрен"</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Login as %s and Create an Event</source>
+                <target>Влез като %s и създай събитие</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Login as %s and Create List</source>
+                <target>Влез като %s и създай списък</target>
+            </trans-unit>
+            <trans-unit>
+                <source>General Communication</source>
+                <target>Обща комуникация</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Community newsletters</source>
+                <target>Развлекателни бюлетини</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Business newsletters</source>
+                <target>Бизнес бюлетини</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Games and promotions</source>
+                <target>Известия за игри и промоции</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Send Your Invite via e-mail</source>
+                <target>Изпрати поканата през e-mail</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Message</source>
+                <target>Съобщение</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Via e-mail</source>
+                <target>През e-mail</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Via Gmail / Yahoo!</source>
+                <target>През Gmail / Yahoo!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Via Gmail or Yahoo Mail</source>
+                <target>През Gmail или Yahoo!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Via Facebook</source>
+                <target>През Facebook</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Invite a Friend</source>
+                <target>Покани приятел</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Invite Your Friends</source>
+                <target>Покани приятелите си</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Back</source>
+                <target>Назад</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Login</source>
+                <target>Вход</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Send another invite?</source>
+                <target>Изпрати друга покана</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Invite</source>
+                <target>Покани</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Invited</source>
+                <target>Поканен</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Your invite was sent successfully!</source>
+                <target>Вашата покана беше успешно изпратена!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The friend list is empty!</source>
+                <target>Списък с приятели е празен!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Your e-mail list is empty!</source>
+                <target>Списъкът с имейл адреси е празен!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Wrong e-mail address or/and password!</source>
+                <target>Грешен имейл адрес и/или парола!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>You entered a wrong e-mail address format!</source>
+                <target>Имейл адресът е в грешен формат!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Email Address</source>
+                <target>Имейл адрес</target>
+            </trans-unit>
+            <trans-unit>
+                <source>E-mail password</source>
+                <target>Имейл парола</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Email list</source>
+                <target>Списък с имейли</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Discover getlokal!</source>
+                <target>Открий getlokal!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Join me on getlokal and discover what other people like you and I think about restaurants, pubs, cafes and other interesting places in their local area.</source>
+                <target>Ела в getlokal и открий какво хората като теб и мен мислят за ресторанти, кръчми, кафенета и други интересни места в своя град.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>To join getlokal click on this link:</source>
+                <target>За да се регистрираш в getlokal, кликни на този линк:</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Country</source>
+                <target>Държава</target>
+            </trans-unit>
+            <trans-unit>
+                <source><![CDATA[Send Your Invite via <a href="?invite_choice=gmail" title="Gmail"><img src="/images/logos/gmail.png"></a> or <a href="?invite_choice=yahoo" title="Yahoo"><img src="/images/logos/yahoo.png"></a>]]></source>
+                <target><![CDATA[Изпрати своята покана през <a href="?invite_choice=gmail" title="Gmail"><img src="/images/logos/gmail.png"></a> или <a href="?invite_choice=yahoo" title="Yahoo"><img src="/images/logos/yahoo.png"></a>]]></target>
+            </trans-unit>
+            <trans-unit>
+                <source><![CDATA[Send Your Invite via <img src="/images/logos/gmail.png"> or <img src="/images/logos/yahoo.png">]]></source>
+                <target><![CDATA[Изпрати своята покана през <img src="/images/logos/gmail.png"> или <img src="/images/logos/yahoo.png">]]></target>
+            </trans-unit>
+            <trans-unit>
+                <source>Via Gmail or Yahoo</source>
+                <target>През Gmail или Yahoo!</target>
+            </trans-unit>
+            <trans-unit>
+                <source><![CDATA[Send Your Invite via <img src="/images/gui/facebook.png">]]></source>
+                <target><![CDATA[Изпрати своята покана през <img src="/images/gui/facebook.png">]]></target>
+            </trans-unit>
+            <trans-unit>
+                <source>Via Facebook</source>
+                <target>През Facebook!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>User with same %s e-mail address is already registered!</source>
+                <target>Потребител с този %s имейл адрес вече е регистриран в сайта!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>There are no reviews</source>
+                <target>Няма ревюта.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>You can use your</source>
+                <target>Ползвай</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Facebook account to register</source>
+                <target>профила си във Facebook за да се регистрираш</target>
+            </trans-unit>
+            <trans-unit>
+                <source>in getlokal.com</source>
+                <target>в getlokal.com</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Facebook account to log in</source>
+                <target>профила си във Facebook, за да влезеш</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Followers</source>
+                <target>Последователи</target>
+            </trans-unit>
+            <trans-unit>
+                <source><![CDATA[<p class="part_one"><span class="greet">Congrats</span> you are our newest registered user.</p><p class="part_two"> Now you can tell everyone about the great places only you know!</p>]]></source>
+                <target><![CDATA[<p class="part_one"><span class="greet">Поздравления</span> ти си най-новия ни регистриран потребител!</p><p class="part_two"> Вече можеш да кажеш на всички за най-яките места, за които само ти знаеш!</p>]]></target>
+            </trans-unit>
+            <trans-unit>
+                <source><![CDATA[<p class="part_one"><span class="greet">Congrats</span> you are our newest registered user.</p><p class="part_two"> Now you can finish claiming your place and update the information about it!</p>]]></source>
+                <target><![CDATA[<p class="part_one"><span class="greet">Поздравления</span> ти си най-новия ни регистриран потребител!</p><p class="part_two"> След като довършиш процеса по заявяване на място, ще можеш да актуализираш информацията за него!</p>]]></target>
+            </trans-unit>
+            <trans-unit>
+                <source>Welcome to getlokal.com</source>
+                <target>Привет от getlokal</target>
+            </trans-unit>
+
+
+<!-- NEW DESIGN SITE -->
+            <trans-unit>
+                <source>Sign in</source>
+                <target>Регистрация</target>
+            </trans-unit>
+            
+
+            <trans-unit>
+                <source>Sign in via Facebook</source>
+                <target>Регистрирай се с Facebook</target>
+            </trans-unit>
+
+
+        </body>
+    </file>
+</xliff>

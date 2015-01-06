@@ -1,0 +1,95 @@
+<?xml version="1.0" ?>
+<xliff version="1.0">
+	<file orginal="global" source-language="en_EN" datatype="plaintext">
+		<body>
+      		<trans-unit>
+	        	<source>How to play?</source>
+	        	<target>Как да играеш?</target>
+      		</trans-unit>
+      		<trans-unit>
+	        	<source>Choose from the %s or in the %s</source>
+	        	<target>Избери си място от %s или в %s</target>
+      		</trans-unit>
+      		<trans-unit>
+	        	<source>sectors bellow</source>
+	        	<target>предложените сектори</target>
+      		</trans-unit>
+      		<trans-unit>
+	        	<source>search bar</source>
+	        	<target>търсачката</target>
+      		</trans-unit>
+      		<trans-unit>
+	        	<source>Review it and enter the draw</source>
+	        	<target>Напиши мнение за него и участвай в томболата за наградите</target>
+      		</trans-unit>
+      		<trans-unit>
+	        	<source>Need help?</source>
+	        	<target>Нужда от помощ?</target>
+      		</trans-unit>
+      		<trans-unit>
+	        	<source>Ask us in %s</source>
+	        	<target>Питай ни във %s</target>
+      		</trans-unit>
+      		<trans-unit>
+      			<source>Send us an email</source>
+	        	<target>Изпрати ни мейл</target>
+      		</trans-unit>
+      		<trans-unit>
+      			<source>Our newest game ReviewMania starts on %s November!</source>
+	        	<target>От %s ноември започва ReviewMania!</target>
+      		</trans-unit>
+      		<trans-unit>
+      			<source>Post your reviews on the web site and win a getlokal glass, vouchers and %s by %s</source>
+	        	<target>Коментирай в сайта и спечели getlokal чаша, подаръчни ваучери и %s от %s</target>
+      		</trans-unit>
+      		<trans-unit>
+      			<source>Video tutorial how to play ReviewMania</source>
+	        	<target>Видео тюториал как да играеш ReviewMania</target>
+      		</trans-unit>
+      		<trans-unit>
+      			<source>Rules of the game</source>
+	        	<target>Правила на играта</target>
+      		</trans-unit>
+      		<trans-unit>
+      			<source>To participate you must be a registered user</source>
+	        	<target>За да участваш, трябва да си регистриран потребител</target>
+      		</trans-unit>
+      		<trans-unit>
+      			<source>You can post reviews, opinions and recommendations for all places in getlokal. Check out suggested sectors bellow.</source>
+	        	<target>Можеш да оставяш ревюта, мнения и препоръки за всички места в сайта. За улеснение виж предложените сектори.</target>
+      		</trans-unit>
+      		<trans-unit>
+      			<source>Every review increases your chances for the weekly prizes and for the %s</source>
+	        	<target>Всяко твое ревю увеличава шанса ти за седмичните награди и за %s </target>
+      		</trans-unit>
+      		<trans-unit>
+      			<source>Every review should be formulated with at last one sentence</source>
+	        	<target>Всяко мнение трябва да е формулирано с поне едно изречение</target>
+      		</trans-unit>
+      		<trans-unit>
+      			<source>Reviews with repeated content and reviews with abusive or obscene language, will be deleted by our moderators</source>
+	        	<target>Ревюта с едно и също съдържание и такива с обиден или нецензурен език, ще бъдат изтривани от модератори на getlokal.</target>
+      		</trans-unit>
+      		<trans-unit>
+      			<source>ReviewMania starts on %s November and ends on %s November</source>
+	        	<target>Играта започва на %s ноември и приключва на %s ноември</target>
+      		</trans-unit>
+      		<trans-unit>
+      			<source>The weekly prize draws will take place every Monday at %s for entries submitted by %s on the pervious Sunday.</source>
+	        	<target>Томболите за седмичните награди ще се теглят всеки понеделник в %s часа, за участия, подадени до %s предишната неделя.</target>
+      		</trans-unit>
+      		<trans-unit>
+      			<source>The iPod Touch prize draw will take place on 19 November at 15:00.</source>
+	        	<target>Нa 19 ноември ще се тегли томболата за iPod Touch </target>
+      		</trans-unit>
+      		<trans-unit>
+      			<source>Winners will be notified by email and on our %s</source>
+	        	<target>Печелившите ще се известяват по имейл и на страницата ни в %s</target>
+      		</trans-unit>
+      		<trans-unit>
+      			<source>Facebook page</source>
+	        	<target>Facebook</target>
+      		</trans-unit>
+		</body>
+	</file>
+</xliff>

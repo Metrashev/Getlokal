@@ -1,0 +1,164 @@
+<?xml version="1.0" ?>
+<xliff version="1.0">
+    <file orginal="global" source-language="en_EN" datatype="plaintext">
+        <body>
+            <trans-unit>
+                <source>Getlokal is the place where you meet your customers. Engage in a conversation with them – be notified whenever someone publishes a review about your place and post an official answer to them, upload photos, your contact details and business description! Improve your position in front of your competition and bring relevance to your online presence! What are the steps?</source>   
+                <target>GetLokal on matkailupalvelu jossa asiakkaasi löytävät sinut ja voit olla vuorovaikutuksessa heidän kanssaan. Asiakkaasi voivat tehdä arvosteluja yrityksestäsi ja voit myös vastata heille palvelumme kautta. Rakenna itsellesi upea yrityssivu GetLokaliin. Lisää kuvia, tee sisältöä, ole vuorovaikutuksessa.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>%s on getlokal! If you are new @ %s you need to register first.</source> 
+                <target>%s  getlokal! Uusi asiakas @ %s Ole hyvä ja rekisteröidy ensin.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Find or add your place! %s, find your place and %s! If you can’t find it, %s or %s and we will do it for you. And then again - log in, find your place and %s!</source>
+                <target>Etsi tai lisää yrityksesi! %s, etsi yrityksesi ja %s! jos et löydä sitä, %s niin %s me lisäämme sen sinulle. Nyt valmis kirjautumaan sisään ja voit etsiä yrityksesi %s!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Fill in content! It’s free and easy! What are your benefits? Unlimited photo upload, place description in two languages and most importantly - you engage in a conversation with your customers!</source>
+                <target>Lisää sivuillesi sisältöä! Se on helppoa! Mitä hyötyjä saat? Rajaton kuvien lataus, paikkatietomerkinnät kolmella kielellä, mutta tärkeimpänä tarjoamme palvelun missä voit oikeasti olla vuorovaikutuksessa asiakkaidesi kanssa!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Can’t get enough? After you get acquainted with your place profile, %s for more info about the businesslokal+ features.</source>
+                <target>Kun olet tutustunut yrityksesi profiiliin, %s löydä lisää tietoa businesslokal+ palvelusta.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>let us know</source>
+                <target>Kerro meille</target>
+            </trans-unit>
+            <trans-unit>
+                <source>write to us</source>
+                <target>Kirjoita meille</target>
+            </trans-unit>
+            <trans-unit>
+                <source>add it yourself</source>
+                <target>Lisää itse</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Log in</source>
+                <target>Kirjaudu sisään</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Register</source>
+                <target>Rekisteröidy</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Start Here!</source>
+                <target>Aloita tästä!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Already Have an Account?</source>
+                <target>Onko sinulla jo tili?</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Login and Claim your place</source>
+                <target>Kirjaudu sisään hae käyttöoikeus yrityksesi sivuille</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Need Help?</source>
+                <target>Tarvitsetko apua?</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Contact us (we’ll answer as fast as we can)</source>
+                <target>Ota yhteyttä. Vastaamme niin pian kuin mahdollista</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Who are you?</source>
+                <target>Kuka olet?</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Make it Official!</source>
+                <target>Hae käyttöoikeus yriyksesi sivulle!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Where are you?</source>
+                <target>Yhteystietosi?</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Tell your story!</source>
+                <target>Kerro tarinasi!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Get visual!</source>
+                <target>Varmista nävyytesi!!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Be available!</source>
+                <target>Ole tavoitettavissa!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Pay attention!</source>
+                <target>Kiinnitä huomiota!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Are you liked?</source>
+                <target>Tykätäänkö sinusta?</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The place name goes here! Choose the most appropriate classification among 200 and more!</source>
+                <target>Yrityksen nimi tulee tähän! Valitse yritystäsi kuvaava palvelusektori</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Put an official stamp that this is your business by claiming it!</source>
+                <target> Hae käyttöoikeus yrityksesi sivulle ja ota meihin yhteyttä!.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Write a short description – why is your place different, what is its history? Be creative!</source>
+                <target>Kirjoita lyhyt esittelyteksti - Mikä tekee paikastasi erilaisen, millainen historia sillä on? Ole luova!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Show your place - post photos!</source>
+                <target>Esittele yrityksesi lisäämällä kuvia!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Set your working hours and the useful links!</source>
+                <target>Ilmoita aukioloaikasi ja lisää tärkeitä linkkejä!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Get to know your customers and engage in conversations as an official representative of your company!</source>
+                <target>Tutustu asiakkaisiisi ja ole vuorovaikutuksessa heidän kanssaan keskusteluissa. Olet yrityksesi virallinen edustaja!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>See what your customers appreciate most about your place!</source>
+                <target>Katso mitä asiakkaasi arvostavat eniten paikassasi</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Your Business Profile</source>
+                <target>Yritys profiilisi</target>
+            </trans-unit>
+            <!-- <trans-unit>
+                <source>claim it</source>
+                <target>Hae se</target>
+            </trans-unit> -->
+      		
+            <trans-unit>
+                <source>Advertising in Helsinki</source>
+                <target>Mainostaminen</target>
+            </trans-unit>
+            <trans-unit>
+                <source></source>
+                <target></target>
+            </trans-unit>
+            <trans-unit>
+                <source>Professionals</source>
+                <target>Palvelun laatu</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Meets Deadlines</source>
+                <target>Täsmällisyys</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Street Parking</source>
+                <target>Pysäköinti</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Service</source>
+                <target>Palvelun tarjonta</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Location</source>
+                <target>Sijainti</target>
+            </trans-unit>
+        </body>
+    </file>
+</xliff>

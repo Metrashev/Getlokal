@@ -1,0 +1,91 @@
+<?xml version="1.0" ?>
+<xliff version="1.0">
+    <file orginal="global" source-language="en_EN" datatype="plaintext">
+        <body>
+            <trans-unit>
+                <source>Create new account</source>
+                <target>Hozz létre új profilt</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Account Activation</source>
+                <target>Profil aktivizációja</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Resend activation email</source>
+                <target>Küldd el mégegyszer aktivizációs email-t</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Forgotten Password</source>
+                <target>Elfelejtett jelszó</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Offers</source>
+                <target>Ajánlatok</target>
+            </trans-unit>
+            <trans-unit>
+                <source>%s in %s</source>
+                <target>%s ban %s</target>
+            </trans-unit>
+            <trans-unit>
+                <source>New Offer</source>
+                <target>Új ajánlat</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Going Out, Leisure, Health and Beauty, Shopping</source>
+                <target>Éttermek, Szorakozóhelyek, Egészség és szépség, Bevásárlás</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Communication Settings</source>
+                <target>kommunikációs beállítások</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Select a classification</source>
+                <target>Válassz besorolást</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Add Company</source>
+                <target>Adj hozzá céget</target>
+            </trans-unit>
+            <trans-unit>
+                <source>%s in getlokal - addresses, telephones, working hours and user reviews for %s in %s, %s</source>
+                <target>%s getlokalban  - láss címet, telefonszámot, munkaidot és feljasználók bejegyzéseit minden %s ban %s, %s</target>
+            </trans-unit>
+            <trans-unit>
+                <source>%s in getlokal - addresses, telephones, working hours and user reviews for %s in %s</source>
+                <target>%s getlokalban  - láss címet, telefonszámot, munkaidot és felhasználók bejegyzéseit minden %s -ban%s</target>
+            </trans-unit>
+            <trans-unit>
+                <source>%s in %s - information in getlokal: see address, telephone, working hours, photos and user reviews for %s, %s</source>
+                <target>%s -ban %s - információ getlokalban: láss címet, telefonszámot, munkaidot, képet és felhasználók bejegyzéseit  %s-ról, %s.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>%s, %s - reviews and ratings from customers</source>
+                <target>%s, %s - ügyfelek bejegyzései és értékelései</target>
+            </trans-unit>
+            <trans-unit>
+                <source>%s, %s - detailed information</source>
+                <target>%s, %s - részletes információ</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Find up-to-date reviews, comments and ratings of customer for %s in %s. Add your own review!</source>
+                <target>Lássd ügyfelek aktuális bejegyzéseit, hozzászólásait és értékeléseit %s -ról %s-ban. Írjd meg a sajatoidat is!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>%s - getlokal user</source>
+                <target>%s - getlokal felhasználó</target>
+            </trans-unit>
+            <trans-unit>
+                <source>See information for %s and all their reviews in getlokal!</source>
+                <target>Lásson információt  %s-rol és ennek a felhasználónak minden bejegyzését getlokalban!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Followers</source>
+                <target>Követok</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Following</source>
+                <target>Követett</target>
+            </trans-unit>
+        </body>
+    </file>
+</xliff>

@@ -1,0 +1,37 @@
+generator:
+  class: sfDoctrineGenerator
+  param:
+    model_class:           NewsletterUser
+    theme:                 admin
+    non_verbose_templates: true
+    with_show:             false
+    singular:              ~
+    plural:                ~
+    route_prefix:          newsletter_user
+    with_doctrine_route:   true
+    actions_base_class:    sfActions
+
+    config:
+      actions: ~
+      fields:
+        is_active:      {label: Is Subscribed, is_sortable: true}      
+      
+      list:
+        title:         User Newsletter
+        display:       [id, UserProfile, newsletter_id, is_active]
+        max_per_page:  15
+        sort:    [id, desc]
+        table_method:  getQueryForAdmin
+        batch_actions:
+         subscribe:  ~
+         unsubscribe:      ~
+         delete:  ~  
+        object_actions:
+          setStatus:      { label: Change, action: setStatus }
+          _edit:      ~
+          _delete:    ~
+      filter:  
+        display: [_csv, id, newsletter_id, is_active,email_address, first_name, last_name, user_city]
+      form:    ~
+      edit:    ~
+      new:     ~

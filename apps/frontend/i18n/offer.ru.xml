@@ -1,0 +1,174 @@
+<?xml version="1.0" ?>
+<xliff version="1.0">
+    <file orginal="global" source-language="en_EN" datatype="plaintext">
+        <body>    
+            <trans-unit>
+                <source>Offers</source>
+                <target>Предложения</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Offer</source>
+                <target>Предложение</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Create an Offer</source>
+                <target>Добавить Предложение</target>
+            </trans-unit>
+            <trans-unit>
+                <source>to</source>
+                <target>до</target>
+            </trans-unit>
+            <trans-unit>
+                <source>deactivate</source>
+                <target>деактивировать</target>
+            </trans-unit>      
+            <trans-unit>
+                <source>Current Offers</source>
+                <target>Текущие Предложения</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Edit Offer</source>
+                <target>Редактировать Предложение</target>
+            </trans-unit>
+            <trans-unit>
+                <source>activate</source>
+                <target>активировать</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Order Voucher</source>
+                <target>Заказать Ваучер</target>
+            </trans-unit>     
+            <trans-unit>
+                <source>This offer is valid from</source>
+                <target>Данное предложение действует с </target>
+            </trans-unit>
+            <trans-unit>
+                <source>Vouchers</source>
+                <target>Ваучеры</target>
+            </trans-unit>
+            <trans-unit>
+                <source>No vouchers have been ordered yet</source>
+                <target>Еще нельзя заказать ваучер</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Offer Code</source>
+                <target>Код Предложения</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Voucher Code</source>
+                <target>Код Ваучера</target>
+            </trans-unit>
+            <trans-unit>
+                <source>activate</source>
+                <target>активировать</target>
+            </trans-unit>    
+            <trans-unit>
+                <source>This offer is not active.</source>
+                <target>Данное предложение не активно.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Vouchers issued</source>
+                <target>Ваучеры выпущены</target>
+            </trans-unit>           
+            <!-- NEW -->
+            <trans-unit>
+                <source>Print</source>
+                <target>Распечатать</target>
+            </trans-unit>
+            <trans-unit>
+                <source><![CDATA[[0]No vouchers have been issued yet for this offer.|[1]1 voucher has been issued for this offer.|(1,+Inf]%count% vouchers have been issued for this offer.]]>
+                </source>
+                <target><![CDATA[0] Для данного предложения ваучеры еще не выпущены.|[1]1 ваучeр был выпущен для этого предложения.|(1,+Inf]%count% % ваучеров были выпущены для этого предложен.]]>
+                </target>
+            </trans-unit>    
+            <trans-unit>
+                <source>issued on</source>
+                <target>Выпущен</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Issued on</source>
+                <target> Выпущен</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Expires on</source>
+                <target>Истекает</target>
+            </trans-unit>
+            <!-- NEW -->
+            <trans-unit>
+                <source>There are no offers</source>
+                <target>Нет предложений</target>
+            </trans-unit>      
+            <trans-unit>
+                <source>Export to Excel</source>
+                <target>Экспортировать в Excel </target>
+            </trans-unit>
+            <trans-unit>
+                <source>You have already ordered the maximum number of vouchers</source>
+                <target>Вы уже заказали максимальное количество ваучеров</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Number of Vouchers</source>
+                <target>Количество Ваучеров</target>
+            </trans-unit>
+            <trans-unit>
+                <source>No more vouchers available for this offer</source>
+                <target>Для данного предложения больше ваучеров нет</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Get Voucher!</source>
+                <target>Получить Ваучер!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>No messages</source>
+                <target>Нет сообщений</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Offer Drafts</source>
+                <target>Предварительные предложения</target>
+            </trans-unit>
+            <trans-unit>
+                <source>preview</source>
+                <target>предварительный просмотр</target>
+            </trans-unit>
+            <trans-unit>
+                <source>publish</source>
+                <target>опубликовать</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The offer was published successfully.</source>
+                <target>Предложение было успешно опубликовано.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Congrats</source>
+                <target>Поздравления</target>
+            </trans-unit>
+            <trans-unit>
+                <source>We just issued your voucher! It's saved in your Profile.</source>
+                <target>Мы только что выпустили ваш ваучер! Он сохранен в вашем Профиле.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>View</source>
+                <target>Просмотреть</target>
+            </trans-unit>
+            <trans-unit>
+                <source><![CDATA[[0]%time%|[1]1 day %time%|(1,+Inf]%days% days %time%]]></source>
+                <target><![CDATA[[0]%time%|[1]1 день %time%|(1,+Inf]%days% дней %time%]]></target>
+            </trans-unit>
+
+            <!-- NEW DESIGN -->
+
+            <trans-unit>
+                <source>Tickets Available</source>
+                <target>Билеты</target>
+            </trans-unit>
+
+            <trans-unit>
+                <source>OFFERS IN</source>
+                <target>Предложения</target>
+            </trans-unit>
+
+            
+        </body>
+    </file>
+</xliff>
+

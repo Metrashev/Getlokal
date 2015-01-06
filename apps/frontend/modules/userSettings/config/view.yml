@@ -1,0 +1,6 @@
+indexSuccess:
+  stylesheets: [extra.css ]
+
+imagesSuccess:
+  javascripts: []
+  stylesheets: [/css/ui-lightness/jquery-ui-1.8.16.custom.css]

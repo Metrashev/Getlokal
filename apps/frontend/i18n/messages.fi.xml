@@ -1,0 +1,1409 @@
+<?xml version="1.0" ?>
+<xliff version="1.0">
+    <file orginal="global" source-language="en_EN" datatype="plaintext">
+        <body>
+            <trans-unit>
+                <source>The information you entered was saved successfully.</source>
+                <target>Lisäämäsi tieto on tallennettu onnistuneesti.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Your company information was saved successfully. It will be added to getlokal after it has been approved by an administrator.</source>
+                <target>Yrityksesi tiedot on tallennettu onnistuneesti. Tiedot lisätään getlokaliin järjestelmän ylläpitäjän hyväksynnän jälkeen.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Your username should contain only alphanumeric characters, dash, dot or underscore</source>
+                <target>Käyttäjätunnuksen tulee sisältää vain alphanumeerisia merkkejä, väliviiva, piste tai alaviiva</target>
+            </trans-unit>
+            <trans-unit>
+                <source>This field is required</source>
+                <target>Tämä on pakollinen kenttä</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The email and/or password are invalid</source>
+                <target>Sähköpostiosoite ja/tai salasana on virheellinen</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Finland</source>
+                <target>Suomi</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Hungary</source>
+                <target>Unkari</target>
+            </trans-unit>
+            <trans-unit>
+                <source>No Results found for %keyword% in %place%</source>
+                <target>%place%: %keyword% ei hakutuloksia</target>
+            </trans-unit>
+            <trans-unit>
+                <source>click here</source>
+                <target>klikkaa tästä</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Resend an activation mail</source>
+                <target>Lähetä aktivointisähköposti uudelleen</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Password is mandatory</source>
+                <target>Salasana on pakollinen</target>
+            </trans-unit>
+            <trans-unit>
+                <source> for </source>
+                <target> </target>
+            </trans-unit>
+            <trans-unit>
+                <source>E-mail</source>
+                <target>Sähköposti</target>
+            </trans-unit>
+            <trans-unit>
+                <source>%s in %s</source>
+                <target>%s in %s</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Your email was changed successfully.</source>
+                <target>Sähköpostiosoitteesi on vaihdettu onnistuneesti.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Sign Up</source>
+                <target>Ilmoittaudu</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Login</source>
+                <target>Kirjaudu sisään</target>
+            </trans-unit>
+            <trans-unit>
+                <source>About Us</source>
+                <target>Meistä</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Contact Us</source>
+                <target>Ota Yhteyttä</target>
+            </trans-unit>
+            <trans-unit>
+                <source>reviews</source>
+                <target>Arviot</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Lists</source>
+                <target>Listat</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Directory</source>
+                <target>Hakemisto</target>
+            </trans-unit>
+            <trans-unit>
+                <source>City</source>
+                <target>Kaupunki</target>
+            </trans-unit>
+            <trans-unit>
+                <source>see all</source>
+                <target>katso kaikki</target>
+            </trans-unit>
+            <trans-unit>
+                <source>hide</source>
+                <target>piilota</target>
+            </trans-unit>
+            <trans-unit>
+                <source>See more in</source>
+                <target>Katso lisää</target>
+            </trans-unit>
+            <!-- <trans-unit>
+                <source>reviews</source>
+                <target>Arviot</target>
+            </trans-unit> -->
+            <trans-unit>
+                <source>About Us</source>
+                <target>Meistä</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Contact Us</source>
+                <target>Ota Yhteyttä</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Terms of Use</source>
+                <target>Käyttöehdot</target>
+            </trans-unit>
+            <trans-unit>
+                <source><![CDATA[General Terms & Conditions]]>
+                </source>
+                <target><![CDATA[Käyttöehdot]]>
+                </target>
+            </trans-unit>
+            <trans-unit>
+                <source>Policy for Use and Protection of the Information of Getlokal</source>
+                <target>Getlokalin tietoturvasuoja</target>
+            </trans-unit>
+            <trans-unit>
+                <source>FAQ's</source>
+                <target>Usein Kysyttyä</target>
+            </trans-unit>
+            <trans-unit>
+                <source>from</source>
+                <target>sta</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Report Abuse</source>
+                <target>Ilmota Väärinkäytöstä</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Blog</source>
+                <target>Blogi</target>
+            </trans-unit>
+            <trans-unit>
+                <source>My Vouchers</source>
+                <target>Minun Etusetelini</target>
+            </trans-unit>
+            <trans-unit>
+                <source>OR</source>
+                <target>Tai</target>
+            </trans-unit>
+            <trans-unit>
+                <source>or</source>
+                <target>tai</target>
+            </trans-unit>
+            <trans-unit>
+                <source>see more</source>
+                <target>katso lisää</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Register</source>
+                <target>Rekisteröinti</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Other Services</source>
+                <target>Muut Palvelut</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Bulgaria</source>
+                <target>Bulgaria</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Romania</source>
+                <target>Romania</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Macedonia</source>
+                <target>Makedonia</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Serbia</source>
+                <target>Serbia</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Montenegro</source>
+                <target>Montenegro</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Articles</source>
+                <target>Artikkelit</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Events</source>
+                <target>Tapahtumat</target>
+            </trans-unit>
+            <trans-unit>
+                <source>New List</source>
+                <target>Uusi lista</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Lists</source>
+                <target>Listat</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Delete</source>
+                <target>Poista</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Save</source>
+                <target>Tallenna</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Create Username and Password</source>
+                <target>Luo käyttäjätunnus ja salasana</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Add Place</source>
+                <target>Lisää paikka</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Add other place</source>
+                <target>Lisää toinen paikka</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Edit</source>
+                <target>Muokkaa</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Close</source>
+                <target>Sulje</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Search</source>
+                <target>Hae</target>
+            </trans-unit>
+            <trans-unit>
+                <source>more info</source>
+                <target>Lisätietoa</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Your review was published successfully.</source>
+                <target>Arviointisi on julkaistu.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Your review was not published successfully.</source>
+                <target>Arviointiasi ei ole julkaistu.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Review was deleted successfully.</source>
+                <target>Arvion poisto onnistui.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Confirm deletion</source>
+                <target>Haluatko poistaa?</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The review was changed successfully.</source>
+                <target>Arvion muutos onnistui.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The offer was not saved. Please fill in all mandatory fields.</source>
+                <target>Tarjousta ei ole tallennettu. Ole hyvä ja täytä tarvittavat kentät.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Account Settings</source>
+                <target>Tilin Asetukset</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Personal Information</source>
+                <target>Henkilökohtaiset Tiedot</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Change Password</source>
+                <target>Muuta Salasana</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Forgotten Password</source>
+                <target>Salasana Unohtunut</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Change Email</source>
+                <target>Muuta Sähköpostiosoite</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The photo was deleted successfully.</source>
+                <target>Valokuva on poistettu onnistuneesti.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The classification was deleted successfully.</source>
+                <target>Luokittelu on poistettu onnistuneesti.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The profile picture was changed successfully.</source>
+                <target>Profiilikuvan muutos onnistui.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>[0]No uploaded photos yet.|[1]1 uploaded photo|(1,+Inf]%count% uploaded photos</source>
+                <target>[0]Ei lisättyjä kuvia.|[1]1 Lisää kuva|(1,+Inf]%count% lisätyt kuvat</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Photos</source>
+                <target>Kuvia</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The photo was published successfully.</source>
+                <target>Kuvan julkaisu onnistui</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Name</source>
+                <target>Nimi</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Surname</source>
+                <target>Sukunimi</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Your account changes were successfully saved.</source>
+                <target>Tilisi muutokset onnistuivat.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Security Settings</source>
+                <target>Suoja-asetukset</target>
+            </trans-unit>
+            <trans-unit>
+                <source>No results found.</source>
+                <target>Ei osumia hakutuloksella.</target>
+            </trans-unit>
+	
+            <trans-unit>
+                <source>Settings</source>
+                <target>Asetukset</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Your password was changed successfully.</source>
+                <target>Salasanasi vaihto onnistui.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Send</source>
+                <target>Lähetä</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The changes were saved successfully.</source>
+                <target>Muutokset tallennettu.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Profile Photo Gallery</source>
+                <target>Profiilikuvagalleria</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The classification information was saved successfully.</source>
+                <target>Luokitustieto tallennettu.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The detailed description was activated successfully.</source>
+                <target>Yksityiskohtainen kuvaus on tallennettu.</target>
+            </trans-unit>
+	
+            <trans-unit>
+                <source>Change Username</source>
+                <target>Vaihda Käyttäjätunnus</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Your username was changed successfully.</source>
+                <target>Käyttäjätunnus vaihdettu.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Picture was saved successfully.</source>
+                <target>Kuva muutettu.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Admin status changed successfully.</source>
+                <target>Ylläpitäjän tila vaihdettu onnistuneesti.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Invalid or inactive offer</source>
+                <target>Virheellinen tai ei voimassa oleva tajous</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The offer is already active.</source>
+                <target>Tarjous on jo voimassa.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Stop Administration</source>
+                <target>Estä Ylläpito</target>
+            </trans-unit>
+            <trans-unit>
+                <source>English</source>
+                <target>Englanniksi</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The offer was deactivated successfully.</source>
+                <target>Tarjoksen on poistettu onnistuneesti.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The offer was added successfully.</source>
+                <target>Tarjous on lisätty onnistuneesti.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The offer was activated successfully.</source>
+                <target>Tarjous on tallennettu onnistuneesti.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The offer title and description (terms) are mandatory for at least one of the two language versions.</source>
+                <target>Tarjouksen otsake ja kuvaus (ehdot) ovat pakollisia ainankin yhdellä kieliversiolla.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Search in getlokal</source>
+                <target>Hae getlokalista</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Are you sure ?</source>
+                <target>Oletko varma ?</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Users</source>
+                <target>käyttäjät</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Where</source>
+                <target>Missä</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Website</source>
+                <target>Verkkosivut</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Badges</source>
+                <target>Merkit</target>
+            </trans-unit>	
+            <trans-unit>
+                <source>We were unable to send a confirmation request to the email address that you provided. Please check the email you provided is correct.</source>
+                <target>Emme pystyneet lähettämään vahvistusta anatamaanne sähköpostiosoitteeseen. Ole hyvä ja tarkista antamasi sähköpostiosoite.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Your account has been activated. You can now log in using the email and password you provided at registration time.</source>
+                <target>Tilisi on aktivoitu. Voit nyt kirjautua sisään rekisteröimälläsi sähköpostiosoitteella ja salasanalla.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The new password was sent successfully to the email you provided.</source>
+                <target>Uusi salasana on lähetetty antamaasi sähköpostiosoitteeseen</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Leave Comment</source>
+                <target>Jätä kommentti</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Company Admins</source>
+                <target>Yrityksen ylläpitäjät</target>
+            </trans-unit>
+            <trans-unit>
+                <source>See Place Page</source>
+                <target>Katso Yrityksen Sivut</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Approve</source>
+                <target>Hyväksy</target>
+            </trans-unit>
+            <trans-unit>
+                <source>approve</source>
+                <target>hyväksy</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Approve?</source>
+                <target>Hyväksy?</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Reject</source>
+                <target>Hylkää</target>
+            </trans-unit>
+            <trans-unit>
+                <source>reject</source>
+                <target>hylkää</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Reject?</source>
+                <target>Hylkää?</target>
+            </trans-unit>	
+            <trans-unit>
+                <source>Publish</source>
+                <target>Julkaise</target>
+            </trans-unit>
+            <trans-unit>
+                <source>We were unable to process your request. Place administration process failed.</source>
+                <target>Emme pystyneet käsittelemään pyyntöänne. Yrityksen ylläpitoyritys epäonnistui.</target>
+            </trans-unit>
+            <!-- footer -->
+            <trans-unit>
+                <source>For You</source>
+                <target>Sinulle</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Do you know your city?</source>
+                <target>Tiedätkö kaupunkisi?</target>
+            </trans-unit>
+            <trans-unit>
+                <source>For Your Business</source>
+                <target>Yrityksellesi</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Do you engage with your customers?</source>
+                <target>Oletko vuorovaikutuksessa asiakkaittesi kanssa?</target>
+            </trans-unit>
+            <trans-unit id="34">
+                <source>more</source>
+                <target>lisää</target>
+            </trans-unit>
+            <!-- <trans-unit id="37">
+                <source>Review</source>
+                <target>Arviot</target>
+            </trans-unit> -->
+            <trans-unit>
+                <source>Please write clearly, without using offensive or obscene language.</source>
+                <target>Ole hyvä ja kirjoita selkeästi sekä käyttämättä loukkaavaa kieltä.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Back to list</source>
+                <target>Takaisin listaan</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Comments</source>
+                <target>Kommentit</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Send mail</source>
+                <target>Lähetä Sähköposti</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Read more</source>
+                <target>Lue lisää</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Photo Gallery of %s</source>
+                <target>Kuvagalleria %s</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Top Reviews for %city%</source>
+                <target>Suosituimmat arviot%city%</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Top Places</source>
+                <target>Suositut paikat</target>
+            </trans-unit>
+            <trans-unit>
+                <source>view all offers</source>
+                <target>katso kaikki tarjoukset</target>
+            </trans-unit>
+            <trans-unit>
+                <source>by</source>
+                <target> </target>
+            </trans-unit>
+            <trans-unit>
+                <source>VIP Places</source>
+                <target>VIP Paikat</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Top Review</source>
+                <target>Huippuarvio</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Places</source>
+                <target>Paikat</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Find Similar Places</source>
+                <target>Etsi vastaavia palveluita</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Your claim was submitted successfully!</source>
+                <target>Hakemuksesi on toimitettu onnistuneesti!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Thank you for your claim request!</source>
+                <target>Kiitos hakumuksestasi!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Your claim request was submitted and will be approved by an administrator. Once you have been approved, you will be able to manage the information about this company.</source>
+                <target>Hakemuksesi on toimitettu sivuston ylläpitäjän hyväksyttäväksi. Hyväksynnän jälkeen voit muokata yrityksesi tietoja.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Map</source>
+                <target>Kartta</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The event picture was changed successfully.</source>
+                <target>Tapahtuman kuva on muutettu onnistuneesti.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>set as event photo</source>
+                <target>aseta tapahtuman kuvaksi</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Event Photo Gallery</source>
+                <target>Tapahtuman Kuvagalleria</target>
+            </trans-unit>
+            <trans-unit>
+                <source>[0]0 reviews|[1]1 review|(1,+Inf]%count% reviews</source>
+                <target>[0]0 arviot|[1]1 arvio|(1,+Inf]%count% arviot</target>
+            </trans-unit>
+            <trans-unit>
+                <source>reply</source>
+                <target>vastaa</target>
+            </trans-unit>
+            <trans-unit>
+                <source>edit</source>
+                <target>muokkaa</target>
+            </trans-unit>
+            <trans-unit>
+                <source>delete</source>
+                <target>poista</target>
+            </trans-unit>
+            <trans-unit>
+                <source>report</source>
+                <target>raportoi</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Mon</source>
+                <target>Ma</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Tue</source>
+                <target>Ti</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Wed</source>
+                <target>Ke</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Thu</source>
+                <target>To</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Fri</source>
+                <target>Pe</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Sat</source>
+                <target>La</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Sun</source>
+                <target>Su</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Your review about %s was changed successfully.</source>
+                <target>Arviointisi palvelusta %s on muutettu onnistuneesti.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>E.g. restaurant</source>
+                <target>esim. Ravintolat</target>
+            </trans-unit>
+            <trans-unit>
+                <source>e.g. pizza, Starbucks</source>
+                <target>esim. pizza, Starbucks</target>
+            </trans-unit>
+            <trans-unit>
+                <source>There is no registered profile with this email address</source>
+                <target>Tälle sähköpostiosoitteelle ei ole rekisteröityä profiilia</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Register with Facebook</source>
+                <target>Rekisteröidy Facebookissa</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Facebook page of %s</source>
+                <target>Facebookin sivusto %s</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Twitter page of %s</source>
+                <target>Twitter sivusto %s</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Google+ page of %s</source>
+                <target>Google+ sivusto %s</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Foursquare page of %s</source>
+                <target>Foursquare sivusto %s</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Website of %s: %s</source>
+                <target>Verkkosivu %s: %s</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Your message was sent successfully.</source>
+                <target>Viestisi on lähetetty onnistuneesti.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The place details were saved successfully.</source>
+                <target>Yrityksen tiedot on tallennettu onnistuneesti.</target>
+            </trans-unit>
+            <trans-unit>
+                <source><![CDATA[<span>Thank you for recommending</span> <span>new place!</span>]]>
+                </source>
+                <target><![CDATA[<span>Kiitos kun suosittelit</span> <span>uutta palvelua!</span>]]>
+                </target>
+            </trans-unit>
+            <trans-unit>
+                <source>Congratulations! Thank you for adding a place!</source>
+                <target>Onnittelut uuden palvelun lisäämisestä</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Request through getlokal</source>
+                <target>Pyyntö getlokalin kautta</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Event was submitted successfully.</source>
+                <target>Tapahtuma on lähetetty hyväksyttäväksi.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Full Review...</source>
+                <target>Koko Arvio...</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The email message was not sent successfully.</source>
+                <target>Tämän viestin lähetys ei onnistunut.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>We encountered problem activating your account.</source>
+                <target>Tilisi aktivointi ei onnistunut.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>If you wish us to send you again your activation mail, </source>
+                <target>Jos haluat, että lähetämme sinulle uudelleen aktivointisähköpostin, </target>
+            </trans-unit>
+            <trans-unit>
+                <source>Rate</source>
+                <target>Arvioi</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Vote</source>
+                <target>Anna äänesi yritykselle</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Vote for this place</source>
+                <target>Äänestä tätä paikkaa</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Skip</source>
+                <target>Seuraava</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Larger</source>
+                <target>Isompi</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Smaller</source>
+                <target>Pienempi</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The username was sent successfully to your email.</source>
+                <target>Käyttäjätunnus on lähetetty sähköpostiisi onnistuneesti.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>I agree with the %s and the %s</source>
+                <target>Hyväksyn %s</target>
+            </trans-unit>
+            <trans-unit>
+                <source>I have the necessary representative powers and agree with the %s and the %s</source>
+                <target>Minulla on tarvittavat oikeudet hyväksyä %s</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Enter your EIK/Bulstat</source>
+                <target>Kirjoita Y-tunnus</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Forgotten password for %s</source>
+                <target>Unohdettu salasana %s</target>
+            </trans-unit>
+            <trans-unit>
+                <source>In order to protect the information associated with your business we have introduced some additional security requirements.</source>
+                <target>Suojellaksemme yrityksesi tietoja, olemme ottaneet käyttöön ylimäisen tietosuojan.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Create a username and password for each of the places you manage and keep this information secure.</source>
+                <target>Luo käyttäjätunnus ja salasana jokaiseen yritykseesi ja pidä salasana turvassa.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Use these login details every time you want to view or edit the information about the places you manage.</source>
+                <target>Käytä näitä tietoja sisään kirjautuessasi tai jos haluat muokata yriyksesi tietoja</target>
+            </trans-unit>
+            <trans-unit>
+                <source> about the additional security requirements</source>
+                <target> tietoa ylimääräisestä tietosuojasta</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Send it to us</source>
+                <target>Lähetä tiedot</target>
+            </trans-unit>
+            <trans-unit>
+                <source>In my capacity as parent/trustee I hereby declare that I agree with the %s and the %s</source>
+                <target>Vanhempana/edunvalvojana vakuutan että  %s ja %s</target>
+            </trans-unit>
+            <trans-unit>
+                <source>If you are underage person, your parent/trustee must also declare his/her consent below</source>
+                <target>Alaikäinen henkilö tarvitsee holhoojan suostumuksen</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Tomorrow</source>
+                <target>Huomenna</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Today</source>
+                <target>Tänään</target>
+            </trans-unit>
+            <trans-unit>
+                <source>No uploaded photos yet.</source>
+                <target>Ei lisättyjä kuvia.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Comment</source>
+                <target>Kommentti</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Reply to Comment</source>
+                <target>Vastaa Kommenttiin</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Poor</source>
+                <target>Heikko</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Average</source>
+                <target>Keskinkertainen</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Good</source>
+                <target>Hyvä</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Very good</source>
+                <target>Erittäin hyvä</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Excellent</source>
+                <target>Loistava</target>
+            </trans-unit>
+            <trans-unit>
+                <source>There is no profile with this username</source>
+                <target>Tällä käyttäjätunnuksella ei ole profiilia</target>
+            </trans-unit>
+            <trans-unit>
+                <source>An error ocurred while processing your request. Please try again later.</source>
+                <target>Pyynnön käsittely ei onnistunut. Ole hyvä ja yritä myöhemmin uudestaan.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The video was successfully uploaded.</source>
+                <target>Video on lisätty onnistuneesti.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The video was deleted successfully.</source>
+                <target>Video on poistettu onnistuneesti.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Leave getlokal</source>
+                <target>Getlokal palvelun lopetus</target>
+            </trans-unit>
+            <trans-unit>
+                <source>You get interesting information about all the places and events near you</source>
+                <target>Saat tietoa palveluista ja tapahtumista lähelläsi</target>
+            </trans-unit>
+            <trans-unit>
+                <source>You have the opportunity to win fab prizes by participating in getlokal promotions</source>
+                <target></target>
+            </trans-unit>
+            <trans-unit>
+                <source>If you want to leave the getlokal community, all of your reviews, photos, events and lists will be deleted!</source>
+                <target>Jos lopetat getlokal palvelun, kaikki arviosi, valokuvasi, tapahtumasi ja listasi poistetaan!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Proceed to deletion of your getlokal account</source>
+                <target>Lopeta palvelu</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Here are three good reasons to keep your account:</source>
+                <target>Hyviä syitä pitää getlokal tilisi:</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Still want to delete your profile?</source>
+                <target>Haluatko yhä poistaa profiilisi?</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Your account was deleted</source>
+                <target>Tilisi on poistettu</target>
+            </trans-unit>
+            <trans-unit>
+                <source>We are sorry to see you go. We value all our users and would be grateful if you %s and let us know what we did wrong.</source>
+                <target>Olemme pahoillamme, että jätät palvelumme. Arvostamme kaikkia käyttäjiämme ja olisimme kiitollisia jos sinä %s antaisit meille palautetta!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>I agree to the %s and the %s</source>
+                <target>Hyväksyn %s</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Policy for Use and Protection of the Information on the Getlokal Website</source>
+                <target>Getlokalin tietosuoja</target>
+            </trans-unit>
+            <trans-unit>
+                <source>I have the necessary representative powers and I agree to the %s and the %s</source>
+                <target>Minulla on tarvittavat valtuudet jan hyväksyn %s</target>
+            </trans-unit>
+            <trans-unit>
+                <source>%s for %s (%s)</source>
+                <target>%s  %s (%s)</target>
+            </trans-unit>
+            <trans-unit>
+                <source>page</source>
+                <target>sivu</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Search results for %s</source>
+                <target>Etsi hakutuloksia %s</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The place you suggested was added to getlokal. It will be checked by a member of the getlokal team to ensure we have the right details and you will receive a confirmation email once it has been verified.</source>
+                <target>SUosittelemasi paikka on lisätty getlokaliin. Järjestelmän ylläpitäjä tarkastaa, että meillä on tarvittavat tiedot ja lähetämme sinulle vahvistuksen sähköpostitse.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>If you want to add %s, please log into your getlokal profile.</source>
+                <target>Jos haluat lisätä%s, kirjaudu sisään getlokal profiiliisi.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>places</source>
+                <target>Paikat</target>
+            </trans-unit>
+            <trans-unit>
+                <source>reviews</source>
+                <target>arviot</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Review</source>
+                <target>Arvio</target>
+            </trans-unit>
+            <trans-unit>
+                <source>events</source>
+                <target>tapahtumat</target>
+            </trans-unit>
+            <trans-unit>
+                <source>List was successfully created.</source>
+                <target>Lista on luotu onnistuneesti.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>List was deleted successfully.</source>
+                <target>Lista on poistettu onnistuneesti.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>You need to log in with a user profile and not as a place admin in order to finish what you started.</source>
+                <target>Kirjaudu sisään käyttäjäprofiililla, ei ylläpitäjänä.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Open</source>
+                <target>Avoin</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Closed</source>
+                <target>Suljettu</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Your list was successfully updated!</source>
+                <target>Listasi on päivitetty onnistuneesti!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>We couldn't find a place beginning with:</source>
+                <target>Emme löytäneet paikkaa, joka alkaa :</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Top Places in %county%</source>
+                <target>Suositut paikat %county%</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Top Review for %city%</source>
+                <target>Suositut arviot %city%</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Recommended for %sector% in  %city%</source>
+                <target>Suosittelut %sector% ssa %city%</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Top Reviews for %sector% in %city%</source>
+                <target>Huippuarviot %sector% ssa %city%</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Choose From:</source>
+                <target>Valitse:</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Top Review for %sector% in %city%</source>
+                <target>Huippuarviot %sector% ssa %city%</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Sorry, the place you were looking for does no longer exist at this web address.</source>
+                <target>Etsimäsi paikka ei ole enää tässä verkko-osoitteessa.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>You might find similar places if you browse through the places listed in getlokal!</source>
+                <target>Voit etsiä vastaavia paikkoja getlokalista!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>On getlokal you can read recommendations written by people like you and write your own which will help you take more informed decisions! You can also make lists with useful places, add photos of places and win prizes in our campaigns!</source>
+                <target>Getlokalista löydät suositukset joiden avulla voit valita helpommin halauamasi palvelun. Voit myös listata suosikkipaikkasi ja lisätä valokuvia.</target>
+            </trans-unit>
+            <trans-unit>
+                <source><![CDATA[Badge unlocked by <span> %s%s </span> of users]]>
+                </source>
+                <target><![CDATA[Käyttäjä on <span> %s%s </span> avannut merkin]]>
+                </target>
+            </trans-unit>
+            <trans-unit>
+                <source><![CDATA[Badge unlocked by <strong> %s%s </strong> of users]]>
+                </source>
+                <target><![CDATA[Käyttäjä on <strong> %s%s </strong> avannut merkin]]>
+                </target>
+            </trans-unit>
+            <trans-unit>
+                <source><![CDATA[use <i>getlokal</i> as:]]>
+                </source>
+                <target><![CDATA[käytä <i>getlokal</i>:]]>
+                </target>
+            </trans-unit>
+            <trans-unit>
+                <source>Locations</source>
+                <target>Sijainnit</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Follow Us</source>
+                <target>Seuraa Meitä</target>
+            </trans-unit> 
+            <trans-unit>
+                <source>Unfollow Us</source>
+                <target>Lopeta Meidän Seuraaminen</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Show Places Nearby</source>
+                <target>Näytä Paikat</target>
+            </trans-unit>
+            <trans-unit>
+                <source>[0]No uploaded cover photos yet.|[1]1 uploaded cover photo|(1,+Inf]%count% uploaded cover photos</source>
+                <target>[0]Ei taustakuvia.|[1]1 Ladattu taustakuva|(1,+Inf]%count% Ladatut taustakuvat</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Cover Photo Gallery of %s</source>
+                <target>Taustakuvagalleria %s</target>
+            </trans-unit>
+            <trans-unit>
+                <source>set as cover photo</source>
+                <target>Aseta taustakuvaksi</target>
+            </trans-unit>
+            <trans-unit>
+                <source>You need to select a crop area in your image.</source>
+                <target>Valitse leikattu osa kuvasta.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Preview</source>
+                <target>Esikatsele</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Your Photo</source>
+                <target>Sinun Kuva</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Confirm</source>
+                <target>Vahvista</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Followers</source>
+                <target>Seuraajat</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Following</source>
+                <target>Seuraa</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Messages</source>
+                <target>Viestit</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Follow</source>
+                <target>Seuraa</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Unfollow</source>
+                <target>Lopeta Seuraaminen</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Send Message</source>
+                <target>Lähetä Viesti</target>
+            </trans-unit>
+            <trans-unit>
+                <source>View Messages</source>
+                <target>Katso Viestit</target>
+            </trans-unit>
+            <trans-unit>
+                <source>[0]No followers|[1]1 follower|(1,+Inf]%count% followers</source>
+                <target>[0]Ei Seuraajia|[1]1 seuraaja|(1,+Inf]%count% seuraajat</target>
+            </trans-unit>     
+            <trans-unit>
+                <source>[0]No users or places being followed.|[1]1 followed.|(1,+Inf]%count% followed</source>
+                <target>[0]Ei seurattavia käyttäjiä tai palveluita.|[1]1 seurataan.|(1,+Inf]%count% seurataan</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Your message was sent successfully</source>
+                <target>Viestisi on lähetetty onnistuneesti</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Contact Followers</source>
+                <target>Ota Yhteyttä Seuraajiin</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Select All</source>
+                <target>Valitse Kaikki</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Latest News</source>
+                <target>Viimeisimmät Uutiset</target>
+            </trans-unit>
+            <trans-unit>
+                <source>More Info</source>
+                <target>Lisätiedot</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Options</source>
+                <target>vaihtoehdot</target>
+            </trans-unit>
+            <trans-unit>
+                <source>loading...</source>
+                <target>ladataan...</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Thank you for registering with getlokal!</source>
+                <target>Kiitos rekisteröitymisestäsi getlokaliin!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Search for</source>
+                <target>Etsi</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Select Country</source>
+                <target>Valitse Maa</target>
+            </trans-unit>
+            <trans-unit>
+                <source>in</source>
+                <target>ssa</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Edit </source>
+                <target>Muokkaa</target>
+            </trans-unit>
+            <trans-unit>
+                <source>About getlokal</source>
+                <target>Getlokalista</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Team</source>
+                <target>Tiimi</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Timeline</source>
+                <target>Aikajana</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Office addresses</source>
+                <target>Toimiston osoite</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Contact form</source>
+                <target>Yhteyslomake</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Rules of games</source>
+                <target>Pelien säännöt</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Free</source>
+                <target>Ilmainen</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Paid</source>
+                <target>Maksettu</target>
+            </trans-unit>
+            <trans-unit>
+                <source>You are already an administrator for this place and cannot write reviews for it but only reply to reviews by other users about your place.</source>
+                <target>Olet jo tämän yrityksen ylläpitäjä ja et voi arvioida sitä, mutta voit vastata muiden kirjoittamiin arvioihin.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Deleting Review</source>
+                <target>Poista Arvio</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Are you sure you want to delete your review?</source>
+                <target>Haluatko poistaa arvion?</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Deleting Event</source>
+                <target>Poista Tapahtuma</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Are you sure you want to delete this event?</source>
+                <target>Haluatko poistaa tämän tapahtuman?</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Are you sure you want to approve </source>
+                <target>Haluatko hyväksyä </target>
+            </trans-unit>
+            <trans-unit>
+                <source>Are you sure you want to reject </source>
+                <target>Haluatko hylätä </target>
+            </trans-unit>
+            <trans-unit>
+                <source>Are you sure you want to deactivate </source>
+                <target>Haluatko poistaa aktivoinnin </target>
+            </trans-unit>
+            <trans-unit>
+                <source> as admin for </source>
+                <target> ylläpitäjä </target>
+            </trans-unit>
+            <trans-unit>
+                <source>approve</source>
+                <target>hyväksyä</target>
+            </trans-unit>
+            <trans-unit>
+                <source>reject</source>
+                <target>hylätä</target>
+            </trans-unit>
+            <trans-unit>
+                <source>yes</source>
+                <target>kyllä</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Embed</source>
+                <target>Upottaa</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Place Widget</source>
+                <target>Paikan Oikopolku</target>
+            </trans-unit>
+            <trans-unit>
+                <source>If you just want to grab this place details and show them on your blog or site, just customise the settings below and paste the code in your source file.</source>
+                <target>Jos haluat jakaa paikan yhteystiedot blogissasi tai kotisivuilla, muokkaa alla olevia asetuksia ja lisää koodi lähdetiedostoon.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Events Widget</source>
+                <target>Tapahtuma Oikopolku</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Do you run a events related blog or website? You can take-away some fresh content from getlokal. Just customize the looks and content, grab the code and paste it in the source code where you want it to show.</source>
+                <target>Johdatko blogiin tai kotisivuihin liittyviä tapahtumia? Voit saada getlokalista uutta sisältöä. Muokkaa vain ulkoasua ja sisältöä, nappaa koodi ja lisää se lähdetiedoston koodiin kohtaan, jossa haluat tiedon näkyvän.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Please fill in all mandatory fields.</source>
+                <target>Täytä pakolliset kentät.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>%what% in %where%</source>
+                <target>%where%</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Changes to "My Places"</source>
+                <target>Muuttuneet tiedot kohdassa: Minun Paikkani</target>
+            </trans-unit>
+            <trans-unit>
+                <source>You made some changes. What do you want to do with them?</source>
+                <target>Olet tehnyt jotain muutoksia. Mitä haluat tehdä muutoksilla?</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Save</source>
+                <target>Tallenna</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Continue without saving</source>
+                <target>Jatka tallentamatta</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Log in/Register to link the places you added with your account!</source>
+                <target>Kirjaudu sisään/Ilmoittaudu linkittääksesi paikat käyttäjätiliisi!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Login with Email</source>
+                <target>Kirjaudu sähköpostiosoitteellasi</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Login with Facebook</source>
+                <target>Kirjaudu sähköpostiosoitteellasi</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Login / Register</source>
+                <target>Kirjaudu sisään / Ilmoittaudu</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Not registered?</source>
+                <target>Etkö ole rekisteröitynyt?</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Thank you for sending your reservation request. Getlokal will forward it to the relevant person and they will be in touch with you shortly.</source>
+                <target>Kiitämme tiedustelustanne. Getlokal toimittaa tiedustelunne eteenpäin ja varauksista vastaava ottaa teihin yhteyttä mahdollisimman nopeasti.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Thank you! If the place is claimed, we will sent your suggestions to the owner. If not, we will manually verify and update the details of the place.</source>
+                <target>Kiitos! Jos paikka on lunastettu, lähetämme ehdotuksesi omistajalle. Jos ei, tarkistamme paikan tiedot itse ja päivitämme ne.</target>
+            </trans-unit>
+
+            <!-- NEW DEsign -->
+
+            <trans-unit>
+                <source>Discount high to low</source>
+                <target>Alennus korkeimmasta alimpaan</target>
+            </trans-unit> 
+            <trans-unit>
+                <source>Discount low to high</source>
+                <target>Alennus alhaisimmasta korkeimpaan</target>
+            </trans-unit> 
+            <trans-unit>
+                <source>Latest</source>
+                <target>Viimeisin</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Expiring soon</source>
+                <target>Päättyy pian</target>
+            </trans-unit>
+
+				    
+            <trans-unit>
+                <source>Add new</source>
+                <target>Lisää uusi</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Place</source>
+                <target>Paikka</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Install</source>
+                <target>Asenna</target>
+            </trans-unit>         
+            <trans-unit>
+                <source>Getlokal app</source>
+                <target>Getlokalin sovellus</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Sponsored</source>
+                <target>Sponsoroitu</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Advertise</source>
+                <target>Mainosta</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Scroll to top</source>
+                <target>Siirry alkuun</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Scroll to bottom</source>
+                <target>Siirry sivun loppuun</target>
+            </trans-unit>  
+            <trans-unit>
+                <source>Categories</source>
+                <target>Etsi kategorian mukaan</target>
+            </trans-unit>
+
+            <trans-unit>
+                <source>Like and follow us</source>
+                <target>Tykkää ja seuraa meitä</target>
+            </trans-unit>
+
+
+            <!-- <trans-unit>
+                <source>in</source>
+                <target>ssa</target>
+            </trans-unit> -->
+
+            <!-- <trans-unit>
+                <source>Leave Comment</source>
+                <target>Напиши коментар</target>
+            </trans-unit> -->
+
+            <trans-unit>
+                <source>Planning a great night out looking for a recommended beauty salon, or a trendy bar - you will find everything you search in Getlokal</source>
+                <target>Sinun ansiostasi Getlokal on mahtava - kirjoita arvioita, julkaise kuvia ja tallenna suosikkipaikkasi. Getlokal ei jätä sinua kotiin!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Your Getlokal</source>
+                <target>Sinun Getlokalisi</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Concerts, exhibitions, parties – Getlokal will show you when and where local events are happening</source>
+                <target>Konsertit, näyttelyt, juhlat - Getlokal näyttää sinulle, milloin ja missä paikalliset tapahtumat ovat</target>
+            </trans-unit>
+            <trans-unit>
+                <source>If you want to search again for another location, please use the 'Where' field to enter the right location. It is also possible to expand your search to cover the whole of %s</source>
+                <target>Jos haluat etsiä toista sijaintia, ole hyvä ja kirjoita paikkakunta 'missä' kenttään %s</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Couldn't find the place you were looking for? %s and we'll add it.</source>
+                <target>Etkö löytänyt etsimääsi palvelua? Lähetä meille tiedot niin lisäämme sen %s.</target>
+            </trans-unit>
+            
+            <trans-unit>
+                <source>Places in %county%</source>
+                <target>Paikat %county%</target>
+            </trans-unit>
+        </body>
+    </file>
+</xliff>
+
+	

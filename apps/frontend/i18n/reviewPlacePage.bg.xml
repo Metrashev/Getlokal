@@ -1,0 +1,123 @@
+<?xml version="1.0" ?>
+<xliff version="1.0">
+	<file orginal="global" source-language="en_EN" datatype="plaintext">
+		<body>
+			<trans-unit>
+	        	<source><![CDATA[Thank you for your huge interest in Add a Place. We have been overwhelmed with your suggestions so far and so have decided to change things slightly. All your places approved by 18.09.2012 are <a id="terms_win" href="javascript:void(0);">valid entries</a> for the <b>New iPad</b> Prize Draw on 08.10.2012 and for the Prize Draw for <b>SUPRA</b> on 19.09.2012.]]></source>
+	        	<target><![CDATA[Благодарим ти за огромния интерес към играта ‘Добави място’. Затрупани сме от досегашните предложения и решихме да улесним нещата! Всички потвърдени до 18.09.2012 места са <a id="terms_win" href="javascript:void(0);">валидни участия</a> за томболата на 08.10.2012, на която ще се тегли <b>Новия iPad</b> и за томболата на 19.09.2012, в която се теглят <b>кецове SUPRA</b>.]]></target>
+      		</trans-unit>
+      		<trans-unit>
+	        	<source>How to play?</source>
+	        	<target>Как да играеш?</target>
+      		</trans-unit>
+      		<trans-unit>
+	        	<source>Find your favourite %s</source>
+	        	<target>Намери любимото си %s</target>
+      		</trans-unit>
+      		<trans-unit>
+	        	<source>place in getlokal</source>
+	        	<target>място в getlokal</target>
+      		</trans-unit>
+      		<trans-unit>
+	        	<source>Review it</source>
+	        	<target>Напиши мнение за него</target>
+      		</trans-unit>
+      		<trans-unit>
+	        	<source>Publish and enter the draw</source>
+	        	<target>Публикувай и участвай в томболата за наградите</target>
+      		</trans-unit>
+      		<trans-unit>
+	        	<source>Need help?</source>
+	        	<target>Нужда от помощ?</target>
+      		</trans-unit>
+      		<trans-unit>
+	        	<source>Ask us in %s</source>
+	        	<target>Питай ни във %s</target>
+      		</trans-unit>
+      		<trans-unit>
+	        	<source>Write to us</source>
+	        	<target>Изпрати ни мейл</target>
+      		</trans-unit>
+      		<trans-unit>
+	        	<source><![CDATA[Win SUPRA by %s, iPod by %s and the <b>New iPad</b>]]></source>
+	        	<target><![CDATA[Спечели SUPRA от %s, iPod от %s и <b>Новия iPad</b>]]></target>
+      		</trans-unit>
+      		<trans-unit>
+      			<source>Rules of the Game</source>
+	        	<target>Правила на играта</target>
+      		</trans-unit>
+      		<trans-unit>
+	        	<source><![CDATA[Enter the <b>"Review a place"</b> game for a change to win an <b>iPod Touch 8GB</b> by <a href="http://www.facebook.com/iStyleBulgaria" target="_blank">iStyle</a>, <b>SUPRA</b> sneakers by <a href="/bg/sofia/blok_shop_7021393" target="_blank">BLOK Shop</a> and the <b>New iPad</b> by <a href="http://www.facebook.com/iStyleBulgaria" target="_blank">iStyle</a>!]]></source>
+	        	<target><![CDATA[Участвай в играта <b>"Напиши ревю"</b> и спечели кецове <b>SUPRA</b> от <a href="/bg/sofia/blok_shop_7021393" target="_blank">BLOK Shop</a>, <b>iPod Touch 8GB</b> и <b>Новия iPad</b> от <a href="http://www.facebook.com/iStyleBulgaria" target="_blank">iStyle</a>!]]></target>
+      		</trans-unit>
+      		<trans-unit>
+	        	<source><![CDATA[<b>"Review a place"</b> starts at midday on 18.09.2012 and finishes at midday on 08.10.2012]]></source>
+	        	<target><![CDATA[<b>"Напиши ревю"</b> започва в 12 ч. на обяд на 18.09.2012 г. и свършва в 12 ч. на обяд на 08.10.2012 г.]]></target>
+	        </trans-unit>
+	        <trans-unit>
+	        	<source>To enter write a review for a place chosen by you in %s</source>
+	        	<target>За да участваш, трябва да напишеш мнение за избрано от теб място, в %s</target>
+	        </trans-unit>
+	        <trans-unit>
+	        	<source>There is no limit to the number of times you can participate in the game. Every review increases your chance of winning the Weekly Prize and the New iPad!</source>
+	        	<target>Няма ограничения в броя на участията. Всяко участие увеличава шанса ти да спечелиш седмичната награда и Новия iPad!</target>
+	        </trans-unit>
+	        <trans-unit>
+	        	<source><![CDATA[The Weekly Prize Draws will take place every Monday at 15:00 pm for the previous week and the final draw for the <b>New iPad</b> will take place at 15:00 on 08.10.2012]]></source>
+	        	<target><![CDATA[Томболите за седмичните награди ще се теглят всеки понеделник, в 15 часа, за предишната седмица, а томболата за <b>Новия iPad</b> ще се изтегли на 08.10.2012, в 15:00 часа.]]></target>
+	        </trans-unit>
+	        <trans-unit>
+	        	<source>You have to be a registered getlokal user to participate</source>
+	        	<target>За да участваш, трябва да си регистриран потребител в getlokal</target>
+	        </trans-unit>
+	        <trans-unit>
+	        	<source>Reviews must contain at least one sentence and to project personal opinion</source>
+	        	<target>Мненията трябва да съдържат поне едно изречение и да отразяват лично впечатление </target>
+	        </trans-unit>
+	        <trans-unit>
+	        	<source>Only places suggested by 17:00 on 16.09.2012 are valid entries for the Prize Draw on 19.09.2012</source>
+	        	<target>Томболата на 19.09.2012 важи за всички места, предложени до 17:00 ч. на 16.09.2012</target>
+	        </trans-unit>
+	        <trans-unit>
+	        	<source><![CDATA[All places approved during <b>"Add a Place"</b> between 03 and 18.09.2012 are automatically entered in the <b>New iPad</b> Prize Draw on 08.10.2012 and the <b>SUPRA</b> Prize Draw on 19.09.2012.]]></source>
+	        	<target><![CDATA[Само места, одобрени за участие в играта <b>"Добави място"</b>, за периода 03 – 18.09.2012 участват автоматично в томболата за <b>Новия iPad</b>, която ще се тегли на 08.10.2012 и в томболата за кецове <b>SUPRA</b> от <a href="/bg/sofia/blok_shop_7021393" target="_blank">BLOK Shop</a> на 19.09.2012.]]></target>
+	        </trans-unit>
+	        <trans-unit>
+	        	<source>Winners will be notified by email and on our %s page</source>
+	        	<target>Печелившите ще се известяват по имейл и в страницата ни във %s</target>
+      		</trans-unit>
+      		<trans-unit>
+	        	<source>Search in getlokal</source>
+	        	<target>Търси в getlokal</target>
+      		</trans-unit>
+      		<trans-unit>
+	        	<source>Start here</source>
+	        	<target>Започни тук</target>
+      		</trans-unit>
+      		<trans-unit>
+	        	<source>Win the New iPad</source>
+	        	<target>Спечели Новия iPad</target>
+      		</trans-unit>
+      		<trans-unit>
+      			<source><![CDATA[Hi there,<br /><br />The big moment has come – one of you will win the New iPad! We gathered all participants from 03.09 to 08.10 and the winner is……… %s]]></source>
+      			<target><![CDATA[Здравейте, фенове!<br /><br />Настъпи дългоочакваният момент, в който един от вас ще спечели Новия iPad! Събрахме всички участници в игрите от 03.09 до днес, 08.10 и победителят е..... %s]]></target>
+      		</trans-unit>
+      		<trans-unit>
+      			<source>Maq Vangelova</source>
+	        	<target>Мая Вангелова</target>
+      		</trans-unit>
+      		<trans-unit>
+	        	<source><![CDATA[Congratulations Maq! <br />Thank you all for playing! Please make sure you check out for our next games here and in %s]]></source>
+	        	<target><![CDATA[Честито на Мая! <br />Благодарим на всички за участието ☺ Следете редовно за новите ни игри както на сайта, така и във %s]]></target>
+      		</trans-unit>
+      		<trans-unit>
+      			<source>You can watch our previous weeks draws %s</source>
+	        	<target>Тегленето на предишните томболи, можете да видите %s</target>
+      		</trans-unit>
+      		<trans-unit>
+      			<source>here</source>
+	        	<target>тук</target>
+      		</trans-unit>
+		</body>
+	</file>
+</xliff>

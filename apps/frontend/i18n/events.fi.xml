@@ -1,0 +1,489 @@
+<?xml version="1.0" ?>
+<xliff version="1.0">
+    <file orginal="global" source-language="en_EN" datatype="plaintext">
+        <body>
+            <trans-unit>
+                <source>There are no upcoming events</source>
+                <target>Ei tulevia tapahtumia.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Create a New Event</source>
+                <target>Luo uusi tapahtuma</target>
+            </trans-unit>
+            <trans-unit>
+                <source>New Event</source>
+                <target>Uusi tapahtuma</target>
+            </trans-unit>
+            <trans-unit>
+                <source>in</source>
+                <target> </target>
+            </trans-unit>
+            <trans-unit>
+                <source>by</source>
+                <target>lta</target>
+            </trans-unit>
+            <trans-unit>
+                <source>from %day% to %endtime%</source>
+                <target>sta %day% ?? %endtime%</target>
+            </trans-unit>
+            <trans-unit>
+                <source>from %startdaytime% to %enddatetime%</source>
+                <target>sta %startdaytime% ?? %enddatetime%</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Edit Event</source>
+                <target>Muokkaa tapahtumaa</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Edit event "%s"</source>
+                <target>Muokkaa tapahtumaa "%s"</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Event "%s"</source>
+                <target>Tapahtuma "%s"</target>
+            </trans-unit>
+            <trans-unit>
+                <source>When</source>
+                <target>Milloin</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Where</source>
+                <target>Missä</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Edit Event</source>
+                <target>Muokkaa Tapahtumaa</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Will Attend</source>
+                <target>Osallistuu</target>
+            </trans-unit>
+            <trans-unit>
+                <source>No confirmed guests yet</source>
+                <target>Ei vahvistaneita osallistujia</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Invite</source>
+                <target>Kutsu</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Might attend</source>
+                <target>Ehkä osallistuu</target>
+            </trans-unit>
+            <trans-unit>
+                <source>None of the invitees have declined yet</source>
+                <target>Kukaan kutsutuista ei ole vielä kieltäytynyt</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Won't Attend</source>
+                <target>Ei osallistu</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Attending</source>
+                <target>Osallistuu</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Awaiting reply from</source>
+                <target>Odottaa vastausta</target>
+            </trans-unit>
+            <trans-unit>
+                <source>None of the invitees have responded</source>
+                <target>Kukaan kutsutuista ei ole vastannut</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Nobody</source>
+                <target>Kukaan</target>
+            </trans-unit>
+            <trans-unit>
+                <source>created by</source>
+                <target>Luotu</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Your answer</source>
+                <target>Vastauksesi</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Past Events</source>
+                <target>Menneet</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Events</source>
+                <target>Tapahtumat</target>
+            </trans-unit>
+            <trans-unit>
+                <source>There are no past events</source>
+                <target>Ei aikaisempia tapahtumia</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The event start date must be before the end date</source>
+                <target>Tapahtuman alkamispäivän pitää olla enne loppumispäivää</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The user is invited</source>
+                <target>Käyttäjä on kutsuttu</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Invite to event &quot;%1%&quot;</source>
+                <target>Kutsu tapahtumaan &quot;%1%&quot;</target>
+            </trans-unit>
+            <trans-unit>
+                <source>List of sent friend requests</source>
+                <target>Lähetetyt kaveripyynnöt</target>
+            </trans-unit>
+            <trans-unit>
+                <source>No sent friend requests</source>
+                <target>Ei lähetettyjä kaveripyyntöjä</target>
+            </trans-unit>
+            <trans-unit>
+                <source>sent %1% ago</source>
+                <target>lähetetty %1% sitten</target>
+            </trans-unit>
+            <trans-unit>
+                <source>to</source>
+                <target>lle</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Future Events</source>
+                <target>Tulevat</target>
+            </trans-unit>
+            <trans-unit>
+                <source>invited you to</source>
+                <target>kutsui sinut</target>
+            </trans-unit>
+            <!-- NEW -->
+            <trans-unit>
+                <source>No results found</source>
+                <target>Yhtään hakua ei löytynyt.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>List of events' invitations</source>
+                <target>Tapahtumakutsut</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Event was submitted successfully. It will be published after approval by a moderator.</source>
+                <target>Tapahtuma on luotu onnistuneesti. Tapahtuma julkaistaan sivuston ylläpitäjän hyväksynnän jälkeen.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Event was submitted successfully.</source>
+                <target>Tapahtuma on luotu onnistuneesti.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>%s user was invited.</source>
+                <target>käyttäjä on kutsuttu.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>%s users were invited.</source>
+                <target>%s käyttäjät on kutsuttu.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>This user (%s) was already invited.</source>
+                <target>Käyttäjä (%s) on jo kutsuttu.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>These users (%s) were already invited.</source>
+                <target>Nämä käyttäjät (%s) on jo kutsuttu.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>My Events</source>
+                <target>Omat Tapahtumat</target>
+            </trans-unit>
+            <trans-unit>
+                <source>%s invited you to %s</source>
+                <target>%s kutsui sinut %s</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Free</source>
+                <target>Vapaa</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Up to 10 BGN</source>
+                <target>10 BGN asti</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Up to 50 BGN</source>
+                <target>50 BGN asti</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Up to 100 BGN</source>
+                <target>100 BGN asti</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Over 100 BGN</source>
+                <target>Yli 100 BGN</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Choose...</source>
+                <target>Valitse...</target>
+            </trans-unit>
+            <trans-unit>
+                <source>More Info</source>
+                <target>Lisätietoa</target>
+            </trans-unit>
+            <trans-unit>
+                <source>More</source>
+                <target>Lisää</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Buy Now</source>
+                <target>Osta Nyt</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Add the venue for your event. If you don't know the venue, just add the town/city!</source>
+                <target>Lisää paikka tapahtumallesi. Jos sinulla ei ole tapahtumapaikkaa, lisää vain kaupunki!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Add a link to a website with more information about this event!</source>
+                <target>Lisää linkki verkkosivustolle, josta saa lisäinfoa tapahtumasta!!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Add a link to a website with information on how to buy a ticket, book a place or register for this event!</source>
+                <target>Lisää linkki verkkosivustolle, josta voit saat tietoa kuinka ostaa lipun, varata paikan tai osallistua tapahtumaan!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Events %p %s</source>
+                <target>Tapahtumat %p %s</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Add Event</source>
+                <target>Lisää Tapahtuma</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Add my Company</source>
+                <target>Lisää Yritykseni</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Events %i %l - %c</source>
+                <target>Tapahtumat %i %l - %c</target>
+            </trans-unit>
+            <trans-unit>
+                <source>%s Events</source>
+                <target>Tapahtumat - %s</target>
+            </trans-unit>
+            <trans-unit>
+                <source>We couldn't find a venue beginning with %s, please enter a different name or suggest a venue!</source>
+                <target>Emme löytäneet paikkaa %s. ole hyvä ja kokeile toista nimeä tai ehdota toista paikkaa!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>suggest a venue</source>
+                <target>Ehdota paikkaa</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Past Events %p %s</source>
+                <target>Aikaisemmat Tapahtumat %p %s</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Past Events %i %e - %c</source>
+                <target>Aikaisemmat Tapahtumat %i %e - %c</target>
+            </trans-unit>
+            <trans-unit>
+                <source>%s Past Events</source>
+                <target>Aikaisemmat Tapahtumat- %s</target>
+            </trans-unit>
+            <trans-unit>
+                <source>See All Past Events in Finland</source>
+                <target>Kaikki Aikaisemmat Tapahtumat Suomessa</target>
+            </trans-unit>
+            <trans-unit>
+                <source>All Past Events</source>
+                <target>Kaikki Aikaisemmat Tapahtumat</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Past Events in %s</source>
+                <target>Aikaisemmat Tapahtumat kohteessa %s</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Past Events in %s - %s</source>
+                <target>Aikaisemmat Tapahtumat kohteessa %s - %s</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Events in %s</source>
+                <target>Tapahtumat kohteessa %s</target>
+            </trans-unit>
+            <trans-unit>
+                <source>All Events</source>
+                <target>Kaikki Tapahtumat</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Events with Tickets in %s</source>
+                <target>Tapahtumat ja Liput kohteessa %s</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Add Event</source>
+                <target>Lisää Tapahtuma</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Events in %s - %s</source>
+                <target>Tapahtumat kohteessa%s - %s</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Location</source>
+                <target>Sijainti</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Date</source>
+                <target>Päivämäärä</target>
+            </trans-unit>
+            <trans-unit>
+                <source>See More Events</source>
+                <target>Katso Tapahtumat</target>
+            </trans-unit>
+            <trans-unit>
+                <source>All categories</source>
+                <target>Kaikki kategoriat</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The event was not saved. Please fill in all mandatory fields.</source>
+                <target>Tapahtuma ei tallentunut. Ole hyvä ja täytä tarvittavat kentät.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The event title and terms are mandatory for at least one of the two language versions.</source>
+                <target>Tapahtuman otsikko ja ehdot ovat pakollisia ainakin yhdellä kieliversiolla.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>There are no events</source>
+                <target>Ei tapahtumia</target>
+            </trans-unit>
+            <!-- NEW -->
+            <trans-unit>
+                <source>This event is created by</source>
+                <target>Tämän tapahtuman on luonut</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Follow</source>
+                <target>Seuraa</target>
+            </trans-unit>
+            <trans-unit>
+                <source>More events from</source>
+                <target>Lisää tapahtumia</target>
+            </trans-unit>
+            <trans-unit>
+                <source>By Author</source>
+                <target>Tekijältä</target>
+            </trans-unit>
+            <trans-unit>
+                <source>By Attendees</source>
+                <target>Osallistujilta</target>
+            </trans-unit>
+            <trans-unit>
+                <source>RECOMMENDATIONS FOR EVENTS IN %s</source>
+                <target>Tapahtumasuosituksia kohteessa %s</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Incoming Events</source>
+                <target>Tulevat tapahtumat</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Tickets Available</source>
+                <target>Lippuja Saatavilla</target>
+            </trans-unit>
+            <trans-unit>
+                <source>PLACES NEARBY</source>
+                <target>Läheiset Paikat</target>
+            </trans-unit>
+            <trans-unit>
+                <source>You Can Also Visit</source>
+                <target>Voit Myös Vierailla</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Similar Events</source>
+                <target>Samankaltaiset Tapahtumat</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Attended Events</source>
+                <target>On Osallistunut Aiemmin Tapahtumiin</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Previous Day</source>
+                <target>Edellinen Päivä</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Next Day</source>
+                <target>Seuraava Päivä</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Sorry, we don't have any events just yet. Please help us by posting the events you know about and sharing them with us. Thank you!</source>
+                <target>Meillä ei ole tapahtumia juuri nyt. Ole hyvä ja postaa uusia tapahtumia ja jaa ne meidän kanssa!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Photos from past events</source>
+                <target>Valokuvia aikaisemmista tapahtumista</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Select Category</source>
+                <target>Valitse kategoria</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Select category</source>
+                <target>Valitse kategoria</target>
+            </trans-unit>
+            <trans-unit>
+                <source>From</source>
+                <target>Mistä</target>
+            </trans-unit>
+            <trans-unit>
+                <source>To</source>
+                <target>Mihin</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Select Time</source>
+                <target>Valitse Aika</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Will Аttend</source>
+                <target>Aikoo osallistua</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Calendar</source>
+                <target>Kalenteri</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Today's events</source>
+                <target>Tänään</target>
+            </trans-unit>
+
+            <trans-unit>
+                <source>Today</source>
+                <target>Tänään</target>
+            </trans-unit>
+
+
+            <!-- NEW DESIGN -->
+
+
+
+            <trans-unit>
+                <source>Choose to see</source>
+                <target>Valitse katsoakses</target>
+            </trans-unit>
+            
+
+            <trans-unit>
+                <source>Recommended Places</source>
+                <target>Suositeltuja paikkoja</target>
+            </trans-unit>
+
+            <trans-unit>
+                <source>Events in %s</source>
+                <target>Tapahtumia kohteessa %s</target>
+            </trans-unit>
+
+            <trans-unit>
+                <source>Share your review on Facebook</source>
+                <target>Jaa arviosi Facebookissa</target>
+            </trans-unit>
+
+
+            <trans-unit>
+                <source>Buy Now</source>
+                <target>Osta Nyt</target>
+            </trans-unit>
+
+            <trans-unit>
+                <source>uploaded by: </source>
+                <target>Ladannut: </target>
+            </trans-unit>
+
+
+        </body>
+    </file>
+</xliff>

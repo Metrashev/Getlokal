@@ -1,0 +1,107 @@
+<?xml version="1.0" ?>
+<xliff version="1.0">
+    <file orginal="global" source-language="en_EN" datatype="plaintext">
+        <body>
+            <trans-unit>
+                <source>Create List</source>
+                <target>Създай списък</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Edit List</source>
+                <target>Редактирай списък</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Add Comment</source>
+                <target>Добави коментар</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The list Title and Description are required for at least one of the two language versions.</source>
+                <target>Името и описанието на списъка са задължителни за поне една от двете езикови версии</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The list was not saved. Please fill in all required fields.</source>
+                <target>Списъкът не беше запазен. Моля, попълни всички задължителни полета.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Click to add places to your list!</source>
+                <target>Кликни, за да добавиш място към твоя списък!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Click to add places to this list!</source>
+                <target>Кликни, за да добавиш място към този списък!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>[0]No places were added|[1]and one more place|(1,+Inf]and %count% more places</source>
+                <target>[0]Няма добавени места|[1]и още едно място|(1,+Inf]и още %count% места</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Name this list...</source>
+                <target>Дай име на този списък...</target>
+            </trans-unit>
+            <trans-unit>
+                <source>What is this list about...</source>
+                <target>Кажи за какво е твоя списък...</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Name in English</source>
+                <target>Име на английски</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Description in English</source>
+                <target>Описание на английски</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Back to 'Lists'</source>
+                <target>Обратно към 'Списъци'</target>
+            </trans-unit>
+            <trans-unit>
+                <source>This list is created by</source>
+                <target>Този списък е създаден от</target>
+            </trans-unit>
+            <trans-unit>
+                <source>More lists from</source>
+                <target>Още списъци от</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Next</source>
+                <target>Продължи</target>
+            </trans-unit>
+            <trans-unit>
+                <source><![CDATA[[0]<span id="spanPlaceCount">0</span> <br />places|[1]<span id="spanPlaceCount">1</span> <br />place|(1,+Inf]<span id="spanPlaceCount">%count%</span> <br />places]]></source>
+                <target><![CDATA[[0]<span id="spanPlaceCount">0</span> <br />места|[1]<span id="spanPlaceCount">1</span> <br />място|(1,+Inf]<span id="spanPlaceCount">%count%</span> <br />места]]></target>
+            </trans-unit>
+            <trans-unit>
+                <source><![CDATA[[0]0 places|[1]1 place|(1,+Inf]%count% places]]></source>
+                <target><![CDATA[[0]0 места|[1]1 място|(1,+Inf]%count% места]]></target>
+            </trans-unit>
+            <trans-unit>
+                <source>Create a List Now</source>
+                <target>Създай нов списък</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Comments About This List</source>
+                <target>Коментари за този списък</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Latest episode of Getweekend</source>
+                <target>Най-новият епизод на getWeekend</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Add to List</source>
+                <target>Добави към списък</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Choose from Current Lists</source>
+                <target>Добави към съществуващ списък</target>
+            </trans-unit>
+            <trans-unit>
+                <source><![CDATA[Add to <br/>List]]></source>
+                <target><![CDATA[Добави към <br/>списък]]></target>
+            </trans-unit>
+            <trans-unit>
+                <source>Add to New List</source>
+                <target>Добави към нов списък</target>
+            </trans-unit>
+        </body>
+    </file>	 
+</xliff>

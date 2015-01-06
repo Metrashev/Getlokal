@@ -1,0 +1,10 @@
+Create:
+  is_secure: true
+Edit:
+  is_secure: true
+Delete:
+  is_secure: true
+AddPageToList:
+  is_secure: true
+DelPageFromList:
+  is_secure: true

@@ -1,0 +1,91 @@
+<?xml version="1.0" ?>
+<xliff version="1.0">
+    <file orginal="global" source-language="en_EN" datatype="plaintext">
+        <body>
+            <trans-unit>
+                <source>Create new account</source>
+                <target>Registrujte nalog</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Account Activation</source>
+                <target>Aktivacija naloga</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Resend activation email</source>
+                <target>Pošaljite ponovo aktivacioni email</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Forgotten Password</source>
+                <target>Zaboravljena lozinka</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Offers</source>
+                <target>Ponude</target>
+            </trans-unit>
+            <trans-unit>
+                <source>%s in %s</source>
+                <target>%s u %s</target>
+            </trans-unit>
+            <trans-unit>
+                <source>New Offer</source>
+                <target>Nova ponuda</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Going Out, Leisure, Health and Beauty, Shopping</source>
+                <target>Izlasci, Slobodno vreme, Lepota i zdravlje, Šoping</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Communication Settings</source>
+                <target>Podešavanje komunikacija</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Select a classification</source>
+                <target>Odaberite delatnost</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Add Company</source>
+                <target>Upišite firmu</target>
+            </trans-unit>
+            <trans-unit>
+                <source>%s in getlokal - addresses, telephones, working hours and user reviews for %s in %s, %s</source>
+                <target>%s u getlokal  - adrese, telefoni, radna vremena i preporuke korisnika za %s u %s, %s</target>
+            </trans-unit>
+            <trans-unit>
+                <source>%s in getlokal - addresses, telephones, working hours and user reviews for %s in %s</source>
+                <target>%s u getlokal  - adrese, telefoni, radna vremena i preporuke korisnika za %s u %s</target>
+            </trans-unit>
+            <trans-unit>
+                <source>%s in %s - information in getlokal: see address, telephone, working hours, photos and user reviews for %s, %s</source>
+                <target>%s u %s - informacije u getlokal:pronađite adresu, telefon, radno vreme, fotografije i preporuke korisnika za %s, %s.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>%s, %s - reviews and ratings from customers</source>
+                <target>%s, %s - preporuke i ocene korisnika</target>
+            </trans-unit>
+            <trans-unit>
+                <source>%s, %s - detailed information</source>
+                <target>%s, %s - detaljne informacije</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Find up-to-date reviews, comments and ratings of customer for %s in %s. Add your own review!</source>
+                <target>Pronađite aktuelne preporuke, komentare i ocene korisnika za %s u %s. Napišite svoju preporuku!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>%s - getlokal user</source>
+                <target>%s - getlokal korisnik</target>
+            </trans-unit>
+            <trans-unit>
+                <source>See information for %s and all their reviews in getlokal!</source>
+                <target>Informišite se o %s i preporukama napisanim za njih na getlokal!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Followers</source>
+                <target>Pratioci</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Following</source>
+                <target>Prate</target>
+            </trans-unit>
+        </body>
+    </file>
+</xliff>

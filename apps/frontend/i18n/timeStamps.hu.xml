@@ -1,0 +1,59 @@
+<?xml version="1.0" ?>
+<xliff version="1.0">
+    <file orginal="global" source-language="en_EN" datatype="plaintext">
+        <body>
+            <trans-unit>
+                <source>a few seconds ago</source>
+                <target>pár másodperccel ezelott</target>
+            </trans-unit>
+            <trans-unit>
+                <source>%s min ago</source>
+                <target> %s perccel ezelott</target>
+            </trans-unit>
+            <trans-unit>
+                <source>[1]1 hour ago|(1,+Inf]%count% hours ago</source>
+                <target>[1]1 órával ezelott|(1,+Inf] %count% órával ezelott</target>
+            </trans-unit>
+            <trans-unit>
+                <source>[1]1 munite ago|(1,+Inf]%count% munites ago</source>
+                <target>[1]1 perccel ezelott|(1,+Inf]%count% perccel ezelott</target>
+            </trans-unit>
+            <trans-unit>
+                <source>%sh ago</source>
+                <target>%s órával ezelott</target>
+            </trans-unit>
+            <trans-unit>
+                <source>%s days ago</source>
+                <target>%s nappal ezelott</target>
+            </trans-unit>
+            <trans-unit>
+                <source>[1]1 day ago|(1,+Inf]%count% days ago</source>
+                <target>[1]több mint 1 nappal ezelott|(1,+Inf] %count% nappal ezelott</target>
+            </trans-unit>     
+            <trans-unit>
+                <source>over %s week ago</source>
+                <target>több mint %s egy héttel ezelott</target>
+            </trans-unit>
+            <trans-unit>
+                <source>over %s weeks ago</source>
+                <target>több mint %s héttel ezelott</target>
+            </trans-unit>
+            <trans-unit>
+                <source>over %s month ago</source>
+                <target>tobb mint %s egy hónappal ezelott</target>
+            </trans-unit>
+            <trans-unit>
+                <source>over %s months ago</source>
+                <target>több mint %s hónappal  ezelott</target>
+            </trans-unit>
+            <trans-unit>
+                <source>over %s year ago</source>
+                <target>több mint %s egy éve</target>
+            </trans-unit>
+            <trans-unit>
+                <source>over %s years ago</source>
+                <target>több mint  %s évvel ezelott</target>
+            </trans-unit>       
+        </body>
+    </file>
+</xliff>

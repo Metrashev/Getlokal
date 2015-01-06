@@ -1,0 +1,24 @@
+# You can find more information about this file on the symfony website:
+# http://www.symfony-project.org/reference/1_4/en/13-View
+
+default:
+  http_metas:
+    content-type: text/html
+
+  metas:
+    #title:        symfony project
+    #description:  symfony project
+    #keywords:     symfony, project
+    #language:     en
+    #robots:       index, follow
+
+  # stylesheets:    [main.css,fontIcons/css/fontello.css, /fancybox/jquery.fancybox-1.3.4.css, ezmark.css, static_pages.css, offersSlider.css, offersSlider.css]
+  stylesheets:    [font-awesome.min.css, bootstrap.css, style.css, settings.css, style1.css, /images/favicon.ico, prettyPhoto, component]
+  javascripts:    []
+
+  # javascripts:
+  #   - jquery.js
+  #   - jquery-ui.js
+
+  has_layout:     true
+  layout:         layout

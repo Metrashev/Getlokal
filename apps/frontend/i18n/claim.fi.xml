@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<xliff version="1.0">
+    <file orginal="global" source-language="en_EN" datatype="plaintext">
+        <body>
+            <trans-unit>
+                <source>Your Claim request for %s, %s is currently pending.</source>
+                <target>Pyyntösi paikkaan %s, %s on parhaillaan käsiteltävänä.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>After its approval by getlokal, you will be able to upload photos, working hours, description of %s, as well as to respond to user reviews.</source>
+                <target>Getlokalin hyväksynnän jälkeen voit lisätä kuvia, aukioloaikoja, tietoja %s, ja pääset myös vastaamaan käyttäjien kommentteihin.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>If you have any questions, feel free to %s.</source>
+                <target>Ota yhteyttä, vastaamme mielellämme kysymyksiisi%s</target>
+            </trans-unit>
+            <trans-unit>
+                <source>contact us</source>
+                <target>ota yhteyttä</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Your Place Claim for %s, %s  has already been rejected and you have been notified by email.</source>
+                <target>Paikkapyyntösi %s, %s on valitettavasti hylätty, sinulle on lähetetty tiedot sähköpostitse.</target>
+            </trans-unit>
+        </body>
+    </file>
+</xliff>

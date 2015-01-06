@@ -1,0 +1,107 @@
+<?xml version="1.0" ?>
+<xliff version="1.0">
+    <file orginal="global" source-language="en_EN" datatype="plaintext">
+        <body>
+            <trans-unit>
+                <source>Create List</source>
+                <target>Сreează o listă</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Edit List</source>
+                <target>Editează o listă</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Add Comment</source>
+                <target>Adaugă comentariu</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The list Title and Description are required for at least one of the two language versions.</source>
+                <target>Titlul și descrierea listei sunt necesare măcar pentru una din cele 2 versiuni de limbă.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The list was not saved. Please fill in all required fields.</source>
+                <target>Lista nu a fost salvată. Te rugăm să completezi toate câmpurile necesare.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Click to add places to your list!</source>
+                <target>Scrie primele litere din numele locului și apoi alege-l din listă!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Click to add places to this list!</source>
+                <target>Click pentru a adăuga locuri în această listă!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>[0]No places were added|[1]and one more place|(1,+Inf]and %count% more places</source>
+                <target>[0]Nu a fost adăugat niciun loc|[1]și încă un loc|(1,+Inf]și %count% mai multe locuri</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Name this list...</source>
+                <target>Denumește această listă...</target>
+            </trans-unit>
+            <trans-unit>
+                <source>What is this list about...</source>
+                <target>Descrie această listă...</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Name in English</source>
+                <target>Numele în engleză</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Description in English</source>
+                <target>Descriere în engleză</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Back to 'Lists'</source>Back to list
+                <target>Înapoi la Liste</target>
+            </trans-unit>
+            <trans-unit>
+                <source>This list is created by</source>
+                <target>Această listă este creată de</target>
+            </trans-unit>
+            <trans-unit>
+                <source>More lists from</source>
+                <target>Mai multe liste de la</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Next</source>
+                <target>Next</target>
+            </trans-unit>
+            <trans-unit>
+                <source><![CDATA[[0]<span id="spanPlaceCount">0 <br />places|[1]<span id="spanPlaceCount">1 <br />place|(1,+Inf]<span id="spanPlaceCount">%count% <br />places]]></source>
+                <target><![CDATA[[0]<span id="spanPlaceCount">0 <br />locuri|[1]<span id="spanPlaceCount">1 <br />loc|(1,+Inf]<span id="spanPlaceCount">%count% <br />locuri]]></target>
+            </trans-unit>
+            <trans-unit>
+                <source><![CDATA[[0]0 places|[1]1 place|(1,+Inf]%count% places]]></source>
+                <target><![CDATA[[0]0 locuri|[1]1 loc|(1,+Inf]%count% locuri]]></target>
+            </trans-unit>
+            <trans-unit>
+                <source>Create a List Now</source>
+                <target>Creează o lista nouă</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Comments About This List</source>
+                <target>Comentarii despre această listă</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Latest episode of Getweekend</source>
+                <target>Ultimul episod din Getweekend</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Add to List</source>
+                <target>Adaugă la listă</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Choose from Current Lists</source>
+                <target>Alege din listele existente</target>
+            </trans-unit>
+            <trans-unit>
+                <source><![CDATA[Add to <br/>List]]></source>
+                <target><![CDATA[Adaugă la <br/>listă]]></target>
+            </trans-unit>
+            <trans-unit>
+                <source>Add to New List</source>
+                <target>Adaugă la o listă nouă</target>
+            </trans-unit>
+        </body>
+    </file>	 
+</xliff>

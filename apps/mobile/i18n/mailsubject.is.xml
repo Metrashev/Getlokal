@@ -1,0 +1,51 @@
+<?xml version="1.0" ?>
+<xliff version="1.0">
+	<file original="global" source-language="en" datatype="plaintext">
+		<body>
+      		<trans-unit id="1">
+	        	<source>Place Claim in Getlokal</source>
+	       		<target>Staðarheimt í Getlokal</target>
+      		</trans-unit>
+      		<trans-unit id="2">
+	        	<source>Welcome to getlokal</source>
+	       		<target>Velkomin á getlokal</target>
+      		</trans-unit>
+      		<trans-unit id="3">
+	        	<source>Request through getlokal</source>
+	       		<target>Biðja um í gegnum getlokal</target>
+      		</trans-unit>
+      		<trans-unit id="4">
+	        	<source>Claim Request</source>
+	       		<target>Beiðni um heimt</target>
+      		</trans-unit>
+      		<trans-unit id="5">
+	        	<source>Forgotten Password</source>
+	       		<target>Gleymt lykilorð</target>
+      		</trans-unit>
+      		<trans-unit id="6">
+	        	<source>Getlokal Account Activation</source>
+	       		<target>Virkja aðgang Getlokal</target>
+      		</trans-unit>
+      		<trans-unit id="7">
+	        	<source>Change Email Confirmation</source>
+	       		<target>Staðfesting á breyttu netfangi</target>
+      		</trans-unit>
+      		<trans-unit id="8">
+	        	<source>Forgotten Place Admin Password</source>
+	       		<target>Gleymt lykilorð fyrir stjórn staðar</target>
+      		</trans-unit>
+      		<trans-unit id="9">
+	        	<source>Forgotten Username</source>
+	       		<target>Gleymt notendanafn</target>
+      		</trans-unit>
+      		<trans-unit id="10">
+	        	<source>Approved Place Claim in Getlokal</source>
+	       		<target>Samþykkt staðarheimt í Getlokal</target>
+      		</trans-unit>
+            <trans-unit id="11">
+                <source>Rejected Place Claim in Getlokal</source>
+                <target>Höfnuð staðarheimt í Getlokal</target>
+            </trans-unit>
+		</body>
+	</file>
+</xliff>

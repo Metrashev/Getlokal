@@ -1,0 +1,401 @@
+<?xml version="1.0" ?>
+<xliff version="1.0">
+    <file orginal="global" source-language="en_EN" datatype="plaintext">
+        <body>
+            <trans-unit>
+                <source>Country</source>
+                <target>Zemlja</target>
+            </trans-unit>
+            <trans-unit>
+                <source>User with same %s e-mail address is already registered!</source>
+                <target>Korisnik sa istom %s e-mail adresom je već registrovan!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Hi</source>
+                <target>Ćao</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Hello</source>
+                <target>Zdravo</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Profile</source>
+                <target>Profil</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Dashboard</source>
+                <target>Komandna tabla</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Log Out</source>
+                <target>Odjavi se</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Sign in</source>
+                <target>Prijavi se</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Forgot Password?</source>
+                <target>Zaboravljena lozinka?</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Home</source>
+                <target>Početna strana</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Send</source>
+                <target>Pošalji</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Email</source>
+                <target>Email</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Password</source>
+                <target>Lozinka</target>
+            </trans-unit>
+            <trans-unit>
+                <source>I agree with the</source>
+                <target>Slažem se sa</target>
+            </trans-unit>
+            <trans-unit>
+                <source>I agree with %s</source>
+                <target>Slažem se sa %s</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Name</source>
+                <target>Ime</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Surname</source>
+                <target>Prezime</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Gender</source>
+                <target>Pol</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Location</source>
+                <target>Lokacija</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Location</source>
+                <target>Lokacija</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Write a few words about yourself –interests, hobbies, what you like to write about. The words have to be comma separated, e.g. 'restaurants, bars, theatre, bungee jumping, travelling'</source>
+                <target>Napiši nekoliko riječi o sebi, svojim interesovanjima, hobijima i onome o čemu voliš da pišeš. Riječi moraju biti razdvojene zarezima, npr. 'restorani, barovi, pozorišta, bandži džamping, putovanja' </target>
+            </trans-unit>
+            <trans-unit>
+                <source>I agree to receive messages from getlokal and/or their partners.</source>
+                <target>Potvrđujem saglasnost da primam poruke od getlokal i/ili njihovih partnera.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Registration</source>
+                <target>Registracija korisnika</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Password Change</source>
+                <target>Promena lozinke</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Invite a friend</source>
+                <target>Pozovi prijatelja</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Your friends</source>
+                <target>Tvoji prijatelji</target>
+            </trans-unit>
+            <trans-unit>
+                <source>[0]No reviews|[1]1 review|(1,+Inf]%count% reviews</source>
+                <target>[0]Nema preporuka|[1]1 preporuka|(1,+Inf]Broj preporuka: %count%</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Settings</source>
+                <target>Podešavanja</target>
+            </trans-unit>
+            <trans-unit>
+                <source>here</source>
+                <target>ovde</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Sign Up</source>
+                <target>Registruj se</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Illegal</source>
+                <target>Nezakonito</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Offensive</source>
+                <target>Uvredljivo</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Copyright</source>
+                <target>Autorska prava</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Incorrect</source>
+                <target>Netačno</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Email Address</source>
+                <target>Email adresa</target>
+            </trans-unit>
+            <trans-unit>
+                <source>My Places</source>
+                <target>Moja mjesta</target>
+            </trans-unit>
+            <trans-unit>
+                <source>View Profile</source>
+                <target>Pogledaj profil</target>
+            </trans-unit>
+            <trans-unit>
+                <source>is from</source>
+                <target>živi u</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Send me my Username</source>
+                <target>Pošalji mi moje korisničko ime</target>
+            </trans-unit>
+            <trans-unit>
+                <source>I want to receive newsletters</source>
+                <target>Želim da primam vijesti</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Login as %s</source>
+                <target>Prijavi se kao %s</target>
+            </trans-unit>
+            <trans-unit>
+                <source>contact us</source>
+                <target>kontaktiraj nas</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Policy for Use and Protection of the Information on the Getlokal Website</source>
+                <target>Politika korišćenja i zaštite podataka na getlokal sajtu</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Admin Status 'Rejected'</source>
+                <target>Admin status 'Odbijen'</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Admin Status 'Pending'</source>
+                <target>Admin status 'na čekanju'</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Admin Status 'Approved'</source>
+                <target>Admin status - "Odobren"</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Login as %s and Create an Event</source>
+                <target>Prijavi se kao %s i objavi događaj</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Login as %s and Create List</source>
+                <target>Prijavi se kao %s i napravite listu</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Login as %s and Edit an Event</source>
+                <target>Prijavi se kao %s i uredi događaj</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Login as %s and Edit List</source>
+                <target>Prijavi se kao %s i uredi listu</target>
+            </trans-unit>
+            <trans-unit>
+                <source>General Communication</source>
+                <target>Opšta komunikacija</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Community newsletters</source>
+                <target>Vesti u vezi zajednice</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Weekly newsletter</source>
+                <target>Nedeljne vijesti</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Business newsletters</source>
+                <target>Poslovne vijesti</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Games and promotions</source>
+                <target>Igre i promocije</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Send Your Invite via e-mail</source>
+                <target>Pozovi prijatelja putem e-maila</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Message</source>
+                <target>Poruka</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Via e-mail</source>
+                <target>Putem e-maila</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Via Gmail / Yahoo!</source>
+                <target>Putem Gmail / Yahoo!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Via Gmail or Yahoo Mail</source>
+                <target>Putem Gmail ili Yahoo!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Via Facebook</source>
+                <target>Putem Facebooka</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Invite a Friend</source>
+                <target>Pozovi prijatelja</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Invite Your Friends</source>
+                <target>Pozovi prijatelje</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Send Your Invite via Gmail or Yahoo!</source>
+                <target>Pošalji poziv putem Gmail ili Yahoo!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Back</source>
+                <target>Nazad</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Login</source>
+                <target>Prijavi se</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Send another invite?</source>
+                <target>Pošalji još jedan poziv</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Send Your Invite via Facebook</source>
+                <target>Pošalji poziv putem Facebooka</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Invite</source>
+                <target>Pozovi</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Your invite was sent successfully!</source>
+                <target>Vaš poziv je poslat uspešno!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The friend list is empty!</source>
+                <target>Lista prijatelja je prazna!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Your e-mail list is empty!</source>
+                <target>Vaša email lista je prazna!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Wrong e-mail address or/and password!</source>
+                <target>Pogrešna email adresa i/ili lozinka!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>You entered a wrong e-mail address format!</source>
+                <target>Email adresa je uneta u pogrešnom formatu!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Email Address</source>
+                <target>Email adresa</target>
+            </trans-unit>
+            <trans-unit>
+                <source>E-mail password</source>
+                <target>Email lozinka</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Email list</source>
+                <target>Email lista</target>
+            </trans-unit>
+
+            <trans-unit>
+                <source>Discover getlokal!</source>
+                <target>Istraži getlokal!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Join me on getlokal and discover what other people like you and I think about restaurants, pubs, cafes and other interesting places in their local area.</source>
+                <target>Pridruži mi se na getlokal.me i otkrij šta drugi ljudi popout tebe i mene misle o restoranima, kafićima i drugim interesantnim mestima u svom kraju.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>To join getlokal click on this link:</source>
+                <target>Da bi pristupili getlokal.me klikni na link:</target>
+            </trans-unit>
+
+            <trans-unit>
+                <source>Invited</source>
+                <target>Pozvani</target>
+            </trans-unit>
+            <trans-unit>
+                <source><![CDATA[Send Your Invite via <a href="?invite_choice=gmail" title="Gmail"><img src="/images/logos/gmail.png"></a> or <a href="?invite_choice=yahoo" title="Yahoo"><img src="/images/logos/yahoo.png"></a>]]></source>
+                <target><![CDATA[Pošaljite vaš poziv preko <a href="?invite_choice=gmail" title="Gmail"><img src="/images/logos/gmail.png"></a> ili <a href="?invite_choice=yahoo" title="Yahoo"><img src="/images/logos/yahoo.png"></a>]]></target>
+            </trans-unit>
+            <trans-unit>
+                <source><![CDATA[Send Your Invite via <img src="/images/logos/gmail.png"> or <img src="/images/logos/yahoo.png">]]></source>
+                <target><![CDATA[Pošaljite vaš poziv preko <img src="/images/logos/gmail.png"> ili <img src="/images/logos/yahoo.png">]]></target>
+            </trans-unit>
+            <trans-unit>
+                <source>Via Gmail or Yahoo</source>
+                <target>putem Gmail-a ili Yahoo-a</target>
+            </trans-unit>
+            <trans-unit>
+                <source><![CDATA[Send Your Invite via <img src="/images/gui/facebook.png">]]></source>
+                <target><![CDATA[Pošaljite vaš poziv preko <img src="/images/gui/facebook.png">]]></target>
+            </trans-unit>
+            <trans-unit>
+                <source>Via Facebook</source>
+                <target>putem Facebook-a</target>
+            </trans-unit>
+            <trans-unit>
+                <source>There are no reviews</source>
+                <target>Nema preporuka.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>You can use your</source>
+                <target>Možeš koristiti</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Facebook account to register</source>
+                <target>svoj Facebook nalog da se registriješ</target>
+            </trans-unit>
+            <trans-unit>
+                <source>in getlokal.com</source>
+                <target>na getlokal.me</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Facebook account to log in</source>
+                <target>svoj Facebook nalog da se prijaviš na</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Followers</source>
+                <target>Mene prate</target>
+            </trans-unit>
+
+            <trans-unit>
+                <source>Welcome to getlokal.com</source>
+                <target>Pozdrav od getlokal.me</target>
+            </trans-unit>
+
+
+            <trans-unit>
+                <source>Sign in via Facebook</source>
+                <target>Uloguj se preko facebook</target>
+            </trans-unit>
+            
+            <trans-unit>
+                <source>Congrats - you are our newest registered user. Now you can tell everyone about the great places only you know!</source>
+                <target>Čestitamo - ti si naš najnoviji registrirovani korisnik. Sada možeš preporučiti svima zanimljiva mjesta koja poznaješ!</target>
+            </trans-unit>
+            <trans-unit>
+                <source><![CDATA[<p class="part_one"><span class="greet">Congrats</span> you are our newest registered user.</p><p class="part_two"> Now you can tell everyone about the great places only you know!</p>]]></source>
+                <target><![CDATA[<p class="part_one"><span class="greet">Čestitamo</span> ti si naš najnoviji registrirovani korisnik.</p><p class="part_two"> Sada možeš preporučiti svima zanimljiva mjesta koja poznaješ!</p>]]></target>
+            </trans-unit>
+            <trans-unit>
+                <source><![CDATA[<p class="part_one"><span class="greet">Congrats</span> you are our newest registered user.</p><p class="part_two"> Now you can finish claiming your place and update the information about it!</p>]]></source>
+                <target><![CDATA[<p class="part_one"><span class="greet">Čestitamo.</span> Ti si naš najnoviji registrovani korisnik.</p><p class="part_two"> Sada možeš nastaviti proces preuzimanja profila i ažurirati ga.</p>]]></target>
+            </trans-unit>
+        </body>
+    </file>
+</xliff>

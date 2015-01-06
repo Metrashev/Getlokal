@@ -1,0 +1,172 @@
+<?xml version="1.0" ?>
+<xliff version="1.0">
+    <file orginal="global" source-language="en_EN" datatype="plaintext">
+        <body>
+            <trans-unit>
+                <source>Getlokal is the place where you meet your customers. Engage in a conversation with them – be notified whenever someone publishes a review about your place and post an official answer to them, upload photos, your contact details and business description! Improve your position in front of your competition and bring relevance to your online presence! What are the steps?</source>
+                <target>GetLokal е место каде ги запознавате Вашите клиенти. Воспоставувате разговор со нив, добивате нотификација кога некој ќе објави препорака за Вашето место на која можете да објавите официјален одговор, да објавите слики, контакт информации и опис на Вашиот бизнис. Подобрете ја Вашата позиција пред Вашата конкуренција и внесете значење на Вашето on-line присуство!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>%s on getlokal! If you are new @ %s you need to register first.</source>
+                <target>%s на GetLokal! Ако сте нови на %s треба најпрво да се регистрирате.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Find or add your place! %s, find your place and %s! If you can’t find it, %s or %s and we will do it for you. And then again - log in, find your place and %s!</source>
+                <target>Пронајдете го или додадете го Вашето место! %s, пронајдете го и %s! Ако не можете да го пронајдете, %s или %s и ние ќе го додадеме за Вас. Уште еднаш, најавете се, пронајдете го Вашето место и %s!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Fill in content! It’s free and easy! What are your benefits? Unlimited photo upload, place description in two languages and most importantly - you engage in a conversation with your customers!</source>
+                <target>Додадете содржина! Бесплатно е и лесно! Кои се бенефитите? Неограничен број на објавени слики, опис на местото на Англиски и Македонски. И најважно – се вклучувате во разговорот на Вашите клиенти!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Can’t get enough? After you get acquainted with your place profile, %s for more info about the businesslokal+ features.</source>
+                <target>Не ви е доволно? Откако добро ќе го запознаете Вашиот профил, %s за повеќе информации околу бенефитите на businesslokal+</target>
+            </trans-unit>
+            <trans-unit>
+                <source>let us know</source>
+                <target>контактирајте не</target>
+            </trans-unit>
+            <trans-unit>
+                <source>write to us</source>
+                <target>пишете ни</target>
+            </trans-unit>
+            <trans-unit>
+                <source>add it yourself</source>
+                <target>додадете го самите</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Log in</source>
+                <target>Најавете се</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Register</source>
+                <target>Регистрирајте се</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Start Here!</source>
+                <target>Започни тука!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Already Have an Account?</source>
+                <target>Веќе сте регистрирани?</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Login and Claim your place</source>
+                <target>Најавете се и станете администратор на Вашето место</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Need Help?</source>
+                <target>Ви треба помош?</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Contact us (we’ll answer as fast as we can)</source>
+                <target>Контактирајте не (ќе Ви одговориме најбрзо што можеме)</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Who are you?</source>
+                <target>Кои сте?</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Make it Official!</source>
+                <target>Направете го официјално!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Where are you?</source>
+                <target>Каде се наоѓате?</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Tell your story!</source>
+                <target>Кажете ја Вашата приказна!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Get visual!</source>
+                <target>Визуелизирајте!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Be available!</source>
+                <target>Бидете достапни!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Pay attention!</source>
+                <target>Обрнете внимание!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Are you liked?</source>
+                <target>Им се допаѓате ли на другите?</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The place name goes here! Choose the most appropriate classification among 200 and more!</source>
+                <target>Тука поставете го името на местото! Одберете ја најсоодветната класификација од 200-те дадени!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Put an official stamp that this is your business by claiming it!</source>
+                <target>Ставете официјален печат дека ова е Ваше место со станување негов администратор!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Write a short description – why is your place different, what is its history? Be creative!</source>
+                <target>Напишете краток опис – зошто ова место е различно од другите, која е неговата историја? Бидете креативни!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Show your place - post photos!</source>
+                <target>Покажете го Вашето место – објавете слики!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Set your working hours and the useful links!</source>
+                <target>Внесете работно време и објавете корисни линкови!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Get to know your customers and engage in conversations as an official representative of your company!</source>
+                <target>Запознајте ги Вашите клиенти и вклучете се во разговорот како официјален претставник на Вашиот бизнис!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>See what your customers appreciate most about your place!</source>
+                <target>Погледнете што Вашите клиенти најмногу почитуваат за Вашето место!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Your Business Profile</source>
+                <target>Вашиот бизнис профил</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Download the Guide for Managing Your Business Profile</source>
+                <target>Превземи упатство за менаџирање профил</target>
+            </trans-unit>
+            <trans-unit>
+                <source>claim it</source>
+                <target>станете негов администратор</target>
+            </trans-unit>
+      		
+            <trans-unit>
+                <source>Advertising in Skopje</source>
+                <target>Рекламирање во Скопје</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Skopje, Centar, Sv. Kliment Ohridski Blvd 53-1/3</source>
+                <target>Скопје, Centar, бул. Св. Климент Охридски 53-1/3</target>
+            </trans-unit>
+            <trans-unit>
+                <source>GetLokal is Macedonia's best site for reviews and recommendations. Here you can find information about restaurants, clubs, bars, shops, entertainment, art, etc. You can also write and share events, read our blog and get useful info from our newsletter. To explore and use all GetLokal functionalities you must be a register user. This gives you right to collect cool badges, upload place or profile photos and participate in various GetLokal games for great prizes.</source>
+                <target>GetLokal е најдобриот сајт во Македонија за мислења и препораки. Тука можете да најдете информации за ресторани, кафулиња, клубови, продавници, забава, итн. Исто така, можете да објавите и споделите настани, да го читате нашиот блог и да добивате корисни информации преку нашиот Newsletter. За да ги користите сите функционалности мора да сте регистриран корисник. Ова ви дава можност да собирате кул значки, да поставувате слики за профили и места и да учествувате во разни игри за одлични награди.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Professionals</source>
+                <target>Исполнува временски рок</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Meets Deadlines</source>
+                <target>Паркинг</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Street Parking</source>
+                <target>Погодно за деца</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Service</source>
+                <target>Услуга</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Location</source>
+                <target>Најдобра вредност</target>
+            </trans-unit>
+        </body>
+    </file>
+</xliff>

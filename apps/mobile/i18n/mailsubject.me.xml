@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" ?>
+<xliff version="1.0">
+    <file orginal="global" source-language="en_EN" datatype="plaintext">
+        <body>
+            <trans-unit>
+                <source>Place Claim in getlokal</source>
+                <target>Preuzimanje profila firme na getlokal</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Welcome to getlokal</source>
+                <target>Dobrodošli na getlokal</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Request through getlokal</source>
+                <target>Zahtev upućen preko getlokal</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Claim Request</source>
+                <target>Zahtev za preuzimanje profila</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Forgotten Password</source>
+                <target>Promjena lozinke</target>
+            </trans-unit>
+            <trans-unit>
+                <source>getlokal Account Activation</source>
+                <target>Aktivacija getlokal naloga</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Change Email Confirmation</source>
+                <target>Potvrda promene email adrese</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Forgotten Place Admin Password</source>
+                <target>Zaboravljena lozinka administracije profila firme</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Forgotten Username</source>
+                <target>Zaboravljeno korisničko ime</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Approved Place Claim in getlokal</source>
+                <target>Odobreno preuzimanje profila firme na getlokal</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Rejected Place Claim in getlokal</source>
+                <target>Odbijeno preuzimanje profila firme na getlokal</target>
+            </trans-unit>
+        </body>
+    </file>
+</xliff>

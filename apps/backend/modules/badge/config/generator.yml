@@ -1,0 +1,26 @@
+generator:
+  class: sfDoctrineGenerator
+  param:
+    model_class:           Badge
+    theme:                 admin
+    non_verbose_templates: true
+    with_show:             false
+    singular:              ~
+    plural:                ~
+    route_prefix:          badge
+    with_doctrine_route:   true
+    actions_base_class:    sfActions
+
+    config:
+      actions: ~
+      fields:  ~
+      list: 
+        display:        [ _thumb, name, is_active, is_visible, percent ]
+        object_actions:
+          requirements: { action: requirements }
+          _edit:   ~
+          _delete: ~
+      filter:  ~
+      form:    ~
+      edit:    ~
+      new:     ~

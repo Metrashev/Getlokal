@@ -1,0 +1,74 @@
+<?xml version="1.0" ?>
+<xliff version="1.0">
+    <file orginal="global" source-language="en_EN" datatype="plaintext">
+        <body>			
+            <trans-unit>
+                <source>Place Claim in getlokal</source>
+                <target>Zahtjev za administraciju mjesta/firme na getlokal</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Welcome to getlokal</source>
+                <target>Dobrodošli na getlokal</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Request through getlokal</source>
+                <target>Zahtjev za getlokal</target>
+            </trans-unit>  
+            <trans-unit>
+                <source>Claim Request</source>
+                <target>Zahtjev za administriranje mjesta/firme</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Forgotten Password</source>
+                <target>Zaboravljena lozinka</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Change Email Confirmation</source>
+                <target>Potvrdi promjenu e-maila</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Forgotten Place Admin Password</source>
+                <target>Zaboravljena lozinka za administratora mjesta/firme</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Forgotten Username</source>
+                <target>Zaboravljeno korisnièko ime</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Approved Place Claim in getlokal</source>
+                <target>Odobren zahtjev za administratora mjesta/firme</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Rejected Place Claim in getlokal</source>
+                <target>Odbijen zahtjev za administratora mjesta/firme</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Your Place Profile in getlokal</source>
+                <target>Profil Vašeg mjesta/firme na getlokalu</target>
+            </trans-unit>   
+            <trans-unit>
+                <source>Update Place Profile in getlokal</source>
+                <target>Ažurirajte profil mjesta/firme na getlokalu</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Approved Place on getlokal</source>
+                <target>Odobren predlog za mjesto/firmu za getlokalu</target>
+            </trans-unit> 
+            <trans-unit>
+                <source>Rejected Place on getlokal</source>
+                <target>Odbijen predlog za mjesto/firmu za getlokalu</target>
+            </trans-unit>
+            <trans-unit>
+                <source>A friend just invited you to join getlokal.rs!</source>
+                <target>Prijatelj te poziva da posjetiš getlokal.me!</target>
+            </trans-unit>	
+
+
+            <!-- NEW DESIGN -->
+            
+
+
+
+        </body>
+    </file>
+</xliff>

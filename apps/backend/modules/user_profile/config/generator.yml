@@ -1,0 +1,33 @@
+generator:
+  class: sfDoctrineGenerator
+  param:
+    model_class:           UserProfile
+    theme:                 admin
+    non_verbose_templates: true
+    with_show:             true
+    singular:              ~
+    plural:                ~
+    route_prefix:          user_profile
+    with_doctrine_route:   true
+    actions_base_class:    sfActions
+
+    config:
+      actions: ~
+      list:    
+        title:         User Management
+        display:       [_thumb, _is_active, first_name, last_name, email_address, gender, city_id, created_at, allow_contact, allow_newsletter, allow_b_cmc]
+        max_per_page:  10
+        sort:          [created_at, desc]
+        table_method:  getQueryForAdmin
+        object_actions:
+          stats:      { label: Tracking, action: stats }
+          disallowContact:      { label:Disallow Contact, action: disallowContact }
+          _edit:      ~
+          _delete:    ~
+          show:  ~ 
+      filter: 
+        class: backendUserFormFilter    
+      form:
+        class: backendUserForm
+      edit:    ~
+      new:     ~

@@ -1,0 +1,184 @@
+<?xml version="1.0" ?>
+<xliff version="1.0">
+  <file orginal="global" source-language="en_EN" datatype="plaintext">
+    <body>
+      <trans-unit>
+        <source><![CDATA[Welcome <span>%s</span>]]></source>
+        <target><![CDATA[Ćao <span>%s</span>]]></target>
+      </trans-unit>
+      <trans-unit>
+        <source>You usually go out in these types of places</source>
+        <target>Obicno izlaziš na ovakva mesta</target>
+      </trans-unit>
+      <trans-unit>
+        <source>So far, you’ve helped others with lokal information about</source>
+        <target>Broj tvojih preporuka je:</target>
+      </trans-unit>
+      <trans-unit>
+        <source>[1]1 place|(1,+Inf]%s places</source>
+        <target>[1]1|(1,+Inf]%s</target>
+      </trans-unit>
+      <trans-unit>
+        <source><![CDATA[Your lokal city is <span>%s</span>]]></source>
+        <target><![CDATA[Odaberi grad u kome se nalaze mesta koja želiš da preporučiš: <span>%s</span>]]></target>
+      </trans-unit>
+      <trans-unit>
+        <source>Change city</source>
+        <target>Promeni grad</target>
+      </trans-unit>
+      <trans-unit>
+        <source><![CDATA[feel free to modify the selection<br />to match your preference]]></source>
+        <target><![CDATA[<b>Šta želiš da preporučiš?</b><br/>Restoran, bar, kafić, pozorište, bioskop ili možda nešto drugo?<br/>Odaberi jednu od kategorija ispod!]]></target>
+      </trans-unit>
+      <trans-unit>
+        <source>SELECTED</source>
+        <target>ODABRANO</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Next step</source>
+        <target>Sledeći korak</target>
+      </trans-unit>
+      <trans-unit>
+        <source><![CDATA[[0]We found <span>%s</span> places on getlokal that match your search criteria.|[1]We found <span>1</span> place on getlokal that match your search criteria.|(1,+Inf]We found <span>%s</span> places on getlokal that match your search criteria.]]></source>
+        <target><![CDATA[[0]Pronašli smo <span>%s</span> mesta za koje možeš napisati preporuke u odabranim kategorijama.|[1]Pronašli smo <span>1</span> mesto za koje možeš napisati preporuke u odabranim kategorijama.|(1,+Inf] Pronašli smo <span>%s</span> mesta za koje možeš napisati preporuke u odabranim kategorijama.]]></target>
+     </trans-unit>
+      <trans-unit>
+        <source><![CDATA[[0]<b>0</b> reviews|[1]<b>1</b> review|(1,+Inf]<b>%s</b> reviews]]></source>
+        <target><![CDATA[[0]Preporuke: <b>0</b>|[1]Preporuke: <b>1</b>|(1,+Inf]Preporuke: <b>%s</b>]]></target>
+      </trans-unit>
+      <trans-unit>
+        <source><![CDATA[[0]<b>0</b> chances|[1]<b>1</b> chance|(1,+Inf]<b>%s</b> chances]]></source>
+        <target><![CDATA[[0]Šanse: <b>0</b>|[1]Šanse: <b>1</b>|(1,+Inf]Šanse: <b>%s</b>]]></target>
+      </trans-unit>
+      <trans-unit>
+        <source>Help your lokal community take informed decisions by writing a short review about your experience in any of the places below. If you haven’t been there, you can skip a place.</source>
+        <target><![CDATA[Preporuči 3 dobra mesta u svom gradu i pozovi 3 prijatelja da urade isto i možeš osvojiti <b>letovanje na Majorci za dvoje!</b> </br>Ako mesta koja želiš da preporučiš nisu prikazana klikni na <img src="/images/facebook/v2/close.gif" /> i prikazaće se druga.</br> Ukoliko se ne prikažu ni tada, možeš ih upisati na sajt <a href="https://www.getlokal.rs" target="_blank">www.getlokal.rs</a> i onda ih preporučiti. </br></br> Što više mesta preporučiš i prijatelja pozoveš, veće su ti šanse da osvojiš nagradu! Izvlačenje dobitnika je u petak, 09.05.2014.]]></target>
+      </trans-unit>
+      <trans-unit>
+        <source>Reviews form other users</source>
+        <target>Preporuke drugih korisnika</target>
+      </trans-unit>
+      <trans-unit>
+        <source>We saved your review. Thanks!</source>
+        <target>Sacuvali smo tvoju preporuku. Hvala!</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Load another place</source>
+        <target>Ucitaj neko drugo mesto</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Your review</source>
+        <target>Tvoja preporuka</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Address</source>
+        <target>Adresa</target>
+      </trans-unit>
+    <trans-unit>
+        <source>Add а New Place</source>
+        <target>Dodaj novo mesto</target>
+      </trans-unit>
+    <trans-unit>
+        <source>Change filtering</source>
+        <target>Promeni kategorije</target>
+      </trans-unit>
+     <trans-unit>
+        <source>PUT YOUR CITY ON THE GETLOKAL MAP</source>
+        <target>Odaberi grad</target>
+      </trans-unit>
+     <trans-unit>
+        <source><![CDATA[Rules &amp; Prizes]]></source>
+        <target><![CDATA[Pravila i Nagrade]]></target>
+      </trans-unit>
+     <trans-unit>
+        <source>There are no reviews for %s yet. Be the first to write one.</source>
+        <target>Za %s još uvek nema preporuka. Napiši prvu preporuku.</target>
+      </trans-unit>
+     <trans-unit>
+        <source>Help others with lokal information by reviewing and rating places on getlokal!</source>
+        <target>Preporuči 3 dobra mesta u svom gradu i osvoji letovanje u Španiji!</target>
+      </trans-unit>     
+     <trans-unit>
+        <source>Partners</source>
+        <target>Partneri</target>
+      </trans-unit>
+     <trans-unit>
+        <source><![CDATA[Get our<br />free app!]]></source>
+        <target><![CDATA[Preuzmi besplatnu<br />mobilnu aplikaciju!]]></target>
+      </trans-unit>
+     <trans-unit>
+        <source>in</source>
+        <target>u</target>
+      </trans-unit>
+     <trans-unit>
+        <source>Share this on your wall</source>
+        <target>Šeruj na svoj facebook profil</target>
+      </trans-unit>
+     <trans-unit>
+        <source>Invite your friends to play</source>
+        <target>Pozovi prijatelje da igraju</target>
+      </trans-unit>
+     <trans-unit>
+        <source>Play again</source>
+        <target>Igraj ponovo!</target>
+      </trans-unit>
+     <trans-unit>
+        <source>Text</source>
+        <target>Svoju preporuku napiši ovde</target>
+      </trans-unit>     
+      <trans-unit>
+        <source>Congratulations</source>
+        <target>Čestitamo</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Save</source>
+        <target>Objavi</target>
+      </trans-unit>
+      <trans-unit>
+        <source><![CDATA[You just scored <strong>1 chance</strong> for the getlokal prizes]]></source>
+        <target><![CDATA[Upravo si dobio <strong>1 šansu</strong> da osvojiš neku od getlokal nagrada]]></target>
+      </trans-unit>
+      <trans-unit>
+        <source><![CDATA[<strong class="chance"><span>%s chances</span></strong>]]></source>
+        <target><![CDATA[<strong class="chance"><span>%s šanse</span></strong>]]></target>
+      </trans-unit>
+      <trans-unit>
+        <source><![CDATA[In total you have written <strong class="reviews"><span>%s</span> reviews</strong> and you have]]></source>
+        <target><![CDATA[Ukupan broj tvojih preporuka do sada je <strong class="reviews"><span>%s</span> preporuke</strong> i šanse za dobitak]]></target>
+      </trans-unit>
+      <trans-unit>
+        <source><![CDATA[[0]%s chance|[1]%s chance|(1,+Inf]%s chances]]></source>
+        <target><![CDATA[[0]%s šanse|[1]%s šansa|(1,+Inf]%s šanse]]></target>
+      </trans-unit>
+      
+      <trans-unit>
+        <source>Write reviews for the places in your city and you can win cool prizes from getlokal.</source>
+        <target>Preporuči dobra mesta u svom gradu i osvoji letovanje na Majorci za dvoje!</target>
+      </trans-unit>
+      <trans-unit>
+        <source>fb_share_message</source>
+        <target>Želiš li da znaš koja mesta volim da posecujem? Procitaj moje nove tri preporuke na getlokal.rs</target>
+      </trans-unit>
+      <trans-unit>
+        <source>fb_share_title</source>
+        <target>Preporuči i osvoji letovanje!</target>
+      </trans-unit>
+      <trans-unit>
+        <source>fb_share_caption</source>
+        <target>Preporuči dobra mesta u svom gradu i osvoji letovanje na Majorci za dvoje!</target>
+      </trans-unit>
+      <trans-unit>
+        <source>fb_share_description</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit>
+        <source>fb_share_user_promp_message</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit>
+        <source>fb_share_message</source>
+        <target></target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

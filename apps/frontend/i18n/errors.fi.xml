@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<xliff version="1.0">
+    <file orginal="global" source-language="en_EN" datatype="plaintext">
+        <body>
+            <trans-unit>
+                <source>Your password should be at least %min_length% characters long</source>
+                <target>Salasanasi tulee olla vähintään %min_length% merkkiä pitkä</target>
+            </trans-unit>     
+        </body>
+    </file>
+</xliff>

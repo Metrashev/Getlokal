@@ -1,0 +1,338 @@
+<?xml version="1.0" ?>
+<xliff version="1.0">
+    <file orginal="global" source-language="en_EN" datatype="plaintext">
+        <body>
+            <trans-unit>
+                <source>New Event</source>
+                <target>Ново събитие</target>
+            </trans-unit>
+            <trans-unit>
+                <source>in</source>
+                <target>в</target>
+            </trans-unit>
+            <trans-unit>
+                <source>in2</source>
+                <target>във</target>
+            </trans-unit>
+            <trans-unit>
+                <source>by</source>
+                <target>от</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Edit Event</source>
+                <target>Редактирай събитие</target>
+            </trans-unit>
+            <trans-unit>
+                <source>When</source>
+                <target>Кога</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Where</source>
+                <target>Къде</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Edit Event</source>
+                <target>Редактирай събитие</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Invite</source>
+                <target>Покани</target>
+            </trans-unit>
+            <trans-unit>
+                <source>created by</source>
+                <target>създадено от</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Events</source>
+                <target>Събития</target>
+            </trans-unit>
+            <trans-unit>
+                <source>to</source>
+                <target>до</target>
+            </trans-unit>
+            <trans-unit>
+                <source>published by</source>
+                <target>публикувано от</target>
+            </trans-unit>
+            <!-- NEW -->
+            <trans-unit>
+                <source>No results found</source>
+                <target>Няма намерени резултати.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Event was submitted successfully.</source>
+                <target>Събитието беше публикувано успешно.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>My Events</source>
+                <target>Моите събития</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Choose...</source>
+                <target>Избери...</target>
+            </trans-unit>
+            <trans-unit>
+                <source>More</source>
+                <target>Още</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Add Event</source>
+                <target>Добави Събитие</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Events in %s</source>
+                <target>Събития в %s</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Events with Tickets in %s</source>
+                <target>Събития с билети в %s</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Add Event</source>
+                <target>Добави Събитие</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Location</source>
+                <target>Място</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Date</source>
+                <target>Дата</target>
+            </trans-unit>
+            <trans-unit>
+                <source>See More Events</source>
+                <target>Виж още събития</target>
+            </trans-unit>
+            <trans-unit>
+                <source>All categories</source>
+                <target>Всички категории</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The event was not saved. Please fill in all mandatory fields.</source>
+                <target>Събитието не беше запазено. Моля, попълнете всички задължителни полета.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The event title and terms are mandatory for at least one of the two language versions.</source>
+                <target>Заглавието и условията на събитието са задължителни поне на една от двете езикови версии.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>by</source>
+                <target>от</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Follow</source>
+                <target>Последвай</target>
+            </trans-unit>
+            <trans-unit>
+                <source>By Author</source>
+                <target>От автора</target>
+            </trans-unit>
+            <trans-unit>
+                <source>By Attendees</source>
+                <target>От присъстващи</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Tickets Available</source>
+                <target>Билети</target>
+            </trans-unit>
+            <trans-unit>
+                <source>PLACES NEARBY</source>
+                <target>Места наблизо</target>
+            </trans-unit>
+            <trans-unit>
+                <source>You Can Also Visit</source>
+                <target>Посети също</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Similar Events</source>
+                <target>Подобни събития</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Attended Events</source>
+                <target>Ще присъствам</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Previous Day</source>
+                <target>Предишен ден</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Next Day</source>
+                <target>Следващ ден</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Sorry, we don't have any events just yet. Please help us by posting the events you know about and sharing them with us. Thank you!</source>
+                <target>Съжаляваме, но все още нямаме събития. Помогни ни, като качиш тези, за които знаеш и ги споделиш с нас. Много ти благодарим!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Select Category</source>
+                <target>Избери категория</target>
+            </trans-unit>
+            <trans-unit>
+                <source>From</source>
+                <target>От</target>
+            </trans-unit>
+            <trans-unit>
+                <source>To</source>
+                <target>До</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Select Time</source>
+                <target>Избери час</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Select category</source>
+                <target>Изберете категория</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Today</source>
+                <target>Днес</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Passed</source>
+                <target>Минали</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Calendar</source>
+                <target>Календар</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Free</source>
+                <target>Безплатно</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Up to 10 BGN</source>
+                <target>До 10 BGN</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Up to 50 BGN</source>
+                <target>До 50 BGN</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Up to 100 BGN</source>
+                <target>До 100 BGN</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Over 100 BGN</source>
+                <target>Над 100 BGN</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Choose...</source>
+                <target>Избери...</target>
+            </trans-unit>
+
+
+
+
+            <!-- NEW DESIGN -->
+
+            <trans-unit>
+                <source>Choose to see</source>
+                <target>Изберете</target>
+            </trans-unit>
+
+            <trans-unit>
+                <source>Past Events</source>
+                <target>Минали събития</target>
+            </trans-unit>
+
+            <trans-unit>
+                <source>Future Events</source>
+                <target>Предстоящи събития</target>
+            </trans-unit>
+
+            <trans-unit>
+                <source>Today's events</source>
+                <target>Събитията днес</target>
+            </trans-unit>
+
+            <trans-unit>
+                <source>Recommended Places</source>
+                <target>Препоръчани места</target>
+            </trans-unit>
+
+            <trans-unit>
+                <source>Events in %s</source>
+                <target>Събития в %s</target>
+            </trans-unit>
+
+            <trans-unit>
+                <source>Share your review on Facebook</source>
+                <target>Сподели ревюто си във Facebook</target>
+            </trans-unit>
+
+            <trans-unit>
+                <source>RECOMMENDATIONS FOR EVENTS IN %s</source>
+                <target>Препоръчани събития в %s</target>
+            </trans-unit>
+ 
+            <trans-unit>
+                <source>Incoming events</source>
+                <target>Предстоящи събития</target>
+            </trans-unit>
+
+            <trans-unit>
+                <source>Past events</source>
+                <target>Минали събития</target>
+            </trans-unit>
+            
+            <trans-unit>
+                <source>This event is created by</source>
+                <target>Това събитие е създадено от</target>
+            </trans-unit>
+
+
+            <trans-unit>
+                <source>By author</source>
+                <target>От автора</target>
+            </trans-unit>
+
+            <trans-unit>
+                <source>By Attenders</source>
+                <target>От присъстващи</target>
+            </trans-unit>
+
+            <trans-unit>
+                <source>More events from</source>
+                <target>Още събития от</target>
+            </trans-unit>
+
+            <trans-unit>
+                <source>Will Аttend</source>
+                <target>Ще присъствам</target>
+            </trans-unit>
+
+
+            <trans-unit>
+                <source>Won't Attend</source>
+                <target>Няма да присъствам</target>
+            </trans-unit>
+
+           
+
+            <trans-unit>
+                <source>Attending</source>
+                <target>Ще присъстват</target>
+            </trans-unit>
+
+            <trans-unit>
+                <source>Event info</source>
+                <target>Информация</target>
+            </trans-unit>
+
+            <trans-unit>
+                <source>uploaded by: </source>
+                <target>Качено от: </target>
+            </trans-unit>
+
+
+            <trans-unit>
+                <source>Buy Now</source>
+                <target>Купи сега</target>
+            </trans-unit>
+
+    
+
+
+        </body>
+    </file>
+</xliff>

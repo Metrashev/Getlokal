@@ -1,0 +1,34 @@
+index:
+  enabled:     off
+  with_layout: false
+  lifetime:    86400
+  
+classification:
+  enabled:     on
+  with_layout: false
+  lifetime:    86400
+
+indexLocation:
+  enabled:     off
+  with_layout: false
+  lifetime:    86400
+  
+location:
+  enabled:     on
+  with_layout: false
+  lifetime:    86400      
+  
+indexCompany:
+  enabled:     off
+  with_layout: false
+  lifetime:    86400
+
+company:
+  enabled:     on
+  with_layout: false
+  lifetime:    86400 
+
+classifierslocations:
+  enabled:     on
+  with_layout: false
+  lifetime:    86400 

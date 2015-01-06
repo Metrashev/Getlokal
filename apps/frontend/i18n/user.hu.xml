@@ -1,0 +1,391 @@
+<?xml version="1.0" ?>
+<xliff version="1.0">
+    <file orginal="global" source-language="en_EN" datatype="plaintext">
+        <body>
+            <trans-unit>
+                <source>Hi</source>
+                <target>Szia</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Hello</source>
+                <target>Szervusz</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Profile</source>
+                <target>Profile</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Dashboard</source>
+                <target>Muszerfal</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Log Out</source>
+                <target>Kilépés</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Sign in</source>
+                <target>Belépés</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Forgot Password?</source>
+                <target>Elfelejtett jelszó?</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Home</source>
+                <target>Kezdet</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Send</source>
+                <target>Küldés</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Email</source>
+                <target>Email</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Password</source>
+                <target>Jelszó</target>
+            </trans-unit>
+            <trans-unit>
+                <source>I agree with the</source>
+                <target>Elfogadom a</target>
+            </trans-unit>
+            <trans-unit>
+                <source>I agree with %s</source>
+                <target>Elfogadom a %s-t</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Name</source>
+                <target>Név</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Surname</source>
+                <target>Családi név</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Gender</source>
+                <target>Nem</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Location</source>
+                <target>Lakóhely</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Location</source>
+                <target>Lakóhely</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Write a few words about yourself –interests, hobbies, what you like to write about. The words have to be comma separated, e.g. 'restaurants, bars, theatre, bungee jumping, travelling'</source>
+                <target>Irj meg pár szót magadról - érdeklodések, hobbik, mirol szeretsz írni. A szavakat vesszovel kell választani, például:'éttermek, bárok, színház, kötélugrás, utazás'</target>
+            </trans-unit>
+            <trans-unit>
+                <source>I agree to receive messages from getlokal and/or their partners.</source>
+                <target>Elfogadom híreket kapni getlokaltól és/vagy partnereitol.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Registration</source>
+                <target>Regisztrálj</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Password Change</source>
+                <target>Jelszóváltozás</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Invite a friend</source>
+                <target>Hivj meg barátot</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Your friends</source>
+                <target>A barátaid</target>
+            </trans-unit>
+            <trans-unit>
+                <source>[0]No reviews|[1]1 review|(1,+Inf]%count% reviews</source>
+                <target>[0]0 megjegyzés|[1]1 megjegyzés|(1,+Inf]%count% megjegyzés</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Settings</source>
+                <target>Beállítások</target>
+            </trans-unit>
+            <trans-unit>
+                <source>here</source>
+                <target>ide</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Sign Up</source>
+                <target>Regisztrálj</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Illegal</source>
+                <target>Törvénytelen</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Offensive</source>
+                <target>Sérto</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Copyright</source>
+                <target>Szerzoi jog</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Incorrect</source>
+                <target>Helytelen</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Email Address</source>
+                <target>Email cím</target>
+            </trans-unit>
+            <trans-unit>
+                <source>My Places</source>
+                <target>Az én helyeim</target>
+            </trans-unit>
+            <trans-unit>
+                <source>View Profile</source>
+                <target>Nézd meg a profilodat</target>
+            </trans-unit>
+            <trans-unit>
+                <source>is from</source>
+                <target>-tól van</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Send me my Username</source>
+                <target>Küld el nekem a felhasználói nevemet</target>
+            </trans-unit>
+            <trans-unit>
+                <source>I want to receive newsletters</source>
+                <target>Akarom getlokal hírlevelét kapni</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Login as %s</source>
+                <target>Lépj be mint %s</target>
+            </trans-unit>
+            <trans-unit>
+                <source>contact us</source>
+                <target>lépjen be kapcsolatba velünk</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Policy for Use and Protection of the Information on the Getlokal Website</source>
+                <target>A Getlokal honlap adatvédelmi és felhasználói politika szabályai </target>
+            </trans-unit>
+            <trans-unit>
+                <source>Admin Status 'Rejected'</source>
+                <target>Admin Status 'Visszautasított'</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Admin Status 'Pending'</source>
+                <target>Admin Status 'Jóváhagyásra váró'</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Admin Status 'Approved'</source>
+                <target>Admin Status 'Jóváhagyott'</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Login as %s and Create an Event</source>
+                <target>Lépj be mint %s és hozz létre eseményt</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Login as %s and Create List</source>
+                <target>Lépj be mint %s hozz létre listát</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Login as %s and Edit an Event</source>
+                <target>Lépj be mint %s és szerkeszd az eseményt</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Login as %s and Edit List</source>
+                <target>Lépj be mint %s és szerkeszd a listát</target>
+            </trans-unit>
+            <trans-unit>
+                <source>General Communication</source>
+                <target>Általános Komunikáció</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Community newsletters</source>
+                <target>Közösségi hírlevelek</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Weekly newsletter</source>
+                <target>Heti hírlevél</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Business newsletters</source>
+                <target>Biznisz hírlevelek</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Games and promotions</source>
+                <target>Játék és promóciós hírek</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Send Your Invite via e-mail</source>
+                <target>Küld el a meghívódat e-mail-ben</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Message</source>
+                <target>Üzenet</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Via e-mail</source>
+                <target>e-mail-ben</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Via Gmail / Yahoo!</source>
+                <target>Gmail-ben / Yahoo!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Via Gmail or Yahoo Mail</source>
+                <target>Gmail-ben vagy Yahoo-ban!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Via Facebook</source>
+                <target>Facebook-ban</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Invite a Friend</source>
+                <target>Hívj meg barátot</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Invite Your Friends</source>
+                <target>Hívd meg a barátaidat</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Send Your Invite via Gmail or Yahoo!</source>
+                <target>Küld el a meghívódat Gmail-ben vagy Yahoo-ban!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Back</source>
+                <target>Hátra</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Login</source>
+                <target>Belépés</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Send another invite?</source>
+                <target>Küldj másik meghívót</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Send Your Invite via Facebook</source>
+                <target>Küld el a meghívódat Facebook-ban</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Invite</source>
+                <target>Hívj meg</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Invited</source>
+                <target>Meghívott</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Your invite was sent successfully!</source>
+                <target>A meghívója sikeresen lett elküldve!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The friend list is empty!</source>
+                <target>A barátlista üres!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Your e-mail list is empty!</source>
+                <target>Az e-mail lista üres!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Wrong e-mail address or/and password!</source>
+                <target>Hibás e-mail cím és/vagy jelszó!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>You entered a wrong e-mail address format!</source>
+                <target>Az e-mail cím hibás formátumban van!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Email Address</source>
+                <target>E-mail cím</target>
+            </trans-unit>
+            <trans-unit>
+                <source>E-mail password</source>
+                <target>E-mail jelszó</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Email list</source>
+                <target>E-mail lista</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Discover getlokal!</source>
+                <target>Fedezd fel getlokal-t!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Join me on getlokal and discover what other people like you and I think about restaurants, pubs, cafes and other interesting places in their local area.</source>
+                <target>Csatlakozz hozzám getlokal-ban és fedezd fel mit gondolnak az emberek mint te és én éttermekrol, kocsmákról, presszókról és más érdekes helyekrol a te városodban.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>To join getlokal click on this link:</source>
+                <target>Getlokalban való regisztrációra kattints erre a linkre:</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Country</source>
+                <target>Ország</target>
+            </trans-unit>
+            <trans-unit>
+                <source><![CDATA[Send Your Invite via <a href="?invite_choice=gmail" title="Gmail"><img src="/images/logos/gmail.png"></a> or <a href="?invite_choice=yahoo" title="Yahoo"><img src="/images/logos/yahoo.png"></a>]]></source>
+                <target><![CDATA[Küld el a meghívódat<a href="?invite_choice=gmail" title="Gmail"><img src="/images/logos/gmail.png"></a> vagy <a href="?invite_choice=yahoo" title="Yahoo"><img src="/images/logos/yahoo.png"></a>]]></target>
+            </trans-unit>
+            <trans-unit>
+                <source><![CDATA[Send Your Invite via <img src="/images/logos/gmail.png"> or <img src="/images/logos/yahoo.png">]]></source>
+                <target><![CDATA[Küld el a meghívódat  <img src="/images/logos/gmail.png"> által vagy <img src="/images/logos/yahoo.png">]]></target>
+            </trans-unit>
+            <trans-unit>
+                <source>Via Gmail or Yahoo</source>
+                <target>Gmail-ban vagy Yahoo-ban!</target>
+            </trans-unit>
+            <trans-unit>
+                <source><![CDATA[Send Your Invite via <img src="/images/gui/facebook.png">]]></source>
+                <target><![CDATA[Küld el a meghívódat <img src="/images/gui/facebook.png">-által]]></target>
+            </trans-unit>
+            <trans-unit>
+                <source>Via Facebook</source>
+                <target>Facebook-ban!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>User with same %s e-mail address is already registered!</source>
+                <target>Már van a honlapban %s ezzel az e-mail-lel regisztrált felhasználó!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>There are no reviews</source>
+                <target>Nincsenek megjegyzések</target>
+            </trans-unit>
+            <trans-unit>
+                <source>You can use your</source>
+                <target>Használd a saját</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Facebook account to register</source>
+                <target>profilodat a Facebook-ban regisztrációra</target>
+            </trans-unit>
+            <trans-unit>
+                <source>in getlokal.com</source>
+                <target>getlokal.com-ban</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Facebook account to log in</source>
+                <target>profilodat Facebook-ban, hogy belépj</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Followers</source>
+                <target>Követok</target>
+            </trans-unit>
+            <trans-unit>
+                <source><![CDATA[<p class="part_one"><span class="greet">Congrats</span> you are our newest registered user.</p><p class="part_two"> Now you can tell everyone about the great places only you know!</p>]]></source>
+                <target><![CDATA[<p class="part_one"><span class="greet">Gratulálunk</span> te vagy a legújabb regisztrált felhasználónk!</p><p class="part_two"> Már mindenkinek beszélhetsz a legklasszabb helyekrol amelyeket csak te ismersz!</p>]]></target>
+            </trans-unit>
+            <trans-unit>
+                <source>Welcome to getlokal.com</source>
+                <target>Üdvözöljük a getlokal-ban</target>
+            </trans-unit>
+
+            <!-- NEW DESIGN -->
+
+
+            <trans-unit>
+                <source>Sign in via Facebook</source>
+                <target>Jelentkezzen be a Facebook-ba</target>
+            </trans-unit>
+        </body>
+    </file>
+</xliff>

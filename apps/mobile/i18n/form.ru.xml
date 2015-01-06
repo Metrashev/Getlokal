@@ -1,0 +1,1258 @@
+<?xml version="1.0" ?><xliff version="1.0">
+  <file datatype="plaintext" original="global" source-language="en">
+    <body>
+      <trans-unit id="1">
+        <source>There is no user registered with the this email</source>
+        <target>Этому адресу эл. почты не соответствует ни одно имя пользователя</target>
+        
+      </trans-unit>
+      <trans-unit id="2">
+        <source>Day, month and year are mandatory fields</source>
+        <target>День, месяц и год являются обязательными полями</target>
+        
+      </trans-unit>
+      <trans-unit id="3">
+        <source>Username &quot;%value%&quot; cannot be used</source>
+        <target>Имя пользователя «%value%» не может быть использовано.</target>
+        
+      </trans-unit>
+      <trans-unit id="4">
+        <source>The username &quot;%value%&quot; contains characters that are not allowed</source>
+        <target>Имя пользователя «%value%» содержит недопустимые символы</target>
+        
+      </trans-unit>
+      <trans-unit id="5">
+        <source>Username must contain at least %min_length% characters</source>
+        <target>Имя пользователя должно содержать не менее %min_length% символов</target>
+        
+      </trans-unit>
+      <trans-unit id="6">
+        <source>Username cannot contain more than %max_length% characters.</source>
+        <target>Имя пользователя должно содержать не более %max_length% символов.</target>
+        
+      </trans-unit>
+      <trans-unit id="7">
+        <source>Invalid email – your email is not in the correct format</source>
+        <target>Неверный формат адреса эл. почты</target>
+        
+      </trans-unit>
+      <trans-unit id="8">
+        <source>&quot;%value%&quot; is too short.  The username should be at least 3 characters.</source>
+        <target>Имя пользователя «%value%» слишком короткое. Оно должно содержать как минимум 3 символа.</target>
+        
+      </trans-unit>
+      <trans-unit id="9">
+        <source>Your password should be at least %min_length% characters long</source>
+        <target>Пароль должен содержать как минимум %min_length% символов</target>
+        
+      </trans-unit>
+      <trans-unit id="10">
+        <source>Your password cannot contain more than %max_length% characters</source>
+        <target>Пароль должен содержать не более %max_length% символов</target>
+        
+      </trans-unit>
+      <trans-unit id="11">
+        <source>We will send the new password, to the email address you provided during registration</source>
+        <target>Мы отправим ваш новый пароль на адрес электронной почты, указанный при регистрации</target>
+        
+      </trans-unit>
+      <trans-unit id="12">
+        <source>The passwords do not match</source>
+        <target>Пароли не совпадают</target>
+        
+      </trans-unit>
+      <trans-unit id="13">
+        <source>This email address has already been registered by another user</source>
+        <target>Этот адрес эл. почты уже зарегистрирован другим пользователем</target>
+        
+      </trans-unit>
+      <trans-unit id="14">
+        <source>This username is already in use</source>
+        <target>Это имя пользователя уже занято</target>
+        
+      </trans-unit>
+       <trans-unit id="15">
+        <source>This field is mandatory. Please start typing the name of your home location and select from the list.</source>
+        <target>Это поле является обязательным. Начните вводить название своего расположения и выберите подходящее значение из выпадающего списка.</target>
+        
+      </trans-unit>
+      <trans-unit id="16">
+        <source>You have entered the text incorrectly. Please try again.</source>
+        <target>Вы ввели неверный текст. Попробуйте снова.</target>
+        
+      </trans-unit>
+      <trans-unit id="17">
+        <source>Please retype your password.</source>
+        <target>Введите пароль повторно.</target>
+        
+      </trans-unit>
+	  <trans-unit id="18">
+        <source>Please retype your password.</source>
+        <target>Введите пароль повторно.</target>
+        
+      </trans-unit>
+      <trans-unit id="19">
+        <source>Email is required</source>
+        <target>Необходимо указать эл. почту</target>
+        
+      </trans-unit>
+      <trans-unit id="20">
+        <source>You must select a file to upload</source>
+        <target>Вы должны выбрать файл для загрузки</target>
+        
+      </trans-unit>
+      <trans-unit id="21">
+        <source>The file you submitted is not in a valid format. Please upload a JPG, GIF or PNG image file.</source>
+        <target>Загруженный файл имеет неверный формат. Выберите файл изображения с расширением JPG, GIF или PNG.</target>
+        
+      </trans-unit>
+	  <trans-unit id="22">
+        <source>The file you submitted is not in a valid format. Please upload a JPG, GIF or PNG image file.</source>
+        <target>Загруженный файл имеет неверный формат. Выберите файл изображения с расширением JPG, GIF или PNG.</target>
+        
+      </trans-unit>
+      <trans-unit id="23">
+        <source>File size limit is 4MB. Please reduce file size before submitting again.</source>
+        <target>Макс. размер файла 4 МБ. Пожалуйста, уменьшите размер файла перед отправкой.</target>
+        
+      </trans-unit>
+      <trans-unit id="24">
+        <source>File size limit is 2MB.Please reduce file size.</source>
+        <target>Макс. размер файла 2 МБ. Пожалуйста, уменьшите размер файла.</target>
+        
+      </trans-unit>
+      <trans-unit id="25">
+        <source>Caption &quot;%value%&quot; contains forbidden characters</source>
+        <target>Заголовок «%value%» содержит запрещённые символы</target>
+        
+      </trans-unit>
+      <trans-unit id="26">
+        <source>Caption &quot;%value%&quot; contains forbidden words</source>
+        <target>Заголовок «%value%» содержит запрещённые символы</target>
+        
+      </trans-unit>
+      <trans-unit id="27">
+        <source>Type photo caption</source>
+        <target>Введите заголовок фото</target>
+        
+      </trans-unit>
+	  <trans-unit id="28">
+        <source>Type photo caption</source>
+        <target>Введите заголовок фото</target>
+        
+      </trans-unit>
+      <trans-unit id="29">
+        <source>Caption must contain at least %min_length% characters</source>
+        <target>Заголовок должен содержать как минимум %min_length% символов</target>
+        
+      </trans-unit>
+      <trans-unit id="30">
+        <source>The caption cannot contain more than %max_length% characters.</source>
+        <target>Заголовок не может содержать более %max_length% символов.</target>
+        
+      </trans-unit>
+      <trans-unit id="31">
+        <source>The review cannot contain more than %max_length% characters. Shorten your review.</source>
+        <target>Обзор должен содержать не более %max_length% символов. Сократите обзор.</target>
+        
+      </trans-unit>
+       <trans-unit id="32">
+        <source>The review must contain at least %min_length% characters</source>
+        <target>Обзор должен содержать как минимум %min_length% символов</target>
+        
+      </trans-unit>
+      <trans-unit id="33">
+        <source>The review contains characters that are not allowed</source>
+        <target>Обзор содержит некорректные символы</target>
+        
+      </trans-unit>
+      <trans-unit id="34">
+        <source>The review contains words that are not allowed</source>
+        <target>Обзор содержит недопустимые слова</target>
+        
+      </trans-unit>
+      <trans-unit id="35">
+        <source>The answer cannot contain more than %max_length% characters</source>
+        <target>Ответ не может содержать более %max_length% символов</target>
+        
+      </trans-unit>
+       <trans-unit id="36">
+        <source>The answer must contain at least %min_length% characters</source>
+        <target>Ответ должен содержать как минимум %min_length% символов</target>
+        
+      </trans-unit>
+       <trans-unit id="37">
+        <source>The review cannot contain more than %max_length% characters</source>
+        <target>Обзор не может содержать более %max_length% символов</target>
+        
+      </trans-unit>
+      <trans-unit id="38">
+        <source>the answer contains words that are not allowed</source>
+        <target>ответ содержит недопустимые слова</target>
+        
+      </trans-unit>
+      <trans-unit id="39">
+        <source>Type Review</source>
+        <target>Тип обзора</target>
+        
+      </trans-unit>
+      <trans-unit id="40">
+        <source>The caption must contain at least 3 characters</source>
+        <target>Заголовок должен содержать как минимум 3 символа</target>
+        
+      </trans-unit>
+      <trans-unit id="41">
+        <source>The caption cannot contain more than 255 characters</source>
+        <target>Заголовок должен содержать не более 255 символов</target>
+        
+      </trans-unit>
+      <trans-unit id="42">
+        <source>The field is mandatory</source>
+        <target>Это поле является обязательным</target>
+        
+      </trans-unit>
+      <trans-unit id="43">
+        <source>Select Your Position</source>
+        <target>Выберите свою должность</target>
+        
+      </trans-unit>
+      <trans-unit id="44">
+        <source>Invalid Phone Number</source>
+        <target>Неверный номер телефона</target>
+        
+      </trans-unit>
+      <trans-unit id="45">
+        <source>This field is mandatory. Select your town/city from the dropdown list.</source>
+        <target>Это поле является обязательным. Выберите город из выпадающего списка.</target>
+        
+      </trans-unit>
+      <trans-unit id="46">
+        <source>This field cannot contain more than %max_length% characters</source>
+        <target>Это поле не может содержать не более %max_length% символов</target>
+        
+      </trans-unit>
+      <trans-unit id="47">
+        <source>Select company type</source>
+        <target>Выберите тип компании</target>
+        
+      </trans-unit>
+      <trans-unit id="48">
+        <source>Select address type</source>
+        <target>Выберите тип адреса</target>
+        
+      </trans-unit>
+      <trans-unit id="49">
+        <source>Invalid Postcode</source>
+        <target>Неверный почтовый индекс</target>
+        
+      </trans-unit>
+      <trans-unit id="50">
+        <source>You must select Street and/or Nighbourhood</source>
+        <target>Вы должны выбрать улицу и/или квартал</target>
+        
+      </trans-unit>
+      <trans-unit id="51">
+        <source>You must enter Street and/or Nighbourhood</source>
+        <target>Вы должны ввести улицу и/или квартал</target>
+        
+      </trans-unit>
+      <trans-unit id="52">
+        <source>You must enter Street Number and/or Entrance</source>
+        <target>Вы должны выбрать номер улицы и/или подъезд</target>
+        
+      </trans-unit>
+      <trans-unit id="53">
+        <source>You need to register a business account in order to manage you company's listing in getlokal.ro</source>
+        <target>Для управления информации о вашей компании на сайте getlokal.ro вам необходимо зарегистрировать корпоративную учётную запись</target>
+        
+      </trans-unit>
+       <trans-unit id="54">
+        <source>Log out of your user profile and register as a business</source>
+        <target>Выйдите из своей учётной записи и зарегистрируйтесь от лица компании</target>
+        
+      </trans-unit>
+      <trans-unit id="55">
+        <source>Only business users can claim companies!</source>
+        <target>Заявлять права на компанию можно только из корпоративной учётной записи</target>
+        
+      </trans-unit>
+      <trans-unit id="56">
+        <source>Enter the URL of Your Blog</source>
+        <target>Введите URL своего блога</target>
+        
+      </trans-unit>
+      <trans-unit id="57">
+        <source>The field cannot contain more than %max_length% characters</source>
+        <target>Поле не может содержать больше %max_length% символов</target>
+        
+      </trans-unit>
+      <trans-unit id="58">
+        <source>The field must contain at least %min_length% characters</source>
+        <target>Поле должно содержать как минимум %min_length% символов</target>
+        
+      </trans-unit>
+      <trans-unit id="59">
+        <source>Invalid format. E.g. http://www.getlokal.ro.</source>
+        <target>Неправильный формат. Например, http://www.getlokal.ro.</target>
+        
+      </trans-unit>
+      <trans-unit id="60">
+        <source>Invalid format. E.g. getlokal.ro!</source>
+        <target>Неверный формат. Например, getlokal.ro!</target>
+        
+      </trans-unit>
+      <trans-unit id="61">
+        <source>Invalid format. E.g. http://blog.getlokal.ro.</source>
+        <target>Неверный формат. Например, http://blog.getlokal.ro.</target>
+        
+      </trans-unit>
+      <trans-unit id="62">
+        <source>Invalid format. E.g. http://twitter.com/@getlokal.</source>
+        <target>Неверный формат. Например, http://twitter.com/@getlokal.</target>
+        
+      </trans-unit>
+      <trans-unit id="63">
+        <source>Invalid format. E.g. http://www.facebook.com/#!/getlokal.</source>
+        <target>Неверный формат. Например, http://www.facebook.com/#!/getlokal.</target>
+        
+      </trans-unit>
+      <trans-unit id="64">
+        <source>This field is not mandatory but if you fill it in it must contain at least %min_length% characters</source>
+        <target>Это поле не является обязательным, однако, при заполнении оно должно содержать как минимум %min_length% символов.</target>
+        
+      </trans-unit>
+      <trans-unit id="65">
+        <source>This field is not mandatory but if you fill it in itcannot contain more than %max_length% characters.</source>
+        <target>Это поле не является обязательным, но при заполнении оно не должно содержать более %max_length% символов.</target>
+        
+      </trans-unit>
+      <trans-unit id="66">
+        <source>Select Your Position</source>
+        <target>Выберите свою должность</target>
+        
+      </trans-unit>
+
+      <trans-unit id="67">
+        <source>Invalid format. E.g. http://www.facebook.com/getlokal.</source>
+        <target>Неверный формат. Например, http://www.facebook.com/getlokal.</target>
+        
+      </trans-unit>
+      <trans-unit id="68">
+        <source>There was a problem changing your password. Please try again later.</source>
+        <target>При смене пароля возникла ошибка. Попробуйте позже.</target>
+        
+      </trans-unit>
+      <trans-unit id="69">
+        <source>Your password was changed successfully</source>
+        <target>Пароль успешно изменен</target>
+        
+      </trans-unit>
+       <trans-unit id="70">
+        <source>The start date cannot be earlier than today</source>
+        <target>Дата начала не может быть раньше сегодняшней</target>
+        
+      </trans-unit>
+      <trans-unit id="71">
+        <source>The start date of the second promo month cannot be earlier than the end date of the first</source>
+        <target>Дата начала второй промоакции не может быть раньше даты окончания первой промоакции</target>
+        
+      </trans-unit>
+       <trans-unit id="72">
+        <source>The start date of the third promo month cannot be earlier than the end date of the second</source>
+        <target>Дата начала третьей промоакции не может быть раньше даты окончания второй промоакции</target>
+        
+      </trans-unit>
+       <trans-unit id="73">
+        <source>The start date for the third period must not be later than 30 days before the end date of your advert</source>
+        <target>Дата начала третьего периода не может быть позже 30 дней от даты окончания рекламного объявления</target>
+        
+      </trans-unit>
+      <trans-unit id="74">
+        <source>The start date for the period must not be later than 30 days before the end date of your advert</source>
+        <target>Дата начала периода не может быть позже 30 дней от даты окончания рекламного объявления</target>
+        
+      </trans-unit>
+      <trans-unit id="75">
+        <source>Type an Answer</source>
+        <target>Тип ответа</target>
+        
+      </trans-unit>
+      <trans-unit id="76">
+        <source>The Offer Title cannot be longer than %max_length% characters</source>
+        <target>Название предложения не может быть длиннее %max_length% символов</target>
+        
+      </trans-unit>
+      <trans-unit id="77">
+        <source>The maximum number of vouchers issued per user cannot exceed the total number of vouchers for the offer</source>
+        <target>Максимальное количество купонов, выпущенных на одного пользователя не может превышать общее количество купонов</target>
+        
+      </trans-unit>
+      <trans-unit id="78">
+        <source>You cannot select a date earlier than today's</source>
+        <target>Вы не можете выбрать дату ранее сегодняшней</target>
+        
+      </trans-unit>
+      <trans-unit id="79">
+        <source>Тhe end date of your offer cannot be later than the end date of your advert</source>
+        <target>Дата окончания предложения не может быть позже даты окончания объявления</target>
+        
+      </trans-unit>
+      <trans-unit id="80">
+        <source>The offer end date cannot be earlier than the start date</source>
+        <target>Дата окончания предложения не может быть раньше даты начала</target>
+        
+      </trans-unit>
+      <trans-unit id="81">
+        <source>The voucher valid to date cannot be earlier than the offer end date</source>
+        <target>Срок окончания действия купона не может быть раньше даты окончания предложения</target>
+        
+      </trans-unit>
+      <trans-unit id="82">
+        <source>Select date, month and year</source>
+        <target>Выберите день, месяц и год</target>
+        
+      </trans-unit>
+       <trans-unit id="83">
+        <source>The email address is not in a valid format</source>
+        <target>Адрес эл. почты имеет неверный формат.</target>
+        
+      </trans-unit>
+      <trans-unit id="84">
+        <source>An email is mandatory</source>
+        <target>Поле эл. почты является обязательным</target>
+        
+      </trans-unit>
+      <trans-unit id="85">
+        <source>You need to agree to getlokal's Terms of Use to create a user account</source>
+        <target>Для создания учётной записи необходимо согласиться с Правилами использования Getlokal.</target>
+        
+      </trans-unit>
+       <trans-unit id="86">
+        <source>Location is mandatory. Start typing the name of your location and select from the list.</source>
+        <target>Поле местоположения является обязательным. Начните вводить название местоположения и выберите его из выпадающего списка.</target>
+        
+      </trans-unit>
+      <trans-unit id="87">
+        <source>Password must be at least %min_length% characters</source>
+        <target>Пароль должен содержать как минимум %min_length% символов</target>
+        
+      </trans-unit>
+      <trans-unit id="88">
+        <source>Password cannot be more than %min_length% characters</source>
+        <target>Пароль не может содержать более %min_length% символов</target>
+        
+      </trans-unit>
+      <trans-unit id="89">
+        <source>A username is mandatory</source>
+        <target>Поле учётная запись является обязательным</target>
+        
+      </trans-unit>
+       <trans-unit id="90">
+        <source>Invalid unsubscribe code for </source>
+        <target>Неверный код отмены подписки для</target>
+        
+      </trans-unit>
+	  <trans-unit id="91">
+        <source>The passwords don't match</source>
+        <target>Пароли не совпадают</target>
+        
+      </trans-unit>
+
+	   <trans-unit id="92">
+        <source>Description must contain at least %min_length% characters</source>
+        <target>Описание должно содержать как минимум %min_length% символов</target>
+        
+      </trans-unit>
+      <trans-unit id="93">
+        <source>The description cannot contain more than %max_length% characters.</source>
+        <target>Описание не может содержать более %min_length% символов</target>
+        
+      </trans-unit>
+      <trans-unit id="94">
+        <source>Description &quot;%value%&quot; contains forbidden words</source>
+        <target>Описание «%value%» содержит запрещённые слова</target>
+        
+      </trans-unit>
+       <trans-unit id="95">
+        <source>The Offer Title must contain at least %min_length% characters</source>
+        <target>Название предложения должно содержать как минимум %min_length% символов.</target>
+        
+      </trans-unit>
+      <trans-unit id="96">
+        <source>The Offer Title and Terms are mandatory for at least one of the two language versions.</source>
+        <target>Название предложения и Условия являются обязательными, по крайней мере одной из двух языковых версиях.</target>
+        
+      </trans-unit>
+       <trans-unit id="97">
+        <source>The Newsletter Title cannot be longer than %max_length% characters</source>
+        <target>Название рассылки не может содержать более %max_length% символов</target>
+        
+      </trans-unit>
+      <trans-unit id="98">
+        <source>The Newsletter Title must contain at least %min_length% characters</source>
+        <target>Заголовок новостного письма должен содержать не менее % min_length% символов</target>
+        
+      </trans-unit>
+      <trans-unit id="99">
+        <source>Please enter search criteria</source>
+        <target>Пожалуйста, введите критерии поиска</target>
+        
+      </trans-unit>
+      <trans-unit id="100">
+        <source>Please correct search criteria</source>
+        <target>Пожалуйста, исправьте критерии поиска</target>
+        
+      </trans-unit>
+      <trans-unit id="101">
+        <source>Incorrect search term</source>
+        <target>Неверная поисковая фраза</target>
+        
+      </trans-unit>
+     <trans-unit id="102">
+        <source>Message must contain at least %min_length% characters</source>
+        <target>Сообщение должно содержать не менее % min_length% символов</target>
+        
+      </trans-unit>
+      <trans-unit id="103">
+        <source>The message cannot contain more than %max_length% characters.</source>
+        <target>Сообщение не должно содержать больше % max_length% символов.</target>
+        
+      </trans-unit>
+       <trans-unit id="104">
+        <source>This email and unsubscribed key do not match</source>
+        <target>Электронная почта и ключ подписки не совпадают</target>
+        
+      </trans-unit>
+        <trans-unit id="105">
+        <source>Video Title must contain at least %min_length% characters</source>
+        <target>Название видео должно содержать как минимум %min_length% символов.</target>
+        
+      </trans-unit>
+      <trans-unit id="106">
+        <source>The video title cannot contain more than %max_length% characters.</source>
+        <target>Название видео должно содержать как минимум %max_length% символов.</target>
+        
+      </trans-unit>
+       <trans-unit id="107">
+        <source>The email message was not sent successfully.</source>
+        <target>Произошла ошибка при отправке сообщения эл. почты.</target>
+        
+      </trans-unit>
+      <trans-unit id="108">
+        <source>This username has already been registered by another user</source>
+        <target>Это имя пользователя уже занято другим пользователем</target>
+        
+      </trans-unit>
+       <trans-unit id="109">
+        <source>Тhe start date cannot be later than the end date of the event</source>
+        <target>Дата начала не может быть позже, чем дата окончания события</target>
+        
+      </trans-unit>
+      <trans-unit id="110">
+        <source>Please add location - city/town is required if venue not known!</source>
+        <target>Добавьте расположение, поле город является обязательным, если мероприятие неизвестно!</target>
+        
+      </trans-unit>
+      <trans-unit id="111">
+        <source>Please enter the characters from the picture below to confirm you like parties!</source>
+        <target>Введите символы с картинки чтобы подтвердить, что вам нравятся вечеринки!</target>
+        
+      </trans-unit>
+          <trans-unit id="112">
+        <source>Username</source>
+        <target>Имя пользователя</target>
+        
+      </trans-unit>
+      <trans-unit id="113">
+        <source>Email</source>
+        <target>Эл. почта</target>
+        
+      </trans-unit>
+      <trans-unit id="114">
+        <source>Password</source>
+        <target>Пароль</target>
+        
+      </trans-unit>
+      <trans-unit id="115">
+        <source>Retype Your Password</source>
+        <target>Повторно введите пароль</target>
+        
+      </trans-unit>
+      <trans-unit id="116">
+        <source>Select Your City</source>
+        <target>Выберите ваш город</target>
+        
+      </trans-unit>
+            <trans-unit id="117">
+        <source>Enter your Email address.</source>
+        <target>Введите адрес своей эл. почты.</target>
+        
+      </trans-unit>
+      <trans-unit id="118">
+        <source>Name</source>
+        <target>Название</target>
+        
+      </trans-unit>
+      <trans-unit id="119">
+        <source>Surname</source>
+        <target>Фамилия</target>
+        
+      </trans-unit>
+      <trans-unit id="120">
+        <source>Profile Picture</source>
+        <target>Изображение профиля</target>
+        
+      </trans-unit>
+      <trans-unit id="121">
+        <source>Delete current</source>
+        <target>Удалить текущий</target>
+        
+      </trans-unit>
+      <trans-unit id="122">
+        <source>Date of Birth</source>
+        <target>Дата рождения</target>
+        
+      </trans-unit>
+      <trans-unit id="123">
+        <source>Gender</source>
+        <target>Пол</target>
+        
+      </trans-unit>
+      <trans-unit id="124">
+        <source>Location</source>
+        <target>Расположение</target>
+        
+      </trans-unit>
+           <trans-unit id="125">
+        <source>About me</source>
+        <target>Обо мне</target>
+        
+      </trans-unit>
+      <trans-unit id="126">
+        <source>My Website</source>
+        <target>Моя домашняя страница</target>
+        
+      </trans-unit>
+      <trans-unit id="127">
+        <source>My Blog</source>
+        <target>Мой блог</target>
+        
+      </trans-unit>
+      <trans-unit id="128">
+        <source>My Facebook</source>
+        <target>Мой Facebook</target>
+        
+      </trans-unit>
+      <trans-unit id="129">
+        <source>My Google+</source>
+        <target>Мой Google+</target>
+        
+      </trans-unit>
+
+      <trans-unit id="130">
+        <source>New Password</source>
+        <target>Новый пароль</target>
+        
+      </trans-unit>
+      <trans-unit id="131">
+        <source>Retype New Password</source>
+        <target>Введите новый пароль еще раз</target>
+        
+      </trans-unit>
+      <trans-unit id="132">
+        <source>The field is required</source>
+        <target>Поле обязательно</target>
+        
+      </trans-unit>
+      <trans-unit id="133">
+        <source>Fields marked with a star are mandatory.</source>
+        <target>Поля, отмеченные звездочкой (*), являются обязательными.</target>
+        
+      </trans-unit>
+            <trans-unit id="134">
+        <source>Owner</source>
+        <target>Владелец</target>
+        
+      </trans-unit>
+      <trans-unit id="135">
+        <source>Director</source>
+        <target>Директор</target>
+        
+      </trans-unit>
+       <trans-unit id="136">
+        <source>Manager</source>
+        <target>Менеджер</target>
+        
+      </trans-unit>
+      <trans-unit id="137">
+        <source>Employee</source>
+        <target>Сотрудник</target>
+        
+      </trans-unit>
+      <trans-unit id="138">
+        <source>Choose...</source>
+        <target>Выберите...</target>
+        
+      </trans-unit>
+      <trans-unit id="139">
+        <source>Other</source>
+        <target>Другое</target>
+        
+      </trans-unit>
+            <trans-unit id="140">
+        <source>My Facebook</source>
+        <target>Мой Facebook</target>
+        
+      </trans-unit>
+      <trans-unit id="141">
+        <source>My Тwitter</source>
+        <target>Мой Тwitter</target>
+        
+      </trans-unit>
+            <trans-unit id="142">
+        <source>Current Password</source>
+        <target>Текущий пароль</target>
+        
+      </trans-unit>
+      <trans-unit id="143">
+        <source>Retype New Password</source>
+        <target>Введите новый пароль еще раз</target>
+        
+      </trans-unit>
+      <trans-unit id="144">
+        <source>Passwords don't match</source>
+        <target>Пароли не совпадают</target>
+        
+      </trans-unit>
+      <trans-unit id="145">
+        <source>Your Password</source>
+        <target>Ваш пароль</target>
+        
+      </trans-unit>
+       <trans-unit id="146">
+        <source>Male</source>
+        <target>Мужской</target>
+        
+      </trans-unit>
+       <trans-unit id="147">
+        <source>Female</source>
+        <target>Женский</target>
+        
+      </trans-unit>
+      <trans-unit id="148">
+        <source>Position</source>
+        <target>Должность</target>
+        
+      </trans-unit>
+      <trans-unit id="149">
+        <source>Phone</source>
+        <target>Телефон</target>
+        
+      </trans-unit>
+       <trans-unit id="150">
+        <source>I declare that I am an authorized representative of the business.</source>
+        <target>Я подтверждаю, что являюсь уполномоченным представителем компании.</target>
+        
+      </trans-unit>
+      <trans-unit id="151">
+        <source>Enter the CUI of your business.</source>
+        <target>Введите CUI вашего предприятия.</target>
+        
+      </trans-unit>
+       <trans-unit id="152">
+        <source>Declare that you are an authorized representative of the business.</source>
+        <target>Подтвердите, что вы являетесь уполномоченным представителем компании.</target>
+        
+      </trans-unit>
+      <trans-unit id="153">
+        <source>Invalid CUI</source>
+        <target>Неверный CUI</target>
+        
+      </trans-unit>
+      <trans-unit id="154">
+        <source>Company Name</source>
+        <target>Название компании</target>
+        
+      </trans-unit>
+      <trans-unit id="155">
+        <source>Company Type</source>
+        <target>Тип компании</target>
+        
+      </trans-unit>
+       <trans-unit id="156">
+        <source>Company Name in Latin characters</source>
+        <target>Название компании латиницей</target>
+        
+      </trans-unit>
+       <trans-unit id="157">
+        <source>Address</source>
+        <target>Адрес</target>
+        
+      </trans-unit>
+       <trans-unit id="158">
+        <source>Classification</source>
+        <target>Классификация</target>
+        
+      </trans-unit>
+       <trans-unit id="159">
+        <source>City</source>
+        <target>Город</target>
+        
+      </trans-unit>
+      <trans-unit id="160">
+        <source>Company Address</source>
+        <target>Адрес компании</target>
+        
+      </trans-unit>
+      <trans-unit id="161">
+        <source>Postcode</source>
+        <target>Почтовый индекс</target>
+        
+      </trans-unit>
+      <trans-unit id="162">
+        <source>Street</source>
+        <target>Улица</target>
+        
+      </trans-unit>
+      <trans-unit id="163">
+        <source>Number</source>
+        <target>Номер</target>
+        
+      </trans-unit>
+      <trans-unit id="164">
+        <source>Neighbourhood</source>
+        <target>Квартал</target>
+        
+      </trans-unit>
+      <trans-unit id="165">
+        <source>Bl.</source>
+        <target>Д.</target>
+        
+      </trans-unit>
+      <trans-unit id="166">
+        <source>Ent.</source>
+        <target>Корп.</target>
+        
+      </trans-unit>
+      <trans-unit id="167">
+        <source>Fl.</source>
+        <target>Эт.</target>
+        
+      </trans-unit>
+      <trans-unit id="168">
+        <source>Ap.</source>
+        <target>Кв.</target>
+        
+      </trans-unit>
+            <trans-unit id="169">
+        <source>Monday</source>
+        <target>Понедельник</target>
+        
+      </trans-unit>
+      <trans-unit id="170">
+        <source>Tuesday</source>
+        <target>Вторник</target>
+        
+      </trans-unit>
+      <trans-unit id="171">
+        <source>Wednesday</source>
+        <target>Среда</target>
+        
+      </trans-unit>
+      <trans-unit id="172">
+        <source>Thursday</source>
+        <target>Четверг</target>
+        
+      </trans-unit>
+      <trans-unit id="173">
+        <source>Friday</source>
+        <target>Пятница</target>
+        
+      </trans-unit>
+      <trans-unit id="174">
+        <source>Saturday</source>
+        <target>Суббота</target>
+        
+      </trans-unit>
+      <trans-unit id="175">
+        <source>Sunday</source>
+        <target>Воскресенье</target>
+        
+      </trans-unit>
+         <trans-unit id="176">
+        <source>Bulgarian</source>
+        <target>Болгарский</target>
+        
+      </trans-unit>
+      <trans-unit id="177">
+        <source>English</source>
+        <target>Английский</target>
+        
+      </trans-unit>
+      <trans-unit id="178">
+        <source>Email:</source>
+        <target>Эл. почта:</target>
+        
+      </trans-unit>
+      <trans-unit id="179">
+        <source>Password:</source>
+        <target>Пароль:</target>
+        
+      </trans-unit>
+      <trans-unit id="180">
+        <source>Remember me</source>
+        <target>Напомнить</target>
+        
+      </trans-unit>
+      <trans-unit id="181">
+        <source>Description</source>
+        <target>Описание</target>
+        
+      </trans-unit>
+      <trans-unit id="182">
+        <source>Category</source>
+        <target>Категория</target>
+        
+      </trans-unit>
+      <trans-unit id="183">
+        <source>Website</source>
+        <target>Веб-сайт</target>
+        
+      </trans-unit>
+      			<trans-unit id="184">
+        <source>You entered &quot;%value%&quot;. The security check picture contains %length% characters. Please try again.</source>
+        <target>Вы ввели «%value%». Картинка проверки безопасности содержит %length% символов. Попробуйте снова.</target>
+        
+      </trans-unit>
+            <trans-unit id="185">
+        <source>Security check. Enter the characters from the picture below</source>
+        <target>Проверка безопасности. Введите символы с картинки.</target>
+        
+      </trans-unit>
+      <trans-unit id="186">
+        <source>Start Date</source>
+        <target>Дата начала</target>
+        
+      </trans-unit>
+      <trans-unit id="187">
+        <source>Detailed Description</source>
+        <target>Подробное описание</target>
+        
+      </trans-unit>
+      <trans-unit id="188">
+        <source>Detailed Description (English)</source>
+        <target>Подробное описание (на английском языке)</target>
+        
+      </trans-unit>
+      <trans-unit id="189">
+        <source>Offer Title</source>
+        <target>Название предложения</target>
+        
+      </trans-unit>
+      <trans-unit id="190">
+        <source>Voucher</source>
+        <target>Купон</target>
+        
+      </trans-unit>
+      <trans-unit id="191">
+        <source>Voucher Valid From</source>
+        <target>Купон действителен с</target>
+        
+      </trans-unit>
+      <trans-unit id="192">
+        <source>Voucher Valid To</source>
+        <target>Купон действителен до</target>
+        
+      </trans-unit>
+      <trans-unit id="193">
+        <source>Offer Active From</source>
+        <target>Предложение активно с</target>
+        
+      </trans-unit>
+      <trans-unit id="194">
+        <source>Offer Active To</source>
+        <target>Предложение активно до</target>
+        
+      </trans-unit>
+      <trans-unit id="195">
+        <source>Maximum number of vouchers to be issued</source>
+        <target>Максимальное количество выпускаемых купонов</target>
+        
+      </trans-unit>
+       <trans-unit id="196">
+        <source>Maximum number of vouchers to be issued per user</source>
+        <target>На одного пользователя будет опубликовано максимальное количество ваучеров</target>
+        
+      </trans-unit>
+      <trans-unit id="197">
+        <source>Offer Terms</source>
+        <target>Условия Оферты </target>
+        
+      </trans-unit>
+       <trans-unit id="198">
+        <source>Select a photo from your computer</source>
+        <target>Выберите фотографию со своего компьютера</target>
+        
+      </trans-unit>
+      <trans-unit id="199">
+        <source>Caption</source>
+        <target>Подпись к картинке</target>
+        
+      </trans-unit>
+      <trans-unit id="8">
+        <source>Please enter your Name and Surname</source>
+      </trans-unit>
+      <trans-unit id="9">
+        <source>Invalid email</source>
+      </trans-unit>
+      <trans-unit id="10">
+        <source>Please rate this company</source>
+      </trans-unit>
+      <trans-unit id="22">
+        <source>Please enter your email</source>
+      </trans-unit>
+      <trans-unit id="11">
+        <source>Invalid Rating</source>
+      </trans-unit>
+       <trans-unit id="15">
+        <source>Please agree to observe the Terms of Use of the Getlokal Website</source>
+    </trans-unit>
+    <trans-unit id="54">
+        <source>Choose if you want to recommend this company to a friend</source>
+      </trans-unit>
+       <trans-unit id="200">
+        <source>Name</source>
+        <target>Имя</target>
+        
+      </trans-unit>
+      <trans-unit id="201">
+        <source>Surname</source>
+        <target>Фамилия</target>
+        
+      </trans-unit>
+      <trans-unit id="202">
+        <source>Enter your Email address.</source>
+        <target>Введите электронный адрес.</target>
+        
+      </trans-unit>
+       <trans-unit id="203">
+        <source>Your username should contain only alphanumeric characters, dash, dot or underscore and begin with a letter</source>
+        <target>Имя пользователя может содержать только буквы, цифры, дефис, точку или знак подчеркивания и должно начинаться с буквы</target>
+        
+      </trans-unit>
+      <trans-unit id="204">
+        <source>Your account changes were successfully saved.</source>
+        <target>Изменения учетной записи были успешно сохранены.</target>
+        
+      </trans-unit>
+      <trans-unit id="205">
+        <source>Company Name or CUI</source>
+        <target>Название компании или CUI</target>
+        
+      </trans-unit>
+       <trans-unit id="206">
+        <source>CUI (Cod Unic de Identificare)</source>
+        <target>CUI (уникальный идентификационный код)</target>
+        
+      </trans-unit>
+      <trans-unit id="207">
+        <source>Select file</source>
+        <target>Выберите файл</target>
+        
+      </trans-unit>
+      <trans-unit id="208">
+        <source>Invalid format. E.g. http://www.getlokal.ro.</source>
+        <target>Неверный формат. Например, http://www.getlokal.ro.</target>
+        
+      </trans-unit>
+      <trans-unit id="209">
+        <source>Invalid format. E.g. getlokal.ro!</source>
+        <target>Неверный формат. Например, getlokal.ro!</target>
+        
+      </trans-unit>
+      <trans-unit id="210">
+        <source>Invalid format. E.g. http://blog.getlokal.ro.</source>
+        <target>Неверный формат. Например, http://blog.getlokal.ro.</target>
+        
+      </trans-unit>
+      <trans-unit id="211">
+        <source>Invalid format. E.g. http://twitter.com/@getlokal.</source>
+        <target>Неверный формат. Например, http://twitter.com/@getlokal.</target>
+        
+      </trans-unit>
+      <trans-unit id="212">
+        <source>Invalid format. E.g. http://www.facebook.com/#!/getlokal.</source>
+        <target>Неверный формат. Например, http://www.facebook.com/#!/getlokal.</target>
+        
+      </trans-unit>
+      <trans-unit id="213">
+        <source>Invalid format.</source>
+        <target>Неверный формат.</target>
+        
+      </trans-unit>
+      <trans-unit id="214">
+        <source>Password is mandatory</source>
+        <target>Пароль является обязательным</target>
+        
+      </trans-unit>
+      <trans-unit id="215">
+        <source>The email and/or password are invalid</source>
+        <target>Эл. почта и/или пароль указаны неверно</target>
+        
+      </trans-unit>
+      <trans-unit id="216">
+        <source>Incorrect Password</source>
+        <target>Неверный пароль</target>
+        
+      </trans-unit>
+      <trans-unit id="217">
+        <source>When</source>
+        <target>Когда</target>
+        
+      </trans-unit>
+      <trans-unit id="218">
+        <source>End Date</source>
+        <target>Дата окончания</target>
+        
+      </trans-unit>
+      <trans-unit id="219">
+        <source>City/Town</source>
+        <target>Город</target>
+        
+      </trans-unit>
+      <trans-unit id="220">
+        <source>Venue name</source>
+        <target>Название встречи</target>
+        
+      </trans-unit>
+      <trans-unit id="221">
+        <source>More Info (add link)</source>
+        <target>Подробнее (добавьте ссылку)</target>
+        
+      </trans-unit>
+      <trans-unit id="222">
+        <source>Buy ticket/book (add link)</source>
+        <target>Купить/забронировать билет (добавить ссылку)</target>
+        
+      </trans-unit>
+      <trans-unit id="223">
+        <source>Event Type</source>
+        <target>Тип события</target>
+        
+      </trans-unit>
+      <trans-unit id="224">
+        <source>Price</source>
+        <target>Цена</target>
+        
+      </trans-unit>
+      <trans-unit id="225">
+        <source>Add Photo</source>
+        <target>Добавить фото</target>
+        
+      </trans-unit>
+      <trans-unit id="226">
+        <source>Event Name</source>
+        <target>Название события</target>
+        
+      </trans-unit>
+      <trans-unit id="227">
+        <source>Event Description</source>
+        <target>Описание события</target>
+        
+      </trans-unit>
+      <!-- NEw -->
+       <trans-unit id="228">
+        <source>Show to All</source>
+        <target>Показать всем</target>
+        
+      </trans-unit>
+      <trans-unit id="229">
+        <source>Choose... </source>
+        <target>Выберите…</target>
+        
+      </trans-unit>
+      <trans-unit id="230">
+        <source>Enter New Email</source>
+        <target>Введите новый адрес эл. почты</target>
+        
+      </trans-unit>
+      <trans-unit id="231">
+        <source>Description</source>
+        <target>Описание</target>
+        
+      </trans-unit>
+      <trans-unit id="232">
+        <source>Description (English)</source>
+        <target>Описание (англ.)</target>
+        
+      </trans-unit>
+      <trans-unit id="233">
+        <source>Detailed Description (English)</source>
+        <target>Подробное описание (англ.)</target>
+        
+      </trans-unit>
+      <trans-unit id="234">
+        <source>Detailed Description</source>
+        <target>Подробное описание</target>
+        
+      </trans-unit>
+       <trans-unit id="235">
+        <source>VIP Position Start Date</source>
+        <target>Дата занятия VIP-позиции</target>
+        
+      </trans-unit>
+      <trans-unit id="236">
+        <source>Message</source>
+        <target>Сообщение</target>
+        
+      </trans-unit>
+      <trans-unit id="237">
+        <source>Please rate this company</source>
+        <target>Оцените эту компанию</target>
+        
+      </trans-unit>
+      <trans-unit id="238">
+        <source>The username &quot;%value%&quot; is invalid.</source>
+        <target>Имя пользователя «%value%» некорректно</target>
+        
+      </trans-unit>
+      <trans-unit id="239">
+        <source>Username must contain at least %min_length% characters.</source>
+        <target>Имя пользователя должно содержать как минимум %min_length% символов.</target>
+        
+      </trans-unit>
+      <trans-unit id="240">
+        <source>The username and/or password you entered for %s are invalid or you don't have enough credentials</source>
+        <target>Введённые для %s имя пользователя и/или пароль неверны, либо у вас нет достаточных полномочий</target>
+        
+      </trans-unit>
+       <trans-unit id="241">
+        <source>The username and/or password you entered are invalid or you don't have enough credentials</source>
+        <target>Имя пользователя и/или пароль неверны, либо у вас нет достаточных полномочий</target>
+        
+      </trans-unit>
+       <trans-unit id="242">
+        <source><![CDATA[You need to agree to Getlokal Terms of Use & Privacy Policy]]></source>
+        <target>Необходимо согласиться с Правилами использования и Политикой безопасности Getlokal.</target>
+        
+      </trans-unit>
+      <trans-unit id="243">
+        <source>Start Time</source>
+        <target>Время начало</target>
+        
+     </trans-unit>
+
+      <trans-unit id="244">
+        <source>Place Name</source>
+        <target>Название места</target>
+        
+      </trans-unit>
+	  <trans-unit id="245">
+        <source>Place Name in English</source>
+        <target>Введите название на английском языке</target>
+        
+      </trans-unit>
+
+ </body>
+  </file>
+</xliff>

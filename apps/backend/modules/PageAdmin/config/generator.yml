@@ -1,0 +1,33 @@
+generator:
+  class: sfDoctrineGenerator
+  param:
+    model_class:           PageAdmin
+    theme:                 admin
+    non_verbose_templates: true
+    with_show:             false
+    singular:              ~
+    plural:                ~
+    route_prefix:          page_admin
+    with_doctrine_route:   true
+    actions_base_class:    sfActions
+
+    config:
+      actions: ~
+      fields:  
+        user_id:      {label: Place Admin, is_sortable: true}
+        page_id:      {label: Place Name, is_sortable: true}
+
+      list:
+        table_method:  getQueryForAdmin
+        title:         Place Admins Management
+        display: [user_id, page_id, company_id, status, position, is_primary,created_at, updated_at]  
+        object_actions:
+          changeAdminStatus: { action: setAdminStatus }
+          _edit:   ~
+          _delete: ~
+        sort:          [id, desc]
+      filter:  
+        display: [id, email_address, first_name, last_name, company, position, status, is_primary, company_city,company_status]
+      form:    ~
+      edit:    ~
+      new:     ~

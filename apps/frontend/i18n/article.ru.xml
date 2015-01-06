@@ -1,0 +1,114 @@
+<?xml version="1.0" ?>
+<xliff version="1.0">
+    <file orginal="global" source-language="en_EN" datatype="plaintext">
+        <body>
+            <trans-unit>
+                <source>Related Places</source>
+                <target>Связанные Места</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Related Lists</source>
+                <target>Связанные Перечени</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Related Events</source>	
+                <target>Связанные События</target>
+            </trans-unit>
+            <trans-unit>
+                <source>From Moderator</source>
+                <target>Из модератора</target>
+            </trans-unit>
+            <trans-unit>
+                <source>From Author</source>
+                <target>Из автора</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Article Photo Gallery</source>
+                <target>Статья Фото галерея </target>
+            </trans-unit>
+            <trans-unit>
+                <source>Related Events</source>
+                <target>Связанные События</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Related Lists</source>
+                <target>Связанные Перечени</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Related Articles</source>
+                <target>Связанные Статья</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Related Places</source>
+                <target>Связанные Места</target>
+            </trans-unit>
+            <trans-unit>
+                <source>SEO</source>
+                <target>SEO</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Create an Article</source>
+                <target>Создать статью</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Edit Article</source>
+                <target>Редактировать статью</target>
+            </trans-unit>
+            <trans-unit>
+                <source>New Article</source>
+                <target>Новая статья</target>
+            </trans-unit>
+			
+            <trans-unit>
+                <source>Copy this code and position it where you want the quotation to appear in the text!</source>
+                <target>Копировать этот код и позиционировать там, где хотите цитат показываться в тексте!</target>
+            </trans-unit>
+		
+            <trans-unit>
+                <source>If you want to show an image in the article text, copy the code to the right of this image and paste it where you want it to appear in the 'Article Content' field.</source>
+                <target>Если хотите показать снимок в тексте  статьи, копировать код направо в снимок и наклейвать его там где хотите его показаться на поле  "Содержание статья', .</target>
+            </trans-unit>
+			
+            <trans-unit>
+                <source>Back to 'Articles'</source>
+                <target>Обратно в 'Статья'</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Source</source>
+                <target>Източник</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Go to Article</source>
+                <target>В статью</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The article was not saved. Please fill in all mandatory fields.</source>
+                <target>Статья не была спазена. Пож. выполнить все обязательные поля.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The atricle title and content are mandatory for at least one of the two language versions.</source>
+                <target>Заголовок и содержание статьи обязательные по крайней мере по одной из двух языковых версиях.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Categories</source>
+                <target>Категории</target>
+            </trans-unit>
+            <trans-unit>
+                <source>This slug has already been used in another article. Please enter a new slug for the russian version of  the article.</source>
+                <target>Этот слуг уже използован в другой статьи. Пож. входить новый слуг в русскую версию статьи.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>This slug has already been used in another article. Please enter a new slug for the English version of  the article.</source>
+                <target></target>
+            </trans-unit>
+            <trans-unit>
+                <source>Edit Source</source>
+                <target>Редактировать источник</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Edit Description</source>
+                <target>Редактировать описание</target>
+            </trans-unit>
+        </body>
+    </file>	 
+</xliff>

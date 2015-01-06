@@ -1,0 +1,107 @@
+<?xml version="1.0" ?>
+<xliff version="1.0">
+    <file orginal="global" source-language="en_EN" datatype="plaintext">
+        <body>
+            <trans-unit>
+                <source>Create List</source>
+                <target>Luo lista</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Edit List</source>
+                <target>Muokkaa listaa</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Add Comment</source>
+                <target>Lisää Kommentti</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The list Title and Description are required for at least one of the two language versions.</source>
+                <target>Listan otsikko ja tiedot ovat vaadittuja ainakin yhdessä kieliversiossa.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The list was not saved. Please fill in all required fields.</source>
+                <target>Listaa ei tallennettu. Täytä kaikki tarvittavat kentät.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Click to add places to your list!</source>
+                <target>Klikkaa lisää paikkoja listallesi!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Click to add places to this list!</source>
+                <target>Klikkaa lisää paikkoja tähän listaan!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>[0]No places were added|[1]and one more place|(1,+Inf]and %count% more places</source>
+                <target>[0]Paikkoja ei lisätty|[1]yksi paikka lisää|(1,+Inf]ja %count% lisää paikkoja</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Name this list...</source>
+                <target>Anna listalle nimi...</target>
+            </trans-unit>
+            <trans-unit>
+                <source>What is this list about...</source>
+                <target>Mistä tämä lista koostuu...</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Name in English</source>
+                <target>Englanninkielinen nimi</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Description in English</source>
+                <target>Tiedot Englanniksi</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Back to 'Lists'</source>
+                <target>Takaisin 'Listoihin'</target>
+            </trans-unit>
+            <trans-unit>
+                <source>This list is created by</source>
+                <target>Tämän listan on luonut</target>
+            </trans-unit>
+            <trans-unit>
+                <source>More lists from</source>
+                <target>Lisää listoja</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Next</source>
+                <target>Seuraava</target>
+            </trans-unit>
+            <trans-unit>
+                <source><![CDATA[[0]<span id="spanPlaceCount">0</span> <br />places|[1]<span id="spanPlaceCount">1</span> <br />place|(1,+Inf]<span id="spanPlaceCount">%count%</span> <br />places]]></source>
+                <target><![CDATA[[0]<span id="spanPlaceCount">0</span> <br />Paikkoja|[1]<span id="spanPlaceCount">1</span> <br />paikkoja|(1,+Inf]<span id="spanPlaceCount">%count%</span> <br />paikkoja]]></target>
+            </trans-unit>
+            <trans-unit>
+                <source><![CDATA[[0]0 places|[1]1 place|(1,+Inf]%count% places]]></source>
+                <target><![CDATA[[0]0 paikkoja|[1]1 paikkoja|(1,+Inf]%count% paikkoja]]></target>
+            </trans-unit>
+            <trans-unit>
+                <source>Create a List Now</source>
+                <target>Luo uusi lista</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Comments About This List</source>
+                <target>Kommentoi tätä listaa</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Latest episode of Getweekend</source>
+                <target>Viimeisin GetWeekend episodi</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Add to List</source>
+                <target>Lisää listalle</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Choose from Current Lists</source>
+                <target>Valitse nykyisestä listasta</target>
+            </trans-unit>
+            <trans-unit>
+                <source><![CDATA[Add to <br/>List]]></source>
+                <target><![CDATA[Lisää <br/>listalle]]></target>
+            </trans-unit>
+            <trans-unit>
+                <source>Add to New List</source>
+                <target>Lisää uudelle listalle</target>
+            </trans-unit>
+        </body>
+    </file>	 
+</xliff>

@@ -1,0 +1,1 @@
+<div class="facebook-list-details fb-comments" data-href="<?php echo sfContext::getInstance()->getRequest()->getUri();?>" data-numposts="1" data-colorscheme="light"></div>

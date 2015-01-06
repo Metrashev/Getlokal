@@ -1,0 +1,27 @@
+generator:
+  class: sfDoctrineGenerator
+  param:
+    model_class:           UserProfile
+    theme:                 admin
+    non_verbose_templates: true
+    with_show:             false
+    singular:              ~
+    plural:                ~
+    route_prefix:          user_profile_addplacegame
+    with_doctrine_route:   true
+    actions_base_class:    sfActions
+
+    config:
+      actions: ~
+      fields:  ~
+      list:   
+        table_method:  getQueryForAddPlaceGame
+        display:      [first_name, email_address, _suggested_places,  _approved_places, _rejected_places, _pending_places]
+        actions: { } 
+        object_actions:   { }   
+        batch_actions:   { } 
+      filter: 
+         class: backendAddPlaceGameFilter      
+      form:    ~
+      edit:    ~
+      new:     ~

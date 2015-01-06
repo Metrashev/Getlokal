@@ -1,0 +1,391 @@
+<?xml version="1.0" ?>
+<xliff version="1.0">
+    <file orginal="global" source-language="en_EN" datatype="plaintext">
+        <body>
+            <trans-unit>
+                <source>Hi</source>
+                <target>Hei</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Hello</source>
+                <target>Hei</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Profile</source>
+                <target>Profiili</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Dashboard</source>
+                <target>Ohjain</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Log Out</source>
+                <target>Kirjaudu Ulos</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Sign in</source>
+                <target>Kirjaudu sisään</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Forgot Password?</source>
+                <target>Unohtuiko salasana?</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Home</source>
+                <target>Koti</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Send</source>
+                <target>Lähetä</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Email</source>
+                <target>Sähköposti</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Password</source>
+                <target>Salasana</target>
+            </trans-unit>
+            <trans-unit>
+                <source>I agree with the</source>
+                <target>Hyväksyn</target>
+            </trans-unit>
+            <trans-unit>
+                <source>I agree with %s</source>
+                <target>Hyväksyn %s</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Name</source>
+                <target>Etunimi</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Surname</source>
+                <target>Sukunimi</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Gender</source>
+                <target>Sukupuoli</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Location</source>
+                <target>Sijainti</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Location</source>
+                <target>Sijainti</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Write a few words about yourself interests, hobbies, what you like to write about. The words have to be comma separated, e.g. 'restaurants, bars, theatre, bungee jumping, travelling'</source>
+                <target>Kirjoita muutama sana itsestäsi  harrastukset ja asiat, joista olet kiinnostunut. Sanat pitää erottaa pilkulla, esim: ravintolat, baarit, teatterit</target>
+            </trans-unit>
+            <trans-unit>
+                <source>I agree to receive messages from getlokal and/or their partners.</source>
+                <target>Hyväksyn vastaanottamaan viestejä getlokalilta ja kumppaneilta.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Registration</source>
+                <target>Rekisteröinti</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Password Change</source>
+                <target>Muuta Salasana</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Invite a friend</source>
+                <target>Kutsu kaveri</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Your friends</source>
+                <target>Kaverit</target>
+            </trans-unit>
+            <trans-unit>
+                <source>[0]No reviews|[1]1 review|(1,+Inf]%count% reviews</source>
+                <target>[0]Ei Arvioita|[1]1 arvio|(1,+Inf]%count% arviot</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Settings</source>
+                <target>Asetukset</target>
+            </trans-unit>
+            <trans-unit>
+                <source>here</source>
+                <target>tästä</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Sign Up</source>
+                <target>Ilmoittaudu</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Illegal</source>
+                <target>Laiton</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Offensive</source>
+                <target>Loukkaava</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Copyright</source>
+                <target>Tekijänoikeus</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Incorrect</source>
+                <target>Virheeellinen</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Email Address</source>
+                <target>Sähköpostiosoite</target>
+            </trans-unit>
+            <trans-unit>
+                <source>My Places</source>
+                <target>Minun Paikkani</target>
+            </trans-unit>
+            <trans-unit>
+                <source>View Profile</source>
+                <target>Katso Profiili</target>
+            </trans-unit>
+            <trans-unit>
+                <source>is from</source>
+                <target>sta</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Send me my Username</source>
+                <target>Lähetä minulle Käyttäjätunnukseni</target>
+            </trans-unit>
+            <trans-unit>
+                <source>I want to receive newsletters</source>
+                <target>Lähetä minulle uutiskirje</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Login as %s</source>
+                <target>Kirjaudu sisään %s</target>
+            </trans-unit>
+            <trans-unit>
+                <source>contact us</source>
+                <target>ota yhteyttä</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Policy for Use and Protection of the Information on the Getlokal Website</source>
+                <target>Getlokal sivuston käyttö ja -tietoturvaohjeet</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Admin Status 'Rejected'</source>
+                <target>Ylläpitäjän Tila 'Hylätty'</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Admin Status 'Pending'</source>
+                <target>Ylläpitäjän Tila "Odottaa Hyväksyntää"</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Admin Status 'Approved'</source>
+                <target>Ylläpitäjän Tila "hyväksytty"</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Login as %s and Create an Event</source>
+                <target>Kirjaudu sisään %s ja Luo Tapahtuma</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Login as %s and Create List</source>
+                <target>kirjaudu sisään %s ja Luo Lista</target>
+            </trans-unit>
+            <trans-unit>
+                <source>General Communication</source>
+                <target>Yleinen kommunikaatio</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Community newsletters</source>
+                <target>Sivuston uutiskirjeet</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Weekly newsletter</source>
+                <target>viikottaiset uutiskirjeet</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Business newsletters</source>
+                <target>Yritys uutiskirjeet</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Games and promotions</source>
+                <target>Pelit ja tarjoukset</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Send Your Invite via e-mail</source>
+                <target>Lähetä Kutsu sähköpostitse</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Message</source>
+                <target>Viesti</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Via e-mail</source>
+                <target>Sähköpostitse</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Via Gmail / Yahoo!</source>
+                <target>Gmailin kautta / Yahoo!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Via Gmail or Yahoo Mail</source>
+                <target>Gmailin tai Yahoo Mailin kautta</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Via Facebook</source>
+                <target>Facebookin kautta</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Invite a Friend</source>
+                <target>Kutsu Kaveri</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Invite Your Friends</source>
+                <target>Kutsu Kaverit</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Send Your Invite via Gmail or Yahoo!</source>
+                <target>Lähetä Kutsu Gmailin tai Yahoo Mailin kautta!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Back</source>
+                <target>Takaisin</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Login</source>
+                <target>Kirjaudu Sisään</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Send another invite?</source>
+                <target>Lähetä Uusi Kutsu?</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Send Your Invite via Facebook</source>
+                <target>Lähetä Kutsu Facebookin kautta</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Invite</source>
+                <target>Kutsu</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Invited</source>
+                <target>Kutsuttu</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Your invite was sent successfully!</source>
+                <target>Kutsu on lähetetty onnistuneesti!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The friend list is empty!</source>
+                <target>Kaverilistasi on tyhjä!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Your e-mail list is empty!</source>
+                <target>Sähköpostilistasi on tyhjä!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Wrong e-mail address or/and password!</source>
+                <target>Virheellinen sähköpostiosoite ja/tai salasana!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>You entered a wrong e-mail address format!</source>
+                <target>Sähköposti on virheellisessä muodossa!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Email Address</source>
+                <target>Sähköpostiosoite</target>
+            </trans-unit>
+            <trans-unit>
+                <source>E-mail password</source>
+                <target>Sähköpostin salasana</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Email list</source>
+                <target>Sähköpostilista</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Discover getlokal!</source>
+                <target>Läydä getlokal!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Join me on getlokal and discover what other people like you and I think about restaurants, pubs, cafes and other interesting places in their local area.</source>
+                <target>Liity getlokaliin ja löydä muiden käyttäjien arvioit paikallisista palveluista, kuten suosikkiravintolat, pubit, kahvilat sekä paljon muuta.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>To join getlokal click on this link:</source>
+                <target>Liittyäksesi getlokaliin, klikkaa linkkiä:</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Country</source>
+                <target>Maa</target>
+            </trans-unit>
+            <trans-unit>
+                <source><![CDATA[Send Your Invite via <a href="?invite_choice=gmail" title="Gmail"><img src="/images/logos/gmail.png"></a> or <a href="?invite_choice=yahoo" title="Yahoo"><img src="/images/logos/yahoo.png"></a>]]></source>
+                <target><![CDATA[Lähetä Kutsusi <a href="?invite_choice=gmail" title="Gmail"><img src="/images/logos/gmail.png"></a> tai <a href="?invite_choice=yahoo" title="Yahoo"><img src="/images/logos/yahoo.png"></a>]]></target>
+            </trans-unit>
+            <trans-unit>
+                <source><![CDATA[Send Your Invite via <img src="/images/logos/gmail.png"> or <img src="/images/logos/yahoo.png">]]></source>
+                <target><![CDATA[Lähetä Kutsusi<img src="/images/logos/gmail.png"> ??? <img src="/images/logos/yahoo.png">]]></target>
+            </trans-unit>
+            <trans-unit>
+                <source>Via Gmail or Yahoo</source>
+                <target>Gmailin tai Yahoon kautta!</target>
+            </trans-unit>
+            <trans-unit>
+                <source><![CDATA[Send Your Invite via <img src="/images/gui/facebook.png">]]></source>
+                <target><![CDATA[Lähetä Kutsusi <img src="/images/gui/facebook.png">]]></target>
+            </trans-unit>
+            <trans-unit>
+                <source>Via Facebook</source>
+                <target>Facebookin kautta!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>User with same %s e-mail address is already registered!</source>
+                <target>Käyttäjä samalla %s sähköpostiosoitteella on jo käytössa!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>There are no reviews</source>
+                <target>Arvioita ei ole saatavilla</target>
+            </trans-unit>
+            <trans-unit>
+                <source>You can use your</source>
+                <target>Voit käyttää</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Facebook account to register</source>
+                <target>Facebook tiliäsi rekisteröitymiseen</target>
+            </trans-unit>
+            <trans-unit>
+                <source>in getlokal.com</source>
+                <target>getlokalissa</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Facebook account to log in</source>
+                <target>Facebook tili sisäänkirjautumista varten</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Followers</source>
+                <target>Seuraajat</target>
+            </trans-unit>
+            <trans-unit>
+                <source><![CDATA[<p class="part_one"><span class="greet">Congrats</span> you are our newest registered user.</p><p class="part_two"> Now you can tell everyone about the great places only you know!</p>]]></source>
+                <target><![CDATA[<p class="part_one"><span class="greet">Onnea</span> olet uusin rekisteröitynyt käytttäjämme!</p><p class="part_two"> Nyt voit kertoa kaikille upeista paikoista joista vain sinä tiedät!</p>]]></target>
+            </trans-unit>
+            <trans-unit>
+                <source><![CDATA[<p class="part_one"><span class="greet">Congrats</span> you are our newest registered user.</p><p class="part_two"> Now you can finish claiming your place and update the information about it!</p>]]></source>
+                <target><![CDATA[<p class="part_one"><span class="greet">Onneksi olkoon,</span> olet uusin rekisteröitynyt käyttäjämme.</p><p class="part_two"> Nyt voit luoda yrityksesi sivun loppuun ja päivittää tietoja.</p>]]></target>
+            </trans-unit>
+            <trans-unit>
+                <source>Welcome to getlokal.com</source>
+                <target>Tervetuloa getlokaliin</target>
+            </trans-unit>
+            <trans-unit>
+                <source>We are mobile</source>
+                <target>Getlokal-mobiili</target>
+            </trans-unit>
+
+            <!-- new design -->
+
+            <trans-unit>
+                <source>Sign in via Facebook</source>
+                <target>Kirjaudu Facebook-tunnuksilla</target>
+            </trans-unit>
+            
+        </body>
+    </file>
+</xliff>

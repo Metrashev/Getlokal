@@ -1,0 +1,31 @@
+generator:
+  class: sfDoctrineGenerator
+  param:
+    model_class:           StaticPage
+    theme:                 admin
+    non_verbose_templates: true
+    with_show:             false
+    singular:              ~
+    plural:                ~
+    route_prefix:          static_page
+    with_doctrine_route:   true
+    actions_base_class:    sfActions
+
+    config:
+      actions: ~
+      fields:  ~
+      list:
+        display: [id, _title, _reorder, country, status]
+        max_per_page: 0
+        object_actions:
+          new:
+            label: Add Child
+            action: child
+          _edit: ~
+          _delete: ~
+      filter:
+        display: [status]
+      form:
+        class: backendStaticPageForm
+      edit:    ~
+      new:     ~

@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+<xliff version="1.0">
+    <file orginal="global" source-language="en_EN" datatype="plaintext">
+        <body>
+            <trans-unit id="1">
+                <source>404 ERROR</source>
+                <target> 404 HIBA</target>
+            </trans-unit>
+            <trans-unit id="2">
+                <source>The server returned a 404 response!</source>
+                <target>A server  404-es híbát mutatott!</target>
+            </trans-unit>
+            <trans-unit id="3">
+                <source>Here are some of the possible reasons</source>
+                <target>Lehetséges okok</target>
+            </trans-unit>
+            <trans-unit id="4">
+                <source>Did you type a URL i.e. website address?</source>
+                <target>Az URL-t (honlapcímet) írt be?</target>
+            </trans-unit>
+            <trans-unit id="5">
+                <source>You may have typed the website address (URL) incorrectly. Please, check the spelling, capitalization, punctuation, etc.</source>
+                <target>Lehetséges, hogy téves honlapcímet (URL-t) írt be . Kérem ellenorizze a helyesírást, a fõbetûket, a jeleket stb.</target>
+            </trans-unit>
+            <trans-unit id="6">
+                <source>Did you follow a link to this page from another page in this site?</source>
+                <target>Lehetséges, hogy más honlap linkjén keresztül jött erre az oldalra?</target>
+            </trans-unit>
+            <trans-unit id="7">
+                <source>If you reached this page from another page in this site, please email us at info@getlokal.com so we can fix the problem.</source>
+                <target>Ha erre az oldalra jött miután a honlapunk más oldaláról követte a linket, kérünk e-mail-ezzen az info@getlokal.com-ra, hogy helre hozzuk a hibát.</target>
+            </trans-unit>
+            <trans-unit id="8">
+                <source>Did you follow a link from another site?</source>
+                <target>Lehetséges, hogy más oldal linkjén jött erre az oldalra?</target>
+            </trans-unit>
+            <trans-unit id="9">
+                <source>Links from other sites can sometimes be out-of-date or misspelled. Please email us at info@getlokal.com with information about the site from which you followed the link so we can try and contact the other site in order to fix the problem.</source>
+                <target>Más honlapok linkjei idonként nem aktuálisak, vagy tévesen vannak leírva. Kérünk e-mail-ezze az info@getlokal.com-nak az információt a honlapról ahonnan követte a linket, hogy megprobáljunk kapcsolatba lépni velük, hogy helyre hozzák a hibát.</target>
+            </trans-unit>
+            <trans-unit id="10">
+                <source>404 ERROR - The page can't be found</source>
+                <target>404 HIBA - Az oldal nem található.</target>
+            </trans-unit>
+        </body>
+    </file>
+</xliff>

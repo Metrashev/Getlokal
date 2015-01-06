@@ -1,0 +1,180 @@
+<?xml version="1.0" ?>
+<xliff version="1.0">
+  <file orginal="global" source-language="en_EN" datatype="plaintext">
+    <body>
+      <trans-unit>
+        <source><![CDATA[Welcome <span>%s</span>]]></source>
+        <target><![CDATA[Bine ai venit <span>%s</span>]]></target>
+      </trans-unit>
+      <trans-unit>
+        <source>You usually go out in these types of places</source>
+        <target>De obicei, ieși în genul ăsta de locuri</target>
+      </trans-unit>
+      <trans-unit>
+        <source>So far, you’ve helped others with lokal information about</source>
+        <target>Până acum, i-ai ajutat pe ceilalți cu informații despre</target>
+      </trans-unit>
+      <trans-unit>
+        <source>[1]1 place|(1,+Inf]%s places</source>
+        <target>[1]1 loc|(1,+Inf]%s locuri</target>
+      </trans-unit>
+      <trans-unit>
+        <source><![CDATA[Your lokal city is <span>%s</span>]]></source>
+        <target><![CDATA[Primul pas - alege-ţi oraşul: <span>%s</span>]]></target>
+      </trans-unit>
+      <trans-unit>
+        <source>Change city</source>
+        <target>Schimbă orașul</target>
+      </trans-unit>
+      <trans-unit>
+        <source>You usually go out in these types of places</source>
+        <target>De obicei ieși în genul ăsta de locuri</target>
+      </trans-unit>
+      <trans-unit>
+        <source><![CDATA[feel free to modify the selection<br />to match your preference]]></source>
+        <target><![CDATA[<b>Unde ieşi cel mai des?</b><br/>La restaurant, în pub, în club, într-o ceainărie sau în alt tip de loc?<br/>Alege din categoriile de mai jos!]]></target>
+      </trans-unit>
+      <trans-unit>
+        <source>SELECTED</source>
+        <target>SELECTAT</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Next step</source>
+        <target>Următorul pas</target>
+      </trans-unit>
+      <trans-unit>
+        <source><![CDATA[[0]We found <span>%s</span> places on getlokal that match your search criteria.|[1]We found <span>1</span> place on getlokal that match your search criteria.|(1,+Inf]We found <span>%s</span> places on getlokal that match your search criteria.]]></source>
+        <target><![CDATA[[0]Avem <span>%s</span> locuri despre care poţi scrie!|[1]Avem <span>1</span> loc pe getlokal care se potrivește cu criteriul tău de căutare|(1,+Inf]Avem <span>%s</span> locuri despre care poţi scrie!]]></target>
+     </trans-unit>
+      <trans-unit>
+        <source><![CDATA[[0]<b>0</b> reviews|[1]<b>1</b> review|(1,+Inf]<b>%s</b> reviews]]></source>
+        <target><![CDATA[[0]<b>0</b> recomandări|[1]<b>1</b> recomandare|(1,+Inf]<b>%s</b> recomandări]]></target>
+      </trans-unit>
+      <trans-unit>
+        <source><![CDATA[[0]<b>0</b> chances|[1]<b>1</b> chance|(1,+Inf]<b>%s</b> chances]]></source>
+        <target><![CDATA[[0]<b>0</b> șanse|[1]<b>1</b> șansă|(1,+Inf]<b>%s</b> șanse]]></target>
+      </trans-unit>
+      <trans-unit>
+        <source>Help your lokal community take informed decisions by writing a short review about your experience in any of the places below. If you haven’t been there, you can skip a place.</source>
+        <target><![CDATA[Scrie despre trei locuri şi câştigi şanse la premiile săptămânale şi la premiile mari!<br/>Dacă nu vezi niciun loc cunoscut, apasă <img src="/images/facebook/v2/close.gif" /> şi va apărea altul care corespunde căutării tale!]]></target>
+      </trans-unit>
+      <trans-unit>
+        <source>Reviews form other users</source>
+        <target>Recomandări de la alți utilizatori</target>
+      </trans-unit>
+      <trans-unit>
+        <source>We saved your review. Thanks!</source>
+        <target>Recomandarea ta a fost salvată. Mulțumim!</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Load another place</source>
+        <target>încarcă un alt loc</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Your review</source>
+        <target>Recomandarea ta</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Address</source>
+        <target>Adresă</target>
+      </trans-unit>
+    <trans-unit>
+        <source>Add а New Place</source>
+        <target>Adaugă un loc nou</target>
+      </trans-unit>
+    <trans-unit>
+        <source>Change filtering</source>
+        <target>Schimbă filtrele</target>
+      </trans-unit>
+     <trans-unit>
+        <source>PUT YOUR CITY ON THE GETLOKAL MAP</source>
+        <target>PUNE-ŢI ORAŞUL PE HARTA GETLOKAL</target>
+      </trans-unit>
+     <trans-unit>
+        <source><![CDATA[Rules &amp; Prizes]]></source>
+        <target><![CDATA[Reguli &amp; Premii]]></target>
+      </trans-unit>
+     <trans-unit>
+        <source>There are no reviews for %s yet. Be the first to write one.</source>
+        <target>Nu există încă nicio recomandare pentru %s. Fii primul care scrie despre acest loc!</target>
+      </trans-unit>
+     <trans-unit>
+        <source>Help others with lokal information by reviewing and rating places on getlokal!</source>
+        <target><![CDATA[Scrie-ţi opinia despre locurile în care ieşi din oraşul tău<br/>şi adună <b>şanse</b> pentru <b>premii</b>!]]></target>
+      </trans-unit>     
+     <trans-unit>
+        <source>Partners</source>
+        <target>Parteneri</target>
+      </trans-unit>
+     <trans-unit>
+        <source>in</source>
+        <target>în</target>
+      </trans-unit>
+     <trans-unit>
+        <source>Share this on your wall</source>
+        <target>Dă share pe wall</target>
+      </trans-unit>
+     <trans-unit>
+        <source>Invite your friends to play</source>
+        <target>Invită-ți prietenii în joc</target>
+      </trans-unit>
+     <trans-unit>
+        <source>Play again</source>
+        <target>Joacă din nou</target>
+      </trans-unit>
+     <trans-unit>
+        <source>Text</source>
+        <target>Scrie o recomandare utilă celorlalţi - cu detalii despre preţuri, atmosferă, muzică sau servicii.</target>
+      </trans-unit>     
+      <trans-unit>
+        <source>Congratulations</source>
+        <target>Felicitări</target>
+      </trans-unit>
+      <trans-unit>
+        <source><![CDATA[You just scored <strong>1 chance</strong> for the getlokal prizes]]></source>
+        <target><![CDATA[Tocmai ai câștigat <strong>1 șansă</strong> la premiile getlokal!]]></target>
+      </trans-unit>
+      <trans-unit>
+        <source><![CDATA[<strong class="chance"><span>%s chances</span></strong>]]></source>
+        <target><![CDATA[<strong class="chance"><span>%s șanse</span></strong>]]></target>
+      </trans-unit>
+      <trans-unit>
+        <source><![CDATA[In total you have written <strong class="reviews"><span>%s</span> reviews</strong> and you have]]></source>
+        <target><![CDATA[Ai scris în total <strong class="reviews"><span>%s</span> recomandări</strong>, și ai]]></target>
+      </trans-unit>
+      <trans-unit>
+        <source><![CDATA[[0]%s chance|[1]%s chance|(1,+Inf]%s chances]]></source>
+        <target><![CDATA[[0]%s șanse|[1]%s șansă|(1,+Inf]%s șanse]]></target>
+      </trans-unit>
+      
+      <trans-unit>
+        <source>Write reviews for the places in your city and you can win cool prizes from getlokal.</source>
+        <target>Scrie recomandări pentru locuri din orașul tău.</target>
+      </trans-unit>
+      <trans-unit>
+        <source>fb_share_message</source>
+        <target>Spune-le şi prietenilor tăi.</target>
+      </trans-unit>
+      <trans-unit>
+        <source>fb_share_title</source>
+        <target>ReviewRomânia: Scrie și tu recomandările tale și intră în cursă pentru premii! </target>
+      </trans-unit>
+      <trans-unit>
+        <source>fb_share_caption</source>
+        <target>Eu am scris recomandări despre locurile în care am fost.</target>
+      </trans-unit>
+      <trans-unit>
+        <source>fb_share_description</source>
+        <target>Fiecare 3 recomandări îți aduc 1 șansă la premiile săpămânale și 1 șansă la premiile mari!</target>
+      </trans-unit>
+      <trans-unit>
+        <source>fb_share_user_promp_message</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit>
+        <source>fb_share_message</source>
+        <target></target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

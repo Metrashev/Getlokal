@@ -1,0 +1,364 @@
+# You can find more information about this file on the symfony website:
+# http://www.symfony-project.org/reference/1_4/en/10-Routing
+
+keepalive:
+    url: /keepalive
+    param: { module: home, action: keepalive }
+
+jobs:
+  url:   /:sf_culture/jobs
+  param: { module: home, action: ejobs }
+
+getpilot:
+  url:   /getpilot
+  param: { module: pilot, action: index }
+
+getpilot_vote:
+  url:   /getpilot/:id/vote
+  param: { module: pilot, action: vote }
+
+api:
+  url:  /api/mail_bg/companies.:sf_format
+  param: { module: api, action: mailBg }
+  requirements:
+    sf_format: (?:xml|json|yaml)
+
+autocomplete_country:
+  url:   /:sf_culture/getCountries
+  param: { module: user, action: getCountriesAutocomplete }
+  requirements:
+    sf_method: [post,put]
+    sf_format: (?:xml|json)
+
+user_set_country:
+  url:   /setCountry
+  param: { module: user, action: setCountry, countryId: '' }
+  requirements:
+    sf_method: [post,put]
+    sf_format: (?:xml|json)
+    
+user_set_city:
+  url:   /setCity
+  param: { module: user, action: setCity, cityId: '' }
+  requirements:
+    sf_method: [post,put]
+    sf_format: (?:xml|json)
+
+facebook_confirm_registration:
+  url:   /:sf_culture/facebook_confirm_registration
+  param: { module: user, action: facebookConfirmRegistration }
+
+user_register:
+  #url:   /:sf_culture/register
+  url:   /:sf_culture/register/:code
+  param: { module: user, action: register, code:'' }
+
+user_activate:
+  url:   /activate/:key
+  param: { module: user, action: activate }
+
+placeadmin_activate:
+  url:   /placeadmin/:key
+  param: { module: user, action: placeAdminActivate }
+
+sf_guard_signin:
+  url:   /:sf_culture/login
+  param: { module: user, action: signin }
+
+sf_guard_signout:
+  url:   /logout
+  param: { module: user, action: signout }
+
+sf_guard_password:
+  url:   /:sf_culture/request_password
+  param: { module: user, action: forgotPassword }
+
+user_resend_activation:
+  url:    /:sf_culture/resendActivationEmail
+  param: { module: user, action: resendActivationEmail }
+
+autocomplete_city:
+  url:   /:sf_culture/getCities
+  param: { module: user, action: getCitiesAutocomplete }
+
+sitemap:
+  url:   /sitemap/:action/*
+  param: { module: sitemap, action: index }
+
+company_settings:
+  url:   /:sf_culture/companySettings/:slug/:action
+  param: { module: companySettings, action: basic }
+  requirements: {slug: \w(\w|\.|\-|\_|\!)*\w }
+
+user_page:
+  url:   /:sf_culture/profile/:username
+  param: { module: profile, action: index }
+  requirements: {username: \w(\w|\.|\-|\_|\!)*\w }
+
+user_page_actions:
+  url:   /:sf_culture/:module/:username/:action
+  param: { module: profile }
+  requirements: {username: \w(\w|\.|\-|\_|\!)*\w , module: profile}
+
+offer:
+  url:   /:sf_culture/offers
+  param: { module: offer, action: index }
+
+offerCity:
+  url:   /:sf_culture/offers/:city
+  param: { module: offer, action: index, city: current }
+  requirements: { city: \w(\w|\.|\-|\_|\+)*\w}
+
+offerCitySector:
+  url:   /:sf_culture/offers/:city/:slug
+  param: { module: offer, action: index }
+  requirements: { slug: \w(\w|\.|\-|\_|\!)*\w, city: \w(\w|\.|\-|\_|\+)*\w}
+
+event_category:
+  url:   /:sf_culture/events/:city/:category_id
+  param: { module: event, action: recommended, city: current ,category_id: all_cats}
+  requirements: { category_id: \d+,city: \w(\w|\.|\-|\_|\+)*\w}
+
+event:
+  url:   /:sf_culture/events/:city/
+  param: { module: event, action: recommended, city: current }
+  requirements: { city: \w(\w|\.|\-|\_|\+)*\w}
+
+event_recommended:
+  url:   /:sf_culture/events/recommended/:city
+  param: { module: event, action: recommended, city: current }
+  requirements: { city: \w(\w|\.|\-|\_|\+)*\w}
+
+article_index:
+  url:   /:sf_culture/articles.:sf_format
+  param: { module: article, action: index, sf_format: html }
+
+article_category:
+  url:   /:sf_culture/article-category/:slug
+  param: { module: article, action: category }
+  requirements: {slug: \w(\w|\.|\-|\_|\!)*\w , city: \w(\w|\.|\-|\_|\+)*\w}
+
+article:
+  url:   /:sf_culture/article/:slug
+  param: { module: article, action: show }
+  requirements: {slug: \w(\w|\.|\-|\_|\!)*\w , city: \w(\w|\.|\-|\_|\+)*\w}
+
+promo:
+  url:   /:sf_culture/promotion
+  param: { module: promo, action: index }
+
+promo_add_place:
+  url:   /:sf_culture/promotion/addplace
+  param: { module: promo, action: addPlace, city: current }
+
+ambassador:
+  url:   /:sf_culture/ambassador
+  param: { module: promo, action: ambassador}
+
+for_business:
+  url:   /:sf_culture/for-business
+  param: { module: home, action: business}
+
+
+# Start invite module
+invite:
+  url: /:sf_culture/invite
+  param: {module: invite, action: index}
+
+invite_pm:
+  url: /:sf_culture/invite/pm
+  param: {module: invite, action: pm}
+
+invite_gy:
+  url: /:sf_culture/invite/gy
+  param: {module: invite, action: GY}
+
+invite_gy_check:
+  url: /:sf_culture/invite/gy_check
+  param: {module: invite, action: GYCheck}
+
+invite_gmail_contacts:
+  url: /:sf_culture/invite/gmail_contacts
+  param: {module: invite, action: getGmailContacts}
+
+invite_yahoo_contacts:
+  url: /:sf_culture/invite/yahoo_contacts
+  param: {module: invite, action: getYahooContacts}
+
+invite_fb:
+  url: /:sf_culture/invite/fb
+  param: {module: invite, action: facebook}
+# End invite module
+
+
+old_company_lokal:
+  url:   /:id
+  param: { module: home, action: OldUrl }
+  requirements: { id: \d+}
+
+old_company:
+  url:   /:sf_culture/:id
+  param: { module: home, action: OldUrl}
+  requirements: { id: \d+}
+
+old_reviews_lokal:
+  url:   /:id/reviews
+  param: { module: home, action: OldUrl }
+  requirements: { id: \d+}
+
+old_reviews:
+  url:   /:sf_culture/:id/reviews
+  param: { module: home, action: OldUrl }
+  requirements: { id: \d+}
+
+reviews:
+  url:   /:sf_culture/reviews
+  param: { module: review, action: index }
+
+static_page_send_mail:
+  url:  /:sf_culture/page/sendMailTo
+  param: { module: staticpage, action: sendMailTo }
+
+static_page:
+  url:   /:sf_culture/page/:slug
+  param: { module: staticpage, action: index }
+
+business_products:
+  url:   /:sf_culture/business-products/:slug
+  param: { module: business_products, action: index }
+  requirements: { slug: \w(\w|\.|\-|\_|\!)*\w , city: \w(\w|\.|\-|\_|\+)*\w }
+
+eating_out:
+  url:   /:sf_culture/eat-out/:slug
+  param: { module: business_products, action: eating }
+  
+eating_out4:
+  url:   /:sf_culture/eat-out4/:slug
+  param: { module: business_products, action: big }
+widget:
+  url: /:sf_culture/w/:action/:id
+  param: { module: widget, id: null }
+  requirements: { id: \d+ }
+
+default:
+  url:   /:sf_culture/d/:module/:action/*
+
+homeCounty:
+  url: /:sf_culture/c/:county
+  param: { module: home, action: index }
+  requirements: { county: \w(\w|\.|\-|\_|\+)*\w}
+  
+sectorCounty:
+  url: /:sf_culture/c/:county/s/:slug
+  param: { module: home, action: category }
+  requirements: { county: \w(\w|\.|\-|\_|\+)*\w}
+  
+classificationCounty:
+  url:   /:sf_culture/c/:county/:sector/:slug
+  param: { module: home, action: classification }
+  requirements: { county: \w(\w|\.|\-|\_|\+)*\w}
+  
+sector:
+  url:   /:sf_culture/:city/s/:slug
+  param: { module: home, action: category }
+  requirements: { city: \w(\w|\.|\-|\_|\+)*\w}
+
+locations:
+  url:   /:sf_culture/:action/:sector/:slug
+  param: { module: home, action: locations }
+  requirements: {slug: \w(\w|\.|\-|\_)*\w , sector: \w(\w|\.|\-|\_)*\w, action: locations}
+
+company_detail:
+  url:   /:sf_culture/:city/:slug/info
+  param: { module: company, action: info }
+  requirements: {slug: \w(\w|\.|\-|\_|\!)*\w, city: \w(\w|\.|\-|\_|\+)*\w }
+
+company_events:
+  url:   /:sf_culture/:city/:slug/events
+  param: { module: company, action: events }
+  requirements: {slug: \w(\w|\.|\-|\_|\!)*\w, city: \w(\w|\.|\-|\_|\+)*\w }
+
+company_crop:
+  url:   /:sf_culture/companySettings/:slug/crop
+  param: { module: companySettings, action: crop }
+  requirements: {slug: \w(\w|\.|\-|\_|\!)*\w, city: \w(\w|\.|\-|\_|\+)*\w }
+
+company_suggest:
+  url:   /:sf_culture/:city/:slug/suggest
+  param: { module: company, action: suggest }
+  requirements: {slug: \w(\w|\.|\-|\_|\!)*\w , city: \w(\w|\.|\-|\_|\+)*\w}
+  
+classification:
+  url:   /:sf_culture/:city/:sector/:slug
+  param: { module: home, action: classification }
+  requirements: { city: \w(\w|\.|\-|\_|\+)*\w}
+
+company_event:
+  url:   /:sf_culture/:city/:slug/events
+  param: { module: company, action: events }
+  requirements: { city: \w(\w|\.|\-|\_|\+)*\w}
+
+
+old_classification:
+  url:   /:old_slug/:city
+  param: { module: home, action: oldClassification }
+  requirements: { slug: \w(\w|\.|\-|\_|\+)*\w, city: "[A-Z -+]+"}
+
+old_classification_culture:
+  url:    /:sf_culture/:old_slug/:city
+  param: { module: home, action: oldClassification }
+  requirements: { slug: \w(\w|\.|\-|\_|\+)*\w, city: "[A-Z -+]+"}
+
+company:
+  url:   /:sf_culture/:city/:slug
+  param: { module: company, action: show }
+  requirements: {slug: \w(\w|\.|\-|\_|\!)*\w , city: \w(\w|\.|\-|\_|\+)*\w}
+  
+sublevel:
+  url:   /:sf_culture/:city/locations/:sector/:slug
+  param: { module: home, action: sublevel }
+  requirements: { city: \w(\w|\.|\-|\_|\+)*\w}
+
+streetClassification:
+  url:   /:sf_culture/:city/:street/:sector/:slug
+  param: { module: home, action: streetClassification }
+  requirements: { city: \w(\w|\.|\-|\_|\+)*\w, street: \w(\w|\.|\-|\_|\+)*\w}
+
+# geocoding
+geocoding:
+  url: /geocodus
+  param: { module: company, action: geocodus, sf_culture: en }
+
+# discover city
+# ro version
+discover_city_ro:
+  url:    /descopera-orasul
+  param:  { module: staticpage, action: discoverCity, sf_culture: ro }
+
+uploads:
+  url: /uploads/*
+  param: { module: home, action: notFound }
+
+
+# default rules
+home:
+  url:   /:sf_culture/:city
+  param: { module: home, action: index }
+  requirements: { city: \w(\w|\.|\-|\_|\+)*\w}
+
+home2:
+  url:   /:sf_culture/:city/
+  param: { module: home, action: index }
+  requirements: { city: \w(\w|\.|\-|\_|\+)*\w}
+
+home3:
+  url:   /:sf_culture
+  param: { module: home, action: index }
+  requirements: { city: \w(\w|\.|\-|\_|\+)*\w}
+
+homepage:
+  url:   /
+  param: { module: home, action: index }
+
+### County 
+

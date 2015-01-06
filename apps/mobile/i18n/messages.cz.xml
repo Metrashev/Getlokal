@@ -1,0 +1,293 @@
+﻿<?xml version="1.0" ?>
+<xliff version="1.0">
+  <file original="global" source-language="en" datatype="plaintext">
+    <body>
+     <trans-unit id="1">
+      <source>Mon</source>
+      <target>Po</target>
+    </trans-unit>
+     <trans-unit id="2">
+      <source>Tue</source>
+      <target>Út</target>
+    </trans-unit>
+     <trans-unit id="3">
+      <source>Wed</source>
+      <target>St</target>
+    </trans-unit>
+     <trans-unit id="4">
+      <source>Thu</source>
+      <target>Čt</target>
+    </trans-unit>
+     <trans-unit id="5">
+      <source>Fri</source>
+      <target>Pá</target>
+    </trans-unit>
+     <trans-unit id="6">
+      <source>Sat</source>
+      <target>So</target>
+    </trans-unit>
+     <trans-unit id="7">
+      <source>Sun</source>
+      <target>Ne</target>
+    </trans-unit>
+
+      <trans-unit id="8">
+        <source>Tomorrow</source>
+        <target>Zítra</target>
+      </trans-unit>
+      <trans-unit id="9">
+        <source>Today</source>
+        <target>Dnes</target>
+      </trans-unit>
+      <trans-unit id="10">
+	  <source>January</source>
+        <target>Leden</target>
+      </trans-unit>
+	  <trans-unit id="11">
+        <source>February</source>
+        <target>Únor</target>
+      </trans-unit>
+	  <trans-unit id="12">
+        <source>March</source>
+        <target>Březen</target>
+      </trans-unit>
+	  <trans-unit id="13">
+        <source>April</source>
+        <target>Duben</target>
+      </trans-unit>
+	  <trans-unit id="14">
+        <source>May</source>
+        <target>Květen</target>
+      </trans-unit>
+	  <trans-unit id="15">
+        <source>June</source>
+        <target>Červen</target>
+      </trans-unit>
+	  <trans-unit id="16">
+        <source>July</source>
+        <target>Červenec</target>
+      </trans-unit>
+	   <trans-unit id="17">
+        <source>August</source>
+        <target>Srpen</target>
+      </trans-unit>
+	   <trans-unit id="18">
+        <source>September</source>
+        <target>Září</target>
+      </trans-unit>
+	   <trans-unit id="19">
+        <source>October</source>
+        <target>Říjen</target>
+      </trans-unit>
+	   <trans-unit id="20">
+        <source>November</source>
+        <target>Listopad</target>
+      </trans-unit>
+	   <trans-unit id="21">
+        <source>December</source>
+        <target>Prosinec</target>
+      </trans-unit>
+
+    <trans-unit id="22">
+      <source>Monday</source>
+      <target>Pondělí</target>
+    </trans-unit>
+    <trans-unit id="23">
+      <source>Tuesday</source>
+      <target>Úterý</target>
+    </trans-unit>
+    <trans-unit id="24">
+      <source>Wednesday</source>
+      <target>Středa</target>
+    </trans-unit>
+    <trans-unit id="25">
+      <source>Thursday</source>
+      <target>Čtvrtek</target>
+    </trans-unit>
+    <trans-unit id="26">
+      <source>Friday</source>
+      <target>Pátek</target>
+    </trans-unit>
+    <trans-unit id="27">
+      <source>Saturday</source>
+      <target>Sobota</target>
+    </trans-unit>
+    <trans-unit id="28">
+      <source>Sunday</source>
+      <target>Neděle</target>
+    </trans-unit>
+
+    <trans-unit id="29">
+      <source>Free</source>
+      <target>Zdarma</target>
+    </trans-unit>
+    <trans-unit id="30">
+      <source>Up to 10 %s</source>
+      <target>Až 10 %</target>
+    </trans-unit>
+    <trans-unit id="31">
+      <source>Up to 50 %s</source>
+      <target>Až 50 %</target>
+    </trans-unit>
+    <trans-unit id="32">
+      <source>Up to 100 %s</source>
+      <target>Až 100 %</target>
+    </trans-unit>
+    <trans-unit id="33">
+      <source>Over 100 %s</source>
+      <target>Více než 100 %</target>
+    </trans-unit>
+
+    <trans-unit id="34">
+      <source>ATTEND</source>
+      <target>NAVŠTÍVIT</target>
+    </trans-unit>
+     <trans-unit id="35">
+      <source>%d participants</source>
+      <target>%d účastníků</target>
+    </trans-unit>
+
+
+     <trans-unit id="36">
+      <source>Reviews</source>
+      <target>Recenze</target>
+    </trans-unit>
+
+    <trans-unit id="37">
+      <source>REVIEWS</source>
+      <target>RECENZE</target>
+    </trans-unit>
+
+     <trans-unit id="38">
+      <source>Address</source>
+      <target>Adresa</target>
+    </trans-unit>
+
+     <trans-unit id="39">
+      <source>Call</source>
+      <target>Volat</target>
+    </trans-unit>
+
+    <trans-unit id="40">
+      <source>CALL</source>
+      <target>VOLAT</target>
+    </trans-unit>
+
+     <trans-unit id="41">
+      <source>Ticket: </source>
+      <target>Vstupenka: </target>
+    </trans-unit>
+    <trans-unit id="42">
+      <source>Review</source>
+      <target>Recenze</target>
+    </trans-unit>
+    <trans-unit id="43">
+      <source>Add Pic</source>
+      <target>Přidat obrázek</target>
+    </trans-unit>
+    <trans-unit id="44">
+      <source>Fave</source>
+      <target>Přidat k oblíbeným</target>
+    </trans-unit>
+    <trans-unit id="45">
+      <source>Checked in at %s</source>
+      <target>Registrace v %s</target>
+    </trans-unit>
+    <trans-unit id="46">
+      <source>Closed</source>
+      <target>Zavřeno</target>
+    </trans-unit>
+
+    <trans-unit id="47">
+        <source>Events</source>
+        <target>Události</target>
+    </trans-unit>
+
+    <trans-unit id="48">
+        <source>EVENTS</source>
+        <target>UDÁLOSTI</target>
+    </trans-unit>
+
+    <trans-unit id="49">
+        <source>Check-in</source>
+        <target>Registrace</target>
+    </trans-unit>
+	<trans-unit id="50">
+        <source>Save</source>
+        <target>Save</target>
+    </trans-unit>
+	<trans-unit id="51">
+        <source>Unsave</source>
+        <target>Unsave</target>
+    </trans-unit>
+	<trans-unit id="52">
+        <source>Distance</source>
+        <target>Vzdálenost</target>
+    </trans-unit>
+	<trans-unit id="53">
+        <source>km</source>
+        <target>km</target>
+    </trans-unit>
+	<trans-unit id="54">
+        <source>review(s)</source>
+        <target>recenze/recenzí</target>
+    </trans-unit>
+
+	<trans-unit id="55">
+        <source>ATMs</source>
+        <target>Bankomaty</target>
+    </trans-unit>
+
+    <trans-unit id="56">
+       <source><![CDATA[[0]No reviews|[1]<span>1</span> review|(1,+Inf]<span>%count%</span> reviews]]></source>
+       <target><![CDATA[[0]Žádné recenze|[1]<span>1</span> recenze|(1,+Inf]<span>%count%</span> recenzí]]></target>
+    </trans-unit>
+    <trans-unit id="57">
+        <source>We are mobile</source>
+        <target>Jsme mobilní</target>
+    </trans-unit>
+    <trans-unit id="58">
+        <source>Select Country</source>
+        <target>Vyberte zemi</target>
+    </trans-unit>
+    <trans-unit id="59">
+      <source>Getlokal recommended</source>
+      <target>Služba Getlokal doporučuje</target>
+    </trans-unit>
+    <trans-unit id="60">
+      <source>Places with Offers</source>
+      <target>Místa s nabídkami</target>
+    </trans-unit>
+    <trans-unit id="61">
+      <source>Voucher valid from</source>
+      <target>Poukaz platí od</target>
+    </trans-unit>
+    <trans-unit id="62">
+      <source> to </source>
+      <target> do </target>
+    </trans-unit>
+
+    <trans-unit id="63">
+      <source>0 available</source>
+      <target>0 k dispozici</target>
+    </trans-unit>
+    <trans-unit id="64">
+      <source>1 available</source>
+      <target>1 k dispozici</target>
+    </trans-unit>
+    <trans-unit id="65">
+      <source> available</source>
+      <target> k dispozici</target>
+    </trans-unit>
+
+    <trans-unit id="66">
+      <source>We were unable to issue your voucher. The offer is no longer active or you have already ordered the maximum number vouchers per user.</source>
+      <target>Váš poukaz nemůžeme vydat. Tato nabídka již není aktivní nebo jste již objednali maximální počet poukazů na uživatele.</target>
+    </trans-unit>
+    <trans-unit id="67">
+      <source>OFFERS</source>
+      <target>NABÍDKY</target>
+    </trans-unit>
+ </body>
+  </file>
+</xliff>

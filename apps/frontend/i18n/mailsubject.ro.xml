@@ -1,0 +1,56 @@
+<?xml version="1.0" ?>
+<xliff version="1.0">
+    <file orginal="global" source-language="en_EN" datatype="plaintext">
+        <body>
+            <trans-unit>
+                <source>Place Claim in getlokal</source>
+                <target>Revendicare loc în getlokal</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Welcome to getlokal</source>
+                <target>Bun venit pe getlokal</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Request through getlokal</source>
+                <target>Solicită prin intermediul getlokal</target>
+            </trans-unit>  
+            <trans-unit>
+                <source>Claim Request</source>
+                <target>Solicitare pentru revendicare</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Forgotten Password</source>
+                <target>Parolă uitată</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Change Email Confirmation</source>
+                <target>Confirmare schimbare Email</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Forgotten Place Admin Password</source>
+                <target>Parola Admin Loc uitată</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Forgotten Username</source>
+                <target>Nume utilizator uitat</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Approved Place Claim in getlokal</source>
+                <target>Revendicare loc pe getlokal aprobată</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Rejected Place Claim in getlokal</source>
+                <target>Revendicare loc pe getlokal respinsă</target>
+            </trans-unit>    
+            <trans-unit>
+                <source>A friend just invited you to join getlokal.ro!</source>
+                <target>Un prieten tocmai te-a invitat pe getlokal.ro!</target>
+            </trans-unit>
+
+            <!-- NEW DESIGN -->
+            
+
+            
+        </body>
+    </file>
+</xliff>

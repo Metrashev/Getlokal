@@ -1,0 +1,287 @@
+<?xml version="1.0" ?>
+<xliff version="1.0">
+  <file orginal="global" source-language="en_EN" datatype="plaintext">
+    <body>
+      <trans-unit>
+        <source>Mon</source>
+        <target>Пон</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Tue</source>
+        <target>Вто</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Wed</source>
+        <target>Сре</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Thu</source>
+        <target>Чет</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Fri</source>
+        <target>Пет</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Sat</source>
+        <target>Саб</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Sun</source>
+        <target>Нед</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Tomorrow</source>
+        <target>Утре</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Today</source>
+        <target>Денес</target>
+      </trans-unit>
+      <trans-unit>
+        <source>January</source>
+        <target>Јануари</target>
+      </trans-unit>
+      <trans-unit>
+        <source>February</source>
+        <target>Февруари</target>
+      </trans-unit>
+      <trans-unit>
+        <source>March</source>
+        <target>Март</target>
+      </trans-unit>
+      <trans-unit>
+        <source>April</source>
+        <target>Април</target>
+      </trans-unit>
+      <trans-unit>
+        <source>May</source>
+        <target>Мај</target>
+      </trans-unit>
+      <trans-unit>
+        <source>June</source>
+        <target>Јуни</target>
+      </trans-unit>
+      <trans-unit>
+        <source>July</source>
+        <target>Јули</target>
+      </trans-unit>
+      <trans-unit>
+        <source>August</source>
+        <target>Август</target>
+      </trans-unit>
+      <trans-unit>
+        <source>September</source>
+        <target>Септември</target>
+      </trans-unit>
+      <trans-unit>
+        <source>October</source>
+        <target>Октомври</target>
+      </trans-unit>
+      <trans-unit>
+        <source>November</source>
+        <target>Ноември</target>
+      </trans-unit>
+      <trans-unit>
+        <source>December</source>
+        <target>Декември</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Monday</source>
+        <target>Понеделник</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Tuesday</source>
+        <target>Вторник</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Wednesday</source>
+        <target>Среда</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Thursday</source>
+        <target>Четврток</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Friday</source>
+        <target>Петок</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Saturday</source>
+        <target>Сабота</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Sunday</source>
+        <target>Недела</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Free</source>
+        <target>Бесплатно</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Up to 10 %s</source>
+        <target>До 300 %s</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Up to 50 %s</source>
+        <target>До 1500 %s</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Up to 100 %s</source>
+        <target>До 3000 %s</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Over 100 %s</source>
+        <target>Над 3000 %s</target>
+      </trans-unit>
+      <trans-unit>
+        <source>ATTEND</source>
+        <target>Ќе присуствувам</target>
+      </trans-unit>
+       <trans-unit>
+        <source>%d participants</source>
+        <target>%d ќе присуствуваат</target>
+      </trans-unit>
+       <trans-unit>
+        <source>Reviews</source>
+        <target>Препораки</target>
+      </trans-unit>
+      <trans-unit>
+        <source>REVIEWS</source>
+        <target>ПРЕПОРАКИ</target>
+      </trans-unit>
+       <trans-unit>
+        <source>Address</source>
+        <target>Адреса</target>
+      </trans-unit>
+       <trans-unit>
+        <source>Call</source>
+        <target>Јави се</target>
+      </trans-unit>
+       <trans-unit>
+        <source>CALL</source>
+        <target>ЈАВИ СЕ</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Review</source>
+        <target>Препорака</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Add Pic</source>
+        <target>Постави слика</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Fave</source>
+        <target>Омилено</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Checked in at %s</source>
+        <target>Check-in %s</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Closed</source>
+        <target>Затворено</target>
+      </trans-unit>
+    <trans-unit>
+        <source>Events</source>
+        <target>Настани</target>
+    </trans-unit>
+    <trans-unit>
+        <source>EVENTS</source>
+        <target>НАСТАНИ</target>
+    </trans-unit>
+    <trans-unit>
+        <source>Check-in</source>
+        <target>Check-in</target>
+    </trans-unit>
+        <trans-unit>
+        <source>Save</source>
+        <target>Save</target>
+    </trans-unit>
+        <trans-unit>
+        <source>Unsave</source>
+        <target>Unsave</target>
+    </trans-unit>
+        <trans-unit>
+        <source>Distance</source>
+        <target>Оддалеченост</target>
+    </trans-unit>
+        <trans-unit>
+        <source>km</source>
+        <target>км</target>
+    </trans-unit>
+        <trans-unit>
+        <source>review(s)</source>
+        <target>препорака(и)</target>
+    </trans-unit>
+        <trans-unit>
+        <source>ATMs</source>
+        <target>Банкомати</target>
+    </trans-unit>
+    <trans-unit>
+        <source><![CDATA[[0]No reviews|[1]<span>1</span> review|(1,+Inf]<span>%count%</span> reviews]]></source>
+        <target><![CDATA[[0]Нема препораки|[1]<span>1</span> препорака|(1,+Inf]<span>%count%</span> препораки]]></target>
+    </trans-unit>
+    <trans-unit>
+      <source>Getlokal recommends</source>
+      <target>Getlokal препорачува</target>
+    </trans-unit>
+    <trans-unit>
+      <source>Places with Offers</source>
+      <target>Места со понуди</target>
+    </trans-unit>
+    <trans-unit>
+      <source>Voucher valid from</source>
+      <target>Купонот е валиден од</target>
+    </trans-unit>
+    <trans-unit>
+      <source> to </source>
+      <target> до </target>
+    </trans-unit>
+    <trans-unit>
+      <source>0 available</source>
+      <target>0 расположливи</target>
+    </trans-unit>
+    <trans-unit>
+      <source>1 available</source>
+      <target>1 расположлив</target>
+    </trans-unit>
+    <trans-unit>
+      <source> available</source>
+      <target> расположливи</target>
+    </trans-unit>
+    <trans-unit>
+      <source>We were unable to issue your voucher. The offer is no longer active or you have already ordered the maximum number vouchers per user.</source>
+      <target>Не сме во можност да го издадеме твојот купон. Понудата е веќе неактивна или веќе го имаш преземено максималниот број на купони по корисник.</target>
+    </trans-unit>
+    <trans-unit>
+      <source>OFFERS</source>
+      <target>Понуди</target>
+    </trans-unit>
+    <trans-unit>
+      <source>Voucher valid from</source>
+      <target>Купонот е валиден од</target>
+    </trans-unit>
+    <trans-unit>
+      <source> to </source>
+      <target> до </target>
+    </trans-unit>
+    <trans-unit>
+      <source>available</source>
+      <target>расположливи</target>
+    </trans-unit>
+    <trans-unit>
+      <source>We were unable to issue your voucher. The offer is no longer active or you have already ordered the maximum number vouchers per user.</source>
+      <target>Не сме во можност да го издадеме твојот купон. Понудата е веќе неактивна или веќе го имаш преземено максималниот број на купони по корисник.</target>
+    </trans-unit>
+    <trans-unit>
+      <source>Suggest an Edit</source>
+      <target>Предложи уредување</target>
+    </trans-unit>
+    <trans-unit>
+    	<source>This place was added by</source>
+        <target>Ова место е додадено од</target>
+    </trans-unit>
+    </body>
+  </file>
+</xliff>

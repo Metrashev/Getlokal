@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<xliff version="1.0">
+    <file orginal="global" source-language="en_EN" datatype="plaintext">
+        <body>
+            <trans-unit>
+                <source>Create new account</source>
+                <target>Направи нов профил</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Account Activation</source>
+                <target>Активирај профил</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Resend activation email</source>
+                <target>Препрати e-mail за активација</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Forgotten Password</source>
+                <target>Заборавена лозинка</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Offers</source>
+                <target>Понуди</target>
+            </trans-unit>
+            <trans-unit>
+                <source>%s in %s</source>
+                <target>%s во %s</target>
+            </trans-unit>
+            <trans-unit>
+                <source>New Offer</source>
+                <target>Нова понуда</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Going Out, Leisure, Health and Beauty, Shopping</source>
+                <target>Излегување, Слободно време, Здравје и Убавина, Шопинг</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Select a classification</source>
+                <target>Одбери категорија</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Add Company</source>
+                <target>Додади фирма</target>
+            </trans-unit>
+            <trans-unit>
+                <source>%s in getlokal - addresses, telephones, working hours and user reviews for %s in %s, %s</source>
+                <target>%s во getlokal - види адреси, телефони, работно време и препораки од корисници за %s во %s, %s</target>
+            </trans-unit>
+            <trans-unit>
+                <source>%s in getlokal - addresses, telephones, working hours and user reviews for %s in %s</source>
+                <target>%s во getlokal - види адреси, телефони, работно време и препораки од корисници за %s во %s</target>
+            </trans-unit>
+            <trans-unit>
+                <source>%s in %s - information in getlokal: see address, telephone, working hours, photos and user reviews for %s, %s</source>
+                <target>%s во %s - информација во getlokal: види адреса, телефон, работно време, слики и препораки од корисници за %s, %s</target>
+            </trans-unit>
+            <trans-unit>
+                <source>%s, %s - reviews and ratings from customers</source>
+                <target>%s, %s - препораки и оцени од клиенти</target>
+            </trans-unit>
+            <trans-unit>
+                <source>%s, %s - detailed information</source>
+                <target>%s, %s - детални информации</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Find up-to-date reviews, comments and ratings of customer for %s in %s. Add your own review!</source>
+                <target>Видете актуелни препораки, мислења и оцени на клиенти за %s во %s. Напишете го и вашето мислење!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>%s - getlokal user</source>
+                <target>%s - корисник во getlokal</target>
+            </trans-unit>
+            <trans-unit>
+                <source>See information for %s and all their reviews in getlokal!</source>
+                <target>Видете информации за %s и сите нивни препораки во getlokal!</target>
+            </trans-unit>
+        </body>
+    </file>
+</xliff>

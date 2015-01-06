@@ -1,0 +1,168 @@
+<?xml version="1.0" ?>
+<xliff version="1.0">
+    <file orginal="global" source-language="en_EN" datatype="plaintext">
+        <body>
+            <trans-unit>
+                <source>Getlokal is the place where you meet your customers. Engage in a conversation with them – be notified whenever someone publishes a review about your place and post an official answer to them, upload photos, your contact details and business description! Improve your position in front of your competition and bring relevance to your online presence! What are the steps?</source>
+                <target>Getlokal je mesto na kome možete sresti svoje mušterije. Uključite se u konverzaciju sa njima - budite obavešteni kada neko napiše preporuku za Vas i zvanično im se obratite komentarišući njihovo mišljenje o Vašem radu, objavite fotografije, kontakt informacije i opis firme. Obezbedite bolju pozicioniranost u odnosu na konkurenciju i upravljajte svojim On-line prisustvom.  </target>
+            </trans-unit>
+            <trans-unit>
+                <source>%s on getlokal! If you are new @ %s you need to register first.</source>
+                <target>%s na Getlokal! Ukoliko ste novi na %s potrebno je da se registrujete.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Find or add your place! %s, find your place and %s! If you can’t find it, %s or %s and we will do it for you. And then again - log in, find your place and %s!</source>
+                <target>Pronađite ili dodajte svoju firmu! %s, pronađite svoju firmu i %s! Ako ne možete da je pronađete, %s ili %s, i mi ćemo je pronaći za Vas. Ulogujte se ponovo, pronađite svoju firmu i %s!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Fill in content! It’s free and easy! What are your benefits? Unlimited photo upload, place description in two languages and most importantly - you engage in a conversation with your customers!</source>
+                <target>Unesite sadržaj, besplatno i lako! Prednosti unosa sadršaja su: možete objaviti neograničen broj slika, uneti opis svoje firme u dva jezika i ono što je najvažnije, učestvovati u konverzaciji sa svojim mušterijama.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Can’t get enough? After you get acquainted with your place profile, %s for more info about the businesslokal+ features.</source>
+                <target>Nije vam dosta? Nakon upoznavanja sa prednostima profila vaše firme, %s za više informacija o prednostima BusinessLokal+,</target>
+            </trans-unit>
+            <trans-unit>
+                <source>let us know</source>
+                <target>obavestite nas</target>
+            </trans-unit>
+            <trans-unit>
+                <source>write to us</source>
+                <target>pišite nam</target>
+            </trans-unit>
+            <trans-unit>
+                <source>add it yourself</source>
+                <target>dodajte</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Log in</source>
+                <target>Ulogujte se</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Register</source>
+                <target>Registrujte se</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Start Here!</source>
+                <target>Počnite odavde!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Already Have an Account?</source>
+                <target>Već imate Profil?</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Login and Claim your place</source>
+                <target>Ulogujte se i preuzmite profil svoje firme</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Need Help?</source>
+                <target>Treba Vam pomoć?</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Contact us (we’ll answer as fast as we can)</source>
+                <target>Kontaktirajte nas (odgovorićemo Vam u najkraćem mogućem roku)</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Who are you?</source>
+                <target>Ko ste Vi?</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Make it Official!</source>
+                <target>Ozvaničite!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Where are you?</source>
+                <target>Gde se nalazite?</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Tell your story!</source>
+                <target>Napišite nešto o sebi!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Get visual!</source>
+                <target>Vizuelizujte!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Be available!</source>
+                <target>Budite dostupni!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Pay attention!</source>
+                <target>Obratite pažnju!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Are you liked?</source>
+                <target>Da li Vas vole?</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The place name goes here! Choose the most appropriate classification among 200 and more!</source>
+                <target>Ovo je mesto za naziv firme! Odaberite jednu od preko 200 delatnosti koja je najprikladnija. </target>
+            </trans-unit>
+            <trans-unit>
+                <source>Put an official stamp that this is your business by claiming it!</source>
+                <target>Ozvaničite vlasništvo nad profilom Vaše firme preuzimanjem istog!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Write a short description – why is your place different, what is its history? Be creative!</source>
+                <target>Upišite kratak opis – šta Vašu firmu čini drugačijom? Kakva je njena istorija? Budite kreativni!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Show your place - post photos!</source>
+                <target>Pokažite svima kako izgleda vaša firma - lokal. Objavite fotografije!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Set your working hours and the useful links!</source>
+                <target>Definišite radno vreme i unesite korisne linkove!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Get to know your customers and engage in conversations as an official representative of your company!</source>
+                <target>Upoznajte svoje mušterije i uključite se u konverzaciju sa njima kao zvanični predstavnik Vaše firme!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>See what your customers appreciate most about your place!</source>
+                <target>Saznajte šta Vaše mušterije najviše cene kod Vas!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Your Business Profile</source>
+                <target>Profil Vaše firme</target>
+            </trans-unit>
+            <trans-unit>
+                <source>claim it</source>
+                <target>Preuzmite</target>
+            </trans-unit>
+      		
+            <trans-unit>
+                <source>Advertising in Belgrade</source>
+                <target>Reklamirajte se u Beogradu</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Belgrade, Bacvanska St 21</source>
+                <target>Beograd, Bačvanska 21</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Getlokal is Serbia's best site for reviews and recommendations. Here you can find information about restaurants, clubs, bars, shops, entertainment, art, etc. You can also write and share events, read our blog and get useful info from our newsletter. To explore and use all getlokal functionalities you must be a register user. This gives you right to collect cool badges, upload place or profile photos and participate in various getlokal games for great prizes.</source>
+                <target>Getlokal je najbolji sajt za preporuke i mišljenja potrošača u Srbiji. Ovde možete pronaći informacije o restoranima, klubovima, barovima, različitim prodavnicama, zabavi, umetnosti itd. Ovde možete najavljivati događaje i preporučivati ih drugima, čitati naš blog i primati korisne informacije putem našeg Newslettera. Da biste koristili sve funkcionalnosti koje Vam Getlokal nudi, morate biti registrovan korisnik. Registracija Vam omogućava da sakupljate bedževe, upisujete firme i fotografije i učestvujete u raznim Getlokal igrama kako biste osvojili sjajne nagrade. </target>
+            </trans-unit>
+            <trans-unit>
+                <source>Professionals</source>
+                <target>Profesionalci</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Meets Deadlines</source>
+                <target>Ispunjava rokove</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Street Parking</source>
+                <target>Ulični parking</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Service</source>
+                <target>Servis</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Location</source>
+                <target>Lokacija</target>
+            </trans-unit>
+        </body>
+    </file>
+</xliff>

@@ -1,0 +1,263 @@
+<?xml version="1.0" ?>
+<xliff version="1.0">
+    <file orginal="global" source-language="en_EN" datatype="plaintext">
+        <body>      
+            <trans-unit>
+                <source>We were unable to send you a new password.</source>
+                <target>Nem tudtunk új jelszót küldeni.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>There is no registered profile with this email address</source>
+                <target>Nincs regisztrált profil ezzel az e-mail-lel.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>.</source>
+                <target>A profilod sikeresen aktiválva lett. A használónév és a registráció során megkapott jelszó segítségével beléphetsz a honlapba.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Unable to find user to activate</source>
+                <target>Nem találunk aktív felhasználót</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Related account has already been activated</source>
+                <target>Ez a profil már aktiválva lett</target>
+            </trans-unit>
+            <trans-unit>
+                <source>An error ocurred while trying to activate your account.</source>
+                <target>Hiba keletkezett a profilja aktiválása alatt. </target>
+            </trans-unit>
+            <trans-unit>
+                <source>An error while trying to activate your account: </source>
+                <target>Hiba keletkezett a profilja aktiválása alatt. A folyamat nem sikeres.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Day, month and year are mandatory fields</source>
+                <target>Nap, hónap és év mezõ kötelezö.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Username "%value%" cannot be used</source>
+                <target>A "%value%" felhasználó név nem alkalmazható </target>
+            </trans-unit>
+            <trans-unit>
+                <source>The username "%value%" contains characters that are not allowed</source>
+                <target>A "%value%" felhasználó név tiltott jeleket tartalmaz</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Username must contain at least %min_length% characters</source>
+                <target>A felhasznaló névnek legalább  %min_length% karaktert kell tartalmaznia</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Username cannot contain more than %max_length% characters.</source>
+                <target>A felhasználó név nam tartalmazhat több mint %max_length% karaktert</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Invalid email – your email is not in the correct format</source>
+                <target>Nem érvényes e-mail cím – az e-mail cím nem a helyes formátumban van</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Your password should be at least %min_length% characters long</source>
+                <target>A jelszavának legalább %min_length% karaktert kell tartalzania</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Your password cannot contain more than %max_length% characters</source>
+                <target>A jelszava nem tartalmazhat több mint  %max_length% karaktert</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The passwords do not match</source>
+                <target>Két különbözo jelszót vezetett be</target>
+            </trans-unit>
+            <trans-unit>
+                <source>This email address has already been registered by another user</source>
+                <target>Ezt az e-mail-t már registrálta más felhasználó  </target>
+            </trans-unit>
+            <trans-unit>
+                <source>This field is mandatory. Please start typing the name of your home location and select from the list.</source>
+                <target>A mezo kötelezo. Kezdd beírni a lakóhelyed nevét és válassz a megjelenõ listából.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>You have entered the text incorrectly. Please try again.</source>
+                <target>A A bevitt szöveg nem stimmel. Probald meg újra.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Email is required</source>
+                <target>Az e-mail cím kötelezõ</target>
+            </trans-unit>
+            <trans-unit>
+                <source>You must select a file to upload</source>
+                <target>Válaszd ki a fájlt feltöltésre</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The file you submitted is not in a valid format. Please upload a JPG, GIF or PNG image file.</source>
+                <target>A választott file nem érvényes formátumban van. Adjon hozzá  JPG, GIF vagy PNG fájlt.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The file you submitted is not in a valid format. Please upload a JPG, GIF or PNG image file.</source>
+                <target>A választott fájl nem érvényes formátumban van. Adjon hozzá  JPG, GIF vagy PNG fájlt.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>File size limit is 4MB.Please reduce file size before submitting again.</source>
+                <target>A fájl maximális mérete 4MB. Kérem rövidítse a fájlt mielött újból feltöltené.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>File size limit is 2MB.Please reduce file size.</source>
+                <target>A fájl maximális mérete 2MB. Kérem rövidítse a méretét.</target>
+            </trans-unit>
+            <trans-unit> 
+                <source>The review cannot contain more than %max_length% characters. Shorten your review.</source>
+                <target>A megjegyzés nem tartalmazhat több mint %max_length% karaktert. Rövidítse a megjegyzést.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The review must contain at least %min_length% characters</source>
+                <target>A megjegyzésnek legalább  %min_length% karaktert kell tartalmaznia.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The answer must contain at least %min_length% characters</source>
+                <target>A válasznak legalább  %min_length% karaktert kell tartalmaznia</target>
+            </trans-unit>
+            <trans-unit> 
+                <source>The review cannot contain more than %max_length% characters</source>
+                <target>A megjegyzés nem tartalmazhat több mint %max_length% karaktert </target>
+            </trans-unit>
+            <trans-unit>
+                <source>Type Review</source>
+                <target>Írj megjegyzést</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The field is mandatory</source>
+                <target>A mezõ kötelezõ</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Select Your Position</source>
+                <target>Válasza ki pozicióját</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Invalid Phone Number</source>
+                <target>Érvénytelen telefonszám</target>
+            </trans-unit>  
+            <trans-unit>
+                <source>This field cannot contain more than %max_length% characters</source>
+                <target>Ez a mezo nem tartalmazhat több mint %max_length% karaktert</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Select company type</source>
+                <target>Válasszon cégtípust</target>
+            </trans-unit> 
+            <trans-unit>
+                <source>The field cannot contain more than %max_length% characters</source>
+                <target>A mezo nem tartalmazhat több mint %max_length% karaktert</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The field must contain at least %min_length% characters</source>
+                <target>A mezonek legalább %min_length% karaktert kell tartalmaznia</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Invalid format. E.g. http://www.getlokal.com</source>
+                <target>Érvénytelen formátum Példaul: http://www.getlokal.com</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Invalid format. E.g. http://blog.getlokal.com</source>
+                <target>Érvénytelen formátum Példaul: http://blog.getlokal.com</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Invalid format. E.g. http://twitter.com/@getlokal</source>
+                <target>Érvénytelen formátum Példaul: http://twitter.com/@getlokal</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Invalid format. E.g. http://www.facebook.com/#!/getlokal</source>
+                <target>Érvénytelen formátum Példaul: http://www.facebook.com/#!/getlokal</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Select Your Position</source>
+                <target>Válasszon poziciot</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The new password was sent successfully to the email you provided.</source>
+                <target>Az új jelszót sikerült elküldeni a regisztált e-mail címre</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Invalid format. E.g. http://www.facebook.com/getlokal</source>
+                <target>Érvénytelen formátum. Példaul: http://www.facebook.com/getlokal</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Type an Answer</source>
+                <target>Írjon be választ</target>
+            </trans-unit>
+     
+            <trans-unit>
+                <source>The maximum number of vouchers issued per user cannot exceed the total number of vouchers for the offer</source>
+                <target>Az utalványok száma használóként nem lehet nagyobb mint az ajánlat összes utálványszáma</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The offer end date cannot be earlier than the start date</source>
+                <target>A végso dátum nem lehet korábbi mint a kezdõ dátum</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The voucher valid to date cannot be earlier than the offer end date</source>
+                <target>Az utalványok érvényességének végsõ dátuma nem lehet korábbi mint az ajánlat végsõ dátuma</target>
+            </trans-unit> 
+            <trans-unit>
+                <source>Description must contain at least %min_length% characters</source>
+                <target>A leírásnak legalább %min_length% karaktert kell tartalmaznia</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The description cannot contain more than %max_length% characters.</source>
+                <target>A leírás nem tartalmazhat több mint %max_length% karaktert</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Description "%value%" contains forbidden words</source>
+                <target>A "%value%" leírás tiltott szavakat tartalmaz</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The video title cannot contain more than %max_length% characters.</source>
+                <target>A video címe nem tartalmazhat több mint %max_length% karaktert</target>
+            </trans-unit> 
+            <trans-unit>
+                <source>The email message was not sent successfully.</source>
+                <target>Az e-mail üzenet elküldése sikertelen.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>An error ocurred while processing your request. Please try again later.</source>
+                <target>Hiba keletkezett. Kérem probálja meg újból.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>This username has already been registered by another user</source>
+                <target>Ezzel a felhasználónévvel, már van regisztrált felhasználó</target>
+            </trans-unit>      
+            <trans-unit>
+                <source>?he start date cannot be later than the end date of the event</source>
+                <target>A kezdó dátum nem lehet késöbbi mint az esemény végsõ dátuma</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Abuse type is required.</source>
+                <target>Visszaélési mezõ kötelezõ.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>An invite was already sent to this email address</source>
+                <target>Már van küldött felhivás erre az e-mail címre</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Please add location - city/town is required if venue not known!</source>
+                <target>Kérem pontosítsa az esemény helyét - a lakóhely kötelezõ akkoris, ha nem tudja a pontos címet!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Business type is required!</source>
+                <target>A cég tevékenysége kötelezõ!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>This field is required. Please type company address!</source>
+                <target>Ez a mezõ kötelezõ. Kérem írja be a cég címét!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Company name is required!</source>
+                <target>A cég neve kötelezõ!</target>
+            </trans-unit>      
+            <trans-unit>
+                <source>This field is mandatory. Please select your country name from the list.</source>
+                <target>Ez a mezõ kötelezõ. Válasszd az országod nevét a listából.</target>
+            </trans-unit>   
+
+
+               
+        </body>
+    </file>
+</xliff>

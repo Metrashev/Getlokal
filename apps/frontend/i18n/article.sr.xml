@@ -1,0 +1,126 @@
+<?xml version="1.0" ?>
+<xliff version="1.0">
+    <file orginal="global" source-language="en_EN" datatype="plaintext">
+        <body>
+            <trans-unit>
+                <source>Related Places</source>
+                <target>Srodna mesta/firme</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Related Lists</source>
+                <target>Srodne liste</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Related Events</source>	
+                <target>Srodni događaji</target>
+            </trans-unit>
+            <trans-unit>
+                <source>From Moderator</source>
+                <target>Od strane moderatora</target>
+            </trans-unit>
+            <trans-unit>
+                <source>From Author</source>
+                <target>Od autora</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Article Photo Gallery</source>
+                <target>Foto galerija Članka</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Related Events</source>
+                <target>Srodni događaji</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Related Lists</source>
+                <target>Srodne liste</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Related Articles</source>
+                <target>Srodni Članci</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Related Places</source>
+                <target>Srodna mesta/firme</target>
+            </trans-unit>
+            <trans-unit>
+                <source>SEO</source>
+                <target>SEO</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Create an Article</source>
+                <target>Objavi Članak</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Edit Article</source>
+                <target>Uredi Članak</target>
+            </trans-unit>
+            <trans-unit>
+                <source>New Article</source>
+                <target>Naslov Članka</target>
+            </trans-unit>
+			
+            <trans-unit>
+                <source>Copy this code and position it where you want the quotation to appear in the text!</source>
+                <target>Kopirajte ovaj kod i postavite ga u deo teksta gde želite da se prikaže pitanje!</target>
+            </trans-unit>
+		
+            <trans-unit>
+                <source>If you want to show an image in the article text, copy the code to the right of this image and paste it where you want it to appear in the 'Article Content' field.</source>
+                <target>Da bi se fotografija prikazala u tekstu Članka kopiraj kod koji se nalazi pored fotografije i postavi ga u deo sadržaja gde želiš da se fotografija prikaže.</target>
+            </trans-unit>
+			
+            <trans-unit>
+                <source>Back to 'Articles'</source>
+                <target>Nazad Članak</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Source</source>
+                <target>Izvor</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Go to Article</source>
+                <target>Idi na Članak</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Categories</source>
+                <target>Kategorije</target>
+            </trans-unit>
+            <trans-unit>
+                <source>This slug has already been used in another article. Please enter a new slug for the English version of  the article.</source>
+                <target>Ovaj deo linka je već korišćen za drugi artikal. Molimo unesite novi deo linka za Englesku verziju artikla.</target>
+            </trans-unit>		
+            <trans-unit>
+                <source>The article was not saved. Please fill in all mandatory fields.</source>
+                <target>>Članak nije sačuvan. Moliomo popunite sva obavezna polja.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The atricle title and content are mandatory for at least one of the two language versions.</source>
+                <target>Naslov članka i sadržaj su obavezni za bar jednu od dve jezičke verzije.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Edit Source</source>
+                <target>Uredi izvor</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Edit Description</source>
+                <target>Uredi opis</target>
+            </trans-unit>
+            <trans-unit>
+                <source>This article is created by</source>
+                <target>Autor članka je</target>
+            </trans-unit> 
+            <trans-unit>
+                <source>Choose</source>
+                <target>Izaberi</target>
+            </trans-unit>
+            <trans-unit>
+                <source>More articles from</source>
+                <target>Drugi članci autora</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Select Category</source>
+                <target>Odaberi kategoriju</target>
+            </trans-unit>
+        </body>
+    </file>	 
+</xliff>

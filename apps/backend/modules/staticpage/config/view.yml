@@ -1,0 +1,6 @@
+editSuccess:
+  stylesheets:    [jquery-ui/jquery-ui-1.8.6.custom.css]
+  javascripts: [tiny_mce/jquery.tinymce.js,tiny_mce/tiny_mce.js,init_date_picker.js]
+newSuccess:
+  stylesheets:    [jquery-ui/jquery-ui-1.8.6.custom.css]
+  javascripts: [tiny_mce/jquery.tinymce.js,tiny_mce/tiny_mce.js,init_date_picker.js]

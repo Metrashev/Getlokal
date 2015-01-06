@@ -1,0 +1,26 @@
+generator:
+  class: sfDoctrineGenerator
+  param:
+    model_class:           InvitedUser
+    theme:                 admin
+    non_verbose_templates: true
+    with_show:             false
+    singular:              ~
+    plural:                ~
+    route_prefix:          invited_user
+    with_doctrine_route:   true
+    actions_base_class:    sfActions
+
+    config:
+      actions: ~
+      fields:  ~
+      list:
+        title: Invite list
+        max_per_page:  15
+        table_method:  getQueryForInvitedUserTable
+        sort:          [ id, desc ]
+      filter:  
+        display:  [_csv, email, invited_from, first_name, last_name ]
+      form:    ~
+      edit:    ~
+      new:     ~

@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?> 
+<xliff version="1.0">
+    <file orginal="global" source-language="en_EN" datatype="plaintext">
+        <body>
+            <trans-unit>
+                <source>Offers</source> 
+                <target>Понуди</target> 
+            </trans-unit>
+            <trans-unit>
+                <source>Offer</source> 
+                <target>Понуда</target> 
+            </trans-unit>
+            <trans-unit>
+                <source>Create an Offer</source> 
+                <target>Направи понуда</target> 
+            </trans-unit>
+            <trans-unit>
+                <source>deactivate</source> 
+                <target>деактивирај</target> 
+            </trans-unit>
+            <trans-unit>
+                <source>Current Offers</source> 
+                <target>Тековни понуди</target> 
+            </trans-unit>
+            <trans-unit>
+                <source>Edit Offer</source> 
+                <target>Уреди понуда</target> 
+            </trans-unit>
+            <trans-unit>
+                <source>activate</source> 
+                <target>активирај</target> 
+            </trans-unit>
+            <trans-unit>
+                <source>Order Voucher</source> 
+                <target>Нарачај купон</target> 
+            </trans-unit>
+            <trans-unit>
+                <source>This offer is valid from</source> 
+                <target>Оваа понуда е валидна од</target> 
+            </trans-unit>
+            <trans-unit>
+                <source>Vouchers</source> 
+                <target>Купони</target> 
+            </trans-unit>
+            <trans-unit>
+                <source>No vouchers have been ordered yet</source> 
+                <target>Сеуште нема порачани купони</target> 
+            </trans-unit>
+            <trans-unit>
+                <source>Offer Code</source> 
+                <target>Код на понудата</target> 
+            </trans-unit>
+            <trans-unit>
+                <source>Voucher Code</source> 
+                <target>Купон код</target> 
+            </trans-unit>
+            <trans-unit>
+                <source>activate</source> 
+                <target>активирај</target> 
+            </trans-unit>
+            <trans-unit>
+                <source>This offer is not active.</source> 
+                <target>Оваа понуда повеќе не е достапна.</target> 
+            </trans-unit>
+            <trans-unit>
+                <source>Vouchers issued</source> 
+                <target>Издадени купони</target> 
+            </trans-unit>
+            <trans-unit>
+                <source>Print</source> 
+                <target>Принтај</target> 
+            </trans-unit>
+            <trans-unit>
+                <source><![CDATA[[0]No vouchers have been issued yet for this offer.|[1]1 voucher has been issued for this offer.|(1,+Inf]%count% vouchers have been issued for this offer.]]>
+                </source> 
+                <target><![CDATA[[0]Сеуште нема издадено купони за оваа понуда.|[1]1 издаден купон за оваа понуда.|(1,+Inf]%count% издадени купони за оваа понуда.]]>
+                </target> 
+            </trans-unit>
+            <trans-unit>
+                <source>issued on</source> 
+                <target>издаден на</target> 
+            </trans-unit>
+            <trans-unit>
+                <source>Issued on</source> 
+                <target>Издаден на</target> 
+            </trans-unit>
+            <trans-unit>
+                <source>There are no offers</source> 
+                <target>Нема понуди</target> 
+            </trans-unit>
+            <trans-unit>
+                <source>Export to Excel</source> 
+                <target>Извади на Excel фајл</target> 
+            </trans-unit>
+            <trans-unit>
+                <source>You have already ordered the maximum number of vouchers</source>
+                <target>Веќе го имате нарачано максималниот број на купони</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Number of Vouchers</source>
+                <target>Број на купони</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Issued on</source>
+                <target>Издаден на</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Expires on</source>
+                <target>Истекува на</target>
+            </trans-unit>
+            <trans-unit>
+                <source>No more vouchers available for this offer</source>
+                <target>Нема повеќе купони за оваа понуда</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Get Voucher!</source>
+                <target>Земи бесплатен купон!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>No messages</source>
+                <target>Нема пораки</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Offer Drafts</source>
+                <target>Нацрти</target>
+            </trans-unit>
+            <trans-unit>
+                <source>preview</source>
+                <target>прегледај</target>
+            </trans-unit>
+            <trans-unit>
+                <source>publish</source>
+                <target>oбјави</target>
+            </trans-unit>
+            <trans-unit>
+                <source>to</source>
+                <target>до</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The offer was published successfully.</source>
+                <target>Понудата е успешно објавена.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Congrats</source>
+                <target>Честитки</target>
+            </trans-unit>
+            <trans-unit>
+                <source>We just issued your voucher! It's saved in your Profile.</source>
+                <target>Само што го издадовме твојот купон! Истиот е зачуван во твојот Профил.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>View</source>
+                <target>Погледни</target>
+            </trans-unit>
+            <trans-unit>
+                <source>[1]1 offer for %company%|(1,+Inf]%count% offers for %company%</source>
+                <target>[1]1 понуда за %company%|(1,+Inf]%count% понуди за %company%</target>
+            </trans-unit>
+            <trans-unit>
+                <source><![CDATA[[0]%time%|[1]1 day %time%|(1,+Inf]%days% days %time%]]></source>
+                <target><![CDATA[[0]%time%|[1]1 ден %time%|(1,+Inf]%days% денови %time%]]></target>
+            </trans-unit>
+
+            <!-- NEW DESIGN -->
+
+            <trans-unit>
+                <source>Tickets Available</source>
+                <target>Достапни билети</target>
+            </trans-unit>
+
+            <trans-unit>
+                <source>OFFERS IN</source>
+                <target>Понуди во</target>
+            </trans-unit>
+            
+        </body>
+    </file>
+</xliff>

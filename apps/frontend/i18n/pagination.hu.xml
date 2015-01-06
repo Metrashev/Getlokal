@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<xliff version="1.0">
+    <file orginal="global" source-language="en_EN" datatype="plaintext">
+        <body>
+            <trans-unit>
+                <source>Previous</source>
+                <target>Hátra</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Next</source>
+                <target>Elore</target>
+            </trans-unit>
+        </body>
+    </file>
+</xliff>

@@ -1,0 +1,414 @@
+<?xml version="1.0" ?>
+<xliff version="1.0">
+    <file orginal="global" source-language="en_EN" datatype="plaintext">
+        <body>
+            <trans-unit>
+                <source>Hi</source>
+                <target>Bună</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Hello</source>
+                <target>Salut</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Profile</source>
+                <target>Profil</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Dashboard</source>
+                <target>Tablou de bord</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Log Out</source>
+                <target>Logout</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Sign in</source>
+                <target>Conectare</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Forgot Password?</source>
+                <target>Ai uitat parola?</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Home</source>
+                <target>Acasă</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Send</source>
+                <target>Trimite</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Email</source>
+                <target>E-mail</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Password</source>
+                <target>Parola</target>
+            </trans-unit>
+            <trans-unit>
+                <source>I agree with the</source>
+                <target>Sunt de acord cu</target>
+            </trans-unit>
+            <trans-unit>
+                <source>I agree with %s</source>
+                <target>Sunt de acord cu %s</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Name</source>
+                <target>Prenume</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Surname</source>
+                <target>Nume</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Gender</source>
+                <target>Gen</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Location</source>
+                <target>Locatie</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Location</source>
+                <target>Locatie</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Write a few words about yourself –interests, hobbies, what you like to write about. The words have to be comma separated, e.g. 'restaurants, bars, theatre, bungee jumping, travelling'</source>
+                <target>Scrie cateva cuvinte despre tine-interese, hobby-uri, ceea ce iti place sa scrii despre tine. Cuvintele trebuie să fie separate prin virgule, de exemplu, 'restaurante, baruri, teatru, bungee jumping, călătorie'</target>
+            </trans-unit>
+            <trans-unit>
+                <source>I agree to receive messages from getlokal and/or their partners.</source>
+                <target>Sunt de acord să primesc mesaje de la getlokal.ro şi/sau partenerii lor.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Registration</source>
+                <target>Inregistrare</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Password Change</source>
+                <target>Schimbati Parola</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Invite a friend</source>
+                <target>Invitaţi un prieten</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Your friends</source>
+                <target>Prietenii tai</target>
+            </trans-unit>
+            <trans-unit>
+                <source>1 review</source>
+                <target>1 Verificare</target>
+            </trans-unit>
+            <trans-unit>
+                <source>%s reviews</source>
+                <target>%s Opinii</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Contact Us</source>
+                <target>Contactaţi-ne</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Settings</source>
+                <target>Setări</target>
+            </trans-unit>
+            <trans-unit>
+                <source>here</source>
+                <target>aici</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Sign Up</source>
+                <target>Înregistrare</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Illegal</source>
+                <target>Ilegal</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Offensive</source>
+                <target>Jignitor</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Copyright</source>
+                <target>Drepturi de autor</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Incorrect</source>
+                <target>Incorect</target>
+            </trans-unit>
+            <trans-unit>
+                <source>My Account</source>
+                <target>Contul meu</target>
+            </trans-unit>
+            <!-- NEW -->
+            <trans-unit>
+                <source>My Places</source>
+                <target>Locurile mele</target>
+            </trans-unit>
+            <trans-unit>
+                <source>View Profile</source>
+                <target>View profile</target>
+            </trans-unit>
+            <trans-unit>
+                <source>[0]No reviews|[1]1 review|(1,+Inf]%count% reviews</source>
+                <target>[0]0 opinii|[1]1 opinie|(1,+Inf]%count% opinii</target>
+            </trans-unit>
+            <trans-unit>
+                <source>I want to receive newsletters</source>
+                <target>Vreau sa primesc newslettere</target>
+            </trans-unit>
+            <trans-unit>
+                <source>I want to receive Business Newsletters and Notifications</source>
+                <target>Vreau să primesc newsletterul pentru afaceri şi notificări/</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Send me my Username</source>
+                <target>Vreau să primesc username</target>
+            </trans-unit>
+            <trans-unit>
+                <source>I want to receive getlokal's %s</source>
+                <target>Vreau sa primesc %s de la getlokal</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Login as %s</source>
+                <target>Login cu %s</target>
+            </trans-unit>
+            <trans-unit>
+                <source>contact us</source>
+                <target>să ne scrii</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Policy for Use and Protection of the Information on the Getlokal Website</source>
+                <target>Politica de Folosire și Protejare a Informației de pe website-ul Getlokal</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Admin Status 'Rejected'</source>
+                <target>Status admin 'Respins'</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Admin Status 'Pending'</source>
+                <target>Status admin - în așteptare</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Admin Status 'Approved'</source>
+                <target>Status admin - "Aprobat"</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Login as %s and Create an Event</source>
+                <target>Înregistrează-te ca %s și creează un eveniment</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Login as %s and Create List</source>
+                <target>Înregistrează-te ca %s și creează o listă</target>
+            </trans-unit>
+            <trans-unit>
+                <source>General Communication</source>
+                <target>Comunicare generală</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Community newsletters</source>
+                <target>Newsletter de comunitate</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Weekly newsletter</source>
+                <target>Newsletter săptămânal</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Business newsletters</source>
+                <target>Newsletter business</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Games and promotions</source>
+                <target>Jocuri şi promoţii</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Send Your Invite via e-mail</source>
+                <target>Trimite invitaţia via e-mail</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Message</source>
+                <target>Mesajul</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Via e-mail</source>
+                <target>Via e-mail</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Via Gmail / Yahoo!</source>
+                <target>Via Gmail / Yahoo!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Via Gmail or Yahoo Mail</source>
+                <target>Via Gmail sau Yahoo Mail</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Via Facebook</source>
+                <target>Via Facebook</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Invite a Friend</source>
+                <target>Invită-ţi prietenii</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Invite Your Friends</source>
+                <target>Invită-ţi prietenii</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Send Your Invite via Gmail or Yahoo!</source>
+                <target>Trimite-ţi invitaţia via Gmail sau Yahoo!</target>
+            </trans-unit>
+            <trans-unit>
+                <source><![CDATA[Send Your Invite via <a href="?invite_choice=gmail" title="Gmail"><img src="/images/logos/gmail.png"></a> or <a href="?invite_choice=yahoo" title="Yahoo"><img src="/images/logos/yahoo.png"></a>]]></source>
+                <target><![CDATA[Trimite-ţi invitaţia via <a href="?invite_choice=gmail" title="Gmail"><img src="/images/logos/gmail.png"></a> sau <a href="?invite_choice=yahoo" title="Yahoo"><img src="/images/logos/yahoo.png"></a>]]></target>
+            </trans-unit>
+            <trans-unit>
+                <source><![CDATA[Send Your Invite via <img src="/images/logos/gmail.png"> or <img src="/images/logos/yahoo.png">]]></source>
+                <target><![CDATA[Trimite-ţi invitaţia via <img src="/images/logos/gmail.png"> sau <img src="/images/logos/yahoo.png">]]></target>
+            </trans-unit>
+
+            <trans-unit>
+                <source>Via Gmail or Yahoo</source>
+                <target>Via Gmail sau Yahoo!</target>
+            </trans-unit>
+            <trans-unit>
+                <source><![CDATA[Send Your Invite via <img src="/images/gui/facebook.png">]]></source>
+                <target><![CDATA[Trimite-ţi invitaţia via <img src="/images/gui/facebook.png">]]></target>
+            </trans-unit>
+            <trans-unit>
+                <source>Via Facebook</source>
+                <target>Via Facebook!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Back</source>
+                <target>Înapoi</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Login</source>
+                <target>Login</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Send another invite?</source>
+                <target>Trimiţi încă o invitaţie?</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Send Your Invite via Facebook</source>
+                <target>Trimite-ţi invitaţia via Facebook</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Invite</source>
+                <target>Invita</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Invited</source>
+                <target>Invitaţi</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Your invite was sent successfully!</source>
+                <target>Invitaţia a fost trimisă cu succes!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The friend list is empty!</source>
+                <target>Lista de prieteni e goală!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Your e-mail list is empty!</source>
+                <target>Lista de e-mail-uri e goală!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Wrong e-mail address or/and password!</source>
+                <target>Adresă de e-mail sau/şi parolă greşită!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>You entered a wrong e-mail address format!</source>
+                <target>Ai introdus un format de e-mail greşit!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Email Address</source>
+                <target>Adresa de e-mail</target>
+            </trans-unit>
+            <trans-unit>
+                <source>E-mail password</source>
+                <target>Parolă e-mail</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Email list</source>
+                <target>Listă de e-mailuri</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Discover getlokal!</source>
+                <target>Descoperă getlokal!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Join me on getlokal and discover what other people like you and I think about restaurants, pubs, cafes and other interesting places in their local area.</source>
+                <target>Hai şi tu pe getlokal.ro şi descoperă ce păreri au ceilalţi despre restaurantele, pub-urile, cafenelele şi despre alte locuri interesante din zona lor.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>To join getlokal click on this link:</source>
+                <target>Pentru a te alătura getlokal click aici:</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Country</source>
+                <target>Ţara</target>
+            </trans-unit>
+            <trans-unit>
+                <source>User with same %s e-mail address is already registered!</source>
+                <target>Există deja un user cu acest email %s.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>There are no reviews</source>
+                <target>Nu există nicio recomandare.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>You can use your</source>
+                <target>Poţi folosi</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Facebook account to register</source>
+                <target>contul de Facebook pentru a te conecta</target>
+            </trans-unit>
+            <trans-unit>
+                <source>in getlokal.com</source>
+                <target>pe getlokal.ro</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Facebook account to log in</source>
+                <target>contul de Facebook pentru a te loga</target>
+            </trans-unit>
+            <trans-unit>
+                <source>We are mobile</source>
+                <target>Suntem și pe mobil:</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Followers</source>
+                <target>Followeri</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Congrats - you are our newest registered user. Now you can tell everyone about the great places only you know!</source>
+                <target>Felicitări - eşti cel mai nou user înregistrat pe getlokal! Acum poţi spune tuturor despre locurile faine pe care le ştii!</target>
+            </trans-unit>
+            <trans-unit>
+                <source><![CDATA[<p class="part_one"><span class="greet">Congrats</span> you are our newest registered user.</p><p class="part_two"> Now you can tell everyone about the great places only you know!</p>]]></source>
+                <target><![CDATA[<p class="part_one"><span class="greet">Felicitări</span> eşti cel mai nou user înregistrat pe getlokal!</p><p class="part_two"> Acum poţi spune tuturor despre locurile faine pe care le ştii!</p>]]></target>
+            </trans-unit>
+            <trans-unit>
+                <source><![CDATA[<p class="part_one"><span class="greet">Congrats</span> you are our newest registered user.</p><p class="part_two"> Now you can finish claiming your place and update the information about it!</p>]]></source>
+                <target><![CDATA[<p class="part_one"><span class="greet">Felicitări!</p><p class="part_two"> Acum poți finaliza revendicarea locului tău și poți actualiza informațiile pe care le avem despre el.</p>]]></target>
+            </trans-unit>
+            <trans-unit>
+                <source>Welcome to getlokal.com</source>
+                <target>Bine ai venit pe getlokal.ro!</target>
+            </trans-unit>
+
+
+            <!-- NEW DESIGN -->
+
+
+            <trans-unit>
+                <source>Sign in via Facebook</source>
+                <target>Logare cu Facebook</target>
+            </trans-unit>
+        </body>
+    </file>
+</xliff>

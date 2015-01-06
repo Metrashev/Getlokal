@@ -1,0 +1,367 @@
+<?xml version="1.0" ?><xliff version="1.0">
+  <file datatype="plaintext" original="global" source-language="en">
+    <body>
+     <trans-unit id="1">
+      <source>Mon</source>
+      <target>ПН</target>
+      
+    </trans-unit>
+     <trans-unit id="2">
+      <source>Tue</source>
+      <target>ВТ</target>
+      
+    </trans-unit>
+     <trans-unit id="3">
+      <source>Wed</source>
+      <target>СР</target>
+      
+    </trans-unit>
+     <trans-unit id="4">
+      <source>Thu</source>
+      <target>ЧТ</target>
+      
+    </trans-unit>
+     <trans-unit id="5">
+      <source>Fri</source>
+      <target>ПТ</target>
+      
+    </trans-unit>
+     <trans-unit id="6">
+      <source>Sat</source>
+      <target>СБ</target>
+      
+    </trans-unit>
+     <trans-unit id="7">
+      <source>Sun</source>
+      <target>ВС</target>
+      
+    </trans-unit>
+
+      <trans-unit id="8">
+        <source>Tomorrow</source>
+        <target>Завтра</target>
+        
+      </trans-unit>
+      <trans-unit id="9">
+        <source>Today</source>
+        <target>Сегодня</target>
+        
+      </trans-unit>
+      <trans-unit id="10">
+	  <source>January</source>
+	  <target>Январь</target>
+        
+      </trans-unit>
+	  <trans-unit id="11">
+        <source>February</source>
+        <target>Февраль</target>
+        
+      </trans-unit>
+	  <trans-unit id="12">
+        <source>March</source>
+        <target>Март</target>
+        
+      </trans-unit>
+	  <trans-unit id="13">
+        <source>April</source>
+        <target>Апрель</target>
+        
+      </trans-unit>
+	  <trans-unit id="14">
+        <source>May</source>
+        <target>Май</target>
+        
+      </trans-unit>
+	  <trans-unit id="15">
+        <source>June</source>
+        <target>Июнь</target>
+        
+      </trans-unit>
+	  <trans-unit id="16">
+        <source>July</source>
+        <target>Июль</target>
+        
+      </trans-unit>
+	   <trans-unit id="17">
+        <source>August</source>
+        <target>Август</target>
+        
+      </trans-unit>
+	   <trans-unit id="18">
+        <source>September</source>
+        <target>Сентябрь</target>
+        
+      </trans-unit>
+	   <trans-unit id="19">
+        <source>October</source>
+        <target>Октябрь</target>
+        
+      </trans-unit>
+	   <trans-unit id="20">
+        <source>November</source>
+        <target>Ноябрь</target>
+        
+      </trans-unit>
+	   <trans-unit id="21">
+        <source>December</source>
+        <target>Декабрь</target>
+        
+      </trans-unit>
+
+    <trans-unit id="22">
+      <source>Monday</source>
+      <target>Понедельник</target>
+      
+    </trans-unit>
+    <trans-unit id="23">
+      <source>Tuesday</source>
+      <target>Вторник</target>
+      
+    </trans-unit>
+    <trans-unit id="24">
+      <source>Wednesday</source>
+      <target>Среда</target>
+      
+    </trans-unit>
+    <trans-unit id="25">
+      <source>Thursday</source>
+      <target>Четверг</target>
+      
+    </trans-unit>
+    <trans-unit id="26">
+      <source>Friday</source>
+      <target>Пятница</target>
+      
+    </trans-unit>
+    <trans-unit id="27">
+      <source>Saturday</source>
+      <target>Суббота</target>
+      
+    </trans-unit>
+    <trans-unit id="28">
+      <source>Sunday</source>
+      <target>Воскресенье</target>
+      
+    </trans-unit>
+
+    <trans-unit id="29">
+      <source>Free</source>
+      <target>Бесплатно</target>
+      
+    </trans-unit>
+    <trans-unit id="30">
+      <source>Up to 10 %s</source>
+      <target>До 10 %s</target>
+      
+    </trans-unit>
+    <trans-unit id="31">
+      <source>Up to 50 %s</source>
+      <target>До 50 %s</target>
+      
+    </trans-unit>
+    <trans-unit id="32">
+      <source>Up to 100 %s</source>
+      <target>До 100 %s</target>
+      
+    </trans-unit>
+    <trans-unit id="33">
+      <source>Over 100 %s</source>
+      <target>Более 100 %s</target>
+      
+    </trans-unit>
+
+    <trans-unit id="34">
+      <source>ATTEND</source>
+      <target>ПОСЕТИТЬ</target>
+      
+    </trans-unit>
+     <trans-unit id="35">
+      <source>%d participants</source>
+      <target>%d участников</target>
+      
+    </trans-unit>
+
+
+     <trans-unit id="36">
+      <source>Reviews</source>
+      <target>Обзоры</target>
+      
+    </trans-unit>
+
+    <trans-unit id="37">
+      <source>REVIEWS</source>
+      <target>ОБЗОРЫ</target>
+      
+    </trans-unit>
+
+     <trans-unit id="38">
+      <source>Address</source>
+      <target>Адрес</target>
+      
+    </trans-unit>
+
+     <trans-unit id="39">
+      <source>Call</source>
+      <target>Позвонить</target>
+      
+    </trans-unit>
+
+    <trans-unit id="40">
+      <source>CALL</source>
+      <target>ПОЗВОНИТЬ</target>
+      
+    </trans-unit>
+
+     <trans-unit id="41">
+      <source>Ticket: </source>
+      <target>Билет:</target>
+      
+    </trans-unit>
+    <trans-unit id="42">
+      <source>Review</source>
+      <target>Обзор</target>
+      
+    </trans-unit>
+    <trans-unit id="43">
+      <source>Add Pic</source>
+      <target>Добавить изображение</target>
+      
+    </trans-unit>
+    <trans-unit id="44">
+      <source>Fave</source>
+      <target>Избранное</target>
+      
+    </trans-unit>
+    <trans-unit id="45">
+      <source>Checked in at %s</source>
+      <target>Отмечено %s</target>
+      
+    </trans-unit>
+    <trans-unit id="46">
+      <source>Closed</source>
+      <target>Закрыто</target>
+      
+    </trans-unit>
+
+    <trans-unit id="47">
+        <source>Events</source>
+        <target>События</target>
+        
+    </trans-unit>
+
+    <trans-unit id="48">
+        <source>EVENTS</source>
+        <target>СОБЫТИЯ</target>
+        
+    </trans-unit>
+
+    <trans-unit id="49">
+        <source>Check-in</source>
+        <target>Отметиться</target>
+        
+    </trans-unit>
+	<trans-unit id="50">
+        <source>Save</source>
+        <target>Save</target>
+        
+    </trans-unit>
+	<trans-unit id="51">
+        <source>Unsave</source>
+        <target>Unsave</target>
+        
+    </trans-unit>
+	<trans-unit id="52">
+        <source>Distance</source>
+        <target>Расстояние</target>
+        
+    </trans-unit>
+	<trans-unit id="53">
+        <source>km</source>
+        <target>км</target>
+        
+    </trans-unit>
+	<trans-unit id="54">
+        <source>review(s)</source>
+        <target>обзор(ы)</target>
+        
+    </trans-unit>
+
+	<trans-unit id="55">
+        <source>ATMs</source>
+        <target>Банкоматы</target>
+        
+    </trans-unit>
+
+    <trans-unit id="56">
+       <source><![CDATA[[0]No reviews|[1]<span>1</span> review|(1,+Inf]<span>%count%</span> reviews]]></source>
+       <target>[0]Нет обзоров|[1]&lt;span&gt;1&lt;/span&gt; обзор|(1,+Inf]&lt;span&gt;%count%&lt;/span&gt; обзоров</target>
+       
+    </trans-unit>
+    <trans-unit id="57">
+        <source>We are mobile</source>
+        <target>Мы мобильны</target>
+        
+    </trans-unit>
+    <trans-unit id="58">
+        <source>Select Country</source>
+        <target>Выберите страну</target>
+        
+    </trans-unit>
+    <trans-unit id="59">
+      <source>Getlokal recommends</source>
+      <target>Getlokal рекомендует</target>
+      
+    </trans-unit>
+    <trans-unit id="60">
+      <source>Places with Offers</source>
+      <target>Места с предложениями</target>
+      
+    </trans-unit>
+    <trans-unit id="61">
+      <source>Voucher valid from</source>
+      <target>Ваучер действителен с</target>
+      
+    </trans-unit>
+    <trans-unit id="62">
+      <source> to </source>
+      <target>до</target>
+      
+    </trans-unit>
+
+    <trans-unit id="63">
+      <source>0 available</source>
+      <target>доступных нет</target>
+      
+    </trans-unit>
+    <trans-unit id="64">
+      <source>1 available</source>
+      <target>1 доступно</target>
+      
+    </trans-unit>
+    <trans-unit id="65">
+      <source> available</source>
+      <target>доступен</target>
+      
+    </trans-unit>
+
+    <trans-unit id="66">
+      <source>We were unable to issue your voucher. The offer is no longer active or you have already ordered the maximum number vouchers per user.</source>
+      <target>Мы не смогли выдать вам новый ​​ваучер. Данное предложение больше не действительно, либо вы уже заказали максимальное количество ваучеров, доступных на одного пользователя.</target>
+      
+    </trans-unit>
+    <trans-unit id="67">
+      <source>OFFERS</source>
+      <target>ПРЕДЛОЖЕНИЯ</target>
+      
+    </trans-unit>
+    <trans-unit>
+      <source>Suggest an Edit</source>
+      <target>Предложить исправление</target>
+    </trans-unit>
+    <trans-unit>
+    	<source>This place was added by</source>
+		<target>Это место было добавлено</target>
+	</trans-unit>
+ </body>
+  </file>
+</xliff>

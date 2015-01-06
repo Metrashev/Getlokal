@@ -1,0 +1,1 @@
+<?php echo link_to( $event->getUserProfile(),'/'. $sf_user->getCulture().'/profile/'. $event->getUserProfile()->getSfGuardUser()->getUserName(), 'target=_blank') ?>

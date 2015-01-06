@@ -1,0 +1,51 @@
+<?xml version="1.0" ?>
+<xliff version="1.0">
+    <file orginal="global" source-language="en_EN" datatype="plaintext">
+        <body>
+            <trans-unit>
+                <source>Place Claim in Getlokal</source>
+                <target>Preuzimanje profila firme na getlokal</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Welcome to Getlokal</source>
+                <target>Dobrodošli na getlokal</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Request through Getlokal</source>
+                <target>Zahtev putem getlokal</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Claim Request</source>
+                <target>Zahtev za preuzimanje profila</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Forgotten Password</source>
+                <target>Zaboravljena lozinka</target>
+            </trans-unit>
+            <trans-unit>
+                <source>getlokal Account Activation</source>
+                <target>Aktivacija getlokal naloga</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Change Email Confirmation</source>
+                <target>Promena email potvrde</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Forgotten Place Admin Password</source>
+                <target>Zaboravljena lozinka profila mesta</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Forgotten Username</source>
+                <target>Zabravljeno korisničko ime</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Approved Place Claim in getlokal</source>
+                <target>Odobreno je preuzimanje profila firme na getlokal</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Rejected Place Claim in getlokal</source>
+                <target>Odbijeno je preuzimanje profila firme na geetlokal</target>
+            </trans-unit>
+        </body>
+    </file>
+</xliff>

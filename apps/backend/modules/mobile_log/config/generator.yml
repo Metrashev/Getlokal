@@ -1,0 +1,27 @@
+generator:
+  class: sfDoctrineGenerator
+  param:
+    model_class:           MobileLog
+    theme:                 admin
+    non_verbose_templates: true
+    with_show:             false
+    singular:              ~
+    plural:                ~
+    route_prefix:          mobile_log
+    with_doctrine_route:   true
+    actions_base_class:    sfActions
+
+    config:
+      actions: ~
+      fields:
+        user_profile: { label: User }
+        version: { label: API Version }
+        foreign: { label: Associated content }
+      list:
+        display: [id, user_profile, device, version, action, lat, lng, distance, foreign]
+        actions: { export: ~ }
+      filter:
+        display: [device, version, action, created_at]
+      form:    ~
+      edit:    false
+      new:     false

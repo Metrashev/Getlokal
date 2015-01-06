@@ -1,0 +1,32 @@
+generator:
+  class: sfDoctrineGenerator
+  param:
+    model_class:           MailBgCampaign
+    theme:                 admin
+    non_verbose_templates: true
+    with_show:             false
+    singular:              ~
+    plural:                ~
+    route_prefix:          mail_bg_campaign
+    with_doctrine_route:   true
+    actions_base_class:    sfActions
+
+    config:
+      actions: ~
+      fields:  ~
+      list: 
+        table_method:  getQueryForMailList
+        layout:        stacked   
+        object_actions:
+          _delete:    ~
+          _changeStatus: { label: Change Status, action: changeStatus}
+        batch_actions:
+          _activate: ~
+          _deactivate: ~
+        display:       [ is_active, company, created_at, updated_at]
+        params:  |
+           %%is_active%% %%company%% - <small>%%city%% - added on %%created_at%%</small><br /> <small>last changed on %%updated_at%%</small>
+      filter:  ~
+      form:    ~
+      edit:    ~
+      new:     ~

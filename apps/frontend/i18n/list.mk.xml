@@ -1,0 +1,103 @@
+<?xml version="1.0" ?> 
+<xliff version="1.0">
+    <file orginal="global" source-language="en_EN" datatype="plaintext">
+        <body>
+            <trans-unit>
+                <source>Create List</source>
+                <target>Направи листа</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Edit List</source>
+                <target>Промени листа</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Add Comment</source>
+                <target>Додади коментар</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The list Title and Description are required for at least one of the two language versions.</source>
+                <target>Насловот и описот на листата се задолжителни барем на еден јазик.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The list was not saved. Please fill in all required fields.</source>
+                <target>Листата не е зачувана. Ве молам пополнете ги сите задолжителни полиња.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Click to add places to your list!</source>
+                <target>Кликни за да додадеш места во твојата листа!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Click to add places to this list!</source>
+                <target>Кликни за да додадеш места во оваа листа!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>[0]No places were added|[1]and one more place|(1,+Inf]and %count% more places</source>
+                <target>[0]Нема додадени места|[1]и уште едно место|(1,+Inf]и уште %count% места</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Name this list...</source>
+                <target>Име на листа...</target>
+            </trans-unit>
+            <trans-unit>
+                <source>What is this list about...</source>
+                <target>Опис на листа...</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Name in English</source>
+                <target>Име на Англиски</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Description in English</source>
+                <target>Опис на Англиски</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Back to 'Lists'</source>
+                <target>Назад до 'Листите'</target>
+            </trans-unit>
+            <trans-unit>
+                <source>This list is created by</source>
+                <target>Оваа листа е создаденa од</target>
+            </trans-unit>
+            <trans-unit>
+                <source>More lists from</source>
+                <target>Повеќе листи од</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Next</source>
+                <target>Продолжи</target>
+            </trans-unit>
+            <trans-unit>
+                <source><![CDATA[[0]<span id="spanPlaceCount">0 <br />places|[1]<span id="spanPlaceCount">1 <br />place|(1,+Inf]<span id="spanPlaceCount">%count% <br />places]]></source>
+                <target><![CDATA[[0]<span id="spanPlaceCount">0 <br />места|[1]<span id="spanPlaceCount">1 <br />место|(1,+Inf]<span id="spanPlaceCount">%count% <br />места]]></target>
+            </trans-unit>
+            <trans-unit>
+                <source><![CDATA[[0]0 places|[1]1 place|(1,+Inf]%count% places]]></source>
+                <target><![CDATA[[0]0 места|[1]1 место|(1,+Inf]%count% места]]></target>
+            </trans-unit>
+            <trans-unit>
+                <source>Create a List Now</source>
+                <target>Направи нова листа</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Comments About This List</source>
+                <target>Коментари за оваа листа</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Add to List</source>
+                <target>Додади во Листа</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Choose from Current Lists</source>
+                <target>Избери постоечка Листа</target>
+            </trans-unit>
+            <trans-unit>
+                <source><![CDATA[Add to <br/>List]]></source>
+                <target><![CDATA[Додади во <br/>Листа]]></target>
+            </trans-unit>
+            <trans-unit>
+                <source>Add to New List</source>
+                <target>Додади во нова листа</target>
+            </trans-unit>
+        </body>
+    </file>	 
+</xliff>

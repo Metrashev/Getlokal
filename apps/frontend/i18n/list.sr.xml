@@ -1,0 +1,103 @@
+<?xml version="1.0" ?>
+<xliff version="1.0">
+    <file orginal="global" source-language="en_EN" datatype="plaintext">
+        <body>
+            <trans-unit>
+                <source>Create List</source>
+                <target>Kreiraj listu</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Edit List</source>
+                <target>Uredite listu</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Add Comment</source>
+                <target>Dodaj komentar</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The list Title and Description are required for at least one of the two language versions.</source>
+                <target>Naslov liste je obavezan</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The list was not saved. Please fill in all required fields.</source>
+                <target>Lista nije sačuvana. Molimo popunite sva obavezna polja.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Click to add places to this list!</source>
+                <target>Klikni da dodaš mesta/firme u ovu listu!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>[0]No places were added|[1]and one more place|(1,+Inf]and %count% more places</source>
+                <target>[0]Nisu dodata mesta/firme|[1]i još jedno mesto/firma|(1,+Inf] i još %count% mesta/firme</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Name this list...</source>
+                <target>Unesite naziv liste...</target>
+            </trans-unit>
+            <trans-unit>
+                <source>What is this list about...</source>
+                <target>Opišite listu...</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Name in English</source>
+                <target>Naziv na Engleskom</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Description in English</source>
+                <target>Opis na Engleskom</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Back to 'Lists'</source>
+                <target>Nazad na 'Liste'</target>
+            </trans-unit>
+            <trans-unit>
+                <source>This list is created by</source>
+                <target>Ovu listu je napravio</target>
+            </trans-unit>
+            <trans-unit>
+                <source>More lists from</source>
+                <target>Još lista od </target>
+            </trans-unit>
+            <trans-unit>
+                <source>Next</source>
+                <target>Sledeća</target>
+            </trans-unit>
+            <trans-unit>
+                <source><![CDATA[[0]<span id="spanPlaceCount">0</span> <br />places|[1]<span id="spanPlaceCount">1</span> <br />place|(1,+Inf]<span id="spanPlaceCount">%count%</span> <br />places]]></source>
+                <target><![CDATA[[0]<span id="spanPlaceCount">0</span> <br />mesta|[1]<span id="spanPlaceCount">1</span> <br />mesto|(1,+Inf]<span id="spanPlaceCount">%count%</span> <br />места]]></target>
+            </trans-unit>
+            <trans-unit>
+                <source><![CDATA[[0]0 places|[1]1 place|(1,+Inf]%count% places]]></source>
+                <target><![CDATA[[0]0 mesta|[1]1 mesto|(1,+Inf]%count% mesta]]></target>
+            </trans-unit>
+            <trans-unit>
+                <source>Create a List Now</source>
+                <target>kreirajte listu sad</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Comments About This List</source>
+                <target>Komentari o listi</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Latest episode of Getweekend</source>
+                <target>Poslednja epizoda Getweekend</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Add to List</source>
+                <target>Dodaj na listu</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Choose from Current Lists</source>
+                <target>Odaberi postojeću listu</target>
+            </trans-unit>
+            <trans-unit>
+                <source><![CDATA[Add to <br/>List]]></source>
+                <target><![CDATA[Dodaj na <br/>listu]]></target>
+            </trans-unit>
+            <trans-unit>
+                <source>Add to New List</source>
+                <target>Dodaj na novu listu</target>
+            </trans-unit>
+        </body>
+    </file>	 
+</xliff>

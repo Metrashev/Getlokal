@@ -1,0 +1,118 @@
+<?xml version="1.0" ?>
+<xliff version="1.0">
+    <file orginal="global" source-language="en_EN" datatype="plaintext">
+        <body>
+            <trans-unit>
+                <source>Related Places</source>
+                <target>Locuri asociate</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Related Lists</source>
+                <target>Liste care te-ar putea interesa</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Related Events</source>
+                <target>Evenimente asociate</target>
+            </trans-unit>
+            <trans-unit>
+                <source>From Moderator</source>
+                <target>De la moderator</target>
+            </trans-unit>
+            <trans-unit>
+                <source>From Author</source>
+                <target>De la autor</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Article Photo Gallery</source>
+                <target>Galerie foto articol</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Related Articles</source>
+                <target>Articole care te-ar putea interesa</target>
+            </trans-unit>
+            <trans-unit>
+                <source>SEO</source>
+                <target>SЕО</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Create an Article</source>
+                <target>Creează un articol</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Edit Article</source>
+                <target>Editează articol</target>
+            </trans-unit>
+            <trans-unit>
+                <source>New Article</source>
+                <target>Articol nou</target>
+            </trans-unit>
+			
+            <trans-unit>
+                <source>Copy this code and position it where you want the quotation to appear in the text!</source>
+                <target>Copiază acest cod şi poziţionează-l oriunde vrei ca citatul să apară în text!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>If you want to show an image in the article text, copy the code to the right of this image and paste it where you want it to appear in the 'Article Content' field.!</source>
+                <target>Dacă vrei să arăţi o imagine în textul articolului, copiază codul în dreapta acestei imagini şi adaugă-l acolo unde vrei să apară, în câmpul de conţinut al articolului.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Back to 'Articles'</source>
+                <target>Înapoi la "Articole"</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Source</source>
+                <target>Sursă</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Go to Article</source>
+                <target>Mergi la articol</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The article was not saved. Please fill in all mandatory fields.</source>
+                <target>Articolul nu a fost salvat. Te rugăm să completezi toate câmpurile obligatorii.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The atricle title and content are mandatory for at least one of the two language versions.</source>
+                <target>Titlul şi conţinutul articolului sunt obligatorii pentru cel puţin o versiune de limbă - română sau engleză.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Categories</source>
+                <target>Categorii</target>
+            </trans-unit>
+            <trans-unit>
+                <source>This slug has already been used in another article. Please enter a new slug for the English version of  the article.</source>
+                <target>Acest slug a fost folosit deja pentru alt articol. Te rugăm să introduci un nou slug pentru versiunea în Engleză a articolului.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>This slug has already been used in another article. Please enter a new slug for the Romanian version of  the article.</source>
+                <target>Acest slug a fost folosit deja pentru alt articol. Te rugăm să introduci un nou slug pentru versiunea în Română a articolului.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Edit Source</source>
+                <target>Editează sursa</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Edit Description</source>
+                <target>Editează descrierea</target>
+            </trans-unit>
+
+            <trans-unit>
+                <source>This article is created by</source>
+                <target>Acest articol este scris de</target>
+            </trans-unit> 
+            <trans-unit>
+                <source>Choose</source>
+                <target>Alege</target>
+            </trans-unit>
+            <trans-unit>
+                <source>More articles from</source>
+                <target>Mai multe articole scrise de</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Select Category</source>
+                <target>Alege Categorie</target>
+            </trans-unit>
+
+        </body>
+    </file>	 
+</xliff>

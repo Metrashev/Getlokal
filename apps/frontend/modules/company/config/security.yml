@@ -1,0 +1,8 @@
+addImage:
+  is_secure: true
+addToList:
+  is_secure: true
+deleteReview:
+  is_secure: true
+addNewCompany:
+  is_secure: true

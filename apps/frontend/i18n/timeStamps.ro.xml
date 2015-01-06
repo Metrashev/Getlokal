@@ -1,0 +1,51 @@
+<?xml version="1.0" ?>
+<xliff version="1.0">
+    <file orginal="global" source-language="en_EN" datatype="plaintext">
+        <body>
+            <trans-unit>
+                <source>a few seconds ago</source>
+                <target>Acum câteva secunde</target>
+            </trans-unit>
+            <trans-unit>
+                <source>%s min ago</source>
+                <target>Acum %s de minute</target>
+            </trans-unit>
+            <trans-unit>
+                <source>%sh ago</source>
+                <target>Acum %s ore</target>
+            </trans-unit>
+            <trans-unit>
+                <source>over %s day ago</source>
+                <target> Acum mai bine de o zi</target>
+            </trans-unit>
+            <trans-unit>
+                <source>%s days ago</source>
+                <target>Acum %s zile</target>
+            </trans-unit>
+            <trans-unit>
+                <source>over %s week ago</source>
+                <target>Acum mai bine de %s săptămână</target>
+            </trans-unit>
+            <trans-unit>
+                <source>over %s weeks ago</source>
+                <target>Acum mai bine de %s săptămâni</target>
+            </trans-unit>
+            <trans-unit>
+                <source>over %s month ago</source>
+                <target>Acum mai bine de %1 lună</target>
+            </trans-unit>
+            <trans-unit>
+                <source>over %s months ago</source>
+                <target>Acum mai bine de %s luni</target>
+            </trans-unit>
+            <trans-unit>
+                <source>over %s year ago</source>
+                <target>Acum mai bine de %s an</target>
+            </trans-unit>
+            <trans-unit>
+                <source>over %s years ago</source>
+                <target>Acum mai bine de %s ani</target>
+            </trans-unit>       
+        </body>
+    </file>
+</xliff>

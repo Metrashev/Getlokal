@@ -1,0 +1,325 @@
+<?xml version="1.0" ?>
+<xliff version="1.0">
+    <file orginal="global" source-language="en_EN" datatype="plaintext">
+        <body>
+            <trans-unit>
+                <source>New Event</source>
+                <target>Novi događaj</target>
+            </trans-unit>
+            <trans-unit>
+                <source>in</source>
+                <target>u</target>
+            </trans-unit>
+            <trans-unit>
+                <source>in2</source>
+                <target>u</target>
+            </trans-unit>
+            <trans-unit>
+                <source>by</source>
+                <target>od</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Edit Event</source>
+                <target>Uredite događaj</target>
+            </trans-unit>
+            <trans-unit>
+                <source>When</source>
+                <target>Kada</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Where</source>
+                <target>Gdje</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Edit Event</source>
+                <target>Uredite događaj</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Invite</source>
+                <target>Pozovite</target>
+            </trans-unit>
+            <trans-unit>
+                <source>created by</source>
+                <target>napravljen</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Past Events</source>
+                <target>Protekli događaji</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Events</source>
+                <target>Događaji</target>
+            </trans-unit>
+            <trans-unit>
+                <source>to</source>
+                <target>do</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Upcoming events</source>
+                <target>Najavljeni događaji</target>
+            </trans-unit>
+            <trans-unit>
+                <source>published by</source>
+                <target>objavljeno od</target>
+            </trans-unit>
+            <!-- NEW -->
+            <trans-unit>
+                <source>No results found</source>
+                <target>Nisu pronađeni rezultati.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Event was submitted successfully.</source>
+                <target>Događaj je uspešno dodat.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>My Events</source>
+                <target>Moji događaji</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Choose...</source>
+                <target>Izaberite...</target>
+            </trans-unit>
+            <trans-unit>
+                <source>More</source>
+                <target>Još</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Add Event</source>
+                <target>Dodajte događaj</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Events in %s</source>
+                <target>Događaji u %s</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Events with Tickets in %s</source>
+                <target>Događaji sa Ulaznicama u %s</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Add Event</source>
+                <target>Dodajte događaj</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Location</source>
+                <target>Mjesto održavanja</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Date</source>
+                <target>Datum</target>
+            </trans-unit>
+            <trans-unit>
+                <source>See More Events</source>
+                <target>Pogledajte ostale događaje</target>
+            </trans-unit>
+            <trans-unit>
+                <source>All categories</source>
+                <target>Sve kategorije</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The event was not saved. Please fill in all mandatory fields.</source>
+                <target>Događaj nije sačuvan. Molimo popunite sva obavezna polja</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The event title and terms are mandatory for at least one of the two language versions.</source>
+                <target>Naziv i uslovi događaja su obavezni.</target>
+            </trans-unit>
+            <!-- NEW -->
+            <trans-unit>
+                <source>by</source>
+                <target>korisnik</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Follow</source>
+                <target>Pratite</target>
+            </trans-unit>
+            <trans-unit>
+                <source>By Author</source>
+                <target>Autor</target>
+            </trans-unit>
+            <trans-unit>
+                <source>By Attendees</source>
+                <target>Učesnici</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Tickets Available</source>
+                <target>Ulaznice</target>
+            </trans-unit>
+            <trans-unit>
+                <source>PLACES NEARBY</source>
+                <target>Mjesta u blizini</target>
+            </trans-unit>
+            <trans-unit>
+                <source>You Can Also Visit</source>
+                <target>Možete posetiti i</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Similar Events</source>
+                <target>Slični događaji</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Attended Events</source>
+                <target>Protekli događaji</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Previous Day</source>
+                <target>Prethodni dan</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Next Day</source>
+                <target>Naredni dan</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Today</source>
+                <target>Danas</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Calendar</source>
+                <target>Kalendar</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Sorry, we don't have any events just yet. Please help us by posting the events you know about and sharing them with us. Thank you!</source>
+                <target>Izvinjavamo se. Trenutno nema najavljenih događaja. Pomozite nam tako što ćete objaviti događaj za koji znate.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Select Category</source>
+                <target>Odaberite kategoriju</target>
+            </trans-unit>
+            <trans-unit>
+                <source>From</source>
+                <target>Od</target>
+            </trans-unit>
+            <trans-unit>
+                <source>To</source>
+                <target>Do</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Select Time</source>
+                <target>Odaberite vrijeme</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Select category</source>
+                <target>Izaberite kategoriju</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Free</source>
+                <target>Besplatno</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Up to 10 eur</source>
+                <target>Do 500 </target>
+            </trans-unit>
+            <trans-unit>
+                <source>Up to 50 </source>
+                <target>Do 1000 </target>
+            </trans-unit>
+            <trans-unit>
+                <source>Up to 100 </source>
+                <target>Do 2000 n</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Over 100 RSD</source>
+                <target>Preko 2000 din</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Choose...</source>
+                <target>Izaberite...</target>
+            </trans-unit>
+
+            <!-- NEW DESIGN -->
+
+            <trans-unit>
+                <source>Choose to see</source>
+                <target>Pregledaj</target>
+            </trans-unit>
+
+            <trans-unit>
+                <source>Future Events</source>
+                <target>Najavljeni događaji</target>
+            </trans-unit>
+
+            <trans-unit>
+                <source>Today's events</source>
+                <target>Današnje događaje</target>
+            </trans-unit>
+
+            <trans-unit>
+                <source>Recommended Places</source>
+                <target>Preporučena Mjesta</target>
+            </trans-unit>
+
+            <trans-unit>
+                <source>Events in %s</source>
+                <target>Događaji u Podgorici %s</target>
+            </trans-unit>
+
+            <trans-unit>
+                <source>Share your review on Facebook</source>
+                <target>Šeruj preporuku na Facebook</target>
+            </trans-unit>
+
+            <trans-unit>
+                <source>RECOMMENDATIONS FOR EVENTS IN %s</source>
+                <target>Preporuke za događaje u %s</target>
+            </trans-unit>
+ 
+            <trans-unit>
+                <source>Incoming events</source>
+                <target>Najavljeni događaji</target>
+            </trans-unit>
+
+            <trans-unit>
+                <source>Past events</source>
+                <target>Protekli događaji</target>
+            </trans-unit>
+            
+            <trans-unit>
+                <source>This event is created by</source>
+                <target>Ovaj događaj je kreirao korisnik</target>
+            </trans-unit>
+
+
+            <trans-unit>
+                <source>By author</source>
+                <target>Autor</target>
+            </trans-unit>
+
+            <trans-unit>
+                <source>By Attenders</source>
+                <target>Učesnici</target>
+            </trans-unit>
+
+            <trans-unit>
+                <source>More events from</source>
+                <target>Ostali događaji korisnika</target>
+            </trans-unit>
+
+            <trans-unit>
+                <source>Will Аttend</source>
+                <target>Prisustvovaće</target>
+            </trans-unit>
+
+            <trans-unit>
+                <source>Attending</source>
+                <target>Prisustvovaće</target>
+            </trans-unit>
+
+
+            <trans-unit>
+                <source>Won't Attend</source>
+                <target>Neće prisustvovati</target>
+            </trans-unit>
+
+            <trans-unit>
+                <source>uploaded by: </source>
+                <target>Objavio: </target>
+            </trans-unit>
+
+
+            <trans-unit>
+                <source>Buy Now</source>
+                <target>Kupi sad</target>
+            </trans-unit>
+
+        </body>
+    </file>
+</xliff>

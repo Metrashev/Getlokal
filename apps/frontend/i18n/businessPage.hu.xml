@@ -1,0 +1,164 @@
+<?xml version="1.0" ?>
+<xliff version="1.0">
+    <file orginal="global" source-language="en_EN" datatype="plaintext">
+        <body>
+            <trans-unit>
+                <source>Getlokal is the place where you meet your customers. Engage in a conversation with them – be notified whenever someone publishes a review about your place and post an official answer to them, upload photos, your contact details and business description! Improve your position in front of your competition and bring relevance to your online presence! What are the steps?</source>
+                <target>Getlokal a hely, ahol találkozik az ügyfeleivel! Lépjen aktiv beszélgetésben velük – értesítve lesz, ha keresés van az Ön helyérol és válaszoljon! Jelentessen meg képeket, elérhetoséget és tevékenység leírást! Erosítse a pozicióját a vetélytársaival szemben és növelje az on-line jelenlétének fontosságát! Milyen lépéseket kell tennie?</target>
+            </trans-unit>
+            <trans-unit>
+                <source>%s on getlokal! If you are new @ %s you need to register first.</source>
+                <target>%s Getlokalban! Ha ön új felhasználó, kérjük elõször regisztráljon.%s.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Find or add your place! %s, find your place and %s! If you can’t find it, %s or %s and we will do it for you. And then again - log in, find your place and %s!</source>
+                <target>Találja meg vagy adja hozzá a helyét! %s, talája meg a helyét és %s! Ha nem találja meg a honlapon,  %s vagy %s, mi megtesszük Ön helyett. Utána jelentkezzen be, talája meg a helyet és %s!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Fill in content! It’s free and easy! What are your benefits? Unlimited photo upload, place description in two languages and most importantly - you engage in a conversation with your customers!</source>
+                <target>Tölts ki tartalommal! Könnyû és ingyenes! Mi az elõnye? Korlátlan számú képet töltsön fel, adjon hozzá helyleírást magyar és angol nyelven és a legfontosabb - beszéljen az ügyfeleivel!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Can’t get enough? After you get acquainted with your place profile, %s for more info about the businesslokal+ features.</source>
+                <target>Nem elég? Miután megismerkedik a helye profiljával, %s tolünk több infót a businesslokal+ features opcióról, %s</target>
+            </trans-unit>
+            <trans-unit>
+                <source>let us know</source>
+                <target>tudassa velünk</target>
+            </trans-unit>
+            <trans-unit>
+                <source>write to us</source>
+                <target>írjon nekünk</target>
+            </trans-unit>
+            <trans-unit>
+                <source>add it yourself</source>
+                <target>add hozzá magad</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Log in</source>
+                <target>Jelentkezzen be</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Register</source>
+                <target>Regisztráljon</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Start Here!</source>
+                <target>Kezdjen itt!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Already Have an Account?</source>
+                <target>Már van regisztrált profilja?</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Login and Claim your place</source>
+                <target>Jelentkezzen be és jelentse ki a helyét</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Need Help?</source>
+                <target>Segítség kell?</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Contact us (we’ll answer as fast as we can)</source>
+                <target>Írjon nekünk(válaszolunk lehetoleg a leggyorsabban)</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Who are you?</source>
+                <target>Ki Ön?</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Make it Official!</source>
+                <target>Legyen hivatalos!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Where are you?</source>
+                <target>Hol tartózkodik?</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Tell your story!</source>
+                <target>Mondja el a sztoriját!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Get visual!</source>
+                <target>Tegye láthatóvá!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Be available!</source>
+                <target>Álljon rendelkezésre!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Pay attention!</source>
+                <target>Figyeljen!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Are you liked?</source>
+                <target>Tetszik Ön a többieknek?</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The place name goes here! Choose the most appropriate classification among 200 and more!</source>
+                <target>Ide beírni a hely nevét! Válasszon több mint 200 besorolás közüla legmegfelelobbet ! </target>
+            </trans-unit>
+            <trans-unit>
+                <source>Put an official stamp that this is your business by claiming it!</source>
+                <target>Hivatalosan jelentse ki mi az üzlete!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Write a short description – why is your place different, what is its history? Be creative!</source>
+                <target>Írjon egy rövid leírást – miért különb és mi a sztorija? Legyen kreatív!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Show your place - post photos!</source>
+                <target>Mutassa be a helyét - jelenítesen meg képeket!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Set your working hours and the useful links!</source>
+                <target> Jelentse be a munkaidejét és néhány hasznos linket!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Get to know your customers and engage in conversations as an official representative of your company!</source>
+                <target>Ismerje meg az ügyfeleit és komunikáljon velük a cége hivatalos képviselojeként!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>See what your customers appreciate most about your place!</source>
+                <target>Tudja meg mi az, ami a legjobban tetszik az ügyfeleinek Ön helyén!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Your Business Profile</source>
+                <target>Az Ön üzleti profilja</target>
+            </trans-unit>
+            <trans-unit>
+                <source>claim it</source>
+                <target>jelentse ki</target>
+            </trans-unit>
+      		
+            <trans-unit>
+                <source>Advertising in Sofia</source>
+                <target>Reklámozás Budapesten</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Sofia, Balsha St 1, bl. 9 fl. 4</source>
+                <target>Budapest, 1 ............ utca,4 emelet</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Professionals</source>
+                <target>Szakértok</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Meets Deadlines</source>
+                <target> Megfelelo határido</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Street Parking</source>
+                <target>Parkolás az utcán</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Service</source>
+                <target>Felszolgálás</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Location</source>
+                <target>Elhelyezés</target>
+            </trans-unit>
+        </body>
+    </file>
+</xliff>

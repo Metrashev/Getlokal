@@ -1,0 +1,1 @@
+<p><?php echo sfOutputEscaper::unescape(myTools::auto_link_urls($body)); ?></p>

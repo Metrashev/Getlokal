@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+<xliff version="1.0">
+    <file orginal="global" source-language="en_EN" datatype="plaintext">
+        <body>
+            <trans-unit id="1">
+                <source>404 ERROR</source>
+                <target>ОШИБКА 404</target>
+            </trans-unit>
+            <trans-unit id="2">
+                <source>The server returned a 404 response!</source>
+                <target>Сервер показал ошибку 404!</target>
+            </trans-unit>
+            <trans-unit id="3">
+                <source>Here are some of the possible reasons</source>
+                <target>Вот несколько возможных причин </target>
+            </trans-unit>
+            <trans-unit id="4">
+                <source>Did you type a URL i.e. website address?</source>
+                <target>Ввели ли вы URL, т.е. адрес вебсайта?</target>
+            </trans-unit>
+            <trans-unit id="5">
+                <source>You may have typed the website address (URL) incorrectly. Please, check the spelling, capitalization, punctuation, etc.</source>
+                <target>Возможно, вы неправильно ввели адрес вебсайта (URL). Пожалуйста, проверьте правописание, заглавные буквы, пунктуацию, и т.д. </target>
+            </trans-unit>
+            <trans-unit id="6">
+                <source>Did you follow a link to this page from another page in this site?</source>
+                <target>Возможно вы перешли на эту страницу с другой страницы на этом сайте?</target>
+            </trans-unit>
+            <trans-unit id="7">
+                <source>If you reached this page from another page in this site, please email us at info@getlokal.com so we can fix the problem.</source>
+                <target>Если вы зашли на эту страницу с другой страницы на этом сайте, пожалуйста, отправьте нам сообщение на info@getlokal.com, чтобы мы могли устранить проблему.</target>
+            </trans-unit>
+            <trans-unit id="8">
+                <source>Did you follow a link from another site?</source>
+                <target>Возможно вы зашли на эту страницу с другого сайта?</target>
+            </trans-unit>
+            <trans-unit id="9">
+                <source>Links from other sites can sometimes be out-of-date or misspelled. Please email us at info@getlokal.com with information about the site from which you followed the link so we can try and contact the other site in order to fix the problem.</source>
+                <target> Ссылки с других сайтов могут иногда быть устаревшими или неправильно написанными. Пожалуйста, отправьте нам сообщение на info@getlokal.com с информацией о сайте с этой ссылкой, чтобы мы проследили ссылку и связались с этим сайтом, чтобы устранить проблему.</target>
+            </trans-unit>
+            <trans-unit id="10">
+                <source>404 ERROR - The page can't be found</source>
+                <target>Ошибка 404 - Данная страница не найдена </target>
+            </trans-unit>
+        </body>
+    </file>
+</xliff>

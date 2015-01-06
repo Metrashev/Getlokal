@@ -1,0 +1,199 @@
+<?xml version="1.0" ?>
+<xliff version="1.0">
+    <file orginal="global" source-language="en_EN" datatype="plaintext">
+        <body>
+            <trans-unit>
+                <source>Privacy Policy</source>
+                <target>Politică de confidenţialitate</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Contacts</source>
+                <target>Contacte</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Contact Us</source>
+                <target>Contactează-ne</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Address:</source>
+                <target>Adresa:</target>
+            </trans-unit>
+            <trans-unit>
+                <source>3 Dr. Hr. Stambolski str.</source>
+                <target>Dr. Hr. Stambolski, nr.3</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Sofia 1463</source>
+                <target>Sofia 1463</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Map:</source>
+                <target>Harta:</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Telephone Numbers:</source>
+                <target>Numere de telefon:</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Company Listing Enquiries</source>
+                <target>Pentru întrebari legate de listarea companiilor</target>
+            </trans-unit>
+            <trans-unit>
+                <source>General Enquiries:</source>
+                <target>Intrebari Generale:</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Fax:</source>
+                <target>Fax:</target>
+            </trans-unit>
+            <trans-unit>
+                <source>If you want to send us an email, please fill the form bellow:</source>
+                <target>Dacă doriţi să ne trimiteţi un e-mail, vă rugăm să completaţi formularul de mai jos:</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Your e-mail:</source>
+                <target>Adresa dvs. de e-mail:</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Your name:</source>
+                <target>Numele dumneavoastra:</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Your phone:</source>
+                <target>Telefon dumneavoastra:</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Your message:</source>
+                <target>Mesajul dvs.:</target>
+            </trans-unit>
+            <trans-unit>
+                <source>en</source>
+                <target>ro</target>
+            </trans-unit>
+            <trans-unit>
+                <source>E-mail is required.</source>
+                <target>Adresa de e-mail este necesara.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Your name is required.</source>
+                <target>Numele dvs. este necesar.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>This field is required. Please type your message.</source>
+                <target>Acest câmp este obligatoriu. Vă rugăm să scrieti mesajul.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>If you don't want to receive getlokal'%s please fill in the required information.</source>
+                <target>Dacă nu doriţi să primiţi getlokal %s  vă rugăm să completaţi cu informaţiile solicitate.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Your message was sent successfully.</source>
+                <target>Mesajul a fost trimis cu succes.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Company Name:</source>
+                <target>Numele companiei:</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Company Address:</source>
+                <target>Adresa companiei:</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Company Phone:</source>
+                <target>Numărul de telefon al companiei:</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Business type:</source>
+                <target>Tipul companiei:</target>
+            </trans-unit>
+            <trans-unit>
+                <source>e.g. Hairdressers or Italian restaurant etc.</source>
+                <target>e.g. Hairdressers or Italian restaurant etc.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>In order to publish accurate data we would like to receive as much detail about the address as possible. The city/town name is mandatory.</source>
+                <target>Pentru a publica informaţii de acurateţe cât mai ridicată te rugăm sa ne oferi cât mai multe informaţii despre adresă. Oraşul e obligatoriu.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Company Website address:</source>
+                <target>Site-ul companiei:</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Company Email address:</source>
+                <target>Adresa de email a companiei:</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Contact person in the company:</source>
+                <target>Persoană de contact din companie:</target>
+            </trans-unit>
+            <trans-unit>
+                <source>If you haven't found the company or place you were looking for, please fill in the information below and send it to us so we can include it in getlokal.ro. If you are the owner or representative of a business and haven't been able to find it on our site, please</source>
+                <target>Dacă cunoşti un loc sau o companie care nu e listat(-ă) la noi pe site, te rugăm să completezi informaţiile de mai jos pentru a îl/o include pe getlokal.ro. Dacă eşti proprietarul sau reprezentantul unui loc sau companie şi nu ai putut să îl găseşti pe site, te rugăm să te înregistrezi pentru un</target>
+            </trans-unit>
+            <trans-unit>
+                <source>register a business account</source>
+                <target>cont business</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Choose... </source>
+                <target>Alegeti... </target>
+            </trans-unit>
+            <trans-unit>
+                <source>Select...</source>
+                <target>Selectati...</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Illegal</source>
+                <target>Ilegal</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Offensive</source>
+                <target>Jignitor</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Copyright</source>
+                <target>Drepturi de autor</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Incorrect</source>
+                <target>Incorect</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Other</source>
+                <target>Altele</target>
+            </trans-unit>
+            <trans-unit>
+                <source>For general enquires (advertising/sales/press/partnerships):</source>
+                <target>Pentru întrebări generale (publicitate/vânzări/presă/parteneriate):</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Report content as</source>
+                <target>Raportează conținutul ca fiind</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Terms of Use</source>
+                <target>Condiţii de utilizare</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Legal</source>
+                <target>Legal Info</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Legal Info</source>
+                <target>Legal Info</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Тimeline</source>
+                <target>Scurt istoric</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Change city</source>
+                <target>Schimbă orașul</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Additional Information</source>
+                <target>Informații adiționale</target>
+            </trans-unit>
+        </body>
+    </file>
+</xliff>

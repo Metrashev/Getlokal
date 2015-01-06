@@ -1,0 +1,2 @@
+<?php //include_component('comment', 'comments', array('activity' => $comment->getActivity(), 'user'=>$user, 'url' => $pager_url)) ?>
+<?php include_partial('comment/comment',array('comment' => $comment,'user' => $user))?>

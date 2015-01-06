@@ -1,0 +1,84 @@
+<?xml version="1.0" ?>
+<xliff version="1.0">
+    <file orginal="global" source-language="en_EN" datatype="plaintext">
+        <body>
+            <trans-unit>
+                <source>Create new account</source>
+                <target>Creeaza un cont nou</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Account Activation</source>
+                <target>activarea contului</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Resend activation email</source>
+                <target>Retrimite un e-mail de activare</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Forgotten Password</source>
+                <target>Ai uitat parola</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Offers</source>
+                <target>Oferte</target>
+            </trans-unit>
+            <trans-unit>
+                <source>%s in %s</source>
+                <target>%s în %s</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Going Out, Leisure, Health and Beauty, Shopping</source>
+                <target>acum și în România</target>
+            </trans-unit>
+            <!-- New Offer -->
+            <trans-unit>
+                <source>New Offer</source>
+                <target>New Offer</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Communication Settings</source>
+                <target>Communication Settings</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Select a classification</source>
+                <target>Alege clasificarea</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Add Company</source>
+                <target>Adauga Compania</target>
+            </trans-unit>
+            <trans-unit>
+                <source>%s in getlokal - addresses, telephones, working hours and user reviews for %s in %s, %s</source>
+                <target>%s în getlokal - adrese, telefoane, orele de lucru și recomandările scrise de ceilalți useri pentru %s din %s, %s</target>
+            </trans-unit>
+            <trans-unit>
+                <source>%s in getlokal - addresses, telephones, working hours and user reviews for %s in %s</source>
+                <target>%s în getlokal - adrese, telefoane, orele de lucru și recomandările scrise de ceilalți useri pentru %s din %s</target>
+            </trans-unit>
+            <trans-unit>
+                <source>%s in %s - information in getlokal: see address, telephone, working hours, photos and user reviews for %s, %s</source>
+                <target>%s din %s - informații în getlokal: vezi adresa, telefonul, ore de lucru, fotografii și recomandările userilor pentru %s, %s</target>
+            </trans-unit>
+            <trans-unit>
+                <source>%s, %s - reviews and ratings from customers</source>
+                <target>%s, %s - recomandări și rating-uri de la clienți</target>
+            </trans-unit>
+            <trans-unit>
+                <source>%s, %s - detailed information</source>
+                <target>%s, %s - informații detaliate</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Find up-to-date reviews, comments and ratings of customer for %s in %s. Add your own review!</source>
+                <target>Găsești recomandări, comentarii și rating-uri ale clienților pentru %s din %s. Adaugă și tu o recomandare! </target>
+            </trans-unit>
+            <trans-unit>
+                <source>%s - getlokal user</source>
+                <target>%s - user getlokal</target>
+            </trans-unit>
+            <trans-unit>
+                <source>See information for %s and all their reviews in getlokal!</source>
+                <target>Vezi mai multe info despre %s și recomandările scrise în getlokal!</target>
+            </trans-unit>
+        </body>
+    </file>
+</xliff>

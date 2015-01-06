@@ -1,0 +1,61 @@
+<?xml version="1.0" ?><xliff version="1.0">
+	<file datatype="plaintext" original="global" source-language="en">
+		<body>
+      		<trans-unit id="1">
+	        	<source>Place Claim in Getlokal</source>
+	        	<target>Добавление места в Getlokal</target>
+	       		
+      		</trans-unit>
+      		<trans-unit id="2">
+	        	<source>Welcome to getlokal</source>
+	        	<target>Добро пожаловать в Getlokal</target>
+	       		
+      		</trans-unit>
+      		<trans-unit id="3">
+	        	<source>Request through getlokal</source>
+	        	<target>Сделать запрос через Getlokal</target>
+	       		
+      		</trans-unit>
+      		<trans-unit id="4">
+	        	<source>Claim Request</source>
+	        	<target>Сделать запрос </target>
+	       		
+      		</trans-unit>
+      		<trans-unit id="5">
+	        	<source>Forgotten Password</source>
+	        	<target>Забыли пароль</target>
+	       		
+      		</trans-unit>
+      		<trans-unit id="6">
+	        	<source>Getlokal Account Activation</source>
+	        	<target>Активация учётной записи Getlokal</target>
+	       		
+      		</trans-unit>
+      		<trans-unit id="7">
+	        	<source>Change Email Confirmation</source>
+	        	<target>Изменить подтверждение по электронной почте</target>
+	       		
+      		</trans-unit>
+      		<trans-unit id="8">
+	        	<source>Forgotten Place Admin Password</source>
+	        	<target>Забыли ввести пароль администратора</target>
+	       		
+      		</trans-unit>
+      		<trans-unit id="9">
+	        	<source>Forgotten Username</source>
+	        	<target>Не помню имя пользователя</target>
+	       		
+      		</trans-unit>
+      		<trans-unit id="10">
+	        	<source>Approved Place Claim in Getlokal</source>
+	        	<target>Добавление места в Getlokal подтверждено</target>
+	       		
+      		</trans-unit>
+            <trans-unit id="11">
+                <source>Rejected Place Claim in Getlokal</source>
+                <target>Добавление места в Getlokal отклонено</target>
+                
+            </trans-unit>
+		</body>
+	</file>
+</xliff>

@@ -1,0 +1,65 @@
+<?xml version="1.0" ?>
+<xliff version="1.0">
+    <file orginal="global" source-language="en_EN" datatype="plaintext">
+        <body>					
+            <trans-unit>
+                <source>Place Claim in getlokal</source>
+                <target>Baranje za administriranje na mesto na getlokal</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Welcome to getlokal</source>
+                <target>Dobre dojdovte na getlokal</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Request through getlokal</source>
+                <target>Prashanje preku getlokal</target>
+            </trans-unit>  
+            <trans-unit>
+                <source>Claim Request</source>
+                <target>Baranje za administriranje na mesto</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Forgotten Password</source>
+                <target>Zaboravenа lozinka</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Change Email Confirmation</source>
+                <target>Potvrda za promena na e-mail</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Forgotten Place Admin Password</source>
+                <target>Zaboravena lozinka za mesto</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Forgotten Username</source>
+                <target>Zaboraveno korisnicko ime</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Approved Place Claim in getlokal</source>
+                <target>Odobrenie za administrator na mesto</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Rejected Place Claim in getlokal</source>
+                <target>Odbieno baranje za administrator na getlokal</target>
+            </trans-unit>
+            <trans-unit>
+                <source>You won a prize from getlokal.mk</source>
+                <target>Добитник си на награда од getlokal.mk</target>
+            </trans-unit> 
+            <trans-unit>
+                <source>You've joined the competition for the big prize on getlokal.mk</source>
+                <target>Учествуваш во извлекувањето за големата награда на getlokal.mk</target>
+            </trans-unit>      		
+            <trans-unit>
+                <source>A friend just invited you to join getlokal.mk!</source>
+                <target>Tvoj prijatel te pokani da se prikluchish na getlokal.mk!</target>
+            </trans-unit>	
+
+            		<!--  NEW DESIGN-->
+
+        
+
+            
+        </body>
+    </file>
+</xliff>

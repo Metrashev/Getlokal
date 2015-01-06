@@ -1,0 +1,91 @@
+<?xml version="1.0" ?>
+<xliff version="1.0">
+    <file orginal="global" source-language="en_EN" datatype="plaintext">
+        <body>
+            <trans-unit>
+                <source>Become getlokal Ambassador in your Town</source>
+                <target>Стани getlokal посланик в твоя град</target>
+            </trans-unit>
+            <trans-unit>
+                <source>getlokal is more and more popular and we want to make it more useful, complete and interesting to everyone. We are looking for the most active people in your town to help us achieve this, and we want to reward you for helping us!</source>
+                <target>getlokal  е все по-популярен и искаме да го направим и много по-полезен, пълен и интересен за всички. Търсим най-активните в твоя град да ни помогнете да го направим, а ние ще ви възнаградим за усилията!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>If YOU:</source>
+                <target>Ако ТИ:</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Love your city and know all the cool places</source>
+                <target>обичаш своя град и знаеш всички готини места</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Want others to appreciate your beautiful town</source>
+                <target>искаш и другите да видят на колко прекрасно място живееш</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Are the one everyone turns to for recommendations for  the best restaurant, shop, hairdresser and the most popular club</source>
+                <target>си този, който препоръчва на приятел най-добрия ресторант, най-изгодния магазин, най-добрия фризьор и най-популярния клуб в града</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Love being online and staying informed about all important topics</source>
+                <target>обичаш да си онлайн и  да се информираш за всичко важно</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Enjoy yourself while working</source>
+                <target>винаги се забавляваш, докато работиш</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Then you are like us!</source>
+                <target>Тогава си като НАС!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>If you would like to be part of the success of getlokal.com and to work for your town, %s!</source>
+                <target>Ако искаш да бъдеш част от успеха на getlokal.com и да работиш за своя град, %s!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>take part in our getlokal Ambassador challenge</source>
+                <target>участвай в надпреварата за getlokal посланик</target>
+            </trans-unit>
+            <trans-unit>
+                <source>It’s simple!</source>
+                <target>Лесно е!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Create a profile on getlokal</source>
+                <target>Направи си профил в getlokal</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Upload content</source>
+                <target>Качвай съдържание</target> 
+            </trans-unit>
+            <trans-unit>
+                <source>pictures, new places, reviews, lists – the more, the better!</source>
+                <target>снимки, нови места, ревюта, списъци – колкото повече, толкова по-добре!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Send us an email</source>
+                <target>Изпрати ни имейл</target>
+            </trans-unit>
+            <trans-unit>
+                <source>with your user name and the reason why you would like to become an Ambassador</source>
+                <target>с потребителското ти име и защо искаш да станеш посланик</target>
+            </trans-unit>
+            <trans-unit>
+                <source>email</source>
+                <target>имейл</target>
+            </trans-unit>
+            <trans-unit>
+                <source>On %s getlokal Ambassadors for Sofia, Varna, Burgas, Plovdiv, Pleven, Ruse, Veliko Tarnovo and Stara Zagora will be chosen from the most active amongst you!</source>
+                <target>На %с измежду най-активните от вас, ще избрем getlokal посланици за София, Варна, Бургас, Пловдив, Плевен, Русе, Велико Търново и Стара Загора!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Looking forward to see you!</source>
+                <target>Очакваме те!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Good Luck!</source>
+                <target>Късмет!</target>
+            </trans-unit>
+        </body>
+    </file>
+</xliff>

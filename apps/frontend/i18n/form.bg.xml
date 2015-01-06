@@ -1,0 +1,1359 @@
+<?xml version="1.0" ?>
+<xliff version="1.0">
+    <file orginal="global" source-language="en_EN" datatype="plaintext">
+        <body>
+            <trans-unit>
+                <source>Day, month and year are mandatory fields</source>
+                <target>Задължителните полета са ден, месец и година</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Username "%value%" cannot be used</source>
+                <target>Потребителското име "%value%" не може да бъде избрано</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The username "%value%" contains characters that are not allowed</source>
+                <target>Потребителското име "%value%" съдържа забранени символи</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Username must contain at least %min_length% characters</source>
+                <target>Потрeбителското име трябва да съдържа поне %min_length% символа</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Username cannot contain more than %max_length% characters.</source>
+                <target>Потрeбителското име трябва да съдържа не повече от %max_length% символа</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Invalid email – your email is not in the correct format</source>
+                <target>Невалиден имейл адрес – имейл адресът не е в точния формат</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Your password should be at least %min_length% characters long</source>
+                <target>Паролата трябва да съдържа поне %min_length% символа</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Your password cannot contain more than %max_length% characters</source>
+                <target>Паролата трябва да съдържа не повече от %max_length% символа</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The passwords do not match</source>
+                <target>Въведени са различни пароли</target>
+            </trans-unit>
+            <trans-unit>
+                <source>This email address has already been registered by another user</source>
+                <target>Вече има регистриран потребител с въведения имейл</target>
+            </trans-unit>
+            <trans-unit>
+                <source>This field is mandatory. Please start typing the name of your home location and select from the list.</source>
+                <target>Полето е задължително. Започни да пишеш името на своето населено място и избери от списъка, който ще се покаже.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>You have entered the text incorrectly. Please try again.</source>
+                <target>Въведените символи не съвпадат с тези от картинката. Опитай отново.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Email is required</source>
+                <target>Имейлът е задължителен</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The file you submitted is not in a valid format. Please upload a JPG, GIF or PNG image file.</source>
+                <target>Избраният файл е с невалиден формат. Добавете JPG, GIF или PNG файл.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The file you submitted is not in a valid format. Please upload a JPG, GIF or PNG image file.</source>
+                <target>Избраният файл е с невалиден формат. Добави JPG, GIF или PNG файл.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>File size limit is 4MB.Please reduce file size before submitting again.</source>
+                <target>Допустимият максимален размер на файл е 4MB</target>
+            </trans-unit>
+            <trans-unit>
+                <source>File size limit is 2MB.Please reduce file size.</source>
+                <target>Допустимият максимален размер на файл е 2MB</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The review cannot contain more than %max_length% characters. Shorten your review.</source>
+                <target>Ревюто не може да надвишава %max_length% символа. Съкратете ревюто си.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The review must contain at least %min_length% characters</source>
+                <target>Ревюто трябва да съдържа поне %min_length% символа</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The answer must contain at least %min_length% characters</source>
+                <target>Отговорът трябва да съдържа поне %min_length% символа</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The review cannot contain more than %max_length% characters</source>
+                <target>Ревюто не може да надвишава %max_length% символа</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Type Review</source>
+                <target>Моля, въведи ревю!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The field is mandatory</source>
+                <target>Полето е задължително</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Select Your Position</source>
+                <target>Посочи своята длъжност</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Invalid Phone Number</source>
+                <target>Невалиден телефонен номер</target>
+            </trans-unit>
+            <trans-unit>
+                <source>This field cannot contain more than %max_length% characters</source>
+                <target>Полето трябва да съдържа не повече от %max_length% символа</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Select company type</source>
+                <target>Посочете тип на компанията</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The field cannot contain more than %max_length% characters</source>
+                <target>Полето трябва да съдържа не повече от %max_length% символа</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The field must contain at least %min_length% characters</source>
+                <target>Полето трябва да съдържа поне %min_length% символа</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Invalid format. E.g. http://www.getlokal.com</source>
+                <target>Невалиден формат. Пример: http://www.getlokal.com</target>
+            </trans-unit>
+            <!--             <trans-unit>
+                <source>Invalid format. E.g. getlokal.com!</source>
+                <target>Невалиден формат. Пример: getlokal.com!</target>
+            </trans-unit> -->
+            <trans-unit>
+                <source>Invalid format. E.g. http://blog.getlokal.com</source>
+                <target>Невалиден формат. Пример: http://blog.getlokal.com</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Invalid format. E.g. http://twitter.com/@getlokal</source>
+                <target>Невалиден формат. Пример: http://twitter.com/@getlokal</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Invalid format. E.g. http://www.facebook.com/#!/getlokal</source>
+                <target>Невалиден формат. Пример: http://www.facebook.com/#!/getlokal</target>
+            </trans-unit>
+            <!--             <trans-unit>
+                <source>This field is not mandatory but if you fill it in it must contain at least %min_length% characters</source>
+                <target>Полето не е задължително, но ако го попълниш трябва да съдържа поне %min_length% символа</target>
+            </trans-unit> -->
+            <!--             <trans-unit>
+                <source>This field is not mandatory but if you fill it in it cannot contain more than %max_length% characters.</source>
+                <target>Полето не е задължително, но ако го попълниш трябва не повече от %max_length% символа</target>
+            </trans-unit> -->
+            <trans-unit>
+                <source>Select Your Position</source>
+                <target>Изберете длъжност</target>
+            </trans-unit>
+            <!--             <trans-unit>
+                <source>Company validation email was not sent successfully. Company registration failed. Please try again.</source>
+                <target>Имейлът за валидиране на детайлите на компанията ви не беше изпратен успешно. Процесът на регистрация беше прекратен. Моля, опитайте отново.</target>
+            </trans-unit> -->
+            <trans-unit>
+                <source>The new password was sent successfully to the email you provided.</source>
+                <target>Новата паролата беше успешно изпратена на въведения имейл адрес</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Invalid format. E.g. http://www.facebook.com/getlokal</source>
+                <target>Невалиден формат. Пример: http://www.facebook.com/getlokal</target>
+            </trans-unit>
+            <!--             <trans-unit>
+                <source>There was a problem changing your password. Please try again later.</source>
+                <target>Възникна проблем при смяна на паролата. Моля, опитай по-късно.</target>
+            </trans-unit> -->
+            <!--             <trans-unit>
+                <source>The start date cannot be earlier than today</source>
+                <target>Началната дата не може да бъде по-ранна от днешната</target>
+            </trans-unit> -->
+            <!--             <trans-unit>
+                <source>The start date of the second promo month cannot be earlier than the end date of the first</source>
+                <target>Началната дата за втория период не може да бъде по-ранна от крайната дата на първия</target>
+            </trans-unit> -->
+            <!--             <trans-unit>
+                <source>The start date of the third promo month cannot be earlier than the end date of the second</source>
+                <target>Началната дата за третия период не може да бъде по-ранна от крайната дата на втория</target>
+            </trans-unit> -->
+            <!--             <trans-unit>
+                <source>The start date for the third period must not be later than 30 days before the end date of your advert</source>
+                <target>Началната дата за третия период не трябва да е по-късна от 30 дни преди изтичане срока на рекламата</target>
+            </trans-unit> -->
+            <!--             <trans-unit>
+                <source>The start date for the period must not be later than 30 days before the end date of your advert</source>
+                <target>Началната дата на периода не трябва да е по-късна от 30 дни преди изтичане срока на рекламата</target>
+            </trans-unit> -->
+            <trans-unit>
+                <source>Type an Answer</source>
+                <target>Въведи отговор</target>
+            </trans-unit>
+            <!--             <trans-unit>
+                <source>The Offer Title cannot be longer than %max_length% characters</source>
+                <target>Заглавието на офертата не може да надвишава %max_length% символа</target>
+            </trans-unit> -->
+            <trans-unit>
+                <source>Offer Title</source>
+                <target>Заглавие на офертата</target>
+            </trans-unit>
+            <!--             <trans-unit>
+                <source>Offer Details</source>
+                <target>Детайли за офертата</target>
+            </trans-unit> -->
+            <trans-unit>
+                <source>The maximum number of vouchers issued per user cannot exceed the total number of vouchers for the offer</source>
+                <target>Максималният брой издадени ваучери на потребител не може да е по-голям от максималния брой ваучери за офертата</target>
+            </trans-unit>
+            <!--             <trans-unit>
+                <source>You cannot select a date earlier than today's</source>
+                <target>Моля изберете дата не по-ранна от днешната</target>
+            </trans-unit> -->
+            <!--             <trans-unit>
+                <source>Тhe end date of your offer cannot be later than the end date of your advert</source>
+                <target>Датата, до която е активна офертата не трябва да е по-късна от крайната дата на рекламата</target>
+            </trans-unit> -->
+            <trans-unit>
+                <source>The offer end date cannot be earlier than the start date</source>
+                <target>Крайната дата не може да е по-ранна от началната</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The voucher valid to date cannot be earlier than the offer end date</source>
+                <target>Крайната дата на валидност на ваучерите за офертата не може да е по-малка от крайната дата на валидност на самата оферта</target>
+            </trans-unit>
+            <!--             <trans-unit>
+                <source>Select date, month and year</source>
+                <target>Изберете дата, месец и година</target>
+            </trans-unit> -->
+            <!--             <trans-unit>
+                <source>The email address is not in a valid format</source>
+                <target>Имейл адресът е в невалиден формат</target>
+            </trans-unit> -->
+            <!--             <trans-unit>
+                <source>An email is mandatory</source>
+                <target>Имейлът е задължителен</target>
+            </trans-unit> -->
+            <trans-unit>
+                <source>You need to agree to the Terms of Use and the Policy for Use and Protection of the Information on Getlokal</source>
+                <target>Трябва да се съгласиш с Условията за ползване и Правилата за използване и опазване на информацията в Getlokal</target>
+            </trans-unit>
+            <!--             <trans-unit>
+                <source>You need to agree to Getlokal's Terms of Use to create a user account</source>
+                <target>За да създадеш потребителски профил е необходимо да се съгласиш с Условията за ползване на Getlokal</target>
+            </trans-unit> -->
+            <!--             <trans-unit>
+                <source>Location is mandatory. Start typing the name of your location and select from the list.</source>
+                <target>Полето е задължително. Започни да пишеш името на своето населено място и избери от списъка.</target>
+            </trans-unit> -->
+            <!--             <trans-unit>
+                <source>Password must be at least %min_length% characters</source>
+                <target>Паролата трябва да е поне %min_length% символа</target>
+            </trans-unit> -->
+            <!--             <trans-unit>
+                <source>Password cannot be more than %min_length% characters</source>
+                <target>Паролата трябва да е не повече от %max_length% символа</target>
+            </trans-unit> -->
+            <!--             <trans-unit>
+                <source>A username is mandatory</source>
+                <target>Потребителското име е задължително</target>
+            </trans-unit> -->
+            <!--             <trans-unit>
+                <source>Invalid unsubscribe code for </source>
+                <target>Невалиден код за отписване от </target>
+            </trans-unit> -->
+            <!--             <trans-unit>
+                <source>The passwords don't match</source>
+                <target>Паролите не съвпадат</target>
+            </trans-unit> -->
+            <trans-unit>
+                <source>Description must contain at least %min_length% characters</source>
+                <target>Описанието трябва да съдържа поне %min_length% символа</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The description cannot contain more than %max_length% characters.</source>
+                <target>Описанието трябва да съдържа не повече от %max_length% символа</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Description "%value%" contains forbidden words</source>
+                <target>Описанието "%value%" съдържа забранени думи</target>
+            </trans-unit>
+            <!--             <trans-unit>
+                <source>The Offer Title must contain at least %min_length% characters</source>
+                <target>Заглавието на офертата трябва да съдържа поне %min_length% символа</target>
+            </trans-unit> -->
+            <!--             <trans-unit>
+                <source>The Offer Title and Terms are mandatory for at least one of the two language versions.</source>
+                <target>Заглавието и условията на офертата са задължителни поне на една от двете езикови версии.</target>
+            </trans-unit> -->
+            <!--             <trans-unit>
+                <source>The Newsletter Title cannot be longer than %max_length% characters</source>
+                <target>Заглавието на бюлетина трябва да съдържа поне %min_length% символа</target>
+            </trans-unit> -->
+            <!--             <trans-unit>
+                <source>The Newsletter Title must contain at least %min_length% characters</source>
+                <target>Заглавието на бюлетина трябва да съдържа поне %min_length% символа</target>
+            </trans-unit> -->
+
+            <!--             <trans-unit>
+                <source>Please enter search criteria</source>
+                <target>Моля въведете критерий за търсене</target>
+            </trans-unit> -->
+            <!--             <trans-unit>
+                <source>Please correct search criteria</source>
+                <target>Моля корегирайте критерия за търсене</target>
+            </trans-unit> -->
+            <!--             <trans-unit>
+                <source>Incorrect search term</source>
+                <target>Моля въведете нов критерий за търсене</target>
+            </trans-unit> -->
+            <!--             <trans-unit>
+                <source>Message must contain at least %min_length% characters</source>
+                <target>Съобщението трябва да съдържа поне %min_length% символа</target>
+            </trans-unit> -->
+            <!--             <trans-unit>
+                <source>The message cannot contain more than %max_length% characters.</source>
+                <target>Съобщението трябва да съдържа не повече от %max_length% символа</target>
+            </trans-unit> -->
+            <!--             <trans-unit>
+                <source>This email and unsubscribed key do not match</source>
+                <target>Имейлът не съвпада с ключа за отписване</target>
+            </trans-unit> -->
+            <trans-unit>
+                <source>Video Title must contain at least %min_length% characters</source>
+                <target>Заглавието трябва да съдържа поне %min_length% символа</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The video title cannot contain more than %max_length% characters.</source>
+                <target>Заглавието трябва да съдържа не повече от %max_length% символа</target>
+            </trans-unit>
+
+            <!--             <trans-unit>
+                <source>You need to agree to getlokal's Terms of Use to create a business account</source>
+                <target>За да създадеш потребителски профил е необходимо да се съгласиш с Условията за ползване на getlokal</target>
+            </trans-unit> -->
+            <trans-unit>
+                <source>This username has already been registered by another user</source>
+                <target>Вече има регистриран потребител с въведеното потребителско име.</target>
+            </trans-unit>
+            <!--             <trans-unit>
+                <source>Тhe start date cannot be later than the end date of the event</source>
+                <target>Началната дата не може да е по-късна от крайната дата на събитието</target>
+            </trans-unit> -->
+            <trans-unit>
+                <source>Abuse type is required.</source>
+                <target>Полето тип нередност е задължително.</target>
+            </trans-unit>
+            <!--             <trans-unit>
+                <source>The message contains forbidden words</source>
+                <target>Съобщението съдържа забранени думи</target>
+            </trans-unit> -->
+            <!--             <trans-unit>
+                <source>An invite was already sent to this email address</source>
+                <target>Вече има изпратена покана на този имейл адрес.</target>
+            </trans-unit> -->
+            <!--             <trans-unit>
+                <source>Please add location - city/town is required if venue not known!</source>
+                <target>Моля укажете място на събитието - населеното място е задължително, дори и да не знаете името на конкретното място на провеждане!</target>
+            </trans-unit> -->
+            <!--             <trans-unit>
+                <source>Business type is required!</source>
+                <target>Вид на дейност на фирмата е задължително!</target>
+            </trans-unit> -->
+            <!--             <trans-unit>
+                <source>This field is required. Please type company address!</source>
+                <target>Това поле е задължително. Моля въведете адрес на компанията!</target>
+            </trans-unit> -->
+            <!--             <trans-unit>
+                <source>Company name is required!</source>
+                <target>Име на фирмата е задължително!</target>
+            </trans-unit> -->
+            <trans-unit>
+                <source>Username</source>
+                <target>Потребителско име</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Email</source>
+                <target>Имейл</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Password</source>
+                <target>Парола</target>
+            </trans-unit>
+            <!--             <trans-unit>
+                <source>Retype Your Password</source>
+                <target>Повтори паролата</target>
+            </trans-unit> -->
+            <!--             <trans-unit>
+                <source>Select Your City</source>
+                <target>Избери своя град</target>
+            </trans-unit> -->
+            <trans-unit>
+                <source>Name</source>
+                <target>Име</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Surname</source>
+                <target>Фамилия</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Date of Birth</source>
+                <target>Дата на раждане</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Gender</source>
+                <target>Пол</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Location</source>
+                <target>Град / Село</target>
+            </trans-unit>
+            <trans-unit>
+                <source>About me</source>
+                <target>За мен</target>
+            </trans-unit>
+            <trans-unit>
+                <source>My Website</source>
+                <target>Моят уебсайт</target>
+            </trans-unit>
+            <trans-unit>
+                <source>My Blog</source>
+                <target>Моят блог</target>
+            </trans-unit>
+            <trans-unit>
+                <source>My Facebook</source>
+                <target>Моят Facebook</target>
+            </trans-unit>
+            <trans-unit>
+                <source>My Google+</source>
+                <target>Моят Google+</target>
+            </trans-unit>
+            <trans-unit>
+                <source>My Twitter</source>
+                <target>Моят Twitter</target>
+            </trans-unit>
+            <trans-unit>
+                <source>New Password</source>
+                <target>Нова парола</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Retype New Password</source>
+                <target>Повтори новата парола</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The field is required</source>
+                <target>Полето е задължително</target>
+            </trans-unit>
+            <!--             <trans-unit>
+                <source>Fields marked with a star are mandatory.</source>
+                <target>Полетата, отбелязани със звездичка, са задължителни.</target>
+            </trans-unit> -->
+            <trans-unit>
+                <source>Owner</source>
+                <target>Собственик</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Director</source>
+                <target>Управител</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Manager</source>
+                <target>Мениджър</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Employee</source>
+                <target>Служител</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Choose...</source>
+                <target>Избери...</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Other</source>
+                <target>Друго</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Male</source>
+                <target>Мъж</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Female</source>
+                <target>Жена</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Position</source>
+                <target>Длъжност</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Phone</source>
+                <target>Телефон</target>
+            </trans-unit>
+            <trans-unit>
+                <source>I declare that I am an authorized representative of the business.</source>
+                <target>Декларирам, че съм упълномощен представител на фирмата.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Enter the Bulstat of your business.</source>
+                <target>Въведете Булстат на фирмата</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Declare that you are an authorized representative of the business.</source>
+                <target>Декларирайте, че сте упълномощен представител на фирмата.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Invalid Bulstat</source>
+                <target>Невалиден Булстат</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Company Name</source>
+                <target>Име на фирмата</target>
+            </trans-unit>
+            <!--             <trans-unit>
+                <source>Company Type</source>
+                <target>Тип на фирмата</target>
+            </trans-unit> -->
+            <!--             <trans-unit>
+                <source>Company Name in Latin</source>
+                <target>Име на фирмата на латиница</target>
+            </trans-unit> -->
+            <trans-unit>
+                <source>Address</source>
+                <target>Адрес</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Classification</source>
+                <target>Класификация</target>
+            </trans-unit>
+            <trans-unit>
+                <source>City</source>
+                <target>Населено място</target>
+            </trans-unit>
+            <!--             <trans-unit>
+                <source>Company Address</source>
+                <target>Адрес на фирмата</target>
+            </trans-unit> -->
+            <!--             <trans-unit>
+                <source>Contact Information</source>
+                <target>Информация за контакт</target>
+            </trans-unit> -->
+            <trans-unit>
+                <source>Working Hours</source>
+                <target>Работно време</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Bulstat</source>
+                <target>Булстат</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Postcode</source>
+                <target>Пощенски код</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Street</source>
+                <target>Улица</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Number</source>
+                <target>Номер</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Neighbourhood</source>
+                <target>Квартал</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Bl.</source>
+                <target>Бл.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Ent.</source>
+                <target>Вх.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Fl.</source>
+                <target>Ет.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Ap.</source>
+                <target>Ап.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Monday</source>
+                <target>понеделник</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Tuesday</source>
+                <target>вторник</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Wednesday</source>
+                <target>сряда</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Thursday</source>
+                <target>четвъртък</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Friday</source>
+                <target>петък</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Saturday</source>
+                <target>събота</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Sunday</source>
+                <target>неделя</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Bulgarian</source>
+                <target>Български</target>
+            </trans-unit>
+            <trans-unit>
+                <source>English</source>
+                <target>Английски</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Password:</source>
+                <target>Парола:</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Remember me</source>
+                <target>Запомни ме</target>
+            </trans-unit>
+            <trans-unit>
+                <source>E-mail:</source>
+                <target>Имейл:</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Description</source>
+                <target>Описание</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Category</source>
+                <target>Категория</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Website</source>
+                <target>Уебсайт</target>
+            </trans-unit>
+            <!--             <trans-unit>
+                <source>You entered "%value%". The security check picture contains %length% characters. Please try again.</source>
+                <target>Въведено е "%value%". Картинката за спам защита трябва да съдържа %length% символа. Опитай отново.</target>
+            </trans-unit> -->
+            <trans-unit>
+                <source>Security check. Enter the characters from the picture below</source>
+                <target>Спам защита. Въведете символите от картинката в полето долу</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Start Date</source>
+                <target>Начална дата</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Detailed Description</source>
+                <target>Разширено описание</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Detailed Description (English)</source>
+                <target>Разширено описание (Английски)</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Select a photo from your computer</source>
+                <target>Избери снимка от компютъра си</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Voucher</source>
+                <target>Ваучер</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Voucher Valid From</source>
+                <target>Ваучерът е валиден от</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Voucher Valid To</source>
+                <target>Ваучерът е валиден до</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Offer Active From</source>
+                <target>Офертата е активна от</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Offer Active To</source>
+                <target>Офертата е активна до</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Maximum number of vouchers to be issued</source>
+                <target>Максимален брой ваучери</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Maximum number of vouchers to be issued per user</source>
+                <target>Максимален брой ваучери на потребител</target>
+            </trans-unit>
+            <!--             <trans-unit>
+                <source>Offer Terms</source>
+                <target>Условия на офертата</target>
+            </trans-unit> -->
+            <trans-unit>
+                <source>Caption</source>
+                <target>Описание</target>
+            </trans-unit>
+            <!--             <trans-unit id="8">
+                <source>Please enter your Name and Surname</source>
+                <target>Моля въведете име и фамилия</target>
+            </trans-unit> -->
+            <trans-unit id="9">
+                <source>Invalid email</source>
+                <target>Невалиден имейл адрес</target>
+            </trans-unit>
+            <trans-unit id="10">
+                <source>Please rate this company</source>
+                <target>Моля, дай оценка!</target>
+            </trans-unit>
+            <!--             <trans-unit id="22">
+                <source>Please enter your email</source>
+                <target>Моля, въведи имейл адрес</target>
+            </trans-unit> -->
+            <!--             <trans-unit id="11">
+                <source>Invalid Rating</source>
+                <target>Невалидна оценка</target>
+            </trans-unit> -->
+            <trans-unit id="19">
+                <source>Please enter a valid email</source>
+                <target>Невалиден имейл адрес</target>
+            </trans-unit>
+            <!--             <trans-unit id="15">
+                <source>Please agree to observe the Terms of Use of Getlokal.com</source>
+                <target>Моля, съгласи се с Условията за ползване на сайта.</target>
+            </trans-unit> -->
+            <!--             <trans-unit id="54">
+                <source>Choose if you want to recommend this company to a friend</source>
+                <target>Избери дали ще препоръчаш на приятел</target>
+            </trans-unit> -->
+            <trans-unit>
+                <source>Your account changes were successfully saved.</source>
+                <target>Твоят профил беше променен успешно.</target>
+            </trans-unit>
+            <!--             <trans-unit>
+                <source>Enter a few words about yourself separated by comma</source>
+                <target>Напиши няколко думи за себе си, разделени със запетая</target>
+            </trans-unit> -->
+            <trans-unit>
+                <source>Current Password</source>
+                <target>Текуща парола</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Company Name or Bulstat</source>
+                <target>Име на фирмата или Булстат</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Enter the CUI of your business.</source>
+                <target>Въведи CUI (Cod Unic de Identificare).</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Choose... </source>
+                <target>Избери...</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Enter New Email</source>
+                <target>Въведи нов имейл</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Description</source>
+                <target>Описание</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Description (English)</source>
+                <target>Описание (Английски)</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Detailed Description</source>
+                <target>Подробно описание</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Detailed Description (English)</source>
+                <target>Подробно описание (Английски)</target>
+            </trans-unit>
+            <trans-unit>
+                <source>When</source>
+                <target>Кога</target>
+            </trans-unit>
+            <trans-unit>
+                <source>End Date</source>
+                <target>Крайна дата</target>
+            </trans-unit>
+            <trans-unit>
+                <source>City/Town</source>
+                <target>Град/село</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Venue name</source>
+                <target>Име на мястото</target>
+            </trans-unit>
+            <trans-unit>
+                <source>More Info (add link)</source>
+                <target>Повече информация (добави линк)</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Buy ticket/book (add link)</source>
+                <target>Купи билет/резервирай (добави линк)</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Price</source>
+                <target>Цена</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Event Type</source>
+                <target>Вид събитие</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Add Photo</source>
+                <target>Добави снимка</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Event Name</source>
+                <target>Име на събитието</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Event Description</source>
+                <target>Описание на събитието</target>
+            </trans-unit>
+            <!-- NEw -->
+            <trans-unit>
+                <source>VIP Position Start Date</source>
+                <target>Начална дата за VIP позиция</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Select file</source>
+                <target>Избери файл</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Invalid format. E.g. http://www.getlokal.com</source>
+                <target>Невалиден формат. Пример: http://www.getlokal.com</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Invalid format. E.g. http://blog.getlokal.com</source>
+                <target>Невалиден формат. Пример: http://blog.getlokal.com</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Invalid format. E.g. http://twitter.com/@getlokal</source>
+                <target>Невалиден формат. Пример: http://twitter.com/@getlokal</target>
+            </trans-unit>
+
+            <trans-unit>
+                <source>Invalid format. E.g. @getlokal</source>
+                <target>Невалиден формат. Пример: @getlokal</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Invalid format. E.g. https://plus.google.com/</source>
+                <target>Невалиден формат. Пример: https://plus.google.com/</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Invalid format. E.g. https://foursquare.com/</source>
+                <target>Невалиден формат. Пример: https://foursquare.com/</target>
+            </trans-unit>
+
+            <trans-unit>
+                <source>Invalid format. E.g. http://www.facebook.com/#!/getlokal</source>
+                <target>Невалиден формат. Пример: http://www.facebook.com/#!/getlokal</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Invalid format.</source>
+                <target>Невалиден формат.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Password is mandatory</source>
+                <target>Паролата е задължителна</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The email and/or password are invalid</source>
+                <target>Имейлът и/или паролата са невалидни</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Incorrect Password</source>
+                <target>Грешна парола</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Message</source>
+                <target>Съобщение</target>
+            </trans-unit>
+            <trans-unit>
+                <source>E-mail is required.</source>
+                <target>Моля попълнете вашия имейл.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Your name is required.</source>
+                <target>Моля попълнете вашето име.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>This field is required. Please type your message.</source>
+                <target>Моля попълнете полето за съобщение.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Please rate this company</source>
+                <target>Моля дай оценка</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Poster size</source>
+                <target>Постерен размер</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The username "%value%" is invalid.</source>
+                <target>Потребителското име "%value%" е невалидно.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Username must contain at least %min_length% characters.</source>
+                <target>Потрeбителското име трябва да съдържа поне %min_length% символа.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Start Time</source>
+                <target>Начален час</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Place Name</source>
+                <target>Име на мястото</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Place/business name</source>
+                <target>Име на мястото</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Place Name in English</source>
+                <target>Име на мястото на английски</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The place name in English has to be written with Latin characters</source>
+                <target>Името на мястото на английски трябва да е изписано само със символи на латиница</target>
+            </trans-unit>
+            <trans-unit>
+                <source>in English</source>
+                <target>На английски</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Telephone/Website/FB page</source>
+                <target>Телефон/Website/FB page</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Open List</source>
+                <target>Отворен списък</target>
+            </trans-unit>
+            <trans-unit>
+                <source>List Name</source>
+                <target>Име на списъка</target>
+            </trans-unit>
+            <trans-unit>
+                <source>List Description</source>
+                <target>Описание на списъка</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Invalid phone number. The correct format to use is 023456789 or for mobile phones 0888888888. Add only the local area code for landlines. Only add digits – any other characters or spaces between characters are not allowed.</source>
+                <target>Невалиден телефонен номер. Правилният формат за телефон е напр. 023456789 или за мобилни телефони 0888888888. За стационарни телефони добави само телефонния код за населеното място. Разрешени са само цифри - всички други символи и разстояния между тях не са позволени и ще получиш съобщение за грешка. </target>
+            </trans-unit>
+            <trans-unit>
+                <source>Google+ Page</source>
+                <target>Google+ страница</target>
+            </trans-unit>
+            <!-- Articles -->
+            <trans-unit>
+                <source>Article Title</source>
+                <target>Заглавие на статията</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Article Content</source>
+                <target>Съдържание на статията</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Slug</source>
+                <target>Слъг (Slug)</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Meta Keywords</source>
+                <target>Мета Ключови Думи (Meta Keywords)</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Quotation</source>
+                <target>Цитат</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Image (recommended 600x278 pxls)</source>
+                <target>Изображение (препоръчителен размер 600x278 пиксела)</target>
+            </trans-unit>
+            <trans-unit>
+                <source>(recommended 600x278 pxls)</source>
+                <target>(препоръчителен размер 600x278 пиксела)</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Image Descrption</source>
+                <target>Описание на изображението</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Meta Description</source>
+                <target>Мета описание(Meta Description)</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Image Source</source>
+                <target>Източник на изображението</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Status</source>
+                <target>Статус</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Approved</source>
+                <target>Oдобрена</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Pending</source>
+                <target>Чакаща</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Rejected</source>
+                <target>Отхвърлена</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The maximum number of vouchers cannot be lower than the total number of vouchers already issued</source>
+                <target>Максималният брой ваучери не може да е по-нисък от общия брой ваучери, издадени до момента.</target>
+            </trans-unit>
+
+            <!-- End Articles -->
+
+            <trans-unit>
+                <source>This field is mandatory. Please select your country name from the list.</source>
+                <target>Полето е задължително. Избери името на своята държава от списъка.</target>
+            </trans-unit>
+
+            <trans-unit>
+                <source>Country</source>
+                <target>Държава</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Please select followers</source>
+                <target>Избери последователи</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Additional Address Details</source>
+                <target>Допълнитени адресни данни</target>
+            </trans-unit>
+            <trans-unit>
+                <source>List</source>
+                <target>Списък</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The Offer can be active for a maximum period of 30 days.</source>
+                <target>Офертата може да е активна за не повече от 30 дни.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The offer start date can not be later than %s</source>
+                <target>Началната дата на офертата не може да е по-късно от %s</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The offer end date can not be later than %s</source>
+                <target>Крайната дата на офертата не може да е по-късно от %s</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The offer end date can not be later than</source>
+                <target>Крайната дата на офертата не може да е по-късно от</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Invalid Date.</source>
+                <target>Невалидна дата.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Caption </source>
+                <target>Описание</target>
+            </trans-unit>
+            <trans-unit>
+                <source>When you publish an Offer please give details of its terms, timing and content e.g. "Get 20% off a weekend for two in hotel X. The offer is valid only for the period between 20.08 and 27.08. The discount applies to advanced bookings only.</source>
+                <target>Когато публикувате оферта, напишете ясно и точно условията, периода и съдържанието на предложението. Пример: „Вземете уикенд за двама в хотел Х с 20% отстъпка. Сделката важи в периода 20.08-27.08. Намалението се начислява само при направена предварителна резервация.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>When you publish an Offer please give details of its terms, timing and content e.g. "Get 20% off a weekend for two in hotel X. The offer is valid only for the period between 20.08 and 27.08. The discount applies to advanced bookings only.</source>
+                <target>Когато публикувате оферта, напишете ясно и точно условията, периода и съдържанието на предложението. Пример: "Вземете уикенд за двама в хотел Х с 20% отстъпка. Сделката важи в периода 20.08-27.08. Намалението се начислява само при направена предварителна резервация."</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Publish</source>
+                <target>Публикувай</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Save Draft</source>
+                <target>Запази чернова</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Offer Description</source>
+                <target>Описание на офертата</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Number of vouchers per user cannot exceed 99.</source>
+                <target>Броят ваучери на потребител не може да е повече от 99</target>
+            </trans-unit>
+            <trans-unit>
+                <source>[0]No vouchers have been issued yet for this offer.|[1]1 voucher has been issued for this offer.|(1,+Inf]%count% vouchers have been issued for this offer.</source>
+                <target>[0]Все още няма издадени ваучeри за тази оферта.|[1]1 издаден ваучeр за тази оферта.|(1,+Inf]%count% ваучeра са издадени за тази оферта.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Directions to place:</source>
+                <target>Допълнителни упътвания:</target>
+            </trans-unit>
+            <trans-unit>
+                <source>More address info</source>
+                <target>Още информация за адреса</target>
+            </trans-unit>			
+            <trans-unit>
+                <source>Main Offer Benefit</source>
+                <target>Основна полза от офертата</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Discount</source>
+                <target>Отстъпка</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Discount: </source>
+                <target>Отстъпка: </target>
+            </trans-unit>
+            <trans-unit>
+                <source>discount</source>
+                <target>отстъпка</target>
+            </trans-unit>
+            <trans-unit>
+                <source>% discount</source>
+                <target>% отстъпка</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Text</source>
+                <target>Текст</target>
+            </trans-unit>
+            <trans-unit>
+                <source>New price</source>
+                <target>Нова цена</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Old price</source>
+                <target>Стара цена</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The price must be equal to or greater than 1.</source>
+                <target>Цената трябва да е по-голяма или равна на 1.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The old price must be greater than the new price.</source>
+                <target>Старата цена трябва да е по-висока от новата цена.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The discount cannot be lower than 1%</source>
+                <target>Отстъпката не може да е под 1%</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The discount cannot be higher than 99%</source>
+                <target>Отстъпката не може да е над 99%</target>
+            </trans-unit>
+            <trans-unit>
+                <source>This text must contain at least %s characters.</source>
+                <target>Текстът трябва да съдържа поне %s символа.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>This text must contain at most %s characters.</source>
+                <target>Текстът трябва да съдържа най-много %s символа.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Time left to get it:</source>
+                <target>Офертата изтича след:</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Use this voucher between:</source>
+                <target>Ваучерът е валиден между:</target>
+            </trans-unit>
+            <trans-unit>
+                <source>You save: </source>
+                <target>Спестяваш: </target>
+            </trans-unit>
+            <trans-unit>
+                <source> characters left</source>
+                <target> оставащи символи</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Post offer in English</source>
+                <target>Публикувай офертата на английски език</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Not available</source>
+                <target>Изтекла оферта</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Expiring soon</source>
+                <target>Изтича скоро</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Download the voucher for this offer now and pay when you use it in the place.</source>
+                <target>Вземи ваучер за тази оферта и плати, когато го използваш на място.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Choose an offer, download the voucher now and pay when you use it in the place.</source>
+                <target>Избери оферта, вземи ваучер и плати, когато го използваш на място.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Have a business and want to include your offers?</source>
+                <target>Имаш бизнес и искаш да привлечеш нови клиенти?</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Create one now - click </source>
+                <target>Създай оферта сега - натисни </target>
+            </trans-unit>
+            <trans-unit>
+                <source>here</source>
+                <target>тук</target>
+            </trans-unit>
+            <trans-unit>
+                <source>You can only use alphanumeric characters and ? ( ) [ ] { } %</source>
+                <target>Разрешените символи са само цифри, букви и ? ( ) [ ] { } %</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Current file</source>
+                <target>Настоящ прикачен файл</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Accepts pdf files only</source>
+                <target>Може да качите файлове само в PDF формат</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Select the area from the image that you want to appear in your Offer</source>
+                <target>Изберете част от снимката, която искате да се появява във Вашата оферта</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Clear image</source>
+                <target>Изтрий снимката</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Image Preview</source>
+                <target>Преглед на изображението</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Offer image</source>
+                <target>Снимка на офертата</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Scheduled publish</source>
+                <target>Scheduled publish</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Author</source>
+                <target>Автор</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Booking Date</source>
+                <target>Дата на резервацията</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Time</source>
+                <target>Час</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Number of Guests</source>
+                <target>Брой гости</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Name</source>
+                <target>Име</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Number of Nights</source>
+                <target>Брой нощувки</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Reservation Request</source>
+                <target>Заявка за резервация</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Start date</source>
+                <target>Начална дата</target>
+            </trans-unit>
+            <trans-unit>
+                <source>End date</source>
+                <target>Крайна дата</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The CAPTCHA you entered is incorrect. Please try again!</source>
+                <target>Въведените символи са грешни. Опитай отново!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Report a Problem</source>
+                <target>Съобщи за проблем</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Is closed or out of business</source>
+                <target>Затворено или не съществува</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Is a duplicate</source>
+                <target>Дублирано</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Has moved</source>
+                <target>Променен адрес</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Wrong phone number</source>
+                <target>Грешен телефон</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Additional Information</source>
+                <target>Допълнителна информация</target>
+            </trans-unit>
+
+            <!-- NEW DEsign -->
+            <trans-unit>
+                <source>Don't have an account?</source>
+                <target>Нямаш профил?</target>
+            </trans-unit>
+
+            <trans-unit>
+                <source>LOG IN</source>
+                <target>ВХОД</target>
+            </trans-unit>
+
+            <trans-unit>
+                <source>Required</source>
+                <target>Задължително</target>
+            </trans-unit>
+
+            <trans-unit>
+                <source>Article info</source>
+                <target>Инфо за статия</target>
+            </trans-unit>
+
+
+
+            <trans-unit>
+                <source><![CDATA[LIKE AND SHARE US ON <span>FACEBOOK</span>]]></source>
+                <target><![CDATA[Харесай и сподели във <span>Facebook</span>]]></target>
+            </trans-unit>
+
+           <trans-unit>
+                <source>Uploading images</source>
+                <target>Качване на изображения</target>
+            </trans-unit>
+
+            <trans-unit>
+                <source>Bulgarian</source>
+                <target>Български</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Photo caption</source>
+                <target>Описание на снимката</target>
+            </trans-unit>
+
+            <trans-unit>
+                <source>The file you submitted is not in a valid format. Please upload a PDF file</source>
+                <target>Избраният файл е с невалиден формат. Добавете PDF файл.</target>
+            </trans-unit>
+
+            <trans-unit>
+        <source>The username and/or password you entered for %s are invalid or you don't have enough credentials</source>
+        <target>Потребителското име и/или паролата за %s не са валидни или нямате достатъчно права, за да влезете.</target>
+      </trans-unit>
+      
+       <trans-unit>
+        <source>The username and/or password you entered are invalid or you don't have enough credentials</source>
+        <target>Потребителското име и/или паролата не са валидни или нямате достатъчно права, за да влезете.</target>
+      </trans-unit>
+
+        </body>
+    </file>
+</xliff>

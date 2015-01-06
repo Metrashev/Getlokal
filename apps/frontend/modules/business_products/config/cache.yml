@@ -1,0 +1,7 @@
+eating:
+  enabled:  true
+  lifetime: 3600
+
+big:
+  enabled:  true
+  lifetime: 3600
