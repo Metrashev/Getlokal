@@ -1,0 +1,98 @@
+@media print {
+    .header, .voucher_controls, .footer_wrap, h1,#sfWebDebug {display:none;}
+	.left_wrap, .right_wrap { position: absolute; z-index: 2; width: 690px; }
+	.voucher_bg { display: inline; margin: 0px 65px; }
+}
+
+body {
+	font: 14px 'Open Sans', Arial, Helvetica, sans-serif;
+	line-height: normal;
+}
+
+.left_wrap {
+	float: left;
+}
+
+.right_wrap {
+	float: right;
+}
+
+.path_wrap, .search_bar {
+	display: none;
+}
+
+p span {
+	-webkit-border-radius: 3px;
+	-moz-border-radius: 3px;
+	border-radius: 3px;
+}
+
+.voucher_print, .voucher_controls {
+	margin: 0px 65px;
+	width: 693px;
+}
+
+.voucher_print {
+	margin-top: -342px;
+	padding: 100px 50px 35px;
+	height: 207px;
+	background: url(../images/gui/bg_vocher.png) no-repeat;
+}
+
+.voucher_print .right_wrap p {
+	text-align: right;
+}
+
+h1, h2, .voucher_print > p {
+	margin: 0px;
+	text-align: center;
+}
+
+.content_wrap h1 {
+	padding: 50px 0px 20px;
+	font-size: 24px;
+	color: #383838;
+}
+
+h2 {
+	margin-bottom: 30px;
+	font-size: 21px;
+	color: #A9287A;
+}
+
+p {
+	margin: 0px;
+	color: #000;
+}
+
+p span {
+	padding: 7px 18px;
+	font-size: 18px;
+	color: #464545;
+	background-color: #e5decb;
+}
+
+p.voucher_code {
+	margin-bottom: 40px;
+}
+
+.voucher_controls {
+	padding: 85px 50px 8px;
+	text-align: center;
+}
+
+.voucher_controls a {
+	margin: 0px 0px 0px 20px;
+}
+
+.voucher_controls a:first-child {
+	margin: 0px;
+}
+
+@media print
+{    
+    .no-print, .no-print *
+    {
+        display: none !important;
+    }
+}

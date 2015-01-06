@@ -1,0 +1,32 @@
+div.scrollable_content{
+    width:900px; 
+    height:400px; 
+    overflow:auto; 
+    overflow-x:hidden;
+}
+div.scrollable_content ul{
+    list-style: none;
+}
+div.scrollable_content::-webkit-scrollbar {
+    width: 14px;
+   
+}
+
+/* Track */
+div.scrollable_content::-webkit-scrollbar-track {
+    -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3); 
+    -webkit-border-radius: 10px;
+    border-radius: 10px;
+   
+}
+/* Handle */
+div.scrollable_content::-webkit-scrollbar-thumb {
+    -webkit-border-radius: 10px;
+    border-radius: 10px;
+    background: #e2e0e0;
+    border:2px solid #fff;
+    -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.6); 
+}
+div.scrollable_content::-webkit-scrollbar-thumb:window-inactive {
+    background: rgba(255,0,0,0.4); 
+}

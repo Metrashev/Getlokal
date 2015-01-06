@@ -1,0 +1,214 @@
+body {
+  margin: 0;
+  color: #9698a6;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 15px;
+}
+a {
+}
+
+a:hover {
+}
+
+.drink {
+  position: absolute;
+  top: 75px;
+  display: block;
+  width: 34px;
+  height: 52px;
+  
+  background: url(../../images/facebook/v1/glassEmpty.png) top left no-repeat;
+}
+.drink.full {
+  background: url(../../images/facebook/v1/glassFull.png) top left no-repeat;
+}
+.drink.p1 {
+  left: 375px;
+}
+.drink.p2 {
+  left: 430px;
+}
+.drink.p3 {
+  left: 485px;
+}
+.drink.p4 {
+  left: 540px;
+}
+
+.step1.slide {
+  background: url(../../images/facebook/v1/home.jpg) top center no-repeat;
+}
+.step1.slide .continue {
+  position: absolute;
+  
+  width: 125px;
+  height: 65px;
+  
+  background: url(../../images/facebook/v1/btnStart.png) no-repeat;
+  
+  bottom: 220px;
+  right: 165px;
+}
+.slide {
+  height: 800px;
+  
+  width: 810px;
+  
+  position: relative;
+  
+  background: url(../../images/facebook/v1/background.jpg) top center no-repeat;
+}
+.slide .content {
+  padding-top: 230px;
+  text-align: center;
+}
+.slide .error {
+  height: 20px;
+  margin-bottom: 50px;
+}
+.slide .error span {
+  display: block;
+  padding: 10px 15px;
+  border: 1px solid #7b1e21;
+  background: #000;
+  color: #ee2828;
+  
+  width: 430px;
+  margin: 0 auto;
+}
+.slide h1 {
+  font-size: 28px;
+  font-weight: normal;
+  color: #fff;
+  margin: 0;
+}
+.slide.step2 input {
+  font-size: 28px;
+  padding: 10px 20px;
+  width: 350px;
+  border: 1px solid #000;
+  box-shadow: inset 0 0 10px #000000;
+  border-radius: 5px;
+  margin: 40px 0 100px;
+}
+.slide .radio .check.active {
+  background: url(../../images/facebook/v1/radio.png) bottom left;
+}
+.slide .radio .check {
+  display: block;
+  float: left;
+  width: 19px;
+  height: 19px;
+  
+  margin-right: 15px;
+  
+  background: url(../../images/facebook/v1/radio.png) top left;
+}
+.slide .radio input {
+  display: none;
+}
+.slide .radio label {
+  display: block;
+  width: 250px;
+  margin: 20px auto;
+  text-align: left;
+}
+.slide .radio {
+  margin: 50px 0;
+}
+.slide .continue {
+  display: block;
+  
+  width: 190px;
+  height: 55px;
+  
+  margin: 0 auto;
+  
+  background: url(../../images/facebook/v1/btnNext.png) top center no-repeat;
+}
+.step6 h1 {
+  margin-bottom: 100px;
+}
+
+.done {
+  width: 810px;
+  margin: 0 auto;
+  text-align: center;
+}
+.done h1 {
+  color: #16171b;
+  font-size: 20px;
+  font-weight: normal;
+  text-shadow: 0px 0px 2px rgba(0,0,0,0.4);
+}
+.done .share {
+  float: left;
+  width: 170px;
+  padding: 20px 0px 20px 100px;
+}
+.done span {
+  display: block;
+  float: left;
+  padding: 7px 0;
+  font-size: 15px;
+}
+.done .share a {
+  display: block;
+  width: 104px;
+  height: 35px;
+  float: right;
+  
+  background: url(../../images/facebook/v1/share.png);
+}
+.done .embed textarea {
+  display: block;
+  float: right;
+  padding: 7px 15px;
+  font-size: 15px;
+  width: 250px;
+  background: #eee;
+  border: 1px solid #ccc;
+  border-radius: 2px;
+  box-shadow: inset 0px 2px 2px rgba(0,0,0,0.3);
+}
+.done .embed {
+  float: right;
+  width: 400px;
+  padding: 20px 100px 20px 0;
+}
+.done .invite a {
+  display: block;
+  margin: 10px auto 20px;
+  
+  width: 147px;
+  height: 36px;
+  
+  background: url(../../images/facebook/v1/invite.png);
+}
+.done .invite {
+  float: left;
+  width: 404px;
+  border: 1px dotted #a2a2a2;
+  border-left: none;
+  padding: 20px 0;
+}
+.done .again a {
+  display: block;
+  margin: 10px auto 20px;
+  
+  width: 149px;
+  height: 39px;
+  
+  background: url(../../images/facebook/v1/again.png) no-repeat;
+}
+.done .again {
+  float: left;
+  width: 404px;
+  padding: 20px 0 30px;
+  
+  border-top: 1px dotted #a2a2a2;
+  border-bottom: 1px dotted #a2a2a2;
+}
+.clear {
+  clear: both;
+}

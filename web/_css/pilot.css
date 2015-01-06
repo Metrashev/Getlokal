@@ -1,0 +1,250 @@
+html, body {
+  background: #fff;
+  padding-bottom: 50px;
+}
+body .container {
+  width: 988px;
+  margin: 0 auto;
+  font-family: "Open Sans"; 
+}
+.getpilot > .top {
+  background: #e6e6e6;
+}
+.getpilot > .top .element {
+  padding: 35px 0;
+  background: url('../images/pilot/arrow-down-black.png') no-repeat center top; 
+}
+.getpilot > .bottom {
+  padding: 0 0 35px 0;
+} 
+.getpilot .element {
+  float: left;
+  width: 306px;
+  margin-right: 35px;
+}
+.getpilot .element.last {
+  margin-right: 0;
+}
+.getpilot .bottom .element {
+  padding-top: 55px;
+  background: url('../images/pilot/arrow-down-middle.png') no-repeat center -5px; 
+}
+.getpilot .bottom .element .avatar,
+.getpilot .bottom .element .info {
+  float: left;
+  width: 50%;
+}
+.getpilot .bottom .element .info {
+  
+}
+.getpilot .bottom .element .info .vote-action,
+.getpilot .bottom .element .info .vote-status {
+  min-height: 111px;
+  text-align: center;
+  -webkit-transition: all 300ms;
+  -moz-transition: all 300ms;
+  -ms-transition: all 300ms;
+  -o-transition: all 300ms;
+  transition: all 300ms;
+}
+.getpilot .bottom .element .info .vote-status {
+  top: 0;
+  background: #ab2a7c;
+  color: #fff;
+  font-size: 28px;
+  padding-top: 16px;
+  min-height: 100px;
+}
+.getpilot .bottom .element .info .vote-action {
+  top: auto;
+  bottom: 0;
+  background: #00dadc url('../images/pilot/arrow-down-purple.png') no-repeat center -6px;
+  color: #097677;
+  font-size: 19px;
+}
+.getpilot .bottom .element .info .vote-status .n {
+  font-weight: bold;
+}
+.getpilot .bottom .element .info .vote-action .count {
+  padding: 20px 0 5px 0;
+}
+.getpilot .bottom .element .info .vote-action a.vote {
+  display: block;
+  cursor: default;
+  height: 50px;
+  background: url('../images/pilot/thumb.png') no-repeat center;   
+  background-size: auto 100%;
+  -webkit-transition: all 300ms;
+  -moz-transition: all 300ms;
+  -ms-transition: all 300ms;
+  -o-transition: all 300ms;
+  transition: all 300ms;
+}
+.getpilot .bottom .element .info .vote-action a.vote.ld {
+  background-size: auto 30%;
+}
+.getpilot .bottom .element.disabled .info .vote-status {
+  background: #898989;
+}
+.getpilot .bottom .element.disabled .info .vote-action {
+  background: #545454;
+  color: #fff;
+}
+.getpilot .bottom .element.disabled .info .vote-action a.vote {
+  background-image: url('../images/pilot/thumb-disabled.png');
+}
+.getpilot .bottom .element.is_voted .info .vote-action a.vote {
+  background-image: url('../images/pilot/thumb-voted.png');
+}
+.getpilot .bottom .element.can_vote .info .vote-action a.vote {
+  cursor: pointer;
+}
+.getpilot .bottom .thanks {
+  background: #097677;
+  color: #fff;
+  font-size: 18px;
+  text-align: center;
+  padding: 15px 5px;
+  border-bottom-left-radius: 4px;
+  border-bottom-right-radius: 4px;
+  display: none;
+}
+.getpilot .bottom .thanks.active {
+  display: block;
+}
+.getpilot .bottom .comments .q {
+  margin-top: 25px;
+  margin-bottom: 5px;
+  font-size: 21px;
+  color: #282828;
+}
+.getpilot #header {
+  background: url('../images/pilot/header.jpg') no-repeat center top;
+  -webkit-background-size: 100% 100%;
+  background-size: 100% 100%;
+  min-height: 400px;
+  padding-top: 25px;
+}
+.getpilot #header .title {
+  background: url('../images/pilot/title.png') no-repeat left center;
+  padding: 80px 0;
+}
+.getpilot #header .title .fblike {
+  width: 78px;
+  height: 62px;
+  padding: 20px 20px 20px 40px;
+  text-align: center;
+  background: url('../images/pilot/fb-bubble.png') no-repeat center;
+  float: right;
+  margin-top: -54px;
+}
+.getpilot #header .desc {
+  font-size: 34px;
+  text-align: center;
+  color: #fff;
+  font-weight: 300;
+}
+.getpilot #header .button {
+  padding: 40px 0;
+  text-align: center;
+}
+.getpilot #header .button  .scroll-down {
+  display: inline-block;
+  background: #fff;
+  padding: 0 35px;
+  line-height: 80px;
+  min-height: 80px;
+  font-size: 23px;
+  color: #000;
+  cursor: pointer;
+}
+.getpilot #header .button  .scroll-down span {
+  color: #ab2a7c;
+}
+.getpilot #header .bubble {
+  height: 120px;
+  background: url('../images/pilot/bubbles.png') no-repeat center;
+}
+.getpilot #header .bottom-desc {
+  font-size: 20px;
+  color: #fff;
+  text-align: center;
+  padding-bottom: 40px;
+} 
+.share-overlay {
+  background: rgba(0,0,0,.8);
+  z-index: 1000;
+  position: fixed;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  text-align: center;
+  display: none;
+}
+.share-overlay .buttons {
+  position: absolute;
+  top: -10%;
+  margin-top: -25px;
+  left: 0;
+  width: 100%;
+  opacity: 0; 
+} 
+.share-overlay .text {
+    width: 500px;
+    margin: 0 auto;
+    background: #fff;
+    padding: 40px 30px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.4);
+    position: relative;
+    text-align: center;
+}
+
+.share-overlay .buttons img {
+  margin: 0 10px;
+  box-shadow: 0 0 30px rgba(0, 0, 0, 1);
+  -webkit-transition: all 200ms;
+  -moz-transition: all 200ms;
+  -ms-transition: all 200ms;
+  -o-transition: all 200ms;
+  transition: all 200ms;
+}
+.share-overlay .buttons img:hover {
+  -webkit-transform: scale(1.1);
+  -moz-transform: scale(1.1);
+  -ms-transform: scale(1.1);
+  -o-transform: scale(1.1);
+  transform: scale(1.1);
+}
+.share-overlay .buttons .close:hover {
+  color: #ab2a7c;
+}
+.share-overlay .buttons a {
+  display: inline-block;
+}
+.share-overlay .text .close {
+    top: 10px;
+    right: 10px;
+    margin: 0;
+    padding: 0;
+    width: 20px;
+    height: 20px;
+    left: auto;
+}
+.share-overlay .close {
+  position: absolute;
+  background: url('../images/gui/close_pink.gif') no-repeat left center;
+  padding-left: 18px;
+  margin: -89px 0 0 132px;
+  left: 100%;
+  font-family: "Open Sans";
+  color: #fff;
+  cursor: pointer;
+  font-weight: bold;
+  font-size: 12px;
+  -webkit-transition: all 500ms;
+  -moz-transition: all 500ms;
+  -ms-transition: all 500ms;
+  -o-transition: all 500ms;
+  transition: all 500ms;
+}

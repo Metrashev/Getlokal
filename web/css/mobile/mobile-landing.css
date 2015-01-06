@@ -1,0 +1,206 @@
+html,body {
+    margin:0;
+    padding: 0;
+  
+}
+body{
+  font-family: 'Roboto';
+  color:#fff;  
+
+}
+html.iphone-bg{
+    background: url(/images/gui/ios_Landing/ios-bg.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    
+}
+
+html.andr-bg{
+    background: url(/images/gui/android_Landing/andr-bg.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+}
+
+p{
+    font-size: 20px;
+    color:white;
+    margin:0 auto;
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.20);
+    font-weight: 600;
+    width: 90%;
+}
+p.small{
+    font-size: 14px;
+    font-weight: 600;
+    margin: 0 auto;
+    margin-bottom: 22%;
+    line-height: 30px;
+    width: 90%;
+}
+section{
+    width: 100%;
+    text-align: center; 
+}
+section.middle{
+     top: 41%;
+     position: absolute;  
+}
+.andr-wrap section.middle{
+    top: 4%;
+    position: absolute;  
+}
+.download-btn {
+    display: inline-block;
+    position: relative;
+    text-decoration: none;
+}
+
+.download-btn img {
+    width: 210px;
+}
+
+.download-btn p{
+    position: absolute;
+    font-size: 14px;
+    left: 69px;
+    top: 10px;
+    text-shadow: none;
+    
+}
+.andr-wrap .download-btn p{
+    font-size: 12px;
+    left: 59px;
+    top: 9px;
+}
+section.bottom{
+    position: absolute;
+    bottom:2%;
+}
+section.middle a img{
+    max-width: 208px!important;
+}
+.ios-wrap section.bottom a{
+  /*  font-weight: bold;*/
+    line-height: 17px;
+}
+.ios-wrap section.middle img{
+   max-width: 90px;
+   margin-bottom: 3%;
+}
+.ios-wrap section.middle{
+    top:8%;
+  
+}
+section.bottom a{
+    margin: 0 5px 0 0;
+    color:#fff;
+    text-decoration: none;
+}
+.bottom img{
+    position: absolute;
+    width:12px;
+    top: 5px;
+}
+.download-btn img{
+   max-width: 210px;
+}
+.andr-wrap .middle img{
+    margin: 0 0 5% 0;
+}
+.andr-wrap .bottom img{
+     width:12px;
+     top: 7px;
+}
+.andr-wrap section.bottom a{
+    font-weight: 600;
+}
+
+
+
+@media only screen and (max-width: 719px) and (orientation:portrait) {
+     .andr-wrap section.middle img{
+        max-width: 125px!important;
+    }
+    .andr-wrap section.middle .download-btn img{
+        max-width: 208px!important;
+    }
+    
+}
+/*Galaxy S3*/
+@media only screen and (max-width: 720px) and (orientation:portrait) {
+    .andr-wrap section.middle img{
+        max-width: 300px;
+    }
+
+    .andr-wrap section.middle{
+        top: 10%;
+    }
+    .andr-wrap p.small{
+        margin: 0 auto;
+        margin-bottom: 20%;
+    }
+}
+@media only screen and (max-width: 1024px) and (orientation:landscape) {
+    .andr-wrap section.middle img{
+        max-width: 250px;
+    }
+    
+}
+@media only screen and (max-width: 800px) and (orientation:landscape) {
+    .andr-wrap section.middle > img{
+        max-width: 90px !important;
+    }
+
+    .andr-wrap section.middle .download-btn img{
+        max-width: 160px !important;
+    }
+    .andr-wrap .middle img {
+        margin:0;
+    }
+    p.small {
+        margin: 0 auto;
+    }
+}
+@media only screen and (max-width: 1280px) and (orientation:landscape) {
+    .andr-wrap section.middle img{
+        max-width: 120px;
+    }
+    
+}
+/*Iphone 5 landscape*/
+@media only screen 
+and (min-width : 320px)
+and (max-width : 568px) 
+and (orientation : landscape) {
+    .ios-wrap section.middle {
+        top: 3%;
+    }
+    .ios-wrap section.middle img{
+        max-width: 80px;
+    }
+    .ios-wrap p{
+        font-size: 15px;
+    }
+    p.small {
+        margin:1% auto;
+        font-size: 8px;
+        line-height: 15px;
+    }
+     .ios-wrap section.middle .download-btn img{
+        max-width: 130px!important;
+    }
+    .ios-wrap .download-btn p {
+        font-size: 8px;
+        left: 44px;
+        top: 8px;
+}
+    .ios-wrap section.bottom a {
+    
+}
+}

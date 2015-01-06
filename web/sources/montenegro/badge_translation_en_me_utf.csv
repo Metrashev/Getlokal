@@ -1,0 +1,39 @@
+id, name, description, lang
+1,Newbie,Publish 1 review,en
+1,Nov,Objavi 1 preporuku,me
+2,Pioneer,Publish 5 reviews,en
+2,Pionir,Objavi 5 preporuka,me
+3,Enthusiast,Publish 20 reviews,en
+3,Entuzijasta,Objavi 20 preporuka,me
+4,Master,Publish 50 reviews,en
+4,Master,Objavi  50 preporuka,me
+5,Star,Publish 100 reviews,en
+5,Zvezda,Objavi  100 preporuka,me
+6,On Focus,Upload 5 photos,en
+6,U fokusu,Objavi  5 slika,me
+7,Paparazzi,Upload 30 photos,en
+7,Paparaco,Objavi  30 slika,me
+8,Spy,Upload 50 photos,en
+8,Tajni Agent,Objavi  50 slika,me
+9,Food Lover,Publish 20 restaurant reviews,en
+9,Gurman,Objavi  20 preporuka za restorane,me
+10,Italiano,Publish 10 reviews for Italian Restaurants and Pizzerias,en
+10,Italijano,Objavi  10 preporuka za Italijanske restorane I picerije,me
+11,Caffeine Addict,Publish 10 reviews for Cafes,en
+11,Kafe Manijak,Objavi 10 preporuka za kafiće,me
+12,Night Owl,"Publish 10 reviews for Bars, Clubs and Piano-Bars",en
+12,Noćna Ptica,"Objavi 10 preporuka za klubove , diskoteke i barove",me
+13,Shopaholic,Publish 20 reviews for shops,en
+13,Šoping Manijak,Objavi  20 preporuka za prodavnice,me
+14,Fashion Victim,Publish 10 reviews for Jewellery Shops and Men's and Ladies Fashion Shops,en
+14,Žrtva Mode,Objavi  20 preporuka za zlatare - prodavnice nakita i butike,me
+15,The Planner,Create 10 Events,en
+15,Organizator,Objavi  10 događaja,me
+17,Music Lover,Create 10 Music and Concert Events,en
+17,Ljubitelj Muzike,Objavi  10 događaja tipa Muzika i Koncerti,me
+18,Art Lover,Create 10 Art Events,en
+18,Ljubitelj Umjetnosti,Objavi 10 umjetničkih događaja,me
+19,Christmas 2011,Publish 1 review and 1 picture for shops,en
+19,Božić 2011,Objavi 1 preporuku i  jednu sliku za prodavnice,me
+21,Wine and Love,Publish 1 review in Going Out or Shopping between 23.01 and 14.02.2012,en
+21,Vino i Ljubav,Objavi  1 preporuku za Izlaske ili šoping u period od 23.01 do 14.02 2012,me

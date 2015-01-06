@@ -1,0 +1,111 @@
+html{
+    background: #fff;
+}
+.banner-wrap{
+    font-family:'Open Sans', Arial, Helvetica, sans-serif;
+    max-width: 150px;
+    background: #fff;
+    -webkit-box-shadow: 0 1px 4px rgba(0,0,0,.2);
+    -moz-box-shadow: 0 1px 4px rgba(0,0,0,.2);
+    -o-box-shadow: 0 1px 4px rgba(0,0,0,.2);
+    box-shadow: 0 1px 4px rgba(0,0,0,.2);
+}
+.banner-wrap .logo{
+    text-align: right;
+}
+.banner-wrap header  section{
+    background: #A9287A;
+    color:#fff;
+    padding: 3px 1px;
+    text-align: center;
+}
+.banner-wrap header  section h2{
+    font-size: 9px;
+    text-transform: uppercase;
+    margin: 0;
+}
+.banner-wrap .flexslider{
+    padding:0 10px;
+    box-shadow: none;
+    border: 1px solid #fff;
+}
+@media screen and (max-width: 860px) {
+  .flex-direction-nav .flex-prev { opacity: 1; left: -50px;}
+  .flex-direction-nav .flex-next { opacity: 0; right: -50px;}
+}
+.banner-wrap .flexslider:hover .flex-prev{
+    left:-3px;
+    opacity: 1;
+}
+.banner-wrap .flexslider:hover .flex-next {
+    right: -38px;
+    opacity: 1;
+}
+.banner-wrap .flexslider .flex-prev{
+    left:-3px;
+    opacity: .7;
+}
+.banner-wrap .flexslider .flex-next {
+    right: -38px;
+    opacity: .7;
+}
+.banner-wrap .places-slider .img-wrap{
+    position: relative;
+    height: 60px;
+    overflow: hidden;
+}
+.banner-wrap .places-slider .company-image{
+    height: auto!important;
+    position: relative;
+    z-index: -1;
+    width: 75px;
+}
+.banner-wrap .places-slider .slides li .shake{
+    width: 70px;
+    height: 50px;
+    position: absolute;
+     top: 6px;
+    right: 1px;
+    -webkit-transition: -webkit-transform .15s linear;
+    -webkit-transform: rotate(+0deg); 
+    -moz-transform: rotate(+0deg);
+    
+}
+.banner-wrap .places-slider .slides li .shake.now {
+   -webkit-transform: rotate(+6deg); 
+   -moz-transform: rotate(+6deg);
+   -o-transform: rotate(+6deg);
+}
+			
+
+.banner-wrap .places-slider .slides li p{
+    max-height: 20px;
+    max-width: 100%;
+    text-overflow:ellipsis;
+    overflow: hidden;
+    margin:0 ;
+    font-size: 11px;
+}
+
+.banner-wrap .places-slider .slides li a{
+    color:#565656;
+}
+.banner-wrap .places-slider .image-overlay{
+    width: 70px;
+    height: 50px;
+    position: absolute;
+    top: 0;
+    right: -1px;
+}
+.banner-wrap .place_rateing span.review_count {
+color: #383838;
+background: url(/images/gui/bg_review_count_gray.png) no-repeat left 2px;
+padding-left: 17px;
+}
+.banner-wrap .flex-direction-nav .flex-prev{
+  background: url(/images/banners/banner_slider_left.png) no-repeat left 2px;
+}
+.banner-wrap .flex-direction-nav .flex-next{
+  background: url(/images/banners/banner_slider_right.png) no-repeat left 2px;
+}
+

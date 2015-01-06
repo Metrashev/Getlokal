@@ -1,0 +1,93 @@
+.no-margin { margin: 0 !important; } 
+
+.form-head { padding-bottom: 13px; }
+.form-head .form-row label { font-size: 26px; line-height: 31px; }
+.form-head .form-group { padding-bottom: 0; }
+
+.form-group { margin-left: 0; overflow: hidden; padding: 17px 0 27px 0; border-bottom: 1px solid #e1e1e1; }
+.form-group ul { margin: 0; padding: 0; list-style: none outside none; }
+.form-group li { float:left; }
+
+.form-row { margin-right: 30px; }
+.form-row label { font-size: 15px; line-height: 31px; position: relative; font-weight: 600; text-transform: uppercase; }
+.form-row input { width: 265px; height: 28px; border: 1px solid #a1a1a1; }
+.form-captcha { float:left; }
+
+.captcha_out label ,
+.warning label { font-weight: normal; font-style: italic; font-size: 14px; text-transform: none; }
+
+.btn-blue { float: right; }
+
+.restaurant #reservation_people { width: 133px !important; }
+#reservation_phone { margin-right: 0; }
+#reservation_about { width: 582px !important; height: 125px; border: 1px solid #a1a1a1; }
+#hours { width: 105px !important; height: 38px; border: 1px solid #a1a1a1; margin-right: -3px; border-radius: 3px; }
+
+#input-submit { width: 163px !important; margin-right: -25px; height: 42px !important; border: 0;  font-size: 17px; }
+.width { display: inline-block; width: 300px; }
+
+.form-captcha { position: relative; padding-bottom: 28px; }
+.form-captcha .error_list { position: absolute; top:39px; left:150px; width: 234px; }
+
+#reservation_captcha { width: 213px; margin-left: 150px; }
+.captcha-res { margin-bottom: 20px; }
+.captcha { position: absolute; top: 2px; }
+
+.form_capture a img ,
+.form_capture input { position: static; }
+
+.form-foot { margin-top: 28px; }
+
+.warning span { 
+    color: #A9287A;
+    font-size: 17px;
+    font-weight: bold; 
+}
+
+.asterisk:after {
+    content: "\f069";
+    font-family: 'FontAwesome';
+    font-size: 8px;
+    color: #a9287a;
+    position: absolute;
+    margin: 0px 0 0 3px;
+    top: -3px;
+}
+
+select {
+    border:none;
+    outline:none;
+    display: inline-block;
+    -webkit-appearance:none;
+    -moz-appearance:none;
+    appearance:none;
+    cursor:pointer;
+      -moz-appearance: none;
+    text-indent: 0.01px;
+    text-overflow: '';
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+    select {padding-right:18px}
+}
+
+#time { position: relative; }
+.form-group .fa.fa-chevron-down { position: absolute; top:12px; right:16px; }
+
+.form-controls ul li,
+.form-people ul li ,
+.form-captcha ul li {
+    background: #f96363;
+    border: 1px solid #e04725;
+    margin: 5px 0 0 0!important;
+    width: 99.3%!important;
+    display: block;
+    text-align: center;
+    font-size: 12px!important;
+    text-transform: none!important;
+    color: #fff!important;
+}
+
+#ui-datepicker-div { width: 280px !important; }
+
+.captcha-hotel { margin-top: 49px; }

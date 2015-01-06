@@ -1,0 +1,31 @@
+id, title, slug, lang
+1,Events & Culture,events-culture,en
+1,Događaji i Kultura,dogadaji-kultura,me
+2,Arts and Education,arts-education,en
+2,Umetnost i Obrazovanje,umetnost-obrazovanje,me
+3,Family,family,en
+3,Porodica,porodica,me
+4,Fashion,fashion,en
+4,Moda,moda,me
+5,Music,music,en
+5,Muzika,muzika,me
+6,My City,my-city,en
+6,Moj Grad,moj-grad,me
+7,Places,places,en
+7,Mesta,mesta,me
+8,Travel,travel,en
+8,Putovanja,putovanja,me
+9,Sports,sports,en
+9,Sport,sport,me
+10,Services,services,en
+10,Usluge,usluge,me
+11,Local news,local-news,en
+11,Lokalne vijesti,lokalne-vijesti,me
+12,Tech,tech,en
+12,Tehnologija,tehnologija,me
+13,Book Reviews,book-reviews,en
+13,Preporuke knjiga,preporuke-knjiga,me
+14,Fun,fun,en
+14,Zabava,zabava,me
+16,Movie,movie,en
+16,Filmovi,filmovi,me

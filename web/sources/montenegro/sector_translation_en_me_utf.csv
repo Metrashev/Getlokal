@@ -1,0 +1,55 @@
+id, title, slug, lang
+1,Automotive,automotive,en
+1,Auto moto,auto-moto,me
+2,Beauty ,beauty,en
+2,Njega lica i tela,njega-lica-i-tela,me
+3,Building & Construction,building-construction,en
+3,Građevinarstvo,gradjevinarstvo,me
+4,Children,children,en
+4,Djeca ,djeca,me
+5,Cinema & Theatre,cinema-theatre,en
+5,Pozorišta i Bioskopi,Pozorista-i-bioskopi,me
+6,Coffee & Tea,coffee-tea,en
+6,Kafići ,kafici,me
+7,Drinking Out,drinking-out,en
+7,Barovi,barovi,me
+8,Eating Out,eating-out,en
+8,Restorani,restorani,me
+9,Education,education,en
+9,Edukacija,edukacija,me
+10,Entertainment,entertainment,en
+10,Zabava,zabava,me
+11,Food & Drink,food-drink,en
+11,Hrana i Piće,hrana-i-pice,me
+12,Health & Medical,health-medical,en
+12,Zdravlje i medicina,zdravlje-i-medicina,me
+13,Home & Garden,home-garden,en
+13,Kuća i bašta,kuca-i-basta,me
+14,Landmarks,landmarks,en
+14,Znamenitosti,znamenitosti,me
+15,Local Services,local-services,en
+15,Lokalni servisi,lokalni-servisi,me
+16,Money & Finance,money-finance,en
+16,Novac i finansije,novac-i-finansije,me
+17,Museums & Art,museums-art,en
+17,Muzeji i umetnost,muzeji-i-umetnost,me
+18,Nightlife,nightlife,en
+18,Noćni život,nocni-zivot,me
+19,Other Services,other-services,en
+19,Ostale djelatnosti,ostale-djelatnosti,me
+20,Outdoor,outdoor,en
+20,Aktivnosti na otvorenom,aktivnosti-na-otvorenom,me
+21,Pets,pets,en
+21,Kućni ljubimci,kucni-ljubimci,me
+22,Professional Services,professional-services,en
+22,Profesionalni servisi,profesionalni-servisi,me
+23,Public Services,public-services,en
+23,Javni servisi,javni-servisi,me
+24,Shopping,shopping,en
+24,Šoping,soping,me
+25,Sport & Fitness,sport-fitness,en
+25,Sport i fitnes,sport-i-fitnes,me
+26,Technology,technology,en
+26,Tehnologija,tehnologija,me
+27,Travel & Accomodation,travel-accomodation,en
+27,Putovanja i smještaj,putovanja-i-smjestaj,me

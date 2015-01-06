@@ -1,0 +1,147 @@
+.footer .pink_price {
+  padding: 8px 10px;
+  margin-bottom: 16px;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  border-radius: 5px;
+}
+
+.footer .pink_price p {
+  text-align: left;
+  line-height: 30px;
+}
+
+.footer .pink_price {
+  background: #EAC4DB;
+  border: 1px solid #D683B7;
+  transition: all 0.3s ease-in-out;
+  -moz-transition: all 0.3s ease-in-out;
+  -webkit-transition: all 0.3s ease-in-out;
+  -o-transition: all 0.3s ease-in-out;
+}
+
+.footer .pink_price:hover{
+    background: #e8b9d5;
+     -moz-box-shadow: 0 0 14px rgba(0, 0, 0, 0.46);
+    -webkit-box-shadow: 0 0 14px rgba(0, 0, 0, 0.46);
+      box-shadow: 0 0 14px rgba(0, 0, 0, 0.46);
+}
+
+.price_main {
+	float: left;
+	width: 447px;
+	height:auto;
+	background-repeat: no-repeat;
+	background-position: left bottom, right bottom;
+	margin: 10px;
+        
+}
+
+.price_main2 {
+  width: 750px;
+  height: 500px;
+  background-repeat: no-repeat;
+  background-position: left bottom, right bottom;
+  margin: 10px;
+}
+
+.price_img {
+	float: left;
+	position: relative;
+	width: 130px;
+
+}
+
+.price_logo {
+	position: relative;
+	height: 40px;
+	left: -200px;
+        top: 131px;
+        background: #fff;
+
+}
+
+.footer .light_gray2{
+	padding: 8px 10px;
+	margin-bottom: 16px;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	border-radius: 5px;
+}
+
+/*Review mania game */
+
+.footer.review_mania{
+    padding: 18px 22px;
+}
+.footer.review_mania .left, .footer.review_mania .right{
+   width:410px;
+}
+.footer.review_mania .left{
+    padding: 0 47px 0 0;
+}
+
+.footer .light_gray2 p.company_provider, .footer.review_mania .pink_price p.company_provider{
+       font-weight: lighter;
+       font-size:24px;
+       margin-bottom:10px;
+}
+.footer.review_mania .pink_price p {
+    font-weight: lighter;
+}
+.footer .light_gray2 p {
+	text-align: left;
+	line-height: 26px;
+        margin: 0;
+        max-width: 240px;
+        float: left;
+        font-weight: lighter;
+}
+.footer .light_gray2 {
+	background: #F7F7F7;
+	border: 1px solid #DCDCDC;
+        display: inline-block;
+        height: 132px;
+        overflow: hidden;
+         transition: all 0.3s ease-in-out;
+    -moz-transition: all 0.3s ease-in-out;
+    -webkit-transition: all 0.3s ease-in-out;
+    -o-transition: all 0.3s ease-in-out;
+}
+.footer .light_gray2:hover{
+    background: #EAC4DB;
+
+}
+
+
+
+.footer .light_gray2 .left_holder{
+    float:left;
+    display: inline-block;
+    margin-right: 15px;
+    
+}
+
+.footer .light_gray2 .left_holder img.price_img{
+    margin:0;
+}
+
+.fb_edge_widget_with_comment{
+    position: absolute!important;
+    right: 150px;
+    top: 30px;
+}
+.fb_iframe_widget iframe {
+    height: 100px;
+    position: absolute;
+    width: 100px;
+}
+
+.fb_iframe_widget span {
+    display: inline-block;
+    position: relative;
+    text-align: justify;
+    vertical-align: text-bottom;
+    width: 100px;
+    height: 100px;
+}

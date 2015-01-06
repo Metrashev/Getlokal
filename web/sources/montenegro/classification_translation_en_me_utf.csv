@@ -1,0 +1,537 @@
+id, name, slug, lang
+1,Parks and Gardens,parks-gardens,en
+1,Parkovi i bašte,parkovi-bašte,me
+2,Car Dealers,car-dealers,en
+2,Auto dileri,auto-dileri,me
+3,Bazaars and Markets,bazaars-markets,en
+3,Pijace,pijace,me
+4,Petrol Stations,petrol-stations,en
+4,Benzinske pumpe,benzinske-pumpe,me
+5,Car Parks,car-parks,en
+5,Parkirališta - Garaže,parkiralista-garaze,me
+6,Sports,sports,en
+6,Sport,sport,me
+7,Monuments,monuments,en
+7,Spomenici,spomenici,me
+8,Historical Buildings,historical-buildings,en
+8,Istorijske znamenitosti,istorijske-znamenitosti,me
+9,Solariums,solariums,en
+9,Solarijumi,solarijumi,me
+10,Sports and Tourist Shops,sports-shops,en
+10,Prodavnice sportske opreme,prodavnice-sportske-opreme,me
+11,Hairdressers and Beauticians,hairdressers-beauticians,en
+11,Frizerski saloni,frizerski-saloni,me
+12,Post,post,en
+12,Pošte,poste,me
+13,Sports Clubs,sports-clubs,en
+13,Sportski klubovi,sportski-klubovi,me
+14,Embassies,embassies,en
+14,Ambasade,ambasade,me
+15,Police,police,en
+15,Policijske stanice,policijske-stanice,me
+16,Delicatessen,delicatessen,en
+16,Delikatesi,delikatesi,me
+17,Recycling,recycling,en
+17,Recikliranje,recikliranje,me
+18,Security,security,en
+18,Obezbjeđenje,obezbjedjenje,me
+19,Animal Shelters,animal-shelters,en
+19,Prihvatilišta za životinje,prihvatilista-za-zivotinje,me
+20,Romanian Restaurants,romanian-restaurant,en
+20,Restorani Rumunske kuhinje,restorani-rumunske-kuhinje,me
+21,Croatian Restaurants,croatian-restaurants,en
+21,Restorani Hrvatske kuhinje,restorani-hrvatske-kuhinje,me
+22,Macedonian Restaurants,macedonian-restaurants,en
+22,Restorani Makedonske kuhinje ,restorani-makedonske-kuhinje,me
+23,Bulgarian Restaurants,bulgarian-restaurants,en
+23,Restorani Bugarske kuhinje,restorani-bugarske-kuhinje,me
+24,Clubs and Live Music,clubs-live-music,en
+24,Klubovi i Diskoteke,klubovi-diskoteke,me
+25,Bowling and Billiards,bowling-billiards,en
+25,Kuglane i Bilijar sale,kuglane-bilijar-sale,me
+26,Casinos,casinos,en
+26,Kazina,kazina,me
+27,Zoos,zoos,en
+27,Zoološki vrtovi,zooloski vrtovi,me
+28,Ticket Centres,ticket-centres,en
+28,Biletarnice,biletarnice,me
+29,Car Hire,car-hire,en
+29,Iznajmljivanje vozila,iznajmljivanje-vozila,me
+30,Arts and Crafts,arts-crafts,en
+30,Umjetnost i vještine,umjetnost-i-vještine,me
+31,Travel Agencies and Tour Operators,travel-agency-tour-operator,en
+31,Turističke agencije i Turoperateri,turisticke-agencije-turoperateri,me
+32,Guest Houses,guest-houses,en
+32,Apartmani,apartmani,me
+33,Attractions,attractions,en
+33,Atrakcije,atrakcije,me
+34,Wineries,wineries,en
+34,Vinarije,vinarije,me
+35,Cinemas,cinemas,en
+35,Bioskopi,bioskopi,me
+36,Museums,museums,en
+36,Muzeji,muzeji,me
+37,"Opera, Ballet and Classical Music",opera-ballet-classical-music,en
+37,"Opera, balet i klasična muzika",opera-balet-klasicna-muzika,me
+38,Beaches,beaches,en
+38,Plaže i kupališta,plaze-kupalista,me
+39,Theatres,theatres,en
+39,Pozorišta,pozorista,me
+40,Dance Classes,dance-classes,en
+40,Škole plesa,skole-plesa,me
+41,Art Galleries and Shops,art-galleries,en
+41,Umjetničke galerije,umjetnicke-galerije,me
+42,Childrens Play Centres and Creches,childrens-play-centres,en
+42,Dječije igraonice,djecije-igraonice,me
+43,Circuses,circuses,en
+43,Cirkusi,cirkusi,me
+44,Book Shops,book-shops,en
+44,Knjižare,knjizare,me
+45,Bakeries,bakeries,en
+45,Pekare,pekare,me
+46,Butchers,butchers,en
+46,Mesare,mesare,me
+47,Chocolate Shops,chocolate-shops,en
+47,Prodavnice čokolade,prodavnice-cokolade,me
+48,Curtain Shops,curtain-shops,en
+48,Prodavnice zavesa,prodavnice-zavesa,me
+49,Fishmongers,fishmongers,en
+49,Ribarnice,ribarnice,me
+50,Fruit and Vegetable Shops,fruit-vegetable-shops,en
+50,Prodavnice voća i povrća,prodavnice-voca-povrca,me
+51,Lighting Shops,lighting-shops,en
+51,Prodavnice rasvjete,prodavnice-rasvjete,me
+52,Pharmacies,pharmacies,en
+52,Apoteke,apoteke,me
+53,24 Hour Pharmacies,24-hour-pharmacies,en
+53,Dežurne apoteke,dezurne-apoteke,me
+54,Aromatherapy,aromatherapy,en
+54,Aromaterapija,aromaterapija,me
+55,Healthy Living,healthy-living,en
+55,Zdrav život,zdrav-zivot,me
+56,"Yoga, Meditation and Pilates",yoga-meditation-pilates,en
+56,"Joga, Meditacija i Pilates",joga-meditacija-pilates,me
+57,Kinesiotherapy,kinesiotherapy,en
+57,Kineziterapija,kineziterapija,me
+58,Beauty Salons,beauty-salons,en
+58,Saloni lepote,saloni-lepote,me
+59,Party Accessories,party-accessories,en
+59,Oprema za žurke i proslave,oprema-za-zurke-proslave,me
+60,Supermarkets,supermarkets,en
+60,Supermarketi,suprermarketi,me
+61,Jewellery Shops,jewellers,en
+61,Zlatare - prodavnice nakita,zlatare-prodavnice-nakita,me
+62,Antique Shops,antique-shops,en
+62,Antikvarnice,antikvarnice,me
+63,Bio Shops,bio-shops,en
+63,Prodavnice zdrave hrane,prodavnice-zdrave-hrane,me
+64,Wine Shops,wine-shops,en
+64,Vinoteke,vinoteke,me
+65,Garden Centres and Shops,garden-centres,en
+65,Rasadnici,rasadnici,me
+66,Massage,massage,en
+66,Saloni za masažu,saloni-za-masazu,me
+67,Perfumery and Cosmetics Shops,perfumery-cosmetics-shops,en
+67,Parfimerije,parfimerije,me
+68,Party and Event Organizers,party-event-organizers,en
+68,Organizacija događaja i proslava,organizacija-proslava,me
+69,Babysitters and Childcare,babysitters-childcare,en
+69,Agencije za čuvanje dece,agencije-za-cuvanje-dece,me
+70,Launderettes,launderettes,en
+70,Perionice veša,perionice-vesa,me
+71,"Bathroom Equipment and Furniture Manufacturing, Sales and Installation",bathroom-equipment-furniture,en
+71,Oprema i namještaj za kupatila,oprema-namjestaj-za-kupatila,me
+72,Furniture Wholesale,furniture-wholesale,en
+72,Veleprodaja namještaja,veleprodaja-namjestaja,me
+73,"Kitchen Equipment and Furniture Manufacturing, Sales and Installation",kitchen-equipment-furniture,en
+73,Oprema i namještaj za kuhinje,oprema-namjestaj-za-kuhinje,me
+74,Lawns and Parks Services,lawn-park-services,en
+74,Održavanje parkova i bašti,odrzavanje-parkova-basti,me
+75,Banks,banks,en
+75,Banke,banke,me
+76,Financial Services,financial-services,en
+76,Finansijski servisi,finansijski-servisi,me
+77,General Insurance,insurance,en
+77,Osiguravajuća društva,osiguravajuca-drustva,me
+78,Spedition and International Transport,spedition-transport,en
+78,Špedicija i transport,spedicija-i-transport,me
+79,Chambers of Commerce and Industry,chambers-commerce-industry,en
+79,Privredne komore,privredne-komore,me
+80,Hospices,hospices,en
+80,Kućna njega,kucna-njega,me
+81,Nonprofit Organisations and Companies,non-profit-organisations,en
+81,Neprofitne organizacije,neprofitne-organizacije,me
+82,Advertising,advertising,en
+82,Oglašavanje,oglasavanje,me
+83,Advertising Agencies,advertising-agencies,en
+83,Marketinške agencije,marketinske-agencije,me
+84,Designers,designers,en
+84,Dizajneri,dizajneri,me
+85,Public Relations Agencies,PR-agencies,en
+85,Agencije za odnose sa javnošću,agencije-za-odnose-sa-javnošću,me
+86,Recording Studios and Services,recording-studios,en
+86,Muzički studiji,muzicki-studiji,me
+87,Accounting Services,accounting-services,en
+87,Knjigovodstvene agencije,knjigovodstvene-agencije,me
+88,Agrochemical Services,agrochemical-services,en
+88,Agrohemijski servisi,agrohemijski-servisi,me
+89,Customs Agents and Services,customs-agents,en
+89,Carinski agenti,carinski-agenti,me
+90,Geodesy and Cartography,geodesy-cartography,en
+90,Geodezija i kartografija,geodezija-kartografija,me
+91,Lawyers,lawyers,en
+91,Advokati,advokati,me
+92,Notaries,notaries,en
+92,Pravni zastupnici,pravni-zastupnici,me
+93,Business Centres,business-centres,en
+93,Biznis centri,biznis-centri,me
+94,Certification and Registration Services,certification-registration-services,en
+94,Usluge sertifikacije i registracije,sertifikacija-registracija,me
+95,Cleaning Commercial,cleaning-commercial,en
+95,Čišćenje poslovnih objekata,ciscenje-poslovnih-objekata,me
+96,Conference Halls and Venues,conference-halls,en
+96,Konferencijske i banket sale ,konferencijske-banket-sale,me
+97,Legal Services,legal-services,en
+97,Pravni savjeti,pravni-savjeti,me
+98,"Classes, Courses and Lessons",classes-courses,en
+98,Časovi i kursevi,casovi-kursevi,me
+99,Language Classes and Courses,language-classes-courses,en
+99,Škole stranih jezika,skole-stranih-jezika,me
+100,Estate Agents,estate-agents,en
+100,Nekretnine,nekretnine,me
+101,Churches and Temples,churches-temples,en
+101,Crkve i verski objekti,crkve-verski-objekti,me
+102,Mosques,mosques,en
+102,Džamije,dzamije,me
+103,Funeral Services,funeral-services,en
+103,Pogrebne službe,pogrebne-sluzbe,me
+104,Public Institutions,public-institutions,en
+104,Javne ustanove,javne-ustanove,me
+105,Education,education,en
+105,Edukacija,edukacija,me
+106,Architectural Services,architectural-services,en
+106,Arhitektonske usluge,arhitektonske-usluge,me
+107,Audio Visual Equipment and Electronics,audio-visual-equipment-electronics,en
+107,Audio i video oprema,audio-video-oprema,me
+108,Carpenters,carpenters,en
+108,Stolari,stolari,me
+109,Residential Construction,residential-construction,en
+109,Izgradnja stanova,izgradnja-stanova,me
+110,Clinics,clinics,en
+110,Klinike,klinike,me
+111,Medical Practices,medical-practices,en
+111,Doktori,doktori,me
+112,Computer Sales,computer-sales,en
+112,Prodavnice kompjutera,prodavnice-kompjutera,me
+113,Fabric Shops,fabric-shops,en
+113,Prodavnice tekstila,prodavnice-tekstila,me
+114,Landscape Architects,landscape-architects,en
+114,Pejzažna arhitektura,pejzazna-arhitektura,me
+115,Furniture Manufacturing,furniture-manufacturing,en
+115,Izrada namještaja,izrada-namjestaja,me
+116,"Wooden Floors and Laminates Manufacturing, Sales and Installation",wooden-floors-laminates,en
+116,"Parket, Panelni podovi i Laminat, ",parket-panelni-podovi-laminat,me
+117,"Door Manufacturing, Sales and Fitting",doors,en
+117,Proizvodnja i prodaja vrata,proizvodnja-prodaja-vrata,me
+118,Bead Shops,bead-shops,en
+118,Prodavnice perli ,prodavnice-perli,me
+119,Wedding Agents,wedding-agents,en
+119,Agencije za organizaciju vjenčanja,agencije-za-organizaciju-vjencanja,me
+120,Wedding Shops,wedding-shops,en
+120,Oprema za vjenčanja,oprema-za-vjencanja,me
+121,Souvenir and Gift Shops,souvenir-gift-shops,en
+121,Prodavnice suvenira i poklona,prodavnice-suvenira-poklona,me
+122,Ladies Clothes Shops,ladies-clothes-shops,en
+122,Butici,butici,me
+123,24 Hour Shops,24-hour-shops,en
+123,Dežurne prodavnice,dezurne-prodavnice,me
+124,Alcohol and Soft Beverages Shops,alcohol-soft-beverage-shops,en
+124,Prodavnice alkoholnog i bezalkoholnog pića,prodavnice-alkoholnih-bezalkoholnih-pica,me
+125,Children's Goods and Toys Shops,childrens-shops,en
+125,Prodavnice igračaka za djecu,prodavnice-igracaka,me
+126,Electrical Appliance Shops,electrical-appliance-shops,en
+126,Kućni aparati i bijela tehnika,kucni-aparati-bijela-tehnika,me
+127,Erotic Shops,erotic-shops,en
+127,Erotik šopovi,erotik-sopovi,me
+128,"Coffee, Tea, Herbs and Spices Shops",coffee-tea-herbs-spices-shops,en
+128,Piljarnice,piljarnice,me
+129,Leather and Fur Goods Shops,leather-fur-goods-shops,en
+129,Butici kože i krzna,koza-krzno,me
+130,Hunting and Fishing Accessories Shops,hunting-fishing-accessories,en
+130,Oprema za lov i ribolov,oprema-za-lov-ribolov,me
+131,Specialized Shops for Disabled People,shops-for-disabled-people,en
+131,Specijalizovane prodavnice za hendikepirane ljude,prodavnice-za-hendikepirane,me
+132,Furniture Shops,furniture-shops,en
+132,Prodavnice namještaja,prodavnice-namjestaja,me
+133,Mobile Phone Shops,mobile-phone-shops,en
+133,Prodavnice mobilnih telefona,prodavnice-mobilnih-telefona,me
+134,Music Shops,music-shops,en
+134,Muzički instrumenti i oprema,muzicki-instrumenti-oprema,me
+135,Men's Fashion Shops,mens-fashion,en
+135,Butici za muškarce,butici-za-muskarce,me
+136,Second Hand Clothes Shops,second-hand-clothes,en
+136,Secon hand prodavnice,secon-hand-prodavnice,me
+137,Clothes and Accessories Shops,clothes-accessories,en
+137,Garderoba,garderoba,me
+138,Shoe Shops,shoe-shops,en
+138,Prodavnice cipela,prodavnice-cipela,me
+139,Shopping Malls,shopping-malls,en
+139,Tržni centri,trzni-centri,me
+140,Artwork Shops,artwork-shop,en
+140,Antikvarnice i umjetničke galerije,antikvarnice-umjetnicke-galerije,me
+141,Grocery and Convenience Shops,grocery-convenience-shops,en
+141,Prodavnice prehrambene robe ,prodavnice-prehrambene-robe,me
+142,Florists,florists,en
+142,Cvjećare,cvjecare,me
+143,Clock and Watch Shops,clock-watch-shops,en
+143,Prodavnice satova ,prodavnice-satova,me
+144,Herbal Pharmacies,herbal-pharmacies,en
+144,Biljne apoteke,biljne-apoteke,me
+145,Hospitals,hospitals,en
+145,Bolnice,bolnice,me
+146,Alternative Medicine,alternative-medicine,en
+146,Alternativna medicina,alternativna-medicina,me
+147,Opticians,opticians,en
+147,Optičari,opticari,me
+148,Polyclinics,polyclinics,en
+148,Poliklinike,poliklinike,me
+149,Maternity,maternity,en
+149,Marterinstvo,materinstvo,me
+150,Tattoo and Body Piercing,tattoo-body-piercing,en
+150,Tetoviranje i pirsing,tetoviranje-pirsing,me
+151,Spas,spa,en
+151,Spa centri,spa-centri,me
+152,Dental Services,dental-services,en
+152,Stomatolozi - Zubari,stomatolozi-zubari,me
+153,Carpet Cleaning,carpet-cleaning,en
+153,Tepih servisi,tepih-servisi,me
+154,"Translation, Legalization and Typing Services",translation-legalization-typing,en
+154,Prevodioci,prevodioci,me
+155,ATMs,atm,en
+155,Bankomati,bankomati,me
+156,Bars and Bistros,bars-bistros,en
+156,Barovi,barovi,me
+157,Pubs,pubs,en
+157,Pabovi,pabovi,me
+158,Fast Food Restaurants,restaurants-fast-food,en
+158,Restorani brze hrane,restorani-brze-hrane,me
+159,Irish Pubs,irish-pubs,en
+159,Irski pabovi,irski-pabovi,me
+160,Cafes,cafes,en
+160,Kafići,kafici,me
+161,Catering,catering,en
+161,Ketering,ketering,me
+162,Taverns,taverns,en
+162,Kafane,kafane,me
+163,Piano Bars,piano-bars,en
+163,Piano barovi,piano-barovi,me
+164,Pizzerias,pizzerias,en
+164,Picerije,picerije,me
+165,Restaurants,restaurants,en
+165,Restorani,restorani,me
+166,Greek Restaurants,greek-restaurants,en
+166,Grčki restorani,grcki-restorani,me
+167,Exotic Restaurants,restaurants-exotic,en
+167,Restorani Azijske kuhinje,azijska-kuhinja,me
+168,Indian Restaurants,indian-restaurants,en
+168,Indijski restorani,indijski-restorani,me
+169,International Restaurants,restaurants-international,en
+169,Internacionalni restorani,internacionalni-restorani,me
+170,Italian Restaurants,italian-restaurants,en
+170,Italijanski restorani,italijanski-restorani,me
+171,Chinese Restaurants,chinese-restaurants,en
+171,Kineski restorani,kineski-restorani,me
+172,Seafood Restaurants,seafood-restaurants,en
+172,Riblji restorani,riblji-restorani,me
+173,Montenegro Restaurants,montenegro-restaurants,en
+173,Restorani nacionalne kuhinje,restorani-nacionalne-kuhinje,me
+174,Sushi Restaurants,sushi-restaurants,en
+174,Japanski restorani - Sushi barovi,sushi-barovi,me
+175,Turkish Restaurants,turkish-restaurants,en
+175,Turski restorani,turski-restorani,me
+176,French Restaurants,french-restaurants,en
+176,Francuski restorani,francuski-restorani,me
+177,Patisseries,patisseries,en
+177,Poslastičarnice,poslasticarnice,me
+178,Ice-Cream Parlours,ice-cream-parlours,en
+178,Sladoledionice,sladoledionice,me
+179,Tea Houses,tea-houses,en
+179,Kuće čaja,kuce-caja,me
+180,Campsites,campsites,en
+180,Kamping mesta,kamping-mesta,me
+181,Ecotourism,ecotourism,en
+181,Ekoturizam,ekoturizam,me
+182,Holiday Centres,holiday-centres,en
+182,Turistički centri,turisticki-centri,me
+183,Holiday Villas and Bungalows,holiday-villas-bungalows,en
+183,Vile i bungalovi ,vile-bungalovi,me
+184,Hostels,hostels,en
+184,Hosteli,hosteli,me
+185,Hotels,hotels,en
+185,Hoteli,hoteli,me
+186,Motels,motels,en
+186,Moteli,moteli,me
+187,Mountain Hostels,mountain-hostels,en
+187,Planinski domovi,planinski-domovi,me
+188,Rural Tourism,rural-tourism,en
+188,Seoski turizam,seoski-turizam,me
+189,Locksmiths and Keys,locksmiths,en
+189,Bravari ,bravari,me
+190,Driving Schools and Instructors,driving-schools-instructors,en
+190,Auto škole,auto-skole,me
+191,Vets and Pet Care,vets-pet-care,en
+191,Veterinari,veterinari,me
+192,Car Washes,car-wash,en
+192,Auto perionice,auto-perionice,me
+193,Household and Professional Appliances Repairs,appliance-repairs,en
+193,Popravka kućnih aparata,popravka-kucnih-aparata,me
+194,Computer Maintenance and Repairs,pc-repairs,en
+194,"Servis, održavanje i popravke računara",servis-racunara,me
+195,Courier Services,couriers,en
+195,Kurirske službe,kurirske-sluzbe,me
+196,Shoe and Leather Goods Repairs,shoe-leather-goods-repairs,en
+196,Obućari,obućari,me
+197,Building and Repair Services,building-repair-services,en
+197,Održavanje i popravke stambenih objekata,odrzavanje-stambenih-objekata,me
+198,Taxis,taxis,en
+198,Taksi službe,taksi-sluzbe,me
+199,Dry Cleaning,dry-cleaning,en
+199,Hemijsko čišćenje,hemijsko-ciscenje,me
+200,Kennels and Catteries,kennels-catteries,en
+200,Hoteli - Pansioni za pse i maške,hoteli-pansioni-za-pse-maske,me
+201,Dressmaking Services,dressmaking-services,en
+201,Krojačke radnje,krojacke-radnje,me
+202,Horse Riding,horse-riding,en
+202,Konjički klubovi,konjicki-klubovi,me
+203,Hunting and Fishing,hunting-fishing,en
+203,Lov i ribolov,lov-ribolov,me
+204,"Divers, Diving Schools and Equipment",divers-diving-schools,en
+204,Škole ronjenja i oprema za ronjenje,skole-ronjenja-oprema-za-ronjenje,me
+205,Extreme Sports and Outdoor Pursuits,extreme-sports-outdoor-pursuits,en
+205,Ekstremni sportovi,ekstremni-sportovi,me
+206,Fitness Clubs and Gyms,fitness-clubs,en
+206,Fitnes centri i teretane,fitnes-centri-teretane,me
+207,Golf,golf,en
+207,Golf,golf,me
+208,Martial Arts and Sports,martial-art,en
+208,Klubovi borilačkih vještina,klubovi-borilackih-vjestina,me
+209,Professional Sports Clubs and Organizations,professional-sports-clubs,en
+209,Profesionalni sportski klubovi,profesionalni-sportski-klubovi,me
+210,Sports Halls,sports-halls,en
+210,Sportske hale,sportske-hale,me
+211,Swimming Pools,swimming-pools,en
+211,Bazeni,bazeni,me
+212,Tennis Courts,tennis-courts,en
+212,Teniski tereni,teniski-tereni,me
+213,Winter Sports and Facilities,winter-sports,en
+213,Zimski sportovi i hale,zimski-sportovi-hale,me
+214,Auto Repairs,auto-repairs,en
+214,Auto servisi,auto-servisi,me
+215,Bicycles and Motorbikes,bicycles-motorbikes,en
+215,Bicikli i Motocikli,bicikli-motocikli,me
+216,Domestic Cleaning,domestic-cleaning,en
+216,Čišćenje stanova i kuća,ciscenje-stanova-kuca,me
+217,Framing,framing,en
+217,Uramljivanje,uramljivanje,me
+218,Car Parts and Accessories,car-parts,en
+218,Auto delovi,auto-delovi,me
+219,Building Materials Shops,building-materials,en
+219,Građevinski materijal,gradjevinski-materijal,me
+220,Painting Services,painting-service,en
+220,Moleri i farbari,moleri-farbari,me
+221,Plumbing and Sewerage Repairs,plumbing-sewerage-repairs,en
+221,Vodoinstalateri,vodoinstalateri,me
+222,Rope Access Services - Exterior Building Maintenance,rope-access-services,en
+222,Održavanje i čišćenje fasada,odrzavanje-ciscenje-fasada,me
+223,"Bed Linen, Towels and Table Covers",bed-linen,en
+223,"Posteljina, Zavjese i Peškiri",posteljina-zavjese-peskiri,me
+224,Photo and Video Shops and Services,photo-video-services,en
+224,Foto i Video oprema i servis,foto-video-oprema-servis,me
+225,Nurseries and Kindergartens,nurseries-kindergartens,en
+225,Vrtići i Jaslice,vrtici-jaslice,me
+226,Homemade Children's Food,homemade-child-food,en
+226,Hrana za djecu,hrana-za-djecu,me
+227,Carpets and Flooring,carpet-flooring,en
+227,Tepisi i podne obloge,tepisi-podne-obloge,me
+228,Blinds and Awnings,blinds-awnings,en
+228,"Tende, Roletne i Venecijaneri",tende-roletne-venecijaneri,me
+229,Floor Sanding and Polishing,floor-sanding,en
+229,Hoblovanje i Lakiranje parketa,hoblovanje-lakiranje-parketa,me
+230,Double Glazing Repairs,double-glazing-repair,en
+230,Stakloresci,stakloresci,me
+231,Pest Control and Disinfection,pest-control-desinfection,en
+231,Deratizacija i Dezinsekcija,deratizacija-dezinsekcija,me
+232,Removals - Home and Office,removals-home-office,en
+232,Selidbe,selidbe,me
+233,Mattresses and Bedding,mattresses-beds,en
+233,Duseci i Jastuci,duseci-jastuci,me
+234,Household Goods and Accessories,household-goods,en
+234,Aparati i oprema za domaćinstvo,aparati-oprema-za-domacinstvo,me
+235,Haberdashery and Passemanterie,haberdashery-passemanterie,en
+235,Pozamanterija i Galanterija,pozamanterija-galanterija,me
+236,Knitwear and Underwear,knitwear-underwear,en
+236,Konfekcija i Trikotaža,konfekcija-trikotaza,me
+237,"Bags, Suitcases and Accessories",bags-suitcases,en
+237,"Koferi, Rančevi i Torbe ",koferi-rancevi-torbe,me
+241,Restaurants - Raw and Vegetarian,vegetarian-restaurants,en
+241,Vegetarijanski restorani,vegetarijanski-restorani,me
+242,Nature Attractions,nature-attractions,en
+242,Prirodne znamenitosti,prirodne-znamenitosti,me
+243,Pet Shops,pet-shops,en
+243,Kucni ljubimci,kucni-ljubimci,me
+249,Ski & Snowboard Schools,ski-snowboard-schools,en
+249,Ski škole,ski-skole,me
+250,Ski & Snowboard Rental,ski-snowboard-rental,en
+250,Ski i Snowboard oprema,ski-snowboard-oprema,me
+251,Skating-rinks,skating-rinks,en
+251,Klizališta,klizalista,me
+252,Radio Stations,radio-stations,en
+252,Radio stanice,radio-stanice,me
+253,TV Stations,tv-stations,en
+253,TV stanice,tv-stanice,me
+254,Juice Bars,juice-bars,en
+254,Juice Bars,juice-bar,me
+255,Kiosks and News-stands,kiosks-newsstands,en
+255,Trafike,trafike,me
+256,Concert Halls,concert-halls,en
+256,Koncertne hale,koncertne-hale,me
+257,Cultural Centers,culture-centers,en
+257,Kulturni centri  ,kulturni-centri  ,me
+258,Caravan and Campervan Dealers,caravans-campers-dealers,en
+258,Kamp kuće i prikolice,kamp-kuce-prikolice,me
+259,Car Tyres,car-tyres,en
+259,Auto gume,auto-gume,me
+260,Shops,shops,en
+260,Prodavnice,prodavnice,me
+261,Stationery and Office Supplies,stationery-office-supplies,en
+261,Kancelarijski materijal i oprema,kancelarijsk-materijal-oprema,me
+262,E-commerce and Mail Order,ecommerce-mail-order,en
+262,On line i kataloška prodaja,on-line-kataloska-prodaja,me
+263,Rental Services - Equpiment,equipment-rental,en
+263,Usluge iznajmljivanja opreme,usluge-iznajmljivanja-opreme,me
+264,Physiotherapy,physiotherapy,en
+264,Fizioterapija,fizioterapija,me
+265,Boats and Boating Accessories,boats-boating,en
+265,Brodska oprema i plovila,brodska-oprema-plovila,me
+266,Water Transport,water-transport,en
+266,Vodeni saobraćaj,vodeni-saobracaj,me
+267,Childrens Clothes Shops,childrens-clothes-shops,en
+267,Butici dečije odeće,butici-decije-odece,me
+268,Motorbikes Dealers and Repairs,motorbikes-dealers-repairs,en
+268,Prodaja i servis motorcikala,prodaja-servis-motorcikala,me
+269,Currency Exchange,currency-exchange,en
+269,Mjenjačnice,mjenjacnice,me
+270,Temporary Staff Agencies,temporary-staff-agencies,en
+270,Omladinske zadruge,omladinske-zadruge ,me
+271,Telecom Stores and Resellers,telecom-stores-resellers,en
+271,Telekomunikacije – usluge i prodajna mesta,telekomunikacije-usluge-prodajna-mesta,me
+272,Portuguese Restaurants,portuguese-restaurants,en
+272,Portugalski restorani,portugalski-restorani,me
+273,Brasseries,brasseries,en
+273,Brasseries,brasseries,me
+274,British Restaurants,british-restaurants,en
+274,British Restaurants,british-restaurants,me
+275,Modern European Restaurants,modern-european-restaurants,en
+275,Modern European Restaurants,modern-european-restaurants,me
+276,Tapas Bars,tapas-bars,en
+276,Tapas Bars,tapas-bars,me

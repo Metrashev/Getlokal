@@ -1,0 +1,79 @@
+body {
+  background-color: #e4e6e5;
+  font: 14px Arial,Helvetica,sans-serif;
+}
+
+.wrap {
+  width: 895px;
+  height: auto;
+  padding: 20px 35px;
+  
+  background-color: white;
+  margin: 45px auto;  
+  border-radius: 4px;
+}
+
+.frame {
+	margin: 0px 50px 0px 50px;
+}
+
+p.middle {
+	text-align: center;
+}
+
+p.title {
+	font-size: 18px;
+	font-weight: 700;
+	color: #383838;
+}
+
+p.big {
+	font-size: 26px;
+	font-weight: 800;
+	color: #383838;
+}
+
+span.pink2 {
+	color: #CA4A9B;
+}
+
+.prize{
+	margin: 0px 110px 0px 110px;
+}
+
+input.rules2 {
+	cursor: pointer;
+	color: #FFFFFF;
+	font-size: 22px;
+	font-weight: 700;
+	background: #AE2C7F;
+	border-radius: 5px;
+	width: 280px;
+	padding: 10px;
+	border: none;
+	text-align: center;
+}
+
+input.game {
+	cursor: pointer;
+	color: #FFFFFF;
+	font-size: 22px;
+	font-weight: 700;
+	background: #0D9B9A;
+	border-radius: 5px;
+	width: 184px;
+	padding: 10px;
+	border: none;
+}
+
+.text {
+	margin-top: 70px;
+}
+
+.info {
+	margin-top: 70px;
+}
+
+.to_right {
+	text-align: right;
+}

@@ -1,0 +1,1673 @@
+body {
+    margin: 0;
+    color: #000000;
+    font-family: 'Open Sans', sans-serif;
+}
+a {
+    -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+}
+/* Smartphones (portrait and landscape) ----------- */
+@media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
+    body {
+        font-size: 12px;
+    }
+}
+
+/* Smartphones (landscape) ----------- */
+@media only screen and (min-width : 321px) and (max-device-width : 800px) {
+    body {
+        font-size: 12px;
+    }
+
+    .review_details p.user_review {
+        width: 75% !important;
+    }
+
+    .mobile_ppp_company .function_tabs ul {
+        width: 99.7% !important;
+    }
+
+        .mobile_ppp_company .function_tabs ul li {
+            padding: 15px 0;
+        }
+
+            .mobile_ppp_company .function_tabs ul li#checkin {
+                padding-left: 3px;
+            }
+}
+/*IPHONE PORTRAIT CSS*/
+@media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
+
+
+    body {
+        font-size: 16px;
+    }
+    .mobile_ppp_company .content_area .image {
+        height: 150px !important
+
+    }
+    .mobile_ppp_company .company .image a img.header_image {
+        height: 150px !important;
+        max-height: 150px !important;
+        border-top-left-radius:3px !important;
+        border-top-right-radius: 3px !important;
+    }
+
+
+
+    .mobile_ppp_company .company .about {
+        margin-top: 126px !important;
+        padding:2px 4px !important;
+        margin-bottom: 0 !important;
+    }
+
+    .mobile_ppp_company .content_area h3 {
+        margin-top: 112px !important;
+        text-transform: uppercase;
+
+    }
+
+        .mobile_ppp_company .content_area h3.title span{
+            margin-top: -25px !important;
+            font-size:16px !important;
+            text-transform: none !important;
+            letter-spacing: 0.3px !important;
+            padding:0 4px !important;
+        }
+
+        .mobile_ppp_company .content_area h3 span {
+            font-size: 9px !important;
+            letter-spacing: 0.7px !important;
+            padding:0 4px !important;
+
+        }
+    /*.mobile_ppp_company .company .image {
+      height: 20em !important;
+      max-height: 20em !important;
+  }*/
+     .mobile_ppp_company .company .rating {
+        height: 0.9em !important;
+        margin:0 !important;
+
+    }
+
+     .mobile_ppp_company .content_area .distance_to{
+         bottom:0 !important;
+         margin-bottom:12px !important;
+     }
+
+      .mobile_ppp_company .content_area .distance_to p{
+          font-size:9px! important;
+      }
+    .mobile_ppp_company .function_tabs ul li#checkin {
+        padding-left: 6px;
+    }
+
+    .mobile_ppp_company .company .call .phone_icon {
+        background-position: -16px 0px !important;
+        width: 18px !important;
+        height: 16px !important;
+        float: left !important;
+        margin-top: 3px !important;
+        -moz-background-size:34px 16px!important;
+        -o-background-size:34px 16px !important;
+        -webkit-background-size:34px 16px !important;
+        background-size:34px 16px !important;
+    }
+
+    .mobile_ppp_company .company .call.tapped div.phone_icon {
+        background-position: 2px 0 !important;
+    }
+
+    .mobile_ppp_company .company .call a {
+        margin-left: 29px !important;
+    }
+
+    .mobile_ppp_company .company .working_hours .icon img {
+        height: 50% !important;
+        margin-left: 3px;
+        margin-top: 1px !important;
+    }
+
+    .mobile_ppp_company .company .working_hours .text {
+        margin-left: 12px !important;
+    }
+
+    .mobile_ppp_company .function_tabs ul li {
+        padding:11px 0  !important;
+        width: 24.8% !important;
+    }
+
+        .mobile_ppp_company .function_tabs ul li a {
+            font-size: 9px !important;
+            }
+
+        .mobile_ppp_company .function_tabs ul li span {
+            width: 27px !important;
+            height: 40px !important;
+            background-image: url(../images/mobile/function_icons.png) !important;
+            background-size: 860% !important;
+        }
+
+        .mobile_ppp_company .function_tabs ul li .review_icon {
+            background-position: 3px 8px !important;
+        }
+
+        .mobile_ppp_company .function_tabs ul li .add_photo {
+            background-position: -55px 8px !important;
+
+        }
+
+        .mobile_ppp_company .function_tabs ul li#addPhoto {
+            text-align:match-parent !important;
+        }
+
+        .mobile_ppp_company .function_tabs ul li .follow {
+            background-position: -119px 8px !important;
+        }
+
+        .mobile_ppp_company .function_tabs ul li .check_in {
+            background-position: -181px 8px !important;
+        }
+
+        /*TAPPED ICONS*/
+        .mobile_ppp_company .function_tabs ul li.tapped {
+            background: #4b4b4b;
+        }
+
+            .mobile_ppp_company .function_tabs ul li.tapped .review_icon {
+               background-position: -24px 8px !important;
+            }
+
+            .mobile_ppp_company .function_tabs ul li.tapped .add_photo {
+              background-position: -88px 8px !important;
+            }
+
+            .mobile_ppp_company .function_tabs ul li.tapped .follow {
+                background-position: -151px 8px !important;
+                border-bottom-right-radius: 5px !important;
+            }
+
+            .mobile_ppp_company .function_tabs ul li.tapped .check_in {
+               background-position: -208px 8px !important;
+            }
+
+
+
+    .mobile_ppp_company .place_address {
+        padding: 10px !important;
+    }
+
+    .mobile_ppp_company .map_wrapper div.place_address p, .report_problem p {
+        margin: 3px 0 0 0 !important;
+    }
+
+    .mobile_ppp_company .map_wrapper div.place_address a img{
+        height: 16px !important;
+        width: 16px !important;
+        margin-top: 5px !important;
+    }
+
+    .mobile_ppp_company .place_address img {
+        width: 28px !important;
+    }
+
+    /*EVENT LIST*/
+    .mobile_ppp_company .event_wrapper .event_details {
+        margin-left: 67px!important;
+    }
+
+     .mobile_ppp_company .event_wrapper img {
+        float: left;
+        margin-right: 7px !important;
+        width: 59px !important;
+        height: 69px !important;
+    }
+
+
+
+    .review_details p.user_review {
+       font-size:11px;
+       padding-bottom: 10px !important;
+       /*width:65% !important;*/
+
+
+    }
+
+    .mobile_ppp_company .review_wrapper {
+        padding: 13px !important;
+    }
+    .mobile_ppp_company .event_wrapper p.event_title {
+        font-size: 13px !important;
+    }
+    .mobile_ppp_company .event_wrapper p.distance_to_event {
+        font-size:11px;
+    /*    margin-left: 67px;*/
+    }
+
+    .mobile_ppp_company .event_wrapper p.date, .mobile_ppp_company .event_wrapper p.price {
+        font-size:12px !important;
+    }
+    /*OWNERS ANSWERS*/
+    .review_wrapper .review_details{
+        margin-left: 51px! important;
+    }
+
+    #wrapper,  #wrapper ul{
+       margin:0!important;
+       padding: 0 !important;
+    }
+
+    #wrapper ul li{
+        list-style: none;
+        border-top: 1px solid #d1cfcc;
+        padding-top: 10px;
+    }
+    #wrapper ul li div.owners_replies > img{
+        float:left !important;
+        width: 36px !important;
+        height: 36px !important;
+        margin-right: 8px !important;
+    }
+
+    .review_wrapper .review_details p.review_date, #wrapper ul li div.owners_replies div.owners_replies_details p.review_date{
+        font-size:9px !important;
+
+    }
+
+
+
+    #wrapper ul li div.owners_replies div.owners_replies_details p{
+        font-size:11px !important;
+
+    }
+    #wrapper ul li div.owners_replies div.owners_replies_details p.owner_answer{
+        padding-bottom: 10px !important;
+        margin-left: 44px !important;
+    }
+
+     #wrapper ul li div.owners_replies div.owners_replies_details p.owner_name{
+        font-weight: bold;
+    }
+
+
+    /*MOBILE PP IMAGE AREA*/
+    .mobile_ppp_company .content_area .image.pp_company_header{
+        padding: 15px !important;
+        width: auto !important;
+        height: 55px !important
+    }
+
+    .mobile_ppp_company .content_area .image.pp_company_header h2.title_pp{
+       color:#ab2a7c;
+       margin:0 !important;
+       font-size: 13px !important;
+    }
+
+    .mobile_ppp_company .content_area .image.pp_company_header a > img{
+        float: left !important;;
+        width: 59px !important;
+        height: 50px !important;
+        margin-right: 5px !important;
+    }
+    .mobile_ppp_company .content_area .image.pp_company_header div.review_cnt{
+        font-size:11px !important;
+        margin-bottom: 4px! important;
+    }
+    .mobile_ppp_company .content_area .image.pp_company_header div.review_cnt span{
+        font-weight: bold;
+    }
+    .mobile_ppp_company .content_area .image.pp_company_header div.review_cnt .about_pp{
+        display: inline;
+        float: right !important;
+        margin-top: 5px !important;
+    }
+
+    .mobile_ppp_company .content_area .image.pp_company_header div.distance_to_pp p{
+        margin: 0 !important;
+        color:#a3a3a3;
+        font-size: 9px;
+    }
+
+
+}
+/* Larger screens (android) ----------- */
+@media only screen and (min-device-width : 720px) and (max-device-width : 1024px) {
+     body {
+        font-size: 16px;
+    }
+    .mobile_ppp_company .content_area .image {
+        height: 150px !important
+
+    }
+    .mobile_ppp_company .company .image a img.header_image {
+        height: 150px !important;
+        max-height: 150px !important;
+        border-top-left-radius:3px !important;
+        border-top-right-radius: 3px !important;
+    }
+
+
+
+    .mobile_ppp_company .company .about {
+        margin-top: 126px !important;
+        padding:2px 4px !important;
+        margin-bottom: 0 !important;
+    }
+
+    .mobile_ppp_company .content_area h3 {
+        margin-top: 112px !important;
+        text-transform: uppercase;
+
+    }
+
+        .mobile_ppp_company .content_area h3.title span{
+            margin-top: -25px !important;
+            font-size:16px !important;
+            text-transform: none !important;
+            letter-spacing: 0.3px !important;
+            padding:0 4px !important;
+        }
+
+        .mobile_ppp_company .content_area h3 span {
+            font-size: 9px !important;
+            letter-spacing: 0.7px !important;
+            padding:0 4px !important;
+
+        }
+    /*.mobile_ppp_company .company .image {
+      height: 20em !important;
+      max-height: 20em !important;
+  }*/
+     .mobile_ppp_company .company .rating {
+        height: 0.9em !important;
+        margin:0 !important;
+
+    }
+
+     .mobile_ppp_company .content_area .distance_to{
+         bottom:0 !important;
+         margin-bottom:12px !important;
+     }
+
+      .mobile_ppp_company .content_area .distance_to p{
+          font-size:9px! important;
+      }
+    .mobile_ppp_company .function_tabs ul li#checkin {
+        padding-left: 6px;
+    }
+
+
+
+    .mobile_ppp_company .company .call .phone_icon {
+        background-position: -16px 0px !important;
+        width: 18px !important;
+        height: 16px !important;
+        float: left !important;
+        margin-top: 3px !important;
+        -moz-background-size:34px 16px!important;
+        -o-background-size:34px 16px !important;
+        -webkit-background-size:34px 16px !important;
+        background-size:34px 16px !important;
+    }
+
+    .mobile_ppp_company .company .call.tapped div.phone_icon {
+        background-position: 2px 0 !important;
+    }
+
+    .mobile_ppp_company .company .call a {
+        margin-left: 29px !important;
+    }
+
+    .mobile_ppp_company .company .working_hours .icon img {
+        height: 50% !important;
+        margin-left: 3px;
+        margin-top: 1px !important;
+    }
+
+    .mobile_ppp_company .company .working_hours .text {
+        margin-left: 12px !important;
+    }
+
+    .mobile_ppp_company .function_tabs ul li {
+        padding:11px 0  !important;
+        width: 24.85% !important;
+    }
+
+        .mobile_ppp_company .function_tabs ul li a {
+            font-size: 9px !important;
+            }
+
+        .mobile_ppp_company .function_tabs ul li span {
+            width: 27px !important;
+            height: 40px !important;
+            background-image: url(../images/mobile/function_icons.png) !important;
+            background-size: 860% !important;
+        }
+
+        .mobile_ppp_company .function_tabs ul li .review_icon {
+            background-position: 3px 8px !important;
+        }
+
+        .mobile_ppp_company .function_tabs ul li .add_photo {
+            background-position: -55px 8px !important;
+
+        }
+
+        .mobile_ppp_company .function_tabs ul li#addPhoto {
+            text-align:match-parent !important;
+        }
+
+        .mobile_ppp_company .function_tabs ul li .follow {
+            background-position: -119px 8px !important;
+        }
+
+        .mobile_ppp_company .function_tabs ul li .check_in {
+            background-position: -181px 8px !important;
+        }
+
+        /*TAPPED ICONS*/
+        .mobile_ppp_company .function_tabs ul li.tapped {
+            background: #4b4b4b;
+        }
+
+            .mobile_ppp_company .function_tabs ul li.tapped .review_icon {
+               background-position: -24px 8px !important;
+            }
+
+            .mobile_ppp_company .function_tabs ul li.tapped .add_photo {
+              background-position: -88px 8px !important;
+            }
+
+            .mobile_ppp_company .function_tabs ul li.tapped .follow {
+                background-position: -151px 8px !important;
+                border-bottom-right-radius: 5px !important;
+            }
+
+            .mobile_ppp_company .function_tabs ul li.tapped .check_in {
+               background-position: -208px 8px !important;
+            }
+
+
+
+    .mobile_ppp_company .place_address {
+        padding: 10px !important;
+    }
+
+    .mobile_ppp_company .map_wrapper div.place_address p, .report_problem p {
+        margin: 3px 0 0 0 !important;
+    }
+
+    .mobile_ppp_company .map_wrapper div.place_address a img{
+        height: 16px !important;
+        width: 16px !important;
+        margin-top: 5px !important;
+    }
+    .mobile_ppp_company .map_wrapper a img.map_image{
+        width:100%;
+    }
+    .mobile_ppp_company .place_address img {
+        width: 28px !important;
+    }
+
+    /*EVENT LIST*/
+    .mobile_ppp_company .event_wrapper .event_details {
+        margin-left: 67px!important;
+    }
+
+     .mobile_ppp_company .event_wrapper img {
+        float: left;
+        margin-right: 7px !important;
+        width: 59px !important;
+        height: 69px !important;
+    }
+
+
+
+    .review_details p.user_review {
+       font-size:11px;
+       padding-bottom: 10px !important;
+       width:100% !important;
+
+
+    }
+
+    .mobile_ppp_company .review_wrapper {
+        padding: 13px !important;
+    }
+    .mobile_ppp_company .event_wrapper p.event_title {
+        font-size: 13px !important;
+    }
+    .mobile_ppp_company .event_wrapper p.distance_to_event {
+        font-size:11px;
+    /*    margin-left: 67px;*/
+    }
+
+    .mobile_ppp_company .event_wrapper p.date, .mobile_ppp_company .event_wrapper p.price {
+        font-size:12px !important;
+    }
+    /*OWNERS ANSWERS*/
+    .review_wrapper .review_details{
+        margin-left: 51px! important;
+    }
+
+    #wrapper,  #wrapper ul{
+       margin:0!important;
+       padding: 0 !important;
+    }
+
+    #wrapper ul li{
+        list-style: none;
+        border-top: 1px solid #d1cfcc;
+        padding-top: 10px;
+    }
+    #wrapper ul li div.owners_replies > img{
+        float:left !important;
+        width: 36px !important;
+        height: 36px !important;
+        margin-right: 8px !important;
+    }
+
+    .review_wrapper .review_details p.review_date, #wrapper ul li div.owners_replies div.owners_replies_details p.review_date{
+        font-size:9px !important;
+
+    }
+    #wrapper ul li div.owners_replies div.owners_replies_details p{
+        font-size:11px !important;
+
+    }
+    #wrapper ul li div.owners_replies div.owners_replies_details p.owner_answer{
+        padding-bottom: 10px !important;
+        margin-left: 44px !important;
+    }
+
+     #wrapper ul li div.owners_replies div.owners_replies_details p.owner_name{
+        font-weight: bold;
+    }
+
+
+    /*MOBILE PP IMAGE AREA*/
+    .mobile_ppp_company .content_area .image.pp_company_header{
+        padding: 15px !important;
+        width: auto !important;
+        height: 55px !important
+    }
+
+    .mobile_ppp_company .content_area .image.pp_company_header h2.title_pp{
+       color:#ab2a7c;
+       margin:0 !important;
+       font-size: 13px !important;
+    }
+
+    .mobile_ppp_company .content_area .image.pp_company_header a > img{
+        float: left !important;;
+        width: 59px !important;
+        height: 50px !important;
+        margin-right: 5px !important;
+    }
+    .mobile_ppp_company .content_area .image.pp_company_header div.review_cnt{
+        font-size:11px !important;
+        margin-bottom: 4px! important;
+    }
+    .mobile_ppp_company .content_area .image.pp_company_header div.review_cnt span{
+        font-weight: bold;
+    }
+    .mobile_ppp_company .content_area .image.pp_company_header div.review_cnt .about_pp{
+        display: inline;
+        float: right !important;
+        margin-top: 5px !important;
+    }
+
+    .mobile_ppp_company .content_area .image.pp_company_header div.distance_to_pp p{
+        margin: 0 !important;
+        color:#a3a3a3;
+        font-size: 9px;
+    }
+}
+
+
+
+/* iPhones (landscape) ----------- */
+@media only screen and (min-device-width : 960px) and (max-device-width : 1023px) and (orientation : landscape) {
+    body {
+        font-size: 16px;
+    }
+
+    .mobile_ppp_company .company .image {
+        height: 20em !important;
+        max-height: 20em !important;
+    }
+
+    .scrollable_reviews {
+        width: 95% !important;
+    }
+
+    #wrapper {
+        width: 91.5% !important;
+        margin-left: 12% !important;
+    }
+
+    .mobile_ppp_company .function_tabs ul li#checkin {
+        padding-left: 11px;
+    }
+}
+
+
+/* Desktops and laptops ----------- */
+@media only screen and (min-width : 1224px) {
+    body {
+        font-size: 18px;
+    }
+
+    .mobile_ppp_company .company .image {
+        height: 25em !important;
+        max-height: 25em !important;
+    }
+
+    /*TITLES MARGINS*/
+    .mobile_ppp_company .content_area h3.title {
+        margin-top: 24% !important;
+    }
+
+    .mobile_ppp_company .content_area h3 {
+        margin-top: 28% !important;
+    }
+
+    .mobile_ppp_company .company .about {
+        margin-top: 32% !important;
+    }
+
+    .mobile_ppp_company .function_tabs ul li#checkin {
+        padding-left: 16px;
+    }
+}
+
+/* Large screens ----------- */
+@media only screen and (min-width : 1824px) {
+    body {
+        font-size: 20px !important;
+    }
+}
+
+/* iPhone 4 ----------- */
+@media only screen and (-webkit-min-device-pixel-ratio : 1.5), only screen and (min-device-pixel-ratio : 1.5) {
+    body {
+        font-size: 12px;
+    }
+}
+
+.mobile_content_wrapper {
+    margin: 0 auto;
+    width: 90%;
+}
+
+#content {
+    /*max-width: 800px;*/
+    margin: 0 auto;
+}
+
+.clear {
+    clear: both;
+}
+
+.company {
+    padding: 0.5em 0.5em 0;
+}
+
+    .company .image img {
+        width: 100%;
+    }
+
+    .company .image {
+       /* max-height: 10em;*/
+        overflow: hidden;
+        display: block;
+        position: relative;
+    }
+        /*
+.company .image .map .scale {
+  height: 100%;
+  width: auto;
+  position: relative;
+}*/
+        .company .image .map img {
+            height: 55%;
+            width: auto;
+            -webkit-transform: rotate(-45deg);
+            margin-left: -5em;
+            margin-top: 14em;
+        }
+
+        .company .image .map {
+            position: absolute;
+            top: -5em;
+            left: 75%;
+            -webkit-transform: rotate(45deg);
+            height: 30em;
+            width: 30em;
+            border: 1px solid #333;
+            overflow: hidden;
+        }
+
+
+    .company .rating img {
+        width: auto;
+        height: 100%;
+    }
+
+    .company .rating .fill {
+        top: 0;
+        left: 0;
+        height: 100%;
+        position: absolute;
+        top: 0;
+        left: 0;
+        overflow: hidden;
+    }
+
+    .company .rating {
+        height: 1.3em;
+        position: relative;
+        margin: 0 0 0.5em;
+        float: left;
+        background: url(../images/mobile/starsBg.png) top left no-repeat;
+        -moz-background-size: auto 100%;
+        -o-background-size: auto 100%;
+        -webkit-background-size: auto 100%;
+        background-size: auto 100%;
+    }
+
+    .company .classification {
+        margin: 0 0 0.5em;
+        color: #888;
+    }
+
+    .company .phone {
+        float: right;
+        width: 60%;
+    }
+
+        .company .phone a {
+            display: block;
+            float: right;
+            padding: 0.2em 0.5em;
+            border-radius: 1em;
+            background: #17b59c;
+            color: #fff;
+            font-size: 100%;
+            text-decoration: none;
+        }
+
+    .company h1 {
+        font-size: 1.3em;
+        margin: 0 0 0em;
+        color: #666;
+        font-weight: normal;
+    }
+
+    .company .about {
+        margin-bottom: 1em;
+        float: left;
+        width: 40%;
+    }
+
+    .company .details {
+        margin: 1em 0;
+        font-size: 0.8em;
+        line-height: 1.7em;
+    }
+
+    .company .col {
+        color: #000000;
+        font-size: 1em;
+        border-top: 1px solid #d9d9d9;
+        padding: 0.3em 0.5em;
+        margin: 0 -0.5em;
+    }
+
+        .company .col .icon img {
+            height: 100%;
+        }
+
+        .company .col .icon {
+            float: left;
+            height: 1em;
+            margin: 0.2em 0;
+        }
+
+        .company .col .text span {
+            color: #aea99a;
+        }
+
+        .company .col .text {
+            width: 75%;
+            margin-left: 1em;
+            float: left;
+            line-height: 1.5em;
+        }
+
+    .company .reviews {
+        margin: 0 -0.5em;
+    }
+
+        .company .reviews h2 {
+            font-size: 100%;
+            background: #dad5c7;
+            color: #857c6c;
+            padding: 0.3em 0.5em;
+            margin: 0;
+        }
+
+        .company .reviews .review {
+            padding: 1em 0.5em;
+            border-bottom: 1px solid #ddd;
+        }
+
+            .company .reviews .review .date .rating {
+                float: left;
+                margin: 0 0 0 0.5em;
+            }
+
+            .company .reviews .review .date span {
+                float: left;
+                line-height: 1em;
+            }
+
+            .company .reviews .review .date {
+                font-size: 80%;
+                margin-bottom: 0.5em;
+            }
+
+.rspv {
+    border: 1px solid #e9e9e9;
+    border-top: 1px solid #f8f8f8;
+    background: #f6f6f6;
+    border-radius: 0.5em;
+    float: left;
+    -webkit-box-shadow: 0px 1px 2px rgba(0,0,0,0.3);
+    box-shadow: 0px 1px 2px rgba(0,0,0,0.3);
+    margin: 1em 0;
+}
+
+    .rspv.company {
+        float: none;
+        padding: 0;
+    }
+
+        .rspv.company a:last-of-type {
+            border-right: none;
+        }
+
+        .rspv.company a:first-child {
+            border-left: none;
+        }
+
+        .rspv.company a img {
+            display: block;
+            margin: 0 auto 0.5em;
+            max-width: 3em;
+        }
+
+        .rspv.company a {
+            width: 25%;
+            padding: 0.7em 0;
+            background: none;
+            border-left: 1px solid #fff;
+            border-right: 1px solid #dddddd;
+            margin: 0 -1px;
+            text-align: center;
+            font-size: 50%;
+        }
+
+    .rspv a img {
+        width: 70%;
+        margin: 0 auto;
+        display: block;
+        max-width: 1.5em;
+    }
+
+    .rspv a {
+        display: block;
+        float: left;
+        padding: 0.7em 1.5em 0.7em 1em;
+        color: #a9287a;
+        text-decoration: none;
+        background: url(../images/mobile/separator.png) center right no-repeat;
+    }
+
+    .rspv .count {
+        display: block;
+        float: left;
+        padding: 0.7em 1em;
+    }
+
+a.favorite {
+    background: url(../images/mobile/bookmark.png) top center no-repeat;
+}
+
+    a.favorite.active {
+        background: url(../images/mobile/bookmarked.png) top center no-repeat;
+    }
+
+header.getApp {
+    background-image: url(../images/mobile/redirector-bg-header.png);
+    height: 99px;
+    text-align: center;
+}
+
+    header.getApp img {
+        margin-top: 14px;
+    }
+
+section.getApp {
+    margin: 0 5px;
+}
+
+.mobile_content_wrapper div {
+    margin-right: 0 !important;
+}
+
+
+/*PPP page*/
+
+.mobile_ppp_company .company {
+      padding: 0;
+}
+
+    .mobile_ppp_company .company .image img {
+        width: 100%;
+        height: 100%;
+
+    }
+
+    .mobile_ppp_company .company .image {
+        overflow: hidden;
+        display: block;
+        position: relative;
+        background: #fff;
+        border-top-right-radius: 3px;
+        border-top-left-radius: 3px;
+    }
+    /*
+.company .image .map .scale {
+  height: 100%;
+  width: auto;
+  position: relative;
+}*/
+
+    .mobile_ppp_company .company .rating img {
+        width: auto;
+        height: 98%;
+    }
+
+    .mobile_ppp_company .company .rating .fill {
+        top: 0;
+        left: 0;
+        height: 100%;
+        position: absolute;
+        top: 0;
+        left: 0;
+        overflow: hidden;
+    }
+
+    .mobile_ppp_company .company .rating {
+        height: 1.3em;
+        position: relative;
+        margin: 0 !important;
+        float: left;
+        background: none !important;
+        /*background: url(../images/mobile/starsBg.png) top left no-repeat;*/
+        -moz-background-size: auto 100%;
+        -o-background-size: auto 100%;
+        -webkit-background-size: auto 100%;
+        background-size: auto 100%;
+    }
+
+    .mobile_ppp_company .company .classification {
+        margin: 0 0 0.5em;
+        color: #888;
+    }
+
+    .mobile_ppp_company .company .call {
+        float: none;
+        padding: 11px 10px;
+        background: #fff;
+    }
+
+        .mobile_ppp_company .company .call a {
+            display: block;
+            color: #666666;
+            font-size: 100%;
+            text-decoration: none;
+            margin-left: 54px;
+        }
+
+            .mobile_ppp_company .company .call a span {
+                font-size: 24px;
+                font-weight: bold;
+            }
+
+        .mobile_ppp_company .company .call .phone_icon {
+            display: inline-block;
+            background-image: url(../images/mobile/phone_icon.png);
+            background-repeat: no-repeat;
+            background-position: -37px 0;
+            width: 36px;
+            height: 32px;
+            float: left;
+        }
+
+        /*TAPPED CALL AREA*/
+
+        .mobile_ppp_company .company .call.tapped {
+            background: #00bbbe;
+        }
+
+            .mobile_ppp_company .company .call.tapped div.phone_icon {
+                background-position: 2px 0;
+            }
+
+            .mobile_ppp_company .company .call.tapped a {
+                color: #fff;
+            }
+
+
+    .mobile_ppp_company .company h1 {
+        font-size: 1.3em;
+        margin: 0 0 0em;
+        color: #666;
+        font-weight: normal;
+    }
+
+    .mobile_ppp_company .company .about {
+        float: left;
+        background: #000;
+        position: absolute;
+        margin-top: 37%;
+        left: 10px;
+        width: auto;
+        top: 0;
+    }
+
+    .mobile_ppp_company .company .details {
+        margin: 1em 0;
+        font-size: 0.8em;
+        line-height: 1.7em;
+    }
+
+    .mobile_ppp_company .company .working_hours {
+        color: #666;
+        font-size: 1em;
+        border-top: 1px solid #d9d9d9;
+        padding: 8px 10px 0px 10px;
+        background: #fff;
+    }
+
+        .mobile_ppp_company .company .working_hours .icon img {
+            height: 100%;
+        }
+
+        .mobile_ppp_company .company .working_hours .icon {
+            float: left;
+            height: 30px;
+        }
+
+        .mobile_ppp_company .company .working_hours .text p {
+            margin: 0;
+            padding: 0;
+            display: inline;
+            color: #666666;
+        }
+
+            .mobile_ppp_company .company .working_hours .text p span {
+                font-weight: bold;
+            }
+
+        .mobile_ppp_company .company .working_hours .text {
+            margin-left: 25px;
+            float: left;
+        }
+
+    .mobile_ppp_company .company .reviews {
+        margin: 0;
+    }
+
+.company .reviews h2 {
+    font-size: 100%;
+    background: #dad5c7;
+    color: #857c6c;
+    padding: 0.3em 0.5em;
+    margin: 0;
+}
+
+.company .reviews .review {
+    padding: 1em 0.5em;
+    border-bottom: 1px solid #ddd;
+}
+
+    .company .reviews .review .date .rating {
+        float: left;
+        margin: 0 0 0 0.5em;
+    }
+
+    .company .reviews .review .date span {
+        float: left;
+        line-height: 1em;
+    }
+
+    .company .reviews .review .date {
+        font-size: 80%;
+        margin-bottom: 0.5em;
+    }
+
+/*PPP CSS*/
+
+
+/*HEADER*/
+
+.mobile_ppp_company .content_area {
+    background: #ebe9e5;
+    padding: 10px;
+}
+
+.mobile_ppp_company header {
+    background: #ab2a7c;
+    padding: 1.6%;
+    text-align: center;
+}
+
+    .mobile_ppp_company header a {
+        z-index: 100;
+    }
+
+    .mobile_ppp_company header h2 {
+        display: inline;
+        font-size: 32px;
+        color: #fff;
+        font-weight: normal;
+    }
+
+    .mobile_ppp_company header img.back_icon {
+        float: left;
+        cursor: pointer;
+    }
+
+    .mobile_ppp_company header img.next_icon {
+        float: right;
+        cursor: pointer;
+    }
+
+/*IMAGE*/
+
+.mobile_ppp_company .content_area .image {
+    position: relative;
+    width: 100%;
+    height: 100%;
+}
+
+.mobile_ppp_company .content_area h3 {
+    position: absolute;
+    margin-top: 29%;
+    left: 10px;
+    z-index: 1;
+    width: 100%;
+    top: 0;
+}
+
+    .mobile_ppp_company .content_area h3.title {
+        position: absolute;
+        margin-top: 21%;
+        z-index: 1;
+        width: 100%;
+        top: 0;
+    }
+
+.mobile_ppp_company .content_area div.classification h3 span {
+    font-weight: normal;
+}
+
+.mobile_ppp_company .content_area h3 span {
+    position: absolute;
+    color: white;
+    letter-spacing: 0.4px;
+    background: rgb(0, 0, 0); /* fallback color */
+    padding: 0;
+}
+
+.mobile_ppp_company .content_area div.distance_to {
+    position: absolute;
+    z-index: 1;
+    right: 2%;
+    margin-top: -10%;
+    color: #fff;
+    background: #000;
+    padding:0 4px !important;
+}
+
+    .mobile_ppp_company .content_area div.distance_to p {
+        padding: 0.5%;
+        margin: 0;
+    }
+
+/*FUNCTIONS*/
+.mobile_ppp_company .function_tabs ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    border: 1px solid #d1cfcc;
+    display: inline-block;
+    width: 99.89%;
+    background: #fff;
+   /* -webkit-box-shadow: 0px 5px 14px -6px rgba(50, 50, 50, 0.5);
+    -moz-box-shadow: 0px 5px 14px -6px rgba(50, 50, 50, 0.5);
+    box-shadow: 0px 5px 14px -6px rgba(50, 50, 50, 0.5);*/
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    margin-bottom: 10px;
+}
+
+    .mobile_ppp_company .function_tabs ul li {
+        float: left;
+        padding: 30px 0;
+        border-left: 1px solid #d1cfcc;
+        width: 24.6%;
+        text-align: center;
+    }
+
+        .mobile_ppp_company .function_tabs ul li:first-child {
+            border-left: none;
+        }
+
+        .mobile_ppp_company .function_tabs ul li span {
+            width: 27px;
+            height: 40px;
+            background-image: url(../images/mobile/function_icons.png);
+            background-repeat: no-repeat;
+            display: block;
+            margin: 0 auto 0 auto;
+            background-size: 860%;
+        }
+
+        .mobile_ppp_company .function_tabs ul li .review_icon {
+            background-position: 7px 4px;
+        }
+
+        .mobile_ppp_company .function_tabs ul li .add_photo {
+            background-position: -124px 4px;
+        }
+
+        .mobile_ppp_company .function_tabs ul li .follow {
+            background-position: -265px 4px;
+        }
+
+        .mobile_ppp_company .function_tabs ul li .check_in {
+            background-position: -403px 4px;
+        }
+        /*TAPPED ICONS*/
+        .mobile_ppp_company .function_tabs ul li.tapped {
+            background: #4b4b4b;
+        }
+
+            .mobile_ppp_company .function_tabs ul li.tapped .review_icon {
+                background-position: -57px 4px;
+            }
+
+            .mobile_ppp_company .function_tabs ul li.tapped .add_photo {
+                background-position: -194px 4px;
+            }
+
+            .mobile_ppp_company .function_tabs ul li.tapped .follow {
+                background-position: -337px 4px;
+            }
+
+            .mobile_ppp_company .function_tabs ul li.tapped .check_in {
+                background-position: -465px 4px;
+            }
+
+            .mobile_ppp_company .function_tabs ul li.tapped a {
+                color: #fff;
+            }
+
+
+
+
+        .mobile_ppp_company .function_tabs ul li a {
+            color: #00bbbe;
+            text-decoration: none;
+            font-weight: normal;
+        }
+
+/*MAP AREA*/
+
+.mobile_ppp_company .map_wrapper {
+    padding: 1px;
+    background: #fff;
+    border-radius: 5px;
+    margin-bottom: 22px;
+    -webkit-box-shadow: 0px 5px 14px -6px rgba(50, 50, 50, 0.5);
+    -moz-box-shadow: 0px 5px 14px -6px rgba(50, 50, 50, 0.5);
+    box-shadow: 0px 5px 14px -6px rgba(50, 50, 50, 0.5);
+}
+
+    .mobile_ppp_company .map_wrapper.place_address a {
+        float: right;
+    }
+
+        .mobile_ppp_company .map_wrapper.place_address a img {
+            float: left;
+        }
+
+    .mobile_ppp_company .map_wrapper div.place_address p, .report_problem p {
+        float: left;
+        color: #666666;
+        margin: 0;
+        padding: 0;
+    }
+
+.mobile_ppp_company .place_address {
+    padding: 20px;
+}
+
+
+    .mobile_ppp_company .place_address .address {
+        width: 80%;
+    }
+
+    .mobile_ppp_company .place_address img {
+        float: right;
+    }
+
+
+/*REPORT PROBLEM*/
+
+.mobile_ppp_company .report_problem {
+    background: #e4e1dc;
+    padding: 20px;
+    margin-bottom: 32px;
+    border-radius: 5px;
+    -webkit-box-shadow: 0px 5px 14px -6px rgba(50, 50, 50, 0.5);
+    -moz-box-shadow: 0px 5px 14px -6px rgba(50, 50, 50, 0.5);
+    box-shadow: 0px 5px 14px -6px rgba(50, 50, 50, 0.5);
+}
+
+    .mobile_ppp_company .report_problem p {
+        float: none;
+    }
+
+    .mobile_ppp_company .report_problem img {
+        float: left;
+        margin-right: 25px;
+    }
+
+/*EVENTS*/
+.mobile_ppp_company h4 {
+    color: #666666;
+    margin: 0 0 8px 0;
+    padding: 0;
+}
+
+    .mobile_ppp_company h4 span {
+        font-weight: normal;
+    }
+
+.mobile_ppp_company .event_wrapper {
+    background: #fff;
+    border-radius: 3px;
+    padding: 5px;
+    margin-bottom: 10px;
+    -webkit-box-shadow: 0px 5px 14px -6px rgba(50, 50, 50, 0.5);
+    -moz-box-shadow: 0px 5px 14px -6px rgba(50, 50, 50, 0.5);
+    box-shadow: 0px 5px 14px -6px rgba(50, 50, 50, 0.5);
+    font-size: 14px;
+}
+
+    .mobile_ppp_company .event_wrapper img {
+        float: left;
+        margin-right: 15px;
+        width: 118px;
+        height: 138px;
+    }
+
+    .mobile_ppp_company .event_wrapper p {
+        padding: 0;
+        margin: 0;
+    }
+
+        .mobile_ppp_company .event_wrapper p.event_title {
+            color: #ab2a7c;
+            font-weight: bold;
+            margin-bottom:5px;
+
+        }
+
+        .mobile_ppp_company .event_wrapper p.price{
+            margin-bottom:0px;
+        }
+
+        .mobile_ppp_company .event_wrapper p.date, .mobile_ppp_company .event_wrapper p.price {
+            color: #424242;
+            font-weight: normal;
+        }
+
+            .mobile_ppp_company .event_wrapper p.date span {
+                font-weight: bold;
+            }
+
+        .mobile_ppp_company .event_wrapper p.distance_to_event {
+            color: #a3a3a3;
+        }
+
+/*REVIEW*/
+
+.mobile_ppp_company .review_wrapper {
+    background: #fff;
+    padding: 30px;
+    border: 1px solid #d1cfcc;
+    border-top: none;
+}
+.mobile_ppp_company .review_wrapper:first-child{
+    border-top-left-radius: 3px;
+    border-top-right-radius: 3px;
+}
+    .mobile_ppp_company .review_wrapper p {
+        margin: 0;
+        padding: 0;
+        color: #666666;
+    }
+
+    .mobile_ppp_company .review_wrapper > img {
+        float: left;
+       /* margin-right: 8px;*/
+        height: 36px !important;
+        width: 36px !important;
+    }
+
+    .mobile_ppp_company .review_wrapper div.review_details img.rating_stars {
+        float: none;
+    }
+
+    .mobile_ppp_company .review_wrapper p.review_date {
+        float: right;
+    }
+
+    .mobile_ppp_company .review_wrapper p.reviewer_name {
+        font-weight: bold;
+        font-size:11px;
+    }
+
+
+/*Scrollbar*/
+/*#wrapper {
+    position: relative;
+    width: 93%;
+    z-index: 1;
+    overflow: auto;
+    margin-left: 90px;
+    border-top: 1px solid #d1cfcc;
+}
+
+    #wrapper ul {
+        list-style: none;
+        display: block;
+        float: left;
+
+        padding: 0;
+        margin: 0;
+        text-align: left;
+    }
+
+/*
+.scrollable_reviews {
+    width: 100%;
+    margin-top: 25px;
+}
+
+.review_details p.user_review {
+    float: left;
+}
+
+.review_details p.owner_answer {
+    width: 85%;
+    margin-left: 90px;
+}
+*/
+/*EVENT DETAIL*/
+.gray_bg_mobile {
+    background: #ebe9e5;
+    padding: 2%;
+}
+
+.mobile_app__wrapper {
+    background: #fff;
+}
+.mobile_app__wrapper .event_title_wrapper {
+    padding:15px;
+}
+.mobile_app__wrapper h1.event_title {
+    margin: 0;
+    color: #333333;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.mobile_app__wrapper .company.event {
+    padding: 0;
+    border: 1px solid #d1cfcc;
+}
+
+.mobile_app__wrapper .company .col_event {
+
+    padding: 10px 15px;
+    border-top: 1px solid #d9d9d9;
+}
+
+  .mobile_app__wrapper .company .col_event div.icon {
+        float: left;
+        height: 20px;
+        margin: 0.2em 0;
+    }
+
+  .mobile_app__wrapper  .company .col_event .event_place {
+        margin:4px 0 0 0;
+    }
+
+    .mobile_app__wrapper .company .col_event .event_place p {
+            color: #ab2a7c;
+            margin: 0 0 0 13px;
+            display: inline;
+            font-size: 14px;
+        }
+        .mobile_app__wrapper .company .col_event .event_place p a{
+            text-decoration: none;
+            color: #ab2a7c;
+        }
+          .mobile_app__wrapper .company .col_event .event_place p.distance_to_event {
+                color: #333;
+                float: right;
+                margin: 4px 0 0 0;
+                font-size:9px;
+            }
+
+   .mobile_app__wrapper .company .col_event .text {
+        width: 60%;
+        margin:0 0 0 10px;
+        float: left;
+        line-height: 1.5em;
+    }
+
+      .mobile_app__wrapper .company .col_event .text p {
+            margin: 0;
+            font-size:14px;
+            color:#333333;
+        }
+
+   .mobile_app__wrapper .company .col_event .icon img {
+        height: 16px;
+    }
+
+.mobile_app__wrapper .event_start_hour p {
+    font-weight: normal;
+    float: right;
+    margin: 6px 0 0 0;
+    display: inline;
+    font-size: 9px;
+    color:#333;
+}
+
+/*EVENT DESCRIPTION*/
+
+
+.mobile_app__wrapper .rspv_event {
+    margin-top: 2%;
+}
+.mobile_app__wrapper div.rspv_event div.details{
+    margin:0;
+}
+   .mobile_app__wrapper .rspv_event .attend_button {
+        background: #ebe9e5;
+        float: left;
+        width: 50%;
+        text-align: center;
+        padding: 2% 1%;
+        border-right: 1px solid white;
+        border-radius: 3px;
+    }
+
+       .mobile_app__wrapper .rspv_event .attend_button a {
+            text-decoration: none;
+            color: #666666;
+            font-weight: bold;
+            font-size: 15px;
+        }
+
+       .mobile_app__wrapper .rspv_event .attend_button.tap a {
+            color: #fff;
+        }
+
+        .mobile_app__wrapper .rspv_event .attend_button.tap {
+            background: #00bbbe;
+        }
+
+    .mobile_app__wrapper .rspv_event .count {
+        background: #ebe9e5;
+        text-align: center;
+        padding:8.9px 0px;
+        color: #666666;
+        border-radius: 3px;
+        font-size: 11px;
+    }
+
+       .mobile_app__wrapper .rspv_event .count p {
+            margin: 0;
+            padding: 0;
+            display: block;
+        }
+
+           .mobile_app__wrapper .rspv_event .count p span {
+                font-weight: bold;
+            }
+
+    .mobile_app__wrapper .rspv_event div.details p {
+        color: #666;
+        font-size: 11px;
+    }

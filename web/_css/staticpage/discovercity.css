@@ -1,0 +1,340 @@
+@charset "utf-8";
+/* CSS Document */
+@charset "utf-8";
+/* CSS Document */
+/* Old McReset had a farm */
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup,
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+}
+* :focus { outline: 0; }
+/* HTML5 */
+article, aside, details, figcaption, figure,
+footer, header, hgroup, menu, nav, section {
+    display: block;
+}
+body {
+    line-height: 1;
+    font-family: 'Open Sans', sans-serif;
+    background-color: #2a2a2a;
+    font-style: italic;
+    color: #282828;
+}
+ol, ul {
+    list-style: none;
+}
+blockquote, q {
+    quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+    content: '';
+    content: none;
+}
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+/* Body Language */
+a {
+    text-decoration: none;
+    outline: none;
+}
+img {
+    border: 0;
+    border: none;
+    border-style: none;
+}
+.clear {
+    clear: both;
+}
+/***************************************/
+#wrapper {
+    width: 900px;
+    padding-top: 30px;
+    margin: 0 auto;
+    position: relative;
+}
+header {
+    width: 590px;
+    padding-top: 30px;
+    height: 114px;
+    padding-right: 180px;
+    margin: 0 auto;
+    margin-bottom: 20px;
+    background: transparent url(../../images/staticpage/discovercity/lpage_participa.png) center right no-repeat;
+}
+h2.lpage_h2 {
+    font-size: 36px;
+    color: white;
+    font-weight: 300;
+    text-align: right;
+}
+span.lpage_yellow, span.lpage_yel_small {
+    color: #ffff00;
+}
+span.lpage_big {
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 70px;
+}
+.lpage_panel_1 {
+    width: 722px;
+    height: 502px;
+    margin: 0 auto;
+    background: transparent url(../../images/staticpage/discovercity/panel_1.png) 0 0 no-repeat;
+    padding-right: 70px;
+}
+p.lpage_firstline {
+    font-size: 34px;
+    font-weight: 300;
+    margin: 60px 0 0 120px;
+    float: left;
+}
+span.lpage_bold {
+    font-weight: 700;
+    font-style: normal;
+}
+span.lpage_bold_big {
+    font-weight: 700;
+    font-style: normal;
+    font-size: 21px;
+}
+p.lpage_centered {
+    text-align: center;
+    font-size: 22px;
+    font-weight: 300;
+    margin: 10px 0 0 0px;
+    line-height: 28px;
+}
+.lpage_leftaligned {
+    float: left;
+    display: block;
+    text-align: left;
+    font-size: 15px;
+    line-height: 22px;
+    margin-top: 20px;
+    margin-right: 10px;
+    width: 270px;
+}
+.lpage_separator {
+    width: 40px;
+    height: 62px;
+    background: url(../../images/staticpage/discovercity/separator.png) 0 0 no-repeat;
+    float: left;
+    font-size: 21px;
+    padding-top: 36px;
+    padding-left: 7px;
+    margin-top: 5px;
+}
+.lpage_app_sms {
+    margin-left: 70px;
+    margin-top: 30px;
+    /*margin-bottom: 20px;*/
+    width: 605px;
+    height: 110px;
+}
+.lpage_sms {
+    float: right;
+    margin-top: 10px;
+}
+.lpage_sms p {
+    line-height: 22px;
+}
+#lpage_link {
+    border: solid 1px #7b7b7b;
+    -moz-border-radius: 3px;
+    -webkit-border-radius: 3px;
+    border-radius: 3px;
+    padding: 8px 6px;
+    width: 150px;
+}
+#lpage_butt {
+    -moz-border-radius: 3px;
+    -webkit-border-radius: 3px;
+    border-radius: 3px;
+    padding: 9px 11px;
+    color: white;
+    background-color: #ab0065;
+    border: none;
+    cursor: pointer;
+}
+.lpage_smallapps {
+    width: 250px;
+    margin: 10px 0 0 0px;
+}
+.lpage_smallapps a.lpage_appstore {
+    margin-right: 10px;
+}
+.lpage_smalllinks {
+    width: 390px;
+    margin: 0 auto;
+}
+.lpage_smalllinks a {
+    text-decoration: underline;
+}
+/****************************************************************************/
+.lpage_panel_2 {
+    width: 661px;
+    height: 784px;
+    margin: 10px 0 0 190px;
+    background: transparent url(../../images/staticpage/discovercity/panel_2.png) 0 0 no-repeat;
+}
+p.lpage_secondline {
+    font-size: 34px;
+    font-weight: 300;
+    margin: 60px 0 0 105px;
+    float: left;
+    line-height: 38px;
+    text-align: center;
+}
+p.lpage_p1 {
+    font-weight: 400;
+    font-style: normal;
+    font-size: 18px;
+}
+p.lpage_p1 span {
+    font-size: 24px;
+}
+.lpage_phone {
+    margin: 40px 0 0 80px;
+    width: 555px;
+    height: 264px;
+    padding-left: 170px;
+    background: transparent url(../../images/staticpage/discovercity/phone.png) 0 0 no-repeat;
+    position: relative;
+}
+.lpage_phone .lpage_bg_link {
+    position: absolute;
+    display: block;
+    z-index: 1;
+    width: 150px;
+    height: 270px;
+    top: 0;
+    left: 0;
+    text-indent: -5000px;
+}
+p.lpage_difference span {
+    font-size: 60px;
+}
+p.lpage_thirdline {
+    font-size: 24px;
+    font-weight: 300;
+    margin: 30px 0 0 90px;
+    float: left;
+    line-height: 32px;
+    text-align: center;
+    color: #ab0065;
+}
+.lpage_panel_2 ul {
+    list-style: inside disc;
+    margin: 20px 0 0 70px;
+    font-size: 17px;
+    line-height: 30px;
+}
+.lpage_panel_2 ul li span {
+    font-weight: 700;
+}
+a.lpage_allprizes {
+    display: block;
+    width: 300px;
+    height: 20px;
+    margin: 10px 0 0 70px;
+    text-decoration: underline;
+}
+.lpage_footer {
+    text-align: center;
+}
+a.lpage_reg {
+    text-align: center;
+    color: white;
+    font-size: 18px;
+    text-decoration: underline;
+}
+div.lpage_pad {
+    padding-bottom: 30px;
+}
+p.lpage_incepe {
+    font-size: 36px;
+    color: white;
+    line-height: 46px;
+    /*margin-top: 20px;*/
+    font-style: normal;
+}
+.lpage_bigapps {
+    width: 420px;
+    background-color: white;
+    padding: 20px 24px;
+    margin: 10px 0 0 215px;
+    -moz-border-radius: 3px;
+    -webkit-border-radius: 3px;
+    border-radius: 3px;
+    margin-bottom: 30px;
+}
+.lpage_bigapps a.lpage_bigappstore {
+    margin-right: 70px;
+}
+.lpage_abs1, .lpage_abs2, .lpage_abs3 {
+    position: absolute;
+}
+.lpage_abs1 {
+    width: 145px;
+    height: 153px;
+    background: transparent url(../../images/staticpage/discovercity/absolute_1.png) 0 0 no-repeat;
+    top: 220px;
+    left: 50px;
+}
+.lpage_abs2 {
+    width: 130px;
+    height: 130px;
+    background: transparent url(../../images/staticpage/discovercity/absolute_2.png) 0 0 no-repeat;
+    top: 450px;
+    right: -80px;
+}
+.lpage_abs3 {
+    width: 127px;
+    height: 60px;
+    background: transparent url(../../images/staticpage/discovercity/absolute_3.png) 0 0 no-repeat;
+    top: 755px;
+    left: 90px;
+}
+.header_wrapper div.header_navigation_tabs ul {
+    margin: 0;
+}
+#seconds {
+    font-size: 32px;
+}
+.lpage_app_direct {
+    float: right;
+    width: 300px;
+}
+.lpage_app_direct p {
+    margin-top: 30px;
+}
+.lpage_qr {
+    float: left;
+    padding-left: 130px;
+    padding-right: 60px;
+}
+.lpage_qr img {
+    width: 160px;
+}
+.lpage_separator.sep2 {
+    margin-top: 20px;
+}

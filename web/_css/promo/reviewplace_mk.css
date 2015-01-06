@@ -1,0 +1,162 @@
+.promo_content_in, .shadow_box {
+	-webkit-border-radius: 3px;
+	-moz-border-radius: 3px;
+	border-radius: 3px;
+}
+
+.promo_wrap > img {
+    float: left;
+    margin-right: 25px;
+}
+
+.promo_wrap > span {
+	color: #000;
+	font-size: 18px;
+}
+
+.shadow_box {
+	display: block;
+	padding: 20px;
+	background: #CCC;
+	box-shadow: 0px 5px 5px #000;
+	-moz-box-shadow: 0px 5px 5px #000;
+	-webkit-box-shadow: 0px 5px 5px #000;
+}
+
+.promo_wrap h2 {
+	color: #000;
+}
+
+.promo_wrap h1 {
+	padding-top: 10px;
+	color: #000;
+	line-height: 32px;
+}
+
+.promo_wrap h1, .promo_wrap h1 a {
+	margin-bottom: 50px; 
+	text-align: center;
+	font-size:20px;
+}
+
+.promo_wrap h1 a {
+	text-decoration: underline;
+}
+
+.promo_wrap h1 span {
+	font-weight: normal;
+}
+
+.promo_wrap h1 span.pink {
+	font-weight: bold;
+}
+
+.promo_wrap a {
+	font-weight: bold;
+}
+
+.promo_header_wrap {
+	display: block;
+	width: 925px;
+}
+
+.promo_header_wrap p {
+	padding: 0px 16px 16px;
+	text-align: center;
+	font-weight: bold;
+	color: #000;
+}
+
+.promo_picture_wrap {
+	float: left;
+	margin-right: 25px;
+	margin-top: 25px;
+	width: 925px;
+}
+
+.promo_picture {
+	float: left;
+}
+
+.promo_picture:first-child {
+	margin-right: 325px;
+}
+
+.promo_picture img {
+	width: 300px;
+}
+
+.promo_picture p {
+	margin: 0px;
+	padding: 10px 0px;
+	font-weight: bold;
+	color: #000;
+}
+
+.promo_content {
+	float: left;
+	margin: -93px 0px 25px;
+	width: 600px;
+}
+
+.promo_content h2 {
+	font-size: 25px;
+	margin-top: 8px;
+}
+
+.promo_content ul.category_menu {
+	float: right;
+	padding: 4px;
+	font-size: 14px;
+	margin: 0px 0px 25px;
+	box-shadow: 0px 5px 5px #000;
+	-moz-box-shadow: 0px 5px 5px #000;
+	-webkit-box-shadow: 0px 5px 5px #000;
+}
+
+.promo_content ul.category_menu li {
+	margin: 5px 0;
+}
+
+.promo_content ul.category_menu span {
+	height: 22px;
+}
+
+.promo_content_in {
+	margin:28px 0px 25px 25px;
+	background: #F2F2F2;
+	box-shadow: 0px 5px 5px #000;
+	-moz-box-shadow: 0px 5px 5px #000;
+	-webkit-box-shadow: 0px 5px 5px #000;
+}
+
+.promo_content_column {
+	padding: 16px;
+}
+
+
+.promo_content_column ul {
+	padding-left: 16px;
+}
+
+.promo_content_column ul li {
+	margin-bottom: 16px;
+}
+
+.promo_content_column:first-child {
+	margin-right: 25px;
+}
+
+.promo_content_desc {
+	margin-bottom: 25px;
+}
+
+ul.promo_logo {
+	margin: 0px 0px 25px;
+	padding: 0px;
+	list-style: none;
+}
+
+ul.promo_logo li {
+	float: left;
+}

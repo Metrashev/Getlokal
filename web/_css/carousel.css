@@ -1,0 +1,110 @@
+#slider1_container{
+    position: relative;
+    overflow: hidden;
+    margin: 0 0 15px 0;
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+#slider1_container:hover .jssora21l, #slider1_container:hover .jssora21r{
+    display: block;
+}
+.captionOrange, .captionBlack
+{
+    color: #fff;
+    font-size: 20px;
+    line-height: 30px;
+    text-align: left;
+}
+.captionOrange
+{
+    background: #fff;
+    background-color: rgba(255, 255, 255, 0.8);
+    padding: 16px 17px;
+}
+.captionBlack
+{
+    font-size:16px;
+    background: #000;
+    background-color: rgba(0, 0, 0, 0.4);
+}
+.captionOrange p{
+    margin: 0px;
+    padding: 0px;
+    max-width: 300px;
+    font-size: 12px;
+    overflow: hidden;
+    color: #666;
+    line-height: 18px;
+}
+.captionOrange a{
+    font-weight: 600;
+    font-size: 16px;
+}
+a.captionOrange, A.captionOrange:active, A.captionOrange:visited
+{
+    color: #ffffff;
+    text-decoration: none;
+}
+a.captionOrange:hover
+{
+    color: #eb5100;
+    text-decoration: underline;
+    background-color: #eeeeee;
+    background-color: rgba(255, 255, 255, 0.9);
+}
+.bricon
+{
+    background: url(/images/img/browser-icons.png);
+}
+/*Bullet Navigator Skin Begin */
+/* jssor slider bullet navigator skin 01*/
+
+/*
+.jssorb01 div           (normal)
+.jssorb01 div:hover     (normal mouseover)
+.jssorb01 .av           (active)
+.jssorb01 .av:hover     (active mouseover)
+.jssorb01 .dn           (mousedown)
+*/
+.jssorb01{
+    position: absolute;
+    bottom: 16px;
+    left: 10px;
+    width: 12px;
+    height: 12px;
+    
+}
+.jssorb01 div{
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -o-border-radius:50%;
+    -moz-border-radius: 50%;
+}
+.jssorb01 div, .jssorb01 div:hover, .jssorb01 .av
+{
+    filter: alpha(opacity=70);
+    opacity: .7;
+    overflow:hidden;
+    cursor: pointer;
+    border: #000 1px solid;
+}
+.jssorb01 div { background-color: #A9287A; }
+.jssorb01 div:hover, .jssorb01 .av:hover { background-color: #ffffff; }
+.jssorb01 .av { background-color: #fff; }
+.jssorb01 .dn, .jssorb01 .dn:hover { background-color: #555555; }
+
+
+.jssora21l, .jssora21r{
+    cursor: pointer;
+    display: none;
+}
+.jssora21l .fa, .jssora21r .fa, .jssora21ldn .fa, .jssora21rdn .fa{
+    font-size: 30px;
+    color:#fff;
+    opacity: 0.7;
+}
+.jssora21l:hover .fa, .jssora21r:hover .fa{opacity: 1;}

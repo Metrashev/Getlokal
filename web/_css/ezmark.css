@@ -1,0 +1,79 @@
+/**
+* CSS File for ezMark jQuery Plugin
+*
+**/
+.ez-hide { opacity: 0; filter:alpha(opacity=0); }
+.ez-checkbox {
+background: transparent url('../images/gui/checkbox.png') 0px 3px no-repeat;
+display: block;
+  float: left;
+  height: 17px;
+  margin-right: 5px;
+  width: 18px;
+}
+
+.ez-checkbox input {
+	margin-left: 0px;
+	width: auto;
+	min-width: 1px;
+	max-width: 1000px;
+	cursor: pointer;
+}
+#page_admin_accept{margin-right: 5px;}
+
+.ez-radio {
+	float: left;
+	margin-right: 5px;
+	height: 20px;
+	cursor: pointer;
+	background: transparent url('../images/gui/radio.gif') 4px 0px no-repeat;
+}
+
+.ez-radio input {
+	margin-top: 1px;
+	cursor: pointer;
+}
+
+.ez-checked { background: transparent url('../images/gui/checkbox_checked.png') 0px 3px no-repeat; }
+.ez-selected { background: transparent url('../images/gui/radio_checked.gif') 4px 0px no-repeat;; }
+
+a.selectBox-dropdown { 
+	position: relative;
+	text-decoration: none;
+	background: #FFF;
+	border: 1px solid #CCC;
+	color: #000;
+}
+
+.selectBox-label {
+	padding-left: 10px;
+	line-height: 24px;
+	text-decoration: none;
+}
+
+.selectBox-arrow {
+	float: right;
+	display: block;
+	width: 23px;
+	height: 24px;
+	border-left: 1px solid #CCC;
+	background: url(../images/gui/arrow_down_middle.gif) no-repeat center center;
+}
+
+.selectBox-dropdown-menu {
+	position: absolute;
+	z-index: 999;
+	max-height: 200px;
+	min-height: 1em;
+	border: solid 1px #CCC;
+	background: #FFF;
+}
+
+.selectBox-options, .selectBox-options LI, .selectBox-options LI A {
+	display: block;
+	padding: 0px 2px;
+	margin: 0;
+	list-style: none;
+	color: #000;
+	overflow: auto;
+}

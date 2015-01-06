@@ -1,0 +1,25 @@
+id, name, lang
+1,Free Parking,en
+1,Besplatan parking,me
+2,Paid/On-street Parking,en
+2,Javni parking,me
+3,Credit Cards Accepted,en
+3,Primamo kreditne kartice,me
+4,Private Parties,en
+4,Privatne žurke,me
+5,Weddings,en
+5,Vjenčanja,me
+6,Self-service,en
+6,Samousluživanje,me
+7,Places Outside,en
+7,Na otvorenom,me
+8,Places Inside,en
+8,U zatvorenom,me
+9,WiFi,en
+9,WiFi – bežični internet,me
+10,Delivery,en
+10,Dostava,me
+11,Disabled Access,en
+11,Omogućen pristup osobama sa invaliditetom,me
+12,Children Friendly,en
+12,Pogodno za djecu,me

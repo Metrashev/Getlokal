@@ -1,0 +1,706 @@
+/* -=-=-=- ScrollBar -=-=-=- */
+.disable {
+	display: none;
+}
+
+.thumb {
+	position: absolute; 
+		top: 0;
+	width: 9px; 
+	height: 50px; 
+	background: #cac8c2;
+	border: 1px solid #ddd;
+	overflow: hidden; 
+	cursor: pointer; 
+	border-radius: 5px;
+}
+
+.track { 
+	position: relative;
+	padding: 0 1px;
+	width:11px;
+	height: 100%;
+	background: #FFF;
+	border-radius: 5px;
+}
+
+.scrollbar { 
+	position: absolute;
+		top:0;
+		right: 0px;
+	width: 15px;
+	height: 100%;
+	z-index: 1;
+}
+
+.viewport {
+	position: relative;
+	overflow: hidden;
+  height: 260px;
+}
+
+.viewport .overview {
+	position: absolute;
+		left: 0;
+		top: 0;
+	margin: 0;
+	width: 100%;
+	list-style-type: none;
+}
+/* -=-=-=- END ScrollBar -=-=-=- */
+
+body, label, input, textarea {
+	font: 24px 'PT Sans Narrow', sans-serif;
+	color: #1f1f1f;
+}
+
+body {
+	margin: 0px;
+}
+
+input, label, a {
+	outline: none;
+}
+
+input[type="text"], textarea {
+	border: 1px solid #CCC;
+}
+
+h1, h2 {
+	margin: 0px 0px 25px;
+	line-height: 30px;
+	font-size: 30px;
+	text-transform: uppercase;
+}
+
+a {
+	text-decoration: none;
+	border: none;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+a.button {
+	color: #FFF;
+	text-transform: uppercase;
+}
+
+a.button > span {
+	padding: 4px 0px 7px 7px;
+	background: url(../../images/facebook/prizes/bg/game_5_btn_left.png) no-repeat left top;
+}
+
+a.button > span > span {
+	padding: 4px 8px 7px 0px;
+	background: url(../../images/facebook/prizes/bg/game_5_btn_right.png) no-repeat right top;
+}
+
+a.button > span > span > span {
+	padding: 4px 17px 7px;
+	background: url(../../images/facebook/prizes/bg/game_5_btn_bg.png) repeat-x left top;
+}
+
+a.button:hover, input.button:hover{
+	opacity: 0.8;
+	text-decoration: none;
+}
+
+.button_pink {
+	padding: 3px 30px 5px;
+	font-size: 18px;
+	color: #FFF;
+	background-color: #A9287A;
+	border: none;
+	cursor: pointer;
+}
+
+p, ul {
+	font-size: 18px;
+}
+
+.blue {
+	color: #00bbbe;
+}
+
+.pink {
+	color: #a9287a !important;
+}
+
+.left {
+	float: left;
+}
+
+.right {
+	float: right;
+}
+
+.clear {
+	clear: both;
+}
+
+.slide p, .button_pink, .invite_form_wrap, .success_msg {
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	border-radius: 5px;
+}
+
+ul.error_list, ul.error_list li {
+	color: #F00;
+	padding: 0px;
+	margin: 0px 0px 5px;
+	text-align: left;
+        font-size: 13px;
+}
+
+.wrap {
+    height: 100%;
+}
+
+.wrapInner {
+    width: 810px;
+    margin: 0 auto;
+    background: #FFF;
+}
+
+.wrapInner > div {
+	width: 100%;
+}
+
+.slide, .winner_content, .results_content {
+	background: url(../../images/facebook/prizes/bg/game_5_content.png) no-repeat right bottom;
+}
+
+.slide p {
+	padding: 8px 10px;
+	margin-top: 24px;
+	font-size: 16px;
+	line-height: 18px;
+	color: #5d3f34;
+	background: #fbf4bb;
+}
+
+.step2, .step3, .step4, .step5, .content_invite_fb, .content_invite, .content_invite_gy_auth {
+	display: none;
+}
+
+.step1 {
+	display: block;
+	padding: 22px 48px;
+}
+
+.step1 .left {
+	padding-right: 25px;
+	width: 331px;
+}
+
+.step1 .interaction {
+	padding: 48px 0px 35px;
+        float:right;
+}
+
+.step1 ul, .step1 ul li, .step2 > ul, .step2 > ul li {
+	margin: 0px;
+	padding: 0px;
+	list-style-type: none;
+}
+
+.step1 ul li, .step2 > ul li {
+	padding: 5px 0px 10px 32px;
+	margin-bottom: 10px;
+	background: url(../../images/facebook/prizes/bg/game_5_pin.png) no-repeat left center;
+}
+
+.step2 {
+	padding: 20px;
+}
+
+.step2 > ul li h2, .step2 a.button {
+	font-size: 24px;
+	font-weight: normal;
+	text-transform: none;
+}
+
+.step2 a.button {
+	text-transform: uppercase;
+}
+
+.step2 > ul li {
+	float: left;
+	padding: 0px;
+	width: 375px;
+	background: none;
+}
+
+.step2 > ul li.fb {
+	margin-right: 20px;
+}
+
+.step2 > ul li.email {
+	margin-bottom: 20px;
+}
+
+.step2 > ul li.gy {
+	float: right;
+}
+
+.step2 > ul li:first-child {
+	/*float: none;
+	padding: 0px;
+	width: auto;
+	text-align: left;*/
+}
+
+.step2 > ul li:first-child > p {
+	width: 256px;
+	margin-lefT: 235px;
+	margin-bottom: 0px;
+	text-align: center;
+}
+
+.step2 > ul li:first-child > p.note_step2 {
+    margin-left: 0px;
+    width: 750px;
+    text-align: left;
+}
+
+.step2 > ul li h2 {
+	margin-bottom: 10px;
+}
+
+.step2 > ul li h2.note_3 {
+	margin-top: 10px;
+	font-size: 22px;
+	text-align: center;
+}
+
+.step2 > ul li h2 img {
+	margin-right: 8px;
+}
+
+.step2 .facebook_scroll ul li {
+	width: 112px;
+	height: 49px;
+}
+
+.step2 .facebook_scroll ul li:first-child {
+	float: left;
+}
+
+.step2 a.continue {
+	margin-left: 278px;
+	font-size: 32px;
+}
+
+.step2 a.continue > span {
+	padding-top: 2px;
+	background: url(../../images/facebook/prizes/bg/game_5_btnp_left.png) no-repeat left top;
+}
+
+.step2 a.continue > span > span {
+	padding-top: 2px;
+	background: url(../../images/facebook/prizes/bg/game_5_btnp_right.png) no-repeat right top;
+}
+
+.step2 a.continue > span > span > span {
+	padding: 2px 25px 7px;
+	background: url(../../images/facebook/prizes/bg/game_5_btnp_bg.png) repeat-x left top;
+}
+
+.image_loader_gy, .image_loader_fb {
+	display: block;
+	margin-top: 20px;
+}
+
+.image_loader_fb {
+	font-size: 14px;
+}
+
+.image_loader_fb img {
+	vertical-align: middle;
+}
+
+.invite_form_wrap {
+	margin-top: 20px;
+	position: relative;
+	padding: 7px;
+	background-color: #FFF;
+	border: 1px solid #A9287A;
+}
+
+.invite_form_wrap > a {
+	position: absolute;
+		right: 4px;
+		top: 2px;
+	z-index: 1;
+	line-height: 9px;
+}
+
+.invite_form_wrap > a:hover {
+	text-decoration: none;
+}
+
+.invite_form_wrap .form_box {
+	margin-bottom: 10px;
+}
+
+.invite_form_wrap label, .invite_form_wrap .form_box input[type="text"], .invite_form_wrap .form_box input[type="password"], .invite_form_wrap .form_box textarea {
+	display: block;
+	width: 100%;
+	font-size: 14px;
+	text-align: left;
+}
+
+.invite_form_wrap .form_box input[type="text"], .invite_form_wrap .form_box input[type="password"] {
+	padding: 2px 0px;
+}
+
+.invite_form_wrap .form_box input[type="text"] {
+	height: 20px;
+}
+
+.content_invite_fb {
+	position: relative;
+}
+
+.content_invite_fb > a {
+	float: right;
+	display: block;
+	width: 10px;
+	height: 10px;
+	background: url(../../images/facebook/prizes/bg/game_5_x.png) no-repeat left top;
+	text-indent: -9999px;
+	cursor: pointer;
+}
+
+.content_invite_fb h3 {
+	display: none;
+	margin: 0px;
+	padding: 4px;
+	font-size: 15px;
+	font-weight: normal;
+	color: #5a73a7;
+	background: #f5f5f5;
+	border: 1px solid #aaa;
+	border-bottom: none;
+}
+
+.fbResilts {
+	clear: right;
+}
+
+.facebook_scroll {
+	position: relative;
+	padding: 4px 4px 10px;
+	width: 365px;
+	border: 1px solid #AAA;
+}
+
+.facebook_scroll .scrollbar {
+    right: 4px;
+    top: 6px;
+}
+
+.facebook_scroll .viewport{
+	height: 230px;
+}
+
+.facebook_scroll ul {
+	padding-left: 0px;
+}
+
+.facebook_scroll img {
+	vertical-align: middle;
+}
+
+.facebook_scroll a {
+	float: left;
+	display: block;
+	padding: 2px;
+	width: 105px;
+	height: 42px;
+	font-size: 11px;
+	color: #666;
+	overflow: hidden;
+	border: 1px solid #CCC;
+	-webkit-border-radius: 3px;
+	-moz-border-radius: 3px;
+	border-radius: 3px;
+}
+
+.facebook_scroll .img_wrap {
+	float: left;
+	position: relative;
+	display: block;
+	padding: 2px;
+	border: 1px solid #CCC;
+}
+
+.facebook_scroll .img_wrap .tick {
+	display: none;
+	position: absolute;
+		bottom: 0px;
+		left: 0px;
+	width: 10px;
+	height: 10px;
+}
+
+.facebook_scroll .text_wrap {
+	float: left;
+	padding-left: 4px;
+	width: 50px;
+	line-height: 14px;
+}
+
+.facebook_scroll .invited {
+	background-color: #666;
+	border-color: #a4a4a4;
+	opacity: 0.5;
+}
+
+.facebook_scroll .invited .img_wrap {
+	border-color: #868686;
+	background-color: #a1a1a1;
+}
+
+.facebook_scroll .invited .img_wrap .tick, .facebook_scroll .clicked .img_wrap .tick {
+	display: block;
+}
+
+.facebook_scroll .invited .text_wrap, .facebook_scroll .clicked .text_wrap {
+	color: #FFF;
+}
+
+.facebook_scroll .clicked {
+	background-color: #526da6;
+	border-color: #26619d
+}
+
+.facebook_scroll .clicked .img_wrap {
+	background-color: #8397c0;
+	border-color: #9eafd3;
+}
+
+.step2 .facebook_scroll ul li {
+	float: left;
+	padding: 2px;
+	margin: 0px;
+	text-align: left;
+}
+
+.content_invite_fb_full .facebook_scroll {
+	width: 760px;
+}
+
+.content_invite_fb_full .facebook_scroll ul li {
+	width: 120px;
+}
+
+.content_invite_fb_full .facebook_scroll ul li a {
+	width: 113px;
+}
+
+.email_scroll {
+    position: relative;
+}
+
+.email_scroll label {
+    text-align: left;
+}
+
+.step2 .email_scroll ul, .step2 .email_scroll ul li {
+    padding: 0px;
+    text-align: left;
+}
+
+.step2 .email_scroll ul {
+    margin-top: 10px;
+}
+
+.step2 .email_scroll ul li {
+    position: relative;
+    padding: 0px 15px 0px 30px;
+}
+
+.step2 .email_scroll ul li input {
+    position: absolute;
+        left: 8px;
+        top: 0px;
+    z-index: 1;
+}
+
+.step2 .email_scroll label, .step2 .content_invite_gy textarea {
+    font-size: 14px;
+}
+
+.success_msg {
+	display: none;
+    margin-top: 20px;
+    padding: 5px 20px;
+    background-color: #B2EAEB;
+    text-align: center;
+}
+
+.step3 {
+	padding: 20px 20px 30px;
+	text-align: center;
+	font-size: 18px;
+}
+
+.step3 p {
+	padding: 3px 0px;
+	margin: 0px;
+	font-weight: bold;
+	font-size: 24px;
+	background: #FFF;
+	color: #000;
+}
+
+.step3 a {
+	font-size: 24px;
+}
+
+.step3 .final_results {
+	margin: 50px 0px 75px;
+}
+
+.btn_top {
+	margin-bottom: 25px;
+}
+
+.wrapInner > div.footer {
+	position: relative;
+	padding: 3px 48px 0px;
+	width: 714px;
+	height: 50px;
+	background: url(../../images/facebook/prizes/bg/game_5_footer.png) no-repeat;
+}
+
+ul.vote_list {
+	margin: 0px;
+	padding: 0px;
+	list-style-type: none;
+}
+
+ul.vote_list li {
+	margin: 0px -40px;
+	padding: 28px 40px 8px;
+	border-top: 1px solid #dfdfdf;
+}
+
+ul.vote_list li .left {
+	width: 360px;
+}
+
+ul.vote_list li:first-child {
+	padding-top: 0px;
+	border-top: none;
+}
+
+ul.vote_list li:last-child {
+	padding-bottom: 0px;
+}
+
+.results_content {
+	padding: 30px 40px;
+}
+
+.results_content p {
+	font-size: 18px;
+	color: #494949;
+	background: #FFF;
+}
+
+.result_wrap span, .result_bar {
+	float: left;
+}
+
+.result_wrap > span {
+	display: block;
+	width: 70px;
+	font-size: 18px;
+}
+
+.result_wrap span.blue {
+	margin-top: 3px;
+	width: auto;
+	font-size: 14px;
+}
+
+.result_wrap span.blue img {
+	margin-right: 5px;
+}
+
+.result_bar {
+	margin: 6px 14px 0px 0px;
+	width: 155px;
+	height: 14px;
+}
+
+.result_bar > div {
+	height: 100%;
+	background: #84185d;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	border-radius: 5px;
+}
+
+.result_bar > div.second {
+	background: #c35f9f;
+}
+
+.result_title {
+	padding: 30px 24px 0px;
+	margin-bottom: 14px;
+	border-top: 1px solid #dfdfdf
+}
+
+.small_results {
+	float: left;
+	padding-left: 24px;
+	width: 375px;
+}
+
+.small_results img {
+	float: right;
+}
+
+.winner_content h1, .winner_content h2, .results_content h1, .results_content h2 {
+	line-height: 24px;
+	font-size: 24px;
+	font-weight: normal;
+	text-transform: none;
+	color: #494949;
+}
+
+.winner_content .left_wrap {
+	float: left;
+	padding-top: 35px;
+	width: 350px
+}
+
+.winner_content .left_wrap h1 span {
+	display: block;
+	line-height: 30px;
+	font-size: 30px;
+}
+
+.winner_content .left_wrap h1 span.pink {
+	margin-top: 15px;
+}
+
+.footer a {
+	margin-right: 25px;
+	font-size: 16px;
+	font-weight: bold;
+	color: #FFF;
+	text-decoration: uppercase;
+}
+
+.footer img {
+	position: absolute;
+		top: -16px;
+		right: 0px;
+}
+

@@ -1,0 +1,327 @@
+body {
+  margin: 0;
+  color: #000000;
+  font-family: 'Open Sans', sans-serif;
+ 
+}
+/* Smartphones (portrait and landscape) ----------- */
+@media only screen 
+and (min-device-width : 320px) 
+and (max-device-width : 480px) {
+ body {
+    font-size: 12px;
+   
+  }
+}
+
+/* Smartphones (landscape) ----------- */
+@media only screen 
+and (min-width : 321px) {
+body {
+    font-size: 12px;
+    
+   
+  }
+}
+
+@media screen and (min-device-width: 600px)  {
+  body {
+    font-size: 16px;
+    
+   
+  }
+}
+
+
+/* iPads (portrait and landscape) ----------- */
+@media only screen 
+and (min-device-width : 768px) 
+and (max-device-width : 1024px) {
+body {
+    font-size: 12px;
+    
+  }
+}
+
+/* iPads (landscape) ----------- */
+@media only screen 
+and (min-device-width : 768px) 
+and (max-device-width : 1024px) 
+and (orientation : landscape) {
+body {
+    font-size: 14px;
+    
+  }
+}
+
+/* iPads (portrait) ----------- */
+@media only screen 
+and (min-device-width : 768px) 
+and (max-device-width : 1024px) 
+and (orientation : portrait) {
+body {
+    font-size: 16px;
+    
+  }
+}
+
+/* Desktops and laptops ----------- */
+@media only screen 
+and (min-width : 1224px) {
+body {
+    font-size: 18px;
+    
+  }
+}
+
+/* Large screens ----------- */
+@media only screen 
+and (min-width : 1824px) {
+body {
+    font-size: 20px;
+    
+  }
+}
+
+/* iPhone 4 ----------- */
+@media
+only screen and (-webkit-min-device-pixel-ratio : 1.5),
+only screen and (min-device-pixel-ratio : 1.5) {
+body {
+    font-size: 12px;
+    
+  }
+}
+
+.mobile_content_wrapper{
+    margin:0 auto;
+    width: 90%;
+}
+#content {
+  /*max-width: 800px;*/
+  margin: 0 auto;
+}
+A {
+}
+
+A:Hover {
+}
+.clear {
+  clear: both;
+}
+.company {
+  padding: 0.5em 0.5em 0;
+}
+.company .image img {
+  width: 100%;
+}
+.company .image {
+  max-height: 10em;
+  margin-bottom: 0.5em;
+  overflow: hidden;
+  display: block;
+  position: relative;
+}/*
+.company .image .map .scale {
+  height: 100%;
+  width: auto;
+  position: relative;
+}*/
+.company .image .map img {
+  height:  55%;
+  width: auto;
+  -webkit-transform:rotate(-45deg);
+  margin-left: -5em;
+  margin-top: 14em;
+}
+.company .image .map {
+  position: absolute;
+  top: -5em;
+  left: 75%;
+  -webkit-transform:rotate(45deg);
+  height: 30em;
+  width: 30em;
+  border: 1px solid #333;
+  overflow: hidden;
+}
+
+
+.company .rating img {
+  width: auto;
+  height: 100%;
+}
+.company .rating .fill {
+  top: 0;
+  left: 0;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  overflow: hidden;
+}
+.company .rating {
+  height: 1.3em;
+  position: relative;
+  margin: 0 0 0.5em;
+  float: left;
+  background: url(../images/mobile/starsBg.png) top left no-repeat;
+  background-size: auto 100%;
+}
+.company .classification {
+  margin: 0 0 0.5em;
+  color: #888;
+}
+.company .phone {
+  float: right;
+  width: 60%;
+}
+.company .phone a {
+  display: block;
+  float: right;
+  padding: 0.2em 0.5em;
+  border-radius: 1em;
+  background: #17b59c;
+  color: #fff;
+  font-size: 100%;
+  text-decoration: none;
+}
+.company h1 {
+  font-size: 1.3em;
+  margin: 0 0 0em;
+  color: #666;
+  font-weight: normal;
+}
+.company .about {
+  margin-bottom: 1em;
+  float: left;
+  width: 40%;
+}
+.company .details {
+  margin: 1em 0;
+  font-size: 0.8em;
+  line-height: 1.7em;
+}
+.company .col {
+  color: #000000;
+  font-size: 1em;
+  border-top: 1px solid #d9d9d9;
+  padding: 0.3em 0.5em;
+  margin: 0 -0.5em;
+}
+.company .col .icon img {
+  height: 100%;
+}
+.company .col .icon {
+  float: left;
+  height: 1em;
+  margin: 0.2em 0;
+}
+.company .col .text span {
+  color: #aea99a;
+}
+.company .col .text {
+  width: 75%;
+  margin-left: 1em;
+  float: left;
+  line-height: 1.5em;
+}
+.company .reviews {
+  margin: 0 -0.5em;
+}
+.company .reviews h2 {
+  font-size: 100%;
+  background: #dad5c7;
+  color: #857c6c;
+  padding: 0.3em 0.5em;
+  margin: 0;
+}
+.company .reviews .review {
+  padding: 1em 0.5em;
+  border-bottom: 1px solid #ddd;
+}
+.company .reviews .review .date .rating {
+  float: left;
+  margin: 0 0 0 0.5em;
+}
+.company .reviews .review .date span {
+  float: left;
+  line-height: 1em;
+}
+.company .reviews .review .date {
+  font-size: 80%;
+  margin-bottom: 0.5em;
+}
+
+.rspv {
+  border: 1px solid #e9e9e9;
+  border-top: 1px solid #f8f8f8;
+  
+  background: #f6f6f6;
+  border-radius: 0.5em;
+  float: left;
+  box-shadow: 0px 1px 2px rgba(0,0,0,0.3);
+  
+  margin: 1em 0;
+}
+.rspv.company {
+  float: none;
+  padding: 0;
+}
+.rspv.company a:last-of-type {
+  border-right: none;
+}
+.rspv.company a:first-child {
+  border-left: none;
+}
+.rspv.company a img {
+  display: block;
+  margin: 0 auto 0.5em;
+  
+  max-width: 3em;
+}
+.rspv.company a {
+  width: 25%;
+  padding: 0.7em 0;
+  background: none;
+  border-left: 1px solid #fff;
+  border-right: 1px solid #dddddd;
+  margin: 0 -1px;
+  text-align: center;
+  font-size: 50%;
+}
+.rspv a img {
+  width: 70%;
+  margin: 0 auto;
+  display: block;
+  max-width: 1.5em;
+}
+.rspv a {
+  display: block;
+  float: left;
+  padding: 0.7em 1.5em 0.7em 1em;
+  color: #a9287a;
+  text-decoration: none;
+  background: url(../images/mobile/separator.png) center right no-repeat;
+}
+.rspv .count {
+  display: block;
+  float: left;
+  padding: 0.7em 1em;
+}
+a.favorite {
+  background: url(../images/mobile/bookmark.png) top center no-repeat;
+}
+a.favorite.active {
+  background: url(../images/mobile/bookmarked.png) top center no-repeat;
+}
+header.getApp {
+  background-image: url(../images/mobile/redirector-bg-header.png);
+  height: 99px;
+  text-align: center;
+}
+header.getApp img {
+  margin-top: 14px;
+}
+section.getApp {
+  margin: 0 5px;
+}
